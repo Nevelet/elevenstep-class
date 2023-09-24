@@ -1,0 +1,16 @@
+
+/* EDIT MODE */
+
+.HyperMD-header.HyperMD-header-2 {
+    text-align: center;
+}
+
+.HyperMD-header.HyperMD-header-3 {
+    text-align: left;
+}
+
+/* PREVIEW MODE */
+
+.markdown-preview-view h2 {
+    text-align: center;
+}
