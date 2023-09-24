@@ -9,8 +9,8 @@
 I livelli audio sono la misura della pressione sonora di un segnale audio, espressa in decibel (dB). I livelli audio possono essere utilizzati per indicare il volume di un suono, la potenza di un amplificatore o il livello di registrazione di un segnale. In generale, i livelli audio più alti indicano una maggiore pressione sonora e quindi un suono più forte. Tuttavia, è importante mantenere i livelli audio sotto controllo per evitare distorsioni e danni all'udito.
 
 - [ ] Unità di misura
-	- [ ] [[Notes/Decibel (dB)\|Decibel (dB)]]
-	- [ ] [[Notes/Peak Meter\|Peak Meter]]
+	- [x] [[Notes/Decibel (dB)\|Decibel (dB)]]
+	- [x] [[Notes/Peak Meter\|Peak Meter]]
 	- [ ] [[Notes/dBFS\|dBFS]]
 	- [ ] [[Notes/dBVU\|dBVU]]
 	- [ ] [[Notes/RMS\|RMS]]
