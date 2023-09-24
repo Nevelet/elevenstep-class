@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/moduli-mixing-and-mastering/modulo-introduzione-al-mixing/","contentClasses":"user"}
+{"dg-publish":true,"permalink":"/notes/moduli-mixing-and-mastering/modulo-introduzione-al-mixing/"}
 ---
 
 
