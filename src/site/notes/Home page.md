@@ -12,4 +12,3 @@
 - [[Notes/Moduli Mixing & Mastering/Modulo - Organizzazione e Settaggio\|Modulo - Organizzazione e Settaggio]]
 
 
-ciao!
