@@ -1,7 +1,7 @@
 .no-lines hr {
 	display: none;
 }
-div.transclusion .markdown-embed-link {
+.no-links div.transclusion .markdown-embed-link {
     display: none;
     
 }
