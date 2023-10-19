@@ -5,14 +5,21 @@
 
 _I LUFS sono un'unità di misura._
 
-“Loudness unit in reference at full scale” “Unità sonora di riferimento a fondo scala” è un'evoluzione del sistema RMS, e come lui misura "l'average" del segnale e non i picchi.
+## Descrizione 
 
-I LUFS sono sensibili intorno alle medio alte, alte frequenze, come le nostre orecchie.
+“Loudness unit in reference at full scale” “Unità sonora di riferimento a fondo scala” è un'evoluzione del sistema RMS, e come lui misura "l'average" del segnale e non i picchi.
+{ #d040ce}
+
+
+==I LUFS sono sensibili intorno alle medio alte==, alte frequenze, come le nostre orecchie.
 A proposito della sensibilità del nostro orecchio, qui troverai una pagina sulle curve isofoniche, per capire in quale frequenze siamo più sensibili in base al volume. Eccola: [[Curve Isofoniche\|Curve Isofoniche]]
+{ #6a2a89}
+
 
 Il LUFS è un indicatore per capire quanta energia vuoi dare alla tua traccia, e ti aiuta soprattutto a decidere in anticipo come intervenire, sia nella produzione musicale che nel mix.
 
-**Esistono 3 modalità di misura:**
+## Esistono 3 modalità di misura:
+
 - Integrated
 - Short term
 - Momentary
