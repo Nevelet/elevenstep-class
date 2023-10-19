@@ -6,6 +6,9 @@
 _Organizzare e preparare le tracce ti permette di risparmiare un sacco di tempo nel mixing e ti aiuta a trovare a colpo d’occhio un suono._
 
 ---
+
+<!-- headingDivider: 2 -->
+<!-- headingDivider: 3 -->
 ## Organizzare il progetto
 ### Dare un Nome alle tracce
 
