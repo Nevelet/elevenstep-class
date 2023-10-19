@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slides-marp/test-slides/","contentClasses":"cacca"}
+{"dg-publish":true,"permalink":"/slides-marp/test-slides/","contentClasses":"no-lines"}
 ---
 
 
