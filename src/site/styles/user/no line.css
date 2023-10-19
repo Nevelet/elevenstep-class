@@ -1,6 +1,6 @@
 .no-lines hr {
 	display: none;
 }
-.markdown-embed-link, file-embed-link {
+.markdown-embed-link{
 	display: none;
 }
