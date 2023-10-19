@@ -13,7 +13,7 @@ I componenti principali di un equalizzatore sono i filtri. I filtri sono la base
 
 ### Low Pass & High Pass
 
-![Filtri LP & HP.jpg](/img/user/Assets/Attachments/Filtri%20LP%20&%20HP.jpg)
+![Filtri LP & HP.jpg|undefined](/img/user/Assets/Attachments/Filtri%20LP%20&%20HP.jpg)
 
 Altri nomi: High Cut & Low Cut 
 In italiano: Passa Basso e Passa Alto
@@ -22,7 +22,7 @@ Sigle utilizzate: LPF & HPF
 
 ### Bell
 
-![Filter Bell.jpg](/img/user/Assets/Attachments/Filter%20Bell.jpg)
+![Filter Bell.jpg|undefined](/img/user/Assets/Attachments/Filter%20Bell.jpg)
 
 Altri nomi: Peaking
 In italiano: Campana
@@ -30,7 +30,7 @@ In italiano: Campana
 
 ### Band Pass
 
-![Filter Band Pass.jpg](/img/user/Assets/Attachments/Filter%20Band%20Pass.jpg)
+![Filter Band Pass.jpg|undefined](/img/user/Assets/Attachments/Filter%20Band%20Pass.jpg)
 
 Altri nomi:
 In italiano: Passa Banda
@@ -41,11 +41,11 @@ Sigle utilizzate:
 
 viene usato per agire sugli estremi dello spettro delle frequenze udibili.
 
-![Filter Shelving.jpg](/img/user/Assets/Attachments/Filter%20Shelving.jpg)
+![Filter Shelving.jpg|undefined](/img/user/Assets/Attachments/Filter%20Shelving.jpg)
 
 ### Notch
 
-![Filter Notch.jpg](/img/user/Assets/Attachments/Filter%20Notch.jpg)
+![Filter Notch.jpg|undefined](/img/user/Assets/Attachments/Filter%20Notch.jpg)
 
 Altri nomi: Band Stop, Band Reject, 
 In italiano: Filtro a Reiezione di Banda, Filtro elimina banda
