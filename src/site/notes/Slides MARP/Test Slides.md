@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slides-marp/test-slides/","contentClasses":"no-lines no-link"}
+{"dg-publish":true,"permalink":"/slides-marp/test-slides/","contentClasses":"no-lines"}
 ---
 
 
@@ -61,7 +61,7 @@ A proposito della sensibilità del nostro orecchio, qui troverai una pagina sull
 
 ## Descrizione
 
-I Peak Meter sono strumenti di misura utilizzati per visualizzare il livello di picco di un segnale audio. Sono spesso presenti sui mixer audio, sui software di registrazione e produzione musicale, sui processori di segnale e su altri dispositivi audio. Grazie ai Peak Meter è possibile controllare la saturazione del segnale e prevenire la distorsione, mantenendo così una qualità audio ottimale. I Peak Meter possono essere rappresentati da indicatori a barre o da un display a LED.
+==I Peak Meter sono strumenti di misura utilizzati per visualizzare il livello di picco di un segnale audio.== Sono spesso presenti sui mixer audio, sui software di registrazione e produzione musicale, sui processori di segnale e su altri dispositivi audio. Grazie ai Peak Meter è possibile controllare la saturazione del segnale e prevenire la distorsione, mantenendo così una qualità audio ottimale. I Peak Meter possono essere rappresentati da indicatori a barre o da un display a LED.
 
 
 </div></div>
