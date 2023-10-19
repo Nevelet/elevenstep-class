@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/slides-marp/test-slides/"}
+{"dg-publish":true,"permalink":"/slides-marp/test-slides/","contentClasses":"cacca"}
 ---
 
 
@@ -65,3 +65,6 @@ I Peak Meter sono strumenti di misura utilizzati per visualizzare il livello di 
 
 
 </div></div>
+
+
+
