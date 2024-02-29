@@ -7,7 +7,7 @@
 
 ## Principi di Mixing
 
-- [x] [[Notes/Cos'è il Mixing\|Cos'è il Mixing]]
+- [ ] [[Notes/Cos'è il Mixing\|Cos'è il Mixing]]
 - [ ] [[Notes/Solo il Mixing non basta\|Solo il Mixing non basta]]
 - [ ] [[Notes/Darsi degli obiettivi di Mixing\|Darsi degli obiettivi di Mixing]]
 
