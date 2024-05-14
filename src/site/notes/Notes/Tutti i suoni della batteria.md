@@ -2,13 +2,12 @@
 {"dg-publish":true,"permalink":"/notes/tutti-i-suoni-della-batteria/"}
 ---
 
-Links:: [[Drums\|Drums]]
+Links:: [[Notes/Drums\|Drums]]
 
 ---
-
 I suoni della batteria comprendono una vasta gamma di elementi percussivi che vengono utilizzati per creare ritmi e groove. Ecco una lista dei suoni della batteria più comuni:
 
-### Tamburi
+## Tamburi
 
 1. **[[Kick\|Kick]] Drum (Cassa)**: Il suono principale della batteria, spesso collocato al centro del set. La cassa è il tamburo più grande della batteria e produce un suono profondo e potente. Viene suonata con il pedale del basso. In inglese viene anche chiamata Bass Drum che in italiano sta per Gran Cassa.
 2. **[[Snare\|Snare]] Drum (Rullante)**: Un tamburo più piccolo posizionato generalmente al centro della batteria. Il rullante è un tamburo risonante con un suono "secco" e staccato. È caratterizzato da un sistema di cordelline (chiamato "snare") che vibra contro la pelle inferiore del tamburo quando viene colpito.
@@ -17,7 +16,7 @@ I suoni della batteria comprendono una vasta gamma di elementi percussivi che ve
 5. **Timpani:** I timpani sono tamburi a forma di calice con una pelle regolabile che permette di accordarli su note specifiche. Vengono suonati con bacchette specifiche.
 
 
-### Piatti ([[Cymbals\|Cymbals]])
+## Piatti ([[Cymbals\|Cymbals]])
 
 _**Cymbals (Piatti)**: Tra cui crash, ride e hi-hat, utilizzati per effetti ritmici e accentuazione._
 
@@ -27,7 +26,7 @@ _**Cymbals (Piatti)**: Tra cui crash, ride e hi-hat, utilizzati per effetti ritm
 4. **Splash:** Lo splash è un piatto piccolo che produce un suono breve e acuto. Viene usato per aggiungere accenti e variazioni al ritmo.
 
 
-### Tamburi etnici e [[Percussion\|percussioni]] aggiuntive
+## Tamburi etnici e [[Percussion\|percussioni]] aggiuntive
 
 1. **Bongo**: Coppia di tamburelli piccoli e conici.
 2. **Conga**: Tamburo latino a forma di barile.
@@ -35,7 +34,7 @@ _**Cymbals (Piatti)**: Tra cui crash, ride e hi-hat, utilizzati per effetti ritm
 4. **Hand Drum (Tamburo a mano)**: Inclusi tamburi djembe, darbuka, tabla, e altri tamburi etnici.
 5. **Shaker:** Lo shaker è un gruppo di strumenti musicali a percussione della famiglia degli idiofoni. Vengono definiti "shaker" tutti quegli strumenti a percussione all'interno del cui corpo vengono inseriti oggetti quali: sassolini, sabbia, semi, materiale in plastica o sintetico; ma anche, in generale, tutte le altre percussioni il cui suono si ottiene agitandole. — [Shaker (strumento musicale) - Wikipedia](https://it.wikipedia.org/wiki/Shaker_(strumento_musicale))
 
-### Altri suoni
+## Altri suoni
 
 Oltre a questi suoni principali, la batteria può essere arricchita con una varietà di altri strumenti, come:
 
@@ -51,6 +50,7 @@ Oltre a questi suoni principali, la batteria può essere arricchita con una vari
 - **Cimbali:** I cimbali sono piccoli piatti che producono un suono acuto e penetrante.
 - **Gong:** Il gong è un grande piatto metallico che produce un suono profondo e risonante.
 
+## Il suono di una batteria
 
 Il suono di una batteria dipende da una serie di fattori, tra cui:
 
@@ -61,3 +61,11 @@ Il suono di una batteria dipende da una serie di fattori, tra cui:
 
 Questi sono solo alcuni esempi dei suoni della batteria, e ce ne sono molti altri che possono essere sfruttati per creare una vasta gamma di ritmi e atmosfere musicali.
 Con la sua ampia gamma di suoni e la sua versatilità, la batteria è uno strumento fondamentale in molti generi musicali, dal rock al jazz al pop.
+
+
+## 🔗 Related Notes
+
+- [[Tipi di Suoni della Drums per generi\|Tipi di Suoni della Drums per generi]]
+- [[Strumenti Principali Drums EDM\|Strumenti Principali Drums EDM]]
+- [[Strumenti Ritmici\|Strumenti Ritmici]]
+
