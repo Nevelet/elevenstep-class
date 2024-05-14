@@ -12,7 +12,7 @@ _I LUFS sono un'unità di misura._
 
 
 ==I LUFS sono sensibili intorno alle medio alte==, alte frequenze, come le nostre orecchie.
-A proposito della sensibilità del nostro orecchio, qui troverai una pagina sulle curve isofoniche, per capire in quale frequenze siamo più sensibili in base al volume. Eccola: [[Curve Isofoniche\|Curve Isofoniche]]
+A proposito della sensibilità del nostro orecchio, qui troverai una pagina sulle curve isofoniche, per capire in quale frequenze siamo più sensibili in base al volume. Eccola: [[Notes/Curve Isofoniche\|Curve Isofoniche]]
 { #6a2a89}
 
 
