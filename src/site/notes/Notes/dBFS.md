@@ -11,3 +11,4 @@ A differenza delle scale audio analogiche come dBV e dBu in cui il segnale può 
 
 
 Per evitare il clipping digitale, è buona pratica mantenere i livelli ben al di sotto di 0 dBFS per darti abbastanza headroom.
+
