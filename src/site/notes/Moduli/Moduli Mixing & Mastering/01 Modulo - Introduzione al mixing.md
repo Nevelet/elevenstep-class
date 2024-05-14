@@ -13,7 +13,7 @@
 
 ## Gli elementi del mix
 
-- [ ] [[Drums\|Drums]]
+- [ ] [[Notes/Drums\|Drums]]
 - [ ] [[Synth\|Synth]]
 - [ ] [[Vocal\|Vocal]]
 - [ ] [[Orchestral Sounds\|Orchestral Sounds]]
