@@ -10,7 +10,7 @@
 
 - [[Notes/Principi di Mixing\|Notes/Principi di Mixing]]
 - [[Gli elementi del mix\|Gli elementi del mix]]
-- [[Componenti per Home Studio\|Componenti per Home Studio]]
+- [[Notes/Componenti per Home Studio\|Componenti per Home Studio]]
 - [[Strumenti per il Mixing\|Strumenti per il Mixing]]
 - [[Processi Basilari di Mixing\|Processi Basilari di Mixing]]
 
