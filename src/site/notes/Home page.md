@@ -13,6 +13,7 @@
 
 
 [[Notes/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi con Ableton (Drums)]]
+[[Notes/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
 
 
 - [[Slides/Slides MARP/Test Slides\|Slides/Slides MARP/Test Slides]]
