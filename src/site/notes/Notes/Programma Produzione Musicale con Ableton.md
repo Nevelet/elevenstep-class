@@ -5,7 +5,7 @@
 
 
 ---
-## Modulo 01 - [[Le fasi Preliminari (Modulo)\|Le fasi Preliminari]]
+## Modulo 01 - [[Moduli/Moduli Produzione Musicale con Ableton/01 Modulo - Le fasi Preliminari\|Le fasi Preliminari]]
 
 - Cosa serve per fare musica
 - Requisiti per creare un ottimo brano
