@@ -21,7 +21,7 @@ I livelli audio sono la misura della pressione sonora di un segnale audio, espre
 
 ## Routing Audio
 
-Il routing audio è il processo di indirizzamento del flusso di segnale audio da una sorgente a una destinazione attraverso un sistema di dispositivi e/o canali. In altre parole, si tratta della gestione del percorso che il suono segue all'interno di un sistema audio, come un mixer o una [[Digital Audio Workstation\|DAW]]. Il routing audio consente di controllare il livello del suono, la panoramica, l'equalizzazione e gli effetti applicati a ciascun canale e di inviare il segnale ad altoparlanti, cuffie o altri dispositivi di riproduzione.
+Il routing audio è il processo di indirizzamento del flusso di segnale audio da una sorgente a una destinazione attraverso un sistema di dispositivi e/o canali. In altre parole, si tratta della gestione del percorso che il suono segue all'interno di un sistema audio, come un mixer o una [[Notes/Digital Audio Workstation\|DAW]]. Il routing audio consente di controllare il livello del suono, la panoramica, l'equalizzazione e gli effetti applicati a ciascun canale e di inviare il segnale ad altoparlanti, cuffie o altri dispositivi di riproduzione.
 
 
 ## Gain Staging
