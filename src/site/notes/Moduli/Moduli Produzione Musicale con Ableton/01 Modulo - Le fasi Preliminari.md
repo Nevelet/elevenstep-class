@@ -3,7 +3,7 @@
 ---
 
 
-Links:: [[Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
+Links:: [[Notes/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
 
 ---
 - Cosa serve per fare musica: [[Notes/Componenti per Home Studio\|Componenti per Home Studio]]
