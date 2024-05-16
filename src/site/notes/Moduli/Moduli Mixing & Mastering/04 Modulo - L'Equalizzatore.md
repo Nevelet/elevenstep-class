@@ -3,7 +3,7 @@
 ---
 
 
-- [ ] [[Notes/Cos'è un'Equalizzatore\|Cos'è un'Equalizzatore]]
-- [ ] [[Notes/Spiegazione dei Filtri EQ e delle loro funzioni\|Spiegazione dei Filtri EQ e delle loro funzioni]]
-- [ ] [[Notes/Utilizzo dell'equalizzatore su un suono\|Utilizzo dell'equalizzatore su un suono]]
-- [ ] [[Notes/Plugin EQ\|Plugin EQ]]
+- [ ] [[Cos'è un'Equalizzatore\|Cos'è un'Equalizzatore]]
+- [ ] [[Spiegazione dei Filtri EQ e delle loro funzioni\|Spiegazione dei Filtri EQ e delle loro funzioni]]
+- [ ] [[Utilizzo dell'equalizzatore su un suono\|Utilizzo dell'equalizzatore su un suono]]
+- [ ] [[Notes/Mixing & Mastering/Plugin EQ\|Plugin EQ]]
