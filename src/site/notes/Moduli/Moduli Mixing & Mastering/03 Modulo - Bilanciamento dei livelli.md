@@ -12,7 +12,7 @@ I livelli audio sono la misura della pressione sonora di un segnale audio, espre
 	- [ ] [[Notes/Decibel (dB)\|Decibel (dB)]]
 	- [ ] [[Notes/Peak Meter\|Peak Meter]]
 	- [ ] [[Notes/dBFS\|dBFS]]
-	- [ ] [[Notes/dBVU\|dBVU]]
+	- [ ] [[Notes/dbVU\|dBVU]]
 	- [ ] [[Notes/RMS\|RMS]]
 	- [ ] [[Notes/LUFS\|LUFS]]
 - [ ] [[Notes/Clipping\|Clipping]]
@@ -21,7 +21,7 @@ I livelli audio sono la misura della pressione sonora di un segnale audio, espre
 
 ## Routing Audio
 
-Il routing audio è il processo di indirizzamento del flusso di segnale audio da una sorgente a una destinazione attraverso un sistema di dispositivi e/o canali. In altre parole, si tratta della gestione del percorso che il suono segue all'interno di un sistema audio, come un mixer o una [[Notes/Digital Audio Workstation\|DAW]]. Il routing audio consente di controllare il livello del suono, la panoramica, l'equalizzazione e gli effetti applicati a ciascun canale e di inviare il segnale ad altoparlanti, cuffie o altri dispositivi di riproduzione.
+Il routing audio è il processo di indirizzamento del flusso di segnale audio da una sorgente a una destinazione attraverso un sistema di dispositivi e/o canali. In altre parole, si tratta della gestione del percorso che il suono segue all'interno di un sistema audio, come un mixer o una [[Digital Audio Workstation\|DAW]]. Il routing audio consente di controllare il livello del suono, la panoramica, l'equalizzazione e gli effetti applicati a ciascun canale e di inviare il segnale ad altoparlanti, cuffie o altri dispositivi di riproduzione.
 
 
 ## Gain Staging
@@ -43,13 +43,13 @@ In termini pratici, aumentare il volume audio aumenta il livello di uscita dell'
 ### Cos'è il Balance e perché è fondamentale
 
 Il balance ti permette di trovare un ottimo equilibrio di tutti gli strumenti utilizzati.
-Sostanzialmente dovremmo decidere: la priorità che ogni strumento dovrà avere rispetto ad un altro. Inoltre, spostando il fader del volume, andremo a decidere anche come sarà il [[Tonal Balance\|Tonal Balance]] di tutto il brano. Gestire le frequenze ti permette di avere un corretto bilanciamento nello spettro e di dare lo spazio giusto ad ogni suono.
+Sostanzialmente dovremmo decidere: la priorità che ogni strumento dovrà avere rispetto ad un altro. Inoltre, spostando il fader del volume, andremo a decidere anche come sarà il [[Notes/Tonal Balance\|Tonal Balance]] di tutto il brano. Gestire le frequenze ti permette di avere un corretto bilanciamento nello spettro e di dare lo spazio giusto ad ogni suono.
 
 Quindi, prima di mettere subito mano ai tuoi plug-in preferiti, per equalizzare o comprimere, cerca di trovare un posto ad ogni suono, intervenendo soltanto con il volume di ogni traccia. 
 
-Si può iniziare semplicemente dal fader del mixer di ogni traccia e poi proseguire più dettagliatamente con i vari processi: [[Equalizzazione\|Equalizzazione]] e  [[Compressione\|Compressione]].
+Si può iniziare semplicemente dal fader del mixer di ogni traccia e poi proseguire più dettagliatamente con i vari processi: [[Notes/Mixing & Mastering/Equalizzazione\|Equalizzazione]] e  [[Notes/Mixing & Mastering/Compressione\|Compressione]].
 
-**Ricorda, un mix bilanciato ti permette di alzare in fase di [[Mastering\|Mastering]] senza andare subito in distorsione**
+**Ricorda, un mix bilanciato ti permette di alzare in fase di [[Notes/Mastering\|Mastering]] senza andare subito in distorsione**
 
 
 - [[Notes/Come in una squadra di calcio\|Come in una squadra di calcio]]
