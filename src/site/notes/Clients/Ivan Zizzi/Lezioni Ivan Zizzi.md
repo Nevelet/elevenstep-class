@@ -10,72 +10,72 @@
 ## Modulo: Introduzione al mixing
 
 - [[Notes/Principi di Mixing\|Notes/Principi di Mixing]]
-- [[Gli elementi del mix\|Gli elementi del mix]]
+- [[Notes/Mixing & Mastering/Gli elementi del mix\|Gli elementi del mix]]
 - [[Notes/Componenti per Home Studio\|Componenti per Home Studio]]
-- [[Strumenti per il Mixing\|Strumenti per il Mixing]]
-- [[Processi Basilari di Mixing\|Processi Basilari di Mixing]]
+- [[Notes/Mixing & Mastering/Strumenti per il Mixing\|Strumenti per il Mixing]]
+- [[Notes/Mixing & Mastering/Processi Basilari di Mixing\|Processi Basilari di Mixing]]
 
 ## Modulo: Organizzazione e Settaggio
 
-- [[Notes/Organizzare la Sessione per il Mixing\|Organizzare la Sessione per il Mixing]]
+- [[Notes/Mixing & Mastering/Organizzare la sessione per il Mixing\|Organizzare la Sessione per il Mixing]]
 - La configurazione dell'ambiente di lavoro
 
 ## Modulo: Bilanciamento dei livelli
 
-- [[Livelli audio\|Livelli audio]]
-- [[Routing Audio\|Routing Audio]]
-- [[Gain Staging\|Gain Staging]]
-- [[Balance Mix\|Balance Mix]]
+- [[Notes/Audio/Livelli audio\|Livelli audio]]
+- [[Notes/Audio/Routing Audio\|Routing Audio]]
+- [[Notes/Mixing & Mastering/Gain Staging\|Gain Staging]]
+- [[Notes/Mixing & Mastering/Balance Mix\|Balance Mix]]
 
 ## Modulo: L'Equalizzatore
 
-- Cos'è un'[[Equalizzatore\|Equalizzatore]]
-- Spiegazione dei [[Filtri\|Filtri]] EQ e delle loro funzioni
-- [[Equalizzazione\|Utilizzo dell'equalizzatore su un suono]]
+- Cos'è un'[[Notes/Audio/Equalizzatore\|Equalizzatore]]
+- Spiegazione dei [[Notes/Filtri\|Filtri]] EQ e delle loro funzioni
+- [[Notes/Mixing & Mastering/Equalizzazione\|Utilizzo dell'equalizzatore su un suono]]
 
 ## Modulo: Il Compressore
 
-- Cos'è la [[Gamma Dinamica\|dinamica]]
-- Cos'è il [[Compressore\|Compressore]]
-- Il [[Compressione\|Compressione]] sul mixing
+- Cos'è la [[Notes/Gamma Dinamica\|dinamica]]
+- Cos'è il [[Notes/Audio/Compressore\|Compressore]]
+- Il [[Notes/Mixing & Mastering/Compressione\|Compressione]] sul mixing
 
 ## Modulo: Panoramica e bilanciamento stereo
 
-- Concetti base della [[Immagine Stereo\|panoramica stereo]] 
-- [[Posizionamento dei suoni nell'Immagine Stereo\|Posizionamento dei suoni nell'Immagine Stereo]]
-- [[Tecniche per creare un suono stereo\|Tecniche per creare un suono stereo]]
-- [[Come gestire correttamente l'immagine stereo\|Come gestire correttamente l'immagine stereo]]
+- Concetti base della [[Notes/Mixing & Mastering/Immagine Stereo\|panoramica stereo]] 
+- [[Notes/Mixing & Mastering/Posizionamento dei suoni nell'Immagine Stereo\|Posizionamento dei suoni nell'Immagine Stereo]]
+- [[Notes/Mixing & Mastering/Tecniche per creare un suono stereo\|Tecniche per creare un suono stereo]]
+- [[Notes/Mixing & Mastering/Come gestire correttamente l'immagine stereo\|Come gestire correttamente l'immagine stereo]]
 
 ## Modulo: Utilizzo degli effetti audio
 
-- Concetti di base degli [[Effetti Audio\|Effetti Audio]]
-- Utilizzo degli effetti di [[Reverb\|Reverb]] e [[Delay\|Delay]] per creare profondità nel mix
-- Utilizzo degli effetti temporali come [[Flanger\|Flanger]], [[Chorus\|Chorus]] e [[Phaser\|Phaser]]
+- Concetti di base degli [[Notes/Effetti Audio\|Effetti Audio]]
+- Utilizzo degli effetti di [[Notes/Audio/Reverb\|Reverb]] e [[Notes/Audio/Delay\|Delay]] per creare profondità nel mix
+- Utilizzo degli effetti temporali come [[Notes/Audio/Flanger\|Flanger]], [[Notes/Chorus\|Chorus]] e [[Notes/Phaser\|Phaser]]
 
 ## Modulo: Mixing degli strumenti Percussivi
 
-- [[Notes/Kick (Mixing)\|Kick (Mixing)]]
-- [[Synth Sub Bass (Mixing)\|Synth Sub Bass (Mixing)]]
-- [[Kick & Sub (Mixing)\|Kick & Sub (Mixing)]]
-- [[Drums (Mixing)\|Drums (Mixing)]]
+- [[Notes/Mixing & Mastering/Kick (Mixing)\|Kick (Mixing)]]
+- [[Notes/Synth Sub Bass (Mixing)\|Synth Sub Bass (Mixing)]]
+- [[Notes/Mixing & Mastering/Kick & Sub (Mixing)\|Kick & Sub (Mixing)]]
+- [[Notes/Mixing & Mastering/Drums (Mixing)\|Drums (Mixing)]]
  
 ## Modulo: Mixing degli strumenti Tonali
 
 - [[Bass (Mixing)\|Bass (Mixing)]]
-- [[Vocal (Mixing)\|Vocal (Mixing)]]
-- [[Synth (Mixing)\|Synth (Mixing)]]
-- [[Sample (Mixing)\|Sample (Mixing)]]
+- [[Notes/Mixing & Mastering/Vocal (Mixing)\|Vocal (Mixing)]]
+- [[Notes/Synth (Mixing)\|Synth (Mixing)]]
+- [[Notes/Mixing & Mastering/Sample (Mixing)\|Sample (Mixing)]]
 
 ## Modulo: Tecniche di Mixing
 
 - [[Tecniche di Mixing\|Tecniche di Mixing]]
-- Tecniche di [[Automazioni (Mixing)\|Automazioni]] del volume e degli effetti
-- Analisi del suono e utilizzo degli [[Analyzer Plugin for Mixing and Mastering\|Analyzer]]
+- Tecniche di [[Notes/Automazioni (Mixing)\|Automazioni]] del volume e degli effetti
+- Analisi del suono e utilizzo degli [[Notes/Mixing & Mastering/Analyzer Plugin for Mixing and Mastering\|Analyzer]]
 
 ## Modulo: Mastering e finalizzazione del mix
 
- - Cos'è la [[Mastering\|masterizzazione]] audio 
-- Mastering audio e utilizzo dei [[Limiter\|Limiter]] e dei [[Compressori Multibanda\|Compressori Multibanda]]
+ - Cos'è la [[Notes/Mastering\|masterizzazione]] audio 
+- Mastering audio e utilizzo dei [[Notes/Mixing & Mastering/Limiter\|Limiter]] e dei [[Compressori Multibanda\|Compressori Multibanda]]
  - Come creare un mix finale bilanciato e compatibile con diversi sistemi audio 
  - Utilizzo degli strumenti principali per la masterizzazione - Tecniche di mastering per ottenere un suono professionale e competitivo 
 
