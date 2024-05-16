@@ -5,8 +5,8 @@
 
 
 
-- [ ] [[Notes/Organizzare la Sessione per il Mixing\|Organizzare la Sessione per il Mixing]]
-- [ ] [[Notes/La configurazione dell'ambiente di lavoro\|La configurazione dell'ambiente di lavoro]]
-- [ ] [[Notes/Installazione e Configurazione Plugins\|Installazione e Configurazione Plugins]]
+- [ ] [[Notes/Mixing & Mastering/Organizzare la sessione per il Mixing\|Organizzare la Sessione per il Mixing]]
+- [ ] [[La configurazione dell'ambiente di lavoro\|La configurazione dell'ambiente di lavoro]]
+- [ ] [[Installazione e Configurazione Plugins\|Installazione e Configurazione Plugins]]
 
 
