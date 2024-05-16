@@ -12,8 +12,8 @@
 - [[Moduli/Moduli Mixing & Mastering/05 Modulo - Mixing degli strumenti Percussivi\|05 Modulo - Mixing degli strumenti Percussivi]]
 
 
-[[Notes/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi con Ableton (Drums)]]
-[[Notes/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
+[[Moduli/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi con Ableton (Drums)]]
+[[Programmi Lezioni Private Elevenstep/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
 
 
 - [[Slides/Slides MARP/Test Slides\|Slides/Slides MARP/Test Slides]]
