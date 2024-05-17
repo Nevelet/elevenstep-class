@@ -71,18 +71,11 @@ chflags nohidden ~/Library
 - [How to Uninstall VST/AU Plugins on a Mac | FREE VST AU AXX Plugin Uninstaller - YouTube](https://www.youtube.com/watch?v=1v4IlqLH0yA)
 
 
-
 ### Reference
 
 - [How To Install Serum Presets For Mac OS - YouTube](https://youtu.be/UZ61h11r_wE)
 - [Using AU and VST plug-ins on macOS – Ableton](https://help.ableton.com/hc/en-us/articles/209068929-Using-AU-and-VST-plug-ins-on-macOS)
 - [Come CANCELLARE APP SU MAC nel modo CORRETTO! - Luca Crocco - YouTube](https://www.youtube.com/watch?v=WmlcBSwNDxM)
-
-
-
-
-
-
 
 
 ## Windows
@@ -130,7 +123,7 @@ MAC
 
 ## 🔗 Related Notes
 
-- [[Come Eliminare definitivamente i Plugin\|Come Eliminare definitivamente i Plugin]]
+- 
 
 ## References
 
