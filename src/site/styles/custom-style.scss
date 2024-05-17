@@ -13,9 +13,13 @@ body {
 
 }
 
+/* TEXT FORMATTING */
+
 :root body {
   --bold-color: orange;
 }
+
+/* TASK strikethrough */
 
 .markdown-preview-view ul > li.task-list-item.is-checked {
   text-decoration:none;
@@ -26,3 +30,20 @@ body {
   text-decoration:none;
   color:var(--text-normal);
 }
+
+/* CENTER HEADING (EDIT MODE) */
+
+.HyperMD-header.HyperMD-header-2 {
+    text-align: center;
+}
+
+.HyperMD-header.HyperMD-header-3 {
+    text-align: left;
+}
+
+/* CENTER HEADING (PREVIEW MODE) */
+
+.markdown-preview-view h2 {
+    text-align: center;
+}
+
