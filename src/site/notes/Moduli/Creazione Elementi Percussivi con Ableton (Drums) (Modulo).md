@@ -2,12 +2,8 @@
 {"dg-publish":true,"permalink":"/moduli/creazione-elementi-percussivi-con-ableton-drums-modulo/"}
 ---
 
-Links:: [[Programmi Lezioni Private Elevenstep/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]], [[Programmi Lezioni Private Elevenstep/Programma Ableton da zero + Produzione Musicale\|Programma Ableton da zero + Produzione Musicale]]
 
 ---
-Questa: [[Notes/Creazione Elementi Percussivi (Drums)\|Creazione Elementi Percussivi (Drums)]] è una nota per la creazione della batteria che può essere usata al di là della DAW scelta. Mentre qui sotto trovi i punti per la creazione della batteria con [[Notes/Ableton/Ableton\|Ableton]] 
-
-
 - Cos'è il [[Notes/Tempo (Musica)\|Tempo]] e il [[Notes/Ritmo (Musica)\|Ritmo]]
 - [[Notes/Differenza tra one Shot e Loop\|Differenza tra one Shot e Loop]]
 - Quali sono gli [[Notes/Strumenti Ritmici\|Strumenti Ritmici]]
