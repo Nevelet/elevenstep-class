@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/teoria-musicale/","tags":["type/dashboard/MOC"]}
 ---
 
-Links:: [[Notes/Music Production\|Music Production]]
+Links:: 
 
 ---
 La **Teoria Musicale** è un insieme di **concetti, regole e principi** che descrivono e spiegano gli elementi fondamentali della musica. È come una grammatica che permette di comprendere come la musica è strutturata, come funziona e come viene creata.
