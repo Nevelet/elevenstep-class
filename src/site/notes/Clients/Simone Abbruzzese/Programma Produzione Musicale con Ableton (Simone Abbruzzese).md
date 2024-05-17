@@ -5,14 +5,14 @@
 
 
 ---
-## Modulo 01 - Le fasi Preliminari
+## ✅ Modulo 01 - Le fasi Preliminari
 
 - [x] Cosa serve per fare musica: [[Notes/Componenti per Home Studio\|Componenti per Home Studio]]
 - [x] [[Notes/Requisiti per creare un ottimo brano\|Requisiti per creare un ottimo brano]]
 - [x] [[Notes/Le Fasi della Produzione Musicale\|Le Fasi della Produzione Musicale]]
 - [x] Installare e Impostare i [[Notes/Plugins/Plugin Audio\|Plugin Audio]] necessari
 
-## Modulo 02 - Creazione Elementi Percussivi (Drums)
+## ✅ Modulo 02 - Creazione Elementi Percussivi (Drums)
 
 - [x] Cos'è il [[Notes/Tempo (Musica)\|Tempo]] e il [[Notes/Ritmo (Musica)\|Ritmo]]
 - [x] [[Notes/Differenza tra one Shot e Loop\|Differenza tra one Shot e Loop]]
@@ -45,4 +45,15 @@
 	- [x] [[Notes/Mixing & Mastering/Drums (Mix Buss)\|Drums (Mix Buss)]]
 
 
+## Modulo 03 - Creazione Elementi Armonici (Prossima Lezione)
+
+- [ ] Le basi della Teoria Musicale o/e Strumenti
+- [ ] Scegliere la scala
+- [ ] Progressione Accordi
+- [ ] Trovare o Creare lo Strumento giusto
+- [ ] Preset o Sound Design Synth
+- [ ] Preset o Sound Design Supersaw
+- [ ] Dispositivi o Plugin Effetti MIDI
+- [ ] Mixing
+- [ ] Layering
 
