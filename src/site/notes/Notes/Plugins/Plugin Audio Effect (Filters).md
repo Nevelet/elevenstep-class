@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/plugins/plugin-audio-effect-filters/"}
 ---
 
-Links:: [[Notes/Plugins/Plugin Audio Effect\|Plugin Audio Effect]], [[Notes/Filtri\|Filtri]]
+Links:: [[Notes/Plugins/Plugin Audio Effect\|Plugin Audio Effect]]
 
 ---
 - EQ
