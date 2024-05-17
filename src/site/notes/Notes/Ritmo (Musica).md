@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/ritmo-musica/"}
 ---
 
-Links: [[Notes/Teoria Musicale\|Teoria Musicale]], [[Notes/Tempo (Musica)\|Tempo (Musica)]]
+Links: [[Notes/Tempo (Musica)\|Tempo (Musica)]]
 
 ---
 Il ritmo (rhythm in inglese) **è il modo in cui il [[Notes/Tempo (Musica)\|tempo]] è articolato attraverso note e pause.** Le varie durate delle note e la loro disposizione ritmica contribuiscono al ritmo di una composizione.
