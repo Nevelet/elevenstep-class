@@ -94,9 +94,5 @@ chflags nohidden ~/Library
 
 ## Related Notes
 
-- [[Notes/Plugins/Plugin Audio da Provare\|Plugin Audio da Provare]]
 - [[Notes/Plugins/Plugin Audio gratis del 2023\|Plugin Audio gratis del 2023]]
-- [[Notes/Ableton/Ableton - Configurazione Plugins\|Ableton - Configurazione Plugins]]
-- [[Come installare correttamente i plugin\|Come installare correttamente i plugin]]
-- [[✍ Come installare correttamente i plugin su Ableton\|✍ Come installare correttamente i plugin su Ableton]]
 - [[Notes/Plugins/Disinstallare i Plugins\|Disinstallare i Plugins]]
