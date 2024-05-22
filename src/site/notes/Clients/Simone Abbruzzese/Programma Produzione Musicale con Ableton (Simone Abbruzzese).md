@@ -45,15 +45,25 @@
 	- [x] [[Notes/Mixing & Mastering/Drums (Mix Buss)\|Drums (Mix Buss)]]
 
 
-## Modulo 03 - Creazione Elementi Armonici (Prossima Lezione)
+## ✅ Modulo 03 - Creazione Elementi Armonici
 
-- [ ] Le basi della Teoria Musicale o/e Strumenti
-- [ ] Scegliere la scala
-- [ ] Progressione Accordi
-- [ ] Trovare o Creare lo Strumento giusto
-- [ ] Preset o Sound Design Synth
-- [ ] Preset o Sound Design Supersaw
-- [ ] Dispositivi o Plugin Effetti MIDI
-- [ ] Mixing
-- [ ] Layering
+
+- [x] Le basi della [[Notes/Teoria Musicale\|Teoria Musicale]] o/e Strumenti
+- [x] Scegliere la [[Notes/Scale Musicali\|Scala]]
+- [x] Progressione [[Notes/Accordi\|Accordi]]
+- [x] [[Notes/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]]
+	- [x] [[Notes/Scelta dei Suoni e degli Strumenti (Keys)\|Scelta dei Suoni e degli Strumenti (Keys)]]
+	- [x] [[Notes/Scelta dei Suoni e degli Strumenti (Synths)\|Scelta dei Suoni e degli Strumenti (Synths)]]
+- [ ] Sound Design
+	- [ ] [[Notes/Sound Design/Synth (Sound Design)\|Synth (Sound Design)]]
+	- [ ] [[Notes/Synth Supersaw (Sound Design)\|Synth Supersaw (Sound Design)]]
+- [x] Scrittura accordi
+	- [ ] Per costruire gli accordi, è importante conoscere questi processi: **[[Notes/Intervalli Musicali\|Intervalli]] → [[Notes/Scale Musicali\|Scala]] → [[Notes/Armonizzazione Scala\|Armonizzazione Scala]] → [[Notes/Accordi\|Accordi]]**
+	- [ ] [[Notes/Registrazione MIDI\|Registrazione MIDI]]
+- [ ] Utilizzo di [[Notes/Campionatore\|Campionatori]]
+- [ ] [[Notes/Ableton/Ableton - Dispositivi MIDI Essenziali\|Ableton Dispositivi MIDI Essenziali]] o Plugin Effetti MIDI
+- [ ] [[Notes/Mixing\|Mixing]]
+- [ ] [[Notes/Layering\|Layering]]
+
+
 
