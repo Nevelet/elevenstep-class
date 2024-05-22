@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/scelta-dei-suoni-e-degli-strumenti/"}
 ---
 
-Links:: [[Notes/Music Production\|Music Production]]
 
 ---
 _Ricercare le sonorità_
