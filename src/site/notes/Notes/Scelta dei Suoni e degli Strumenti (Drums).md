@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/scelta-dei-suoni-e-degli-strumenti-drums/"}
 ---
 
-Links:: [[Notes/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]], [[Notes/Drums\|Drums]]
 
 ---
 
