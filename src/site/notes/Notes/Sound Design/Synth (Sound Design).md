@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/notes/sound-design/synth-sound-design/"}
 ---
 
-Links:: [[Notes/Sound Design/Sound Design\|Sound Design]], [[Notes/Synth\|Synth]]
 
 ---
 
