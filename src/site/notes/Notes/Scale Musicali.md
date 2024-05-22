@@ -79,7 +79,6 @@ Imparare le scale musicali è importante per chiunque voglia suonare uno strumen
 - [[Notes/Accordi\|Accordi]]
 - [[Notes/Gradi Scala\|Gradi Scala]]
 - [[Notes/Armonia\|Armonia]]
-- [[CREARE VELOCEMENTE degli ACCORDI con o senza Plugin\|CREARE VELOCEMENTE degli ACCORDI con o senza Plugin]]
 
 
 ## Resources
