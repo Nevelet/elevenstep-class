@@ -58,10 +58,10 @@
 	- [ ] [[Notes/Sound Design/Synth (Sound Design)\|Synth (Sound Design)]]
 	- [ ] [[Notes/Synth Supersaw (Sound Design)\|Synth Supersaw (Sound Design)]]
 - [x] Scrittura accordi
-	- [ ] Per costruire gli accordi, è importante conoscere questi processi: **[[Notes/Intervalli Musicali\|Intervalli]] → [[Notes/Scale Musicali\|Scala]] → [[Notes/Armonizzazione Scala\|Armonizzazione Scala]] → [[Notes/Accordi\|Accordi]]**
+	- [x] Per costruire gli accordi, è importante conoscere questi processi: **[[Notes/Intervalli Musicali\|Intervalli]] → [[Notes/Scale Musicali\|Scala]] → [[Notes/Armonizzazione Scala\|Armonizzazione Scala]] → [[Notes/Accordi\|Accordi]]**
 	- [ ] [[Notes/Registrazione MIDI\|Registrazione MIDI]]
 - [ ] Utilizzo di [[Notes/Campionatore\|Campionatori]]
-- [ ] [[Notes/Ableton/Ableton - Dispositivi MIDI Essenziali\|Ableton Dispositivi MIDI Essenziali]] o Plugin Effetti MIDI
+- [x] [[Notes/Ableton/Ableton - Dispositivi MIDI Essenziali\|Ableton Dispositivi MIDI Essenziali]] o Plugin Effetti MIDI
 - [ ] [[Notes/Mixing\|Mixing]]
 - [ ] [[Notes/Layering\|Layering]]
 
