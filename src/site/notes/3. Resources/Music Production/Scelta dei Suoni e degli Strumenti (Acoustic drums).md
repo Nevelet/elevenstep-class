@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/3-resources/music-production/scelta-dei-suoni-e-degli-strumenti-acoustic-drums/","tags":["type/note"]}
+---
+
+Links:: [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]], [[3. Resources/Music Production/Drums\|Drums]]
+
+---
+
+## Ableton (Dispostivi e Presets)
+
+- 
+
+
+## Plugins
+
+- [[3. Resources/Music Production/Native Instrument Kontakt\|Native Instrument Kontakt]]
+	- [Download Kontakt](https://rutracker.net/forum/viewtopic.php?t=6478615)
+	- Library
+		- Kontakt Factory Library
+		- Studio Drummer
+- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx]]
+	- SF2
+	- SFZ
+		- [the_open_source_drumkit.tar.7z](https://download.linuxaudio.org/musical-instrument-libraries/sfz/the_open_source_drumkit.tar.7z)
+
+
+
+
+## Related Notes
+
+- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti (Drums)\|Scelta dei Suoni e degli Strumenti (Drums)]]
+
