@@ -5,9 +5,8 @@
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
 
 ---
-Plugin di Effetti / Plugin Effetti
-Effects Plugins / FX Plugins
 
+## Categorie
 
 - [[3. Resources/Music Production/Plugins/Plugin Audio Effect (Analyzer)\|Plugin Audio Effect (Analyzer)]]
 - [[3. Resources/Music Production/Plugins/Plugin Audio Effect (Filters)\|Plugin Audio Effect (Filters)]]
@@ -19,12 +18,12 @@ Effects Plugins / FX Plugins
 - [[3. Resources/Music Production/Plugin Audio Effect (Stereo)\|Plugin Audio Effect (Stereo)]]
 - Plugin Audio Effect (Multi-Effect)
 - [[0. Inbox/Plugin Audio Effect (De-Reverb)\|Plugin Audio Effect (De-Reverb)]]
-
 - [[3. Resources/Music Production/Plugins/Plugin Per correzione Audio\|Plugin Per correzione Audio]]
 
 
 ## Notes
 
-Altre categorie: [Plugins - Effects | Splice](https://splice.com/plugins/search?category=fx)
-
+- Altre categorie: [Plugins - Effects | Splice](https://splice.com/plugins/search?category=fx)
+- Plugin di Effetti / Plugin Effetti
+- Effects Plugins / FX Plugins
 

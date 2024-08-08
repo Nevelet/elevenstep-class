@@ -16,4 +16,4 @@ Links:: [[3. Resources/Music Production/Drums\|Drums]]
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Composizione\|Composizione]]
-- [[3. Resources/Music Production/Registrazione MIDI\|Registrazione MIDI]]
+- [[3. Resources/Music Production/Routing e Registrazione MIDI\|Routing e Registrazione MIDI]]

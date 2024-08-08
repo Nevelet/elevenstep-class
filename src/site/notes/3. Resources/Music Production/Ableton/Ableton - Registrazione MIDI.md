@@ -71,3 +71,8 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 - [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Ableton - Routing MIDI Tracce (Input & Output)]]
 - [[3. Resources/Music Production/Ableton/Ableton - Layering MIDI\|Ableton - Layering MIDI]]
 
+# Video
+
+- [Routing e Registrazione MIDI su ABLETON (Internal: Tracce, Effetti e Plugin) - YouTube](https://youtu.be/tm6wZ_L6S18?si=R19VFr8915lkk0Sz)
+- [Routing e Registrazione MIDI su ABLETON (External: Tastiera del Computer e MIDI) - YouTube](https://youtu.be/EfaEHGz42so?si=d2ONNpL55oJWu7Pa)
+

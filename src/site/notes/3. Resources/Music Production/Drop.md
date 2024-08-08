@@ -5,7 +5,9 @@
 Links:: [[3. Resources/Music Production/Arrangiamento\|Arrangiamento]], [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
-In musica, il termine "drop" (caduta) si riferisce specificatamente a un momento presente in alcuni generi musicali, principalmente nella **musica elettronica dance (EDM)**. È caratterizzato da un **brusco cambiamento nel ritmo e nell'intensità** della canzone, creando un forte impatto sonoro.
+In musica, il termine "drop" (caduta) **si riferisce specificatamente a un momento presente in alcuni generi musicali, principalmente nella musica elettronica dance (EDM).** È caratterizzato da un **brusco cambiamento nel ritmo e nell'intensità** della canzone, creando un forte impatto sonoro.
+
+## Caratteristiche principali
 
 Ecco alcune caratteristiche principali del drop:
 
@@ -15,6 +17,8 @@ Ecco alcune caratteristiche principali del drop:
 - **Elementi sonori caratteristici**: A seconda del genere di EDM, il drop può essere caratterizzato da suoni sintetizzati particolari, effetti percussivi o campionamenti vocali.
 
 Il drop è un elemento fondamentale in molta musica dance perché è il momento in cui **il brano raggiunge il suo apice di energia e coinvolgimento**. Esiste per far ballare e far immergere completamente l'ascoltatore nella musica.
+
+## Esempi generi musicali
 
 **Esempi di drop in diversi sottogeneri di EDM:**
 
@@ -29,9 +33,9 @@ Mentre il drop è nato e rimane un elemento distintivo della musica EDM, la sua 
 - **Pop**: È diventato comune trovare elementi "drop-like" nella musica pop odierna, per creare momenti di alta energia e coinvolgimento.
 - **Hip-Hop**: Alcuni brani hip-hop utilizzano un cambio improvviso nel beat o nell'atmosfera che ricorda vagamente un drop.
 
+## Conclusione
+
 **In conclusione, il drop è un elemento musicale che identifica la musica elettronica dance, un momento di "caduta" sonora che porta la canzone al suo climax di intensità e coinvolgimento.**
-
-
 
 
 ## Notes

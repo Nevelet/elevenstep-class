@@ -5,11 +5,10 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ---
-## Descrizione
 
-I dispositivi di Ableton sono strumenti virtuali che possono essere utilizzati per generare, modificare o manipolare il suono. Sono disponibili in una varietà di tipi, tra cui sintetizzatori, campionatori, effetti e strumenti software.
+I dispositivi di Ableton s**ono strumenti virtuali che possono essere utilizzati per generare, modificare o manipolare il suono.** Sono disponibili in una varietà di tipi, tra cui sintetizzatori, campionatori, effetti e strumenti software.
 
-I dispositivi possono essere utilizzati in tracce audio o MIDI. In una traccia audio, possono essere utilizzati per modificare il suono di un campione o di un'altra registrazione. In una traccia MIDI, possono essere utilizzati per creare nuovi suoni o modificare il suono di un'esecuzione MIDI.
+I dispositivi **possono essere utilizzati in tracce [[3. Resources/General Knowledge/Audio\|audio]] o [[3. Resources/Music Production/MIDI\|MIDI]].** In una traccia audio, possono essere utilizzati per modificare il suono di un campione o di un'altra registrazione. In una traccia MIDI, possono essere utilizzati per creare nuovi suoni o modificare il suono di un'esecuzione MIDI.
 
 ## Tipi di dispositivi
 

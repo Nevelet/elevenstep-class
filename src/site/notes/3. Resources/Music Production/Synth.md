@@ -5,11 +5,13 @@
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
-Un sintetizzatore, spesso abbreviato in "synth", è uno strumento musicale elettronico che **genera suoni** attraverso la sintesi sonora.
+Un sintetizzatore, spesso abbreviato in "synth", **è uno strumento musicale elettronico che genera suoni attraverso la sintesi sonora.**
 
 A differenza di strumenti acustici tradizionali come pianoforte o chitarra, che producono suoni tramite corde vibranti o aria che attraversa delle ance, il sintetizzatore crea suoni utilizzando segnali elettrici. Questo gli permette di generare un'ampia gamma di suoni, **imitando strumenti reali** (ad esempio pianoforte, violino, tromba) oppure creando **suoni completamente nuovi ed effetti** mai uditi prima.
 
 I sintetizzatori possono essere controllati da diverse interfacce, tra cui la più comune è una **tastiera**, simile a quella di un pianoforte. Esistono anche synth controllati da **sequencer**, **controller MIDI** o altri dispositivi elettronici.
+
+## Elementi chiave
 
 Ecco alcuni **elementi chiave** di un sintetizzatore:
 
@@ -71,7 +73,7 @@ Oltre al metodo di sintesi, i sintetizzatori possono essere classificati anche i
 La scelta del tipo di sintetizzatore più adatto dipende da **esigenze musicali, budget e preferenze personali**. È importante provare diversi modelli per trovare quello che meglio si adatta al proprio stile e alle proprie necessità.
 
 
-## Sintetizzatori consigliati
+## Plugin di Sintetizzatori consigliati
 
 - VITAL
 - Serum
@@ -102,14 +104,4 @@ Usato per descrivere la maggior parte degli strumenti che creano (aka sintetizza
 - [https://it.wikipedia.org/wiki/Sintetizzatore](https://it.wikipedia.org/wiki/Sintetizzatore)
 
 
-
-## Query
-
-```dataview
-TABLE
-FROM [[#this.file.link]] AND !outgoing([[#this.file.link]]) 
-SORT file.name asc
-```
-
----
 

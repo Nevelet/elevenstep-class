@@ -5,15 +5,9 @@
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]]
 
 ---
-in inglese: Music Distribution
+_in inglese: Music Distribution_
 
-## Notes
-
-- [Tariffe TuneCore Pricing: Distribuzione ed edizione musicale](https://www.tunecore.it/tariffe)
-- [Upload & sell your music on Apple, Spotify, Amazon and YouTube Music | DistroKid](https://distrokid.com/)
-- [RouteNote Pricing - Release Your Music Worldwide for Free](https://routenote.com/pricing)
-
-
+## Distributori 
 
 - [DistroKid](https://distrokid.com/)
 - [RouteNote](https://www.routenote.com/)

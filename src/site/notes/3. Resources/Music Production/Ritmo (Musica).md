@@ -38,3 +38,4 @@ Il **ritmo** è una successione di accenti forti e deboli ed eventuali pause, 
 
 - [Misura (musica)](https://it.wikipedia.org/wiki/Misura_(musica)#Unit%C3%A0_di_misura,_tempo,_suddivisione_e_durata)
 - [Ritmo - Wikipedia](https://it.wikipedia.org/wiki/Ritmo)
+

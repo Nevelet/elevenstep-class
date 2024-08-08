@@ -10,7 +10,7 @@ Links:: [[3. Resources/Music Production/Vocal (Music Production)\|Vocal (Music P
 - [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni]]
 - Creare un [[3. Resources/Music Production/Sound Design/Vocal Chops\|Vocal Chops]]
 - aggiungere dei chant
-- Reverse Reverb Vocal
+- [[3. Resources/Music Production/Sound Design/Reverse Reverb Vocal\|Reverse Reverb Vocal]]
 - [[3. Resources/Music Production/Layering\|Layering]]
 	- Giocare con la formante MMultiBandHarmonizer
 

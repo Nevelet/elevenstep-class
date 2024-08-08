@@ -9,6 +9,8 @@ Una **tastiera MIDI**, o **tastiera controller MIDI (In inglese: MIDI keyboard)*
 
 A differenza di una tastiera tradizionale che produce suoni meccanicamente, la tastiera MIDI funge da **interfaccia di controllo**, generandone solo dati digitali che vengono poi interpretati e convertiti in suono dal dispositivo ricevente.
 
+## Principali caratteristiche
+
 **Ecco le principali caratteristiche di una tastiera MIDI:**
 
 - **Tasti:** Solitamente sensibili alla dinamica (velocità di pressione) e alla aftertouch (pressione continuata dopo la pressione iniziale), per un controllo espressivo del suono.
@@ -16,10 +18,14 @@ A differenza di una tastiera tradizionale che produce suoni meccanicamente, la t
 - **Connettività:** USB, MIDI Out/In/Thru per collegarsi a computer, dispositivi hardware e reti MIDI.
 - **Alimentazione:** Tramite USB o alimentatore esterno a seconda del modello.
 
+## Categorie
+
 **Le tastiere MIDI si distinguono in due categorie principali:**
 
 - **Controller MIDI:** Progettate unicamente per inviare segnali MIDI e mancano di suoni integrati. Sono spesso più compatte e economiche.
 - **Tastiere Workstation:** Integrano sintetizzatori, suoni campionati e sequencer, offrendo una soluzione completa per la produzione musicale autonoma.
+
+## Utilizzi
 
 **Le tastiere MIDI sono utilizzate in svariati ambiti musicali:**
 
@@ -27,6 +33,8 @@ A differenza di una tastiera tradizionale che produce suoni meccanicamente, la t
 - **Esecuzione live:** Per controllare suoni sintetizzati, moduli sonori e strumenti virtuali durante le performance.
 - **Registrazione audio:** Per registrare tracce MIDI che possono essere successivamente modificate e mixate.
 - **Educazione musicale:** Per insegnare la teoria musicale e lo sviluppo di abilità pianistiche.
+
+## Scegli la tastiera MIDI
 
 **La scelta della tastiera MIDI più adatta dipende dalle esigenze individuali e dal budget.**
 
@@ -52,7 +60,6 @@ A differenza di una tastiera tradizionale che produce suoni meccanicamente, la t
 ## Resources
 
 - **Wikipedia:** [https://en.wikipedia.org/wiki/MIDI_keyboard](https://en.wikipedia.org/wiki/MIDI_keyboard)
-
 
 
 ## 🔗 Related Notes

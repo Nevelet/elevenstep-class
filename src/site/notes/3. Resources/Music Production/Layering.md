@@ -5,18 +5,17 @@
 Links:: [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]], [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
-## Cos'è
-
 È la capacità di **sovrapporre più suoni** attraverso l'ausilio di più strumenti e tecniche.
 Il layering é come un wafer, ricoperto da tanti strati che permette di raggiungere un sapore più marcato e unico. 
 
-- Quindi Il layering è fondamentale per molteplici cose:
-	- riempie lo spettro
-	- dare più corpo dove serve
-	- dare più ritmo
-	- creare profondità
-	- creare più immagine stereo
-	- da più [[3. Resources/Music Production/LUFS\|LUFS]]
+**Quindi Il layering è fondamentale per molteplici cose:**
+
+- riempie lo spettro
+- dare più corpo dove serve
+- dare più ritmo
+- creare profondità
+- creare più immagine stereo
+- da più [[3. Resources/Music Production/LUFS\|LUFS]]
 
 > ogni strato conferisce spessore e dà più senso al suono centrale
 

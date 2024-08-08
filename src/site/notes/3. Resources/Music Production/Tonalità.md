@@ -5,7 +5,11 @@
 Links:: [[3. Resources/Music Production/Armonia\|Armonia]], [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]]
 
 ---
-La tonalità è un concetto fondamentale nella teoria musicale che si riferisce alla relazione gerarchica tra le note all'interno di una composizione musicale. In una tonalità, una nota specifica, chiamata tonica, serve da punto di riferimento centrale. Le altre note della scala musicale sono organizzate intorno a questa tonica in base a intervalli specifici, creando così una sensazione di stabilità e di direzionalità armonica. La tonalità può essere maggior o minore, a seconda della disposizione degli intervalli all'interno della scala. La tonalità influisce sull'armonia, sulla melodia e sulla struttura complessiva di una composizione musicale.
+La tonalità **è un concetto fondamentale nella teoria musicale che si riferisce alla relazione gerarchica tra le note all'interno di una composizione musicale.** 
+
+In una tonalità, una nota specifica, chiamata tonica, serve da punto di riferimento centrale. Le altre note della scala musicale sono organizzate intorno a questa tonica in base a intervalli specifici, creando così una sensazione di stabilità e di direzionalità armonica. 
+
+La tonalità può essere maggior o minore, a seconda della disposizione degli intervalli all'interno della scala. La tonalità influisce sull'armonia, sulla melodia e sulla struttura complessiva di una composizione musicale.
 
 Inoltre, nel linguaggio comune, la locuzione "la tonalità" può assumere due significati differenti, entrambi legati alla musica:
 
@@ -27,7 +31,6 @@ Il sistema tonale è stato il sistema armonico dominante nella musica occidental
 
 - **Tonalità come scala musicale:** una successione completa di sette note che definisce i suoni utilizzabili in un brano musicale.
 - **Tonalità come sistema armonico:** un insieme di principi che regolano l'utilizzo degli accordi all'interno di una scala musicale, basandosi sul concetto di centralità tonale.
-
 
 
 

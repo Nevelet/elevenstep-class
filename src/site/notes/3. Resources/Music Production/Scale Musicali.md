@@ -35,8 +35,7 @@ Le scale musicali sono la base di tutta la musica, sia essa classica, jazz, rock
 
 ## Imparare le scale musicali
 
-Imparare le scale musicali è importante per chiunque voglia suonare uno strumento musicale o comporre musica. Esistono molte risorse disponibili per imparare le scale musicali, tra cui libri, corsi online e video tutorial.
-
+Imparare le scale musicali **è importante per chiunque voglia suonare uno strumento musicale o comporre musica.** Esistono molte risorse disponibili per imparare le scale musicali, tra cui **libri, corsi online e video tutorial.**
 
 
 ## Fare pratica

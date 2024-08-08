@@ -9,7 +9,8 @@ Questa: [[3. Resources/Music Production/Creazione Elementi Percussivi (Drums)\|C
 
 
 - Cos'è il [[3. Resources/Music Production/Tempo (Musica)\|Tempo]] e il [[3. Resources/Music Production/Ritmo (Musica)\|Ritmo]]
-- [[3. Resources/Music Production/Differenza tra one Shot e Loop\|Differenza tra one Shot e Loop]]
+- Utilizzo dei [[3. Resources/Music Production/Sample Audio\|Campioni audio]] (Sample)
+	- [[3. Resources/Music Production/Differenza tra one Shot e Loop\|Differenza tra one Shot e Loop]]
 - Quali sono gli [[3. Resources/Music Production/Strumenti Ritmici\|Strumenti Ritmici]]
 - [[3. Resources/Music Production/Tutti i suoni della batteria\|Tutti i suoni della batteria]] e [[3. Resources/Music Production/Strumenti Principali Drums EDM\|Strumenti Principali Drums EDM]]
 - [[3. Resources/Music Production/Tipi di Suoni della Drums per generi\|Tipi di Suoni della Drums per generi]]
@@ -29,7 +30,6 @@ Questa: [[3. Resources/Music Production/Creazione Elementi Percussivi (Drums)\|C
 		- [[3. Resources/Music Production/Ableton/Ableton - Editor delle Note MIDI\|Editor delle Note MIDI]]
 		- [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista Clip (MIDI)\|Pannelli della Vista Clip (MIDI)]]
 - [[3. Resources/Music Production/Drums (Scrittura)\|Drums (Scrittura)]]
-	- [[3. Resources/Music Production/Registrazione MIDI\|Registrazione MIDI]]
 - Quantizzazione [[3. Resources/Music Production/MIDI\|MIDI]]
 - Creare [[3. Resources/Music Production/Groove\|Groove]] con [[3. Resources/Music Production/Ableton/Ableton - Groove\|Ableton - Groove]]
 - [[3. Resources/Music Production/Layering\|Layering]]

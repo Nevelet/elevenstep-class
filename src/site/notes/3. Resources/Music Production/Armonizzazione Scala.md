@@ -7,6 +7,8 @@ Links:: [[3. Resources/Music Production/Armonia\|Armonia]], [[3. Resources/Music
 ---
 L'**armonizzazione della scala**, in musica, è il processo di **costruzione degli accordi a partire da una scala musicale**. In altre parole, significa prendere le note di una scala e utilizzarle per creare [[3. Resources/Music Production/Accordi\|Accordi]], che sono combinazioni di tre o più note suonate contemporaneamente.
 
+## Metodi principali
+
 Esistono due metodi principali per armonizzare una scala:
 
 **1. Armonizzazione per triadi:**
@@ -31,8 +33,6 @@ L'armonizzazione della scala è un processo fondamentale per:
 - **Comporre musica:** gli accordi derivati da una scala sono la base per la creazione di progressioni di accordi e melodie.
 - **Improvvisare:** la conoscenza delle armonizzazioni di una scala permette di improvvisare melodie e accordi in modo coerente con la scala stessa.
 - **Analizzare brani musicali:** l'analisi dell'armonizzazione utilizzata in un brano musicale aiuta a comprenderne le strutture armoniche e le scelte compositive del compositore.
-
-
 
 
 ## References

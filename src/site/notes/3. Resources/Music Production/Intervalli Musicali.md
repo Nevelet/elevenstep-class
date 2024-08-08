@@ -5,9 +5,9 @@
 Links:: [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]], [[3. Resources/Music Production/Pitch\|Pitch]], [[3. Resources/Music Production/Scale Musicali\|Scale Musicali]]
 
 ---
-Nella [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]], un **intervallo** è la **distanza** tra due note, misurata in **toni** e **semitoni**. In altre parole, rappresenta la differenza di altezza tra due suoni.
+Nella [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]], un intervallo **è la distanza tra due note, misurata in toni e semitoni.** In altre parole, **rappresenta la differenza di altezza tra due suoni.**
 
-Gli intervalli sono fondamentali per la costruzione di melodie, armonie e scale musicali. La loro comprensione è essenziale per chiunque voglia imparare a suonare uno strumento musicale o comporre musica.
+Gli intervalli **sono fondamentali per la costruzione di melodie, armonie e scale musicali.** La loro comprensione è essenziale per chiunque voglia imparare a suonare uno strumento musicale o comporre musica.
 
 ## Come si calcola un intervallo?
 
@@ -80,7 +80,9 @@ Gli intervalli svolgono diverse funzioni importanti nella musica:
 
 ## Notes
 
-**toni e semitoni**
+- **toni e semitoni**
+	- un tono è composto da 2 semitoni
+	- un semitono è composto da mezzo tono
 
 
 ## References

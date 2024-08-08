@@ -5,7 +5,6 @@
 Links:: [[3. Resources/Music Production/Drums\|Drums]]
 
 ---
-## Descrizione
 
 Le percussioni sono strumenti percussivi che **producono suoni mediante la vibrazione di una membrana, di un metallo o di un altro materiale.** Nella produzione musicale, le percussioni possono essere **utilizzate per creare ritmi e [[3. Resources/Music Production/Groove\|Groove]], e possono includere strumenti come batteria, timpani, maracas, tamburelli, piatti e molti altri.** 
 

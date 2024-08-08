@@ -58,7 +58,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Layering 
 - Mixing Tracks & Group (Basic)
 
-## [[3. Resources/Music Production/Moduli/Routing e Registrazione MIDI (Modulo)\|Routing e Registrazione MIDI]]
+## [[3. Resources/Music Production/Moduli/Routing e Registrazione MIDI su Ableton (Modulo)\|Routing e Registrazione MIDI]]
 
 - Routing Tracce MIDI
 - Registrazione MIDI

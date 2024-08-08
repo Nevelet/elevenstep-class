@@ -5,7 +5,6 @@
 Links:: [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]], [[3. Resources/Music Production/Darsi degli obiettivi di Mixing\|Darsi degli obiettivi di Mixing]], [[3. Resources/Music Production/Tecniche avanzate di Mixing\|Tecniche avanzate di Mixing]]
 
 ---
-## Cos'è
 Il tonal balance nel mixing si riferisce alla ==distribuzione equilibrata delle frequenze nell'intero spettro audio.== In altre parole, significa che ogni parte di una canzone (ad esempio, la voce, la batteria e la chitarra) deve essere bilanciata in modo da non avere alcuna frequenza che prevalga sulle altre. 
 Il tonal balance è un aspetto importante nella produzione musicale perché un mix sbilanciato può influenzare negativamente l'ascolto dell'intera canzone e rendere difficile distinguere i singoli strumenti o parti vocali.
 

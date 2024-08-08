@@ -7,8 +7,12 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[
 ---
 
 - Le basi della [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]] o/e Strumenti
-- Scegliere la [[3. Resources/Music Production/Scale Musicali\|Scala]]
-- Progressione [[3. Resources/Music Production/Accordi\|Accordi]]
+	- [[3. Resources/Music Production/Armonia\|Armonia]]
+	- [[3. Resources/Music Production/Intervalli Musicali\|Intervalli Musicali]]
+	- [[3. Resources/Music Production/Scale Musicali\|Scale Musicali]]
+	- [[3. Resources/Music Production/Armonizzazione Scala\|Armonizzazione Scala]]
+	- [[3. Resources/Music Production/Accordi\|Accordi]]
+	- [[3. Resources/Music Production/Tonalità\|Tonalità]]
 - Trovare o Creare lo Strumento giusto
 	- [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]]
 		- [[3. Resources/Music Production/Sound Design/Synth (Sound Design)\|Synth (Sound Design)]]

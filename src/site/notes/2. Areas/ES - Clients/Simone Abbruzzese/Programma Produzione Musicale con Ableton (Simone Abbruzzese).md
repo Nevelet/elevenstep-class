@@ -34,7 +34,7 @@
 		- [x] Clip
 		- [x] Notes
 - [x] [[3. Resources/Music Production/Drums (Scrittura)\|Drums (Scrittura)]]
-	- [x] [[3. Resources/Music Production/Registrazione MIDI\|Registrazione MIDI]]
+	- [x] [[3. Resources/Music Production/Routing e Registrazione MIDI\|Routing e Registrazione MIDI]]
 - [x] Quantizzazione [[3. Resources/Music Production/MIDI\|MIDI]]
 - [x] Creare [[3. Resources/Music Production/Groove\|Groove]] con [[3. Resources/Music Production/Ableton/Ableton - Groove\|Ableton - Groove]]
 - [x] [[3. Resources/Music Production/Layering\|Layering]]
@@ -59,7 +59,7 @@
 	- [ ] [[3. Resources/Music Production/Synth Supersaw (Sound Design)\|Synth Supersaw (Sound Design)]]
 - [x] Scrittura accordi
 	- [x] Per costruire gli accordi, è importante conoscere questi processi: **[[3. Resources/Music Production/Intervalli Musicali\|Intervalli]] → [[3. Resources/Music Production/Scale Musicali\|Scala]] → [[3. Resources/Music Production/Armonizzazione Scala\|Armonizzazione Scala]] → [[3. Resources/Music Production/Accordi\|Accordi]]**
-	- [ ] [[3. Resources/Music Production/Registrazione MIDI\|Registrazione MIDI]]
+	- [ ] [[3. Resources/Music Production/Routing e Registrazione MIDI\|Routing e Registrazione MIDI]]
 - [ ] Utilizzo di [[3. Resources/Music Production/Campionatore\|Campionatori]]
 - [x] [[3. Resources/Music Production/Ableton/Ableton - Dispositivi MIDI Essenziali\|Ableton Dispositivi MIDI Essenziali]] o Plugin Effetti MIDI
 - [ ] [[3. Resources/Music Production/Mixing\|Mixing]]

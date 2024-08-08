@@ -5,8 +5,6 @@
 Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma Ableton da zero + Produzione Musicale\|Programma Ableton da zero + Produzione Musicale]], [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
 
 ---
-[[3. Resources/Music Production/Creazione Elementi Melodici\|Creazione Elementi Melodici]]
-
 
 - Quali sono gli [[3. Resources/Music Production/Strumenti Melodici\|Strumenti Melodici]]
 - [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]]
@@ -19,4 +17,6 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 - [[3. Resources/Music Production/Layering\|Layering]]
 
 
+## Related Notes
 
+- [[3. Resources/Music Production/Creazione Elementi Melodici\|Creazione Elementi Melodici]]

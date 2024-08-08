@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton - Vista Clip\|Ableton - 
 ---
 ## Cos'è
 
-La Vista Clip è l'ambiente nel quale possono essere impostate e modificate le proprietà delle clip.
+La Vista Clip **è l'ambiente nel quale possono essere impostate e modificate le proprietà delle clip.**
 
 ## Come visualizzare la Vista Clip
 

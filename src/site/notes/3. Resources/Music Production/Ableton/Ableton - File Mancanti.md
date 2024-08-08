@@ -19,3 +19,4 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 ## Resources
 
 - [Come GESTIRE PLUGIN e FILE MANCANTI su ABLETON - YouTube](https://www.youtube.com/watch?v=9dgRDeznsuU)
+

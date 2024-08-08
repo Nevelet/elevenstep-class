@@ -7,8 +7,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 ---
 ## Cos'è il Warp
 
-_Modifiche temporali al campione_
-Il WARP permette di adattare il campione con il suo tempo originale, nel tempo da te scelto, senza alterarne il tono. In base ad alcuni algoritmi poi, è possibile mantenere alcune caratteristiche del campione scelto, come ad esempio: i transienti e il pitch.
+Il WARP **permette di adattare il campione con il suo tempo originale, nel tempo da te scelto, senza alterarne il tono.** In base ad alcuni algoritmi poi, è possibile mantenere alcune caratteristiche del campione scelto, come ad esempio: i transienti e il pitch.
 
 Il WARP quindi andrà a stretchare il campione grazie ai suoni marcatori, che potrai cambiare, spostare o aggiungere. Se i cambiamenti di tempo sono esagerati, il campione verrà allungato troppo e di conseguenza, il risultato in base all'algoritmo selezionato, sarà metallico e con uno spettro di frequenze diverso.
 - Marcatore Transiente
@@ -178,7 +177,8 @@ _Ovviamente queste opzioni in certe situazioni possono non essere ottime, per un
 
 ## Notes
 
-Complex e Complex Pro sono fondamentalmente algoritmi di timestretching [[3. Resources/Music Production/zplane\|zplane]] Elastique con licenza (Complex è Elastique 2, Complex Pro è Elastique 3) - molte altre DAW usano gli stessi. Questi non sono stati realizzati dall'equipaggio di Ableton. Le vecchie modalità di timestretching utilizzano fondamentalmente solo la sintesi granulare (tipo di algoritmo PSOLA) che viene utilizzata anche in molti prodotti diversi con diversi tipi di implementazione.
+- Complex e Complex Pro sono fondamentalmente algoritmi di timestretching [[3. Resources/Music Production/zplane\|zplane]] Elastique con licenza (Complex è Elastique 2, Complex Pro è Elastique 3) - molte altre DAW usano gli stessi. Questi non sono stati realizzati dall'equipaggio di Ableton. Le vecchie modalità di timestretching utilizzano fondamentalmente solo la sintesi granulare (tipo di algoritmo PSOLA) che viene utilizzata anche in molti prodotti diversi con diversi tipi di implementazione.
+- _Modifiche temporali al campione_
 
 
 ## Related Notes

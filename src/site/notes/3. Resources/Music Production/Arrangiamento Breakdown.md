@@ -18,7 +18,7 @@ Links:: [[3. Resources/Music Production/Arrangiamento\|Arrangiamento]], [[3. Res
 - Dare più ritmo
 	- perché altrimenti questa parte risulterà abbastanza vuota e monotona
 	- Aggiungere alcuni elementi della Drum
-- Aggiugere una Melodia
+- Aggiungere una Melodia
 - Aggiungere gli Accordi
 - Trovare un Vocal
 

@@ -5,11 +5,8 @@
 Links:: [[3. Resources/General Knowledge/Audio\|Audio]]
 
 ---
-## Cosa sono
-
-I campioni sono frammenti di audio che puoi usare nelle tue produzioni. Possono essere qualsiasi cosa, dai singoli colpi di batteria o brevi melodie strumentali a intere tracce o loop ritmici.
+I campioni **sono frammenti di audio che puoi usare nelle tue produzioni.** Possono essere qualsiasi cosa, dai singoli colpi di batteria o brevi melodie strumentali a intere tracce o loop ritmici.
 Avere la capacità di riconoscere quale sample possa essere giusto, ti permette di non perderti nella ricerca.
-
 
 ## Tipi di Sample
 
@@ -41,7 +38,6 @@ Avere la capacità di riconoscere quale sample possa essere giusto, ti permette 
 	- Shaker
 	- Crash
 
-
 ### [[3. Resources/Music Production/Sound Effects\|SFX]]
 
 - Downsweeps
@@ -68,8 +64,7 @@ Avere la capacità di riconoscere quale sample possa essere giusto, ti permette 
 
 
 
-
-## Sample Libraries
+## Siti per Librerie di campioni (Sample Libraries)
 
    - Splice Sounds
    - Native Instruments Kontakt Libraries
@@ -77,7 +72,7 @@ Avere la capacità di riconoscere quale sample possa essere giusto, ti permette 
    - Cymatics
    - Vengeance Sound Libraries
 
-## Loop e Campioni Audio
+## Siti per Loop e Campioni Audio
 
    - Freesound.org
    - Looperman.com
@@ -95,3 +90,4 @@ Avere la capacità di riconoscere quale sample possa essere giusto, ti permette 
 ## 📝 Notes
 
 - _Di solito abbreviati con il nome: SFX_
+

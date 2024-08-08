@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ---
-I Rack di Ableton sono dei contenitori, dove al suo interno possiamo trovare:
+I Rack di Ableton **sono dei contenitori, dove al suo interno possiamo trovare:**
 
 **Macro**
 - Le Macro permettono di controllare più parametri contemporaneamente, ed è possibile assegnare a loro, valori differenti.
@@ -39,7 +39,6 @@ Possiamo dunque raggruppare un serie di Dispositivi Audio e Instruments per aggi
 ## Elementi Rack
 
 ### [[3. Resources/Music Production/Ableton/Ableton - Macro\|Macro]]
-
 
 
 

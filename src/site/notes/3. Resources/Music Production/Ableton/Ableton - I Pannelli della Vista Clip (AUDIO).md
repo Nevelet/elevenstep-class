@@ -51,3 +51,5 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton - Vista Clip Audio\|Able
 - [[3. Resources/Music Production/Ableton/Ableton - WARP\|Warp]]
 - [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista Clip (MIDI)\|Ableton - I Pannelli della Vista Clip (MIDI)]]
 - [[3. Resources/General Knowledge/Audio\|Audio]]
+
+

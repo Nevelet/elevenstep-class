@@ -22,6 +22,6 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 	- [[3. Resources/Music Production/Melodia\|Melodia]]
 	- [[3. Resources/Music Production/Accordi\|Accordi]]
 	- [[3. Resources/Music Production/Drums\|Drums]]
-	- Trovare un Vocal
+	- Trovare un [[3. Resources/Music Production/Vocal (Music Production)\|Vocal]]
 
 

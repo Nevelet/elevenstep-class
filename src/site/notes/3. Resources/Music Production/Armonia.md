@@ -15,7 +15,7 @@ In musica, **l'armonia è la scienza del rapporto dei suoni nella dimensione v
 
 ## Gli elementi più importanti
 
-Gli elementi più importanti per l'armonia sono:
+**Gli elementi più importanti per l'armonia sono:**
 
 **1. Le note:** Le note sono le unità fondamentali del suono musicale. Sono rappresentate da simboli sul pentagramma e hanno un'altezza (cioè una frequenza) specifica. Le note possono essere suonate singolarmente o in combinazione per creare melodie e accordi.
 

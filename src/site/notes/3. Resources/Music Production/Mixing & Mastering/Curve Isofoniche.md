@@ -5,9 +5,8 @@
 Links:: [[3. Resources/Music Production/Frequenze\|Frequenze]], [[3. Resources/Music Production/Teoria del Suono\|Teoria del Suono]]
 
 ---
-## Cosa sono
-
 Le curve isofoniche **sono una rappresentazione di quanto il nostro orecchio è sensibile in base a determinate [[3. Resources/Music Production/Frequenze\|Frequenze]] e volume.** Quindi studiare le curve isofoniche, ci aiuterà meglio a comprendere e ad intervenire sul nostro [[3. Resources/Music Production/Mixing\|Mixing]] e [[3. Resources/Music Production/Mastering\|Mastering]], soprattutto sull'[[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]].
+
 ![image_1630095660477_0.png](/img/user/3.%20Resources/Images/image_1630095660477_0.png)
 
 
@@ -36,3 +35,4 @@ utilizzare questo tipo di curva con alcuni EQ, aiuta a compensare lo sbilanciame
 - [Introduzione alla psicoacustica (itimarconinocera.org)](https://www.itimarconinocera.org/sito/menu/dipartimenti/tecnico_scientifico_informatica/corso_musica_elettronica/14.htm)
 - [Introduction to equal loudness workflows by Brandon S. Hire - YouTube](https://www.youtube.com/watch?v=fPyRek4JPCE)
 - [GitHub - andrewjhunt / equal-loudness: usa un equalizzatore semplice per simulare il bilanciamento audio a un volume diverso senza modificare il volume.](https://github.com/andrewjhunt/equal-loudness)
+

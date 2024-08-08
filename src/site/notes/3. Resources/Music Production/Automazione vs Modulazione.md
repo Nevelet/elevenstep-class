@@ -29,7 +29,6 @@ Per fare le automazioni abbiamo bisogno degli Inviluppi e ne esistono due tipi:
 - la **Modulazione** può essere convertita in Automazione con alcuni dispositivi di M4L.
 - con la **Modulazione** possiamo creare dei loop con la funzione appunto loop. Con l'**Automazione**, solo nella vista sessione
 - La **Modulazione** è la stessa che troviamo sui Sintetizzatori
-- 
 
 
 ## Quando usarle

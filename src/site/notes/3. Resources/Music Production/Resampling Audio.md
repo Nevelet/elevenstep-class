@@ -5,9 +5,8 @@
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/General Knowledge/Audio\|Audio]]
 
 ---
-## Descrizione
 
-Il **resampling audio** è il processo di **modificare la frequenza di campionamento** di un file audio. La frequenza di campionamento, misurata in **hertz (Hz)** o **kilohertz (kHz)**, indica quante volte al secondo il segnale audio viene campionato e convertito in dati digitali.
+Il resampling audio **è il processo di modificare la frequenza di campionamento di un file audio.** La frequenza di campionamento, misurata in **hertz (Hz)** o **kilohertz (kHz)**, indica quante volte al secondo il segnale audio viene campionato e convertito in dati digitali.
 
 Esistono due tipi principali di resampling:
 
@@ -16,7 +15,7 @@ Esistono due tipi principali di resampling:
 
 ## Upsampling
 
-l'upsampling è interpolazione quindi aggiunta di campioni "calcolati".
+l'upsampling **è interpolazione quindi aggiunta di campioni "calcolati".**
 Nel caso dell'upsampling viene aumentato ma non significa che aumenta la definizione o qualità (anzi). I campioni che vengono aggiunti infatti sono "calcolati" e non sono effettivi. E' come se avessi mezzo litro di vino e aggiungessi mezzo litro d'acqua dicendo che ora hai un litro di vino...
 
 - Aumentare la frequenza di campionamento significa acquisire più campioni del segnale audio al secondo.
@@ -26,7 +25,7 @@ Nel caso dell'upsampling viene aumentato ma non significa che aumenta la definiz
 
 ## Downsampling
 
-Il sotto-campionamento o decimazione (downsampling in inglese) è nella teoria dei segnali l'operazione di riduzione della frequenza di campionamento del segnale elettrico.
+Il sotto-campionamento o decimazione (downsampling in inglese) **è nella teoria dei segnali l'operazione di riduzione della frequenza di campionamento del segnale elettrico.**
 
 Tale tecnica viene impiegata solitamente per comprimere la velocità di trasmissione o la dimensione dei dati in formato digitale. Se i dati sono di tipo grafico (ad esempio, immagini digitali), l'operazione prende il nome di subsampling, e in quel caso consiste nella riduzione dei pixel che compongono l'immagine.
 
@@ -44,7 +43,6 @@ Tale tecnica viene impiegata solitamente per comprimere la velocità di trasmiss
 **È importante notare che il resampling audio non è sempre un processo lossless (senza perdita).** A seconda della qualità dell'algoritmo di resampling utilizzato, potrebbe introdurre una leggera perdita di qualità del suono, soprattutto nel caso del downsampling.
 
 Quando si esegue il resampling audio, è fondamentale scegliere un algoritmo di alta qualità per minimizzare la perdita di qualità e l'introduzione di distorsione.
-
 
 
 ## Tecniche

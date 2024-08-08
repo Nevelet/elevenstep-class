@@ -9,7 +9,6 @@ Links:: [[3. Resources/General Knowledge/Audio\|Audio]], [[3. Resources/Music Pr
 - Classiche operazioni
 	- Copia/Duplica e Incolla
 	- Taglia/Elimina
-	- 
 
 
 - Riparazione e restaurazione audio con iZotope RX8  

@@ -5,7 +5,6 @@
 Links:: [[3. Resources/Music Production/Mixing & Mastering/Processi Basilari di Mixing\|Processi Basilari di Mixing]], [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Audio/Equalizzatore\|Equalizzatore]]
 
 ---
-## Descrizione
 
 L'equalizzazione audio **è un processo di modifica del suono che prevede ==l'aggiustamento delle frequenze== che compongono una traccia audio.** L'equalizzazione **viene utilizzata per ==bilanciare le frequenze nella registrazione in modo da ottenere un suono più chiaro e ben definito.==** L'equalizzatore **consente di regolare l'ampiezza delle diverse bande di frequenza in modo da aumentare o diminuire la presenza di alcune parti del suono.** In questo modo **è possibile ==enfatizzare determinati strumenti o voci, migliorare la presenza dei bassi o dei medi e rendere più nitidi i suoni ad alta frequenza.==**
 

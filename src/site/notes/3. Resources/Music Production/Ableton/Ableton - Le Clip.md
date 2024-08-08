@@ -5,15 +5,13 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ---
-## Cos'è una Clip
-
 Le Clip **sono dei contenitori e grazie a quello che c'è al suo interno possiamo riprodurre un suono**
 
 Esistono due tipi di Clip: Clip Audio e Clip MIDI
 
 ## Clip Audio
 
-In poche parole, una clip audio è un contenitore con dentro un file che contiene un suono. Questo suono può essere registrato, importato o generato dal software.
+In poche parole, una clip audio **è un contenitore con dentro un file che contiene un suono.** Questo suono **può essere registrato, importato o generato dal software.**
 
 La clip audio a differenza della clip midi, non può essere creata vuota, ma viene creata nelle seguenti situazioni:
 
@@ -22,7 +20,7 @@ La clip audio a differenza della clip midi, non può essere creata vuota, ma vie
 
 ## Clip MIDI
 
-Una clip MIDI invece, è sempre un contenitore, ma al suo interno troviamo note.
+Una clip MIDI invece, **è sempre un contenitore, ma al suo interno troviamo note.**
 
 **Come viene creata una Clip Midi**
 

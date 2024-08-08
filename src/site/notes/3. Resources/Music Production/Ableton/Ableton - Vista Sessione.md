@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 ---
 ## Cos'è
 
-La "vista sessione" in Ableton è una delle due modalità di lavoro principali del software. In questa vista, è possibile organizzare e riprodurre clip musicali in modo flessibile, consentendo agli artisti e ai produttori di eseguire improvvisazioni o creare arrangiamenti musicali in tempo reale. È particolarmente utile per il live performance e la composizione di musica elettronica.
+La "vista sessione" in Ableton **è una delle due modalità di lavoro principali del software.** In questa vista, è possibile organizzare e **riprodurre clip musicali in modo flessibile**, consentendo agli artisti e ai produttori di eseguire **improvvisazioni o creare arrangiamenti musicali in tempo reale.** È particolarmente **utile per il live performance** e la composizione di musica elettronica.
 
 
 ## Caratteristiche

@@ -5,8 +5,7 @@
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Strumenti Ritmici\|Strumenti Ritmici]]
 
 ---
-La batteria nella produzione musicale è uno strumento fondamentale che fornisce il ritmo e la base per una canzone. La scelta dei suoni della batteria e lo stile di gioco possono influenzare notevolmente il genere musicale e lo stile complessivo della canzone.
-_strumento ritmico_
+La batteria nella produzione musicale **è uno strumento fondamentale che fornisce il ritmo e la base per una canzone.** La scelta dei suoni della batteria e lo stile di gioco possono influenzare notevolmente il genere musicale e lo stile complessivo della canzone.
 
 
 ## Related Notes
@@ -27,3 +26,4 @@ _strumento ritmico_
 ## 📝 Notes
 
 - drum = tamburo
+- strumento ritmico

@@ -69,9 +69,9 @@ Se vedi che più avanti il brano o la voce non è più a tempo, probabilmente ci
 
 ## Related Notes
 
-- [[3. Resources/Music Production/Ableton/Mettere a tempo su Ableton\|Mettere a tempo su Ableton]]
+- 
 
-## References
+## Video
 
 - [25 TUTORIAL ABLETON - Mettere a tempo qualsiasi cosa - YouTube](https://www.youtube.com/watch?v=WrqTT6m2ANI)
 

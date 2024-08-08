@@ -7,7 +7,8 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[
 ---
 
 - Cos'è il [[3. Resources/Music Production/Tempo (Musica)\|Tempo]] e il [[3. Resources/Music Production/Ritmo (Musica)\|Ritmo]]
-- [[3. Resources/Music Production/Differenza tra one Shot e Loop\|Differenza tra one Shot e Loop]]
+- Utilizzo dei [[3. Resources/Music Production/Sample Audio\|Campioni audio]] (Sample)
+	- [[3. Resources/Music Production/Differenza tra one Shot e Loop\|Differenza tra one Shot e Loop]]
 - Quali sono gli [[3. Resources/Music Production/Strumenti Ritmici\|Strumenti Ritmici]]
 - [[3. Resources/Music Production/Batteria in Audio VS MIDI\|Batteria in Audio VS MIDI]]
 - [[3. Resources/Music Production/Tutti i suoni della batteria\|Tutti i suoni della batteria]] e [[3. Resources/Music Production/Strumenti Principali Drums EDM\|Strumenti Principali Drums EDM]]
@@ -21,7 +22,7 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[
 	- Creare/scegliere i Cymbals → [[3. Resources/Music Production/Sound Design/Cymbals (Sound Design)\|Cymbals (Sound Design)]]
 	- Creare/scegliere i Percs
 - [[3. Resources/Music Production/Drums (Scrittura)\|Drums (Scrittura)]]
-	- [[3. Resources/Music Production/Registrazione MIDI\|Registrazione MIDI]]
+	- [[3. Resources/Music Production/Routing e Registrazione MIDI\|Routing e Registrazione MIDI]]
 - [[3. Resources/Music Production/Drums Roll\|Drums Roll]]
 - [[3. Resources/Music Production/Drum Fills\|Drum Fills]]
 - [[3. Resources/Music Production/Layering\|Layering]]

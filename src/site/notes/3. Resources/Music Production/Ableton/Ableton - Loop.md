@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[Loop\|Loop]]
 
 ---
-Loop/Regione di registrazione Punch
+_Loop/Regione di registrazione Punch_
 
 ## Tasti Rapidi
 

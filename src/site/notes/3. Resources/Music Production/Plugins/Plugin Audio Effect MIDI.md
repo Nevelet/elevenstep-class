@@ -6,6 +6,7 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
 
 ---
 
+## Plugin consigliati
 
 - [[Plug-in Chord Prism\|Plug-in Chord Prism]]
 - [[Scaler\|Scaler]]

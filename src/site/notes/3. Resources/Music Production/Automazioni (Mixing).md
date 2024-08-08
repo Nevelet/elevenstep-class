@@ -5,7 +5,6 @@
 Links:: [[3. Resources/Music Production/Mixing & Mastering/Processi Basilari di Mixing\|Processi Basilari di Mixing]], [[3. Resources/Music Production/Mixing\|Mixing]]
 
 ---
-## Descrizione
 
 Le automazioni nella produzione musicale **servono a gestire in modo preciso e automatico i cambiamenti di parametri all'interno di una traccia audio o MIDI**. Questo significa che **è possibile programmare gli strumenti virtuali, i mixer e gli effetti in modo che si attivino o disattivino in momenti specifici della canzone**, creando così un'esperienza musicale più fluida e coerente. 
 
@@ -37,3 +36,4 @@ In sintesi, le automazioni sono uno strumento essenziale per la produzione music
 
 - [[3. Resources/Music Production/Modulazioni\|Modulazioni]]
 - [[3. Resources/Music Production/Automazione vs Modulazione\|Automazione vs Modulazione]]
+

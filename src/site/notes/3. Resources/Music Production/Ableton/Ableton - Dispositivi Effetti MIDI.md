@@ -5,9 +5,8 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Ableton/Ableton - Dispositivi\|Ableton - Dispositivi]]
 
 ---
-## Descrizione
 
-I dispositivi Effetti MIDI servono per modificare i dati prima che essi entrino in un [[3. Resources/Music Production/Ableton/Ableton - Dispositivi Instruments\|Dispositivi Instruments]]. Difatti, questi dispositivi (Effetti MIDI), vengono inseriti prima di quelli instruments.  
+I dispositivi Effetti MIDI **servono per modificare i dati prima che essi entrino in un [[3. Resources/Music Production/Ableton/Ableton - Dispositivi Instruments\|Dispositivi Instruments]].** Difatti, questi dispositivi (Effetti MIDI), vengono inseriti prima di quelli instruments.  
 
 ## Lista completa
 

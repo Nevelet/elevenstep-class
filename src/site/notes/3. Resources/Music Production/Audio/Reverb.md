@@ -5,7 +5,6 @@
 Links:: [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]], [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Audio/Delay\|Delay]]
 
 ---
-## Descrizione
 
 Il riverbero audio è l'**effetto acustico che si verifica quando un suono viene riflesso dalle superfici circostanti, creando una serie di riflessioni multiple e decrescenti nel tempo.** Queste riflessioni **aggiungono profondità e spazialità al suono, simile all'effetto di ascoltare un suono in una stanza vuota rispetto a una stanza piena di oggetti**.
 Il riverbero può essere controllato attraverso l'uso di tecniche di registrazione audio o l'aggiunta di effetti di riverbero in post-produzione.

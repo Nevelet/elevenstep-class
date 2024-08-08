@@ -6,8 +6,6 @@ Links:: [[3. Resources/Music Production/Pubblicazione Musica\|Pubblicazione Musi
 
 ---
 
-## 📝 Notes
-
 
 
 ## Costo per streaming 
@@ -30,3 +28,5 @@ In generale, Spotify tende ad essere uno dei negozi più rapidi per quanto rigua
 Puoi ottenere da noi alcuni link ai tuoi negozi accedendo alla scheda Servizi per gli artisti del tuo account. È presente un menu a discesa che ti consente di passare il mouse su Marketing e selezionare Richieste URL. Questo ti porterà al modulo di richiesta URL pre-salvataggio.
 
 Provvederemo a procurarti i collegamenti pertinenti non appena saranno resi disponibili dai negozi.
+
+

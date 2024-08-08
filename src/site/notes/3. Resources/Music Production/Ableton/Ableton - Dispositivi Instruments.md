@@ -6,9 +6,9 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 
 ---
 
-## Descrizione
+I dispositivi Instrument, **ci permettono di riprodurre un suono o generarlo da zero.** Questo tipi di dispositivi, possono essere collocato solo in [[3. Resources/Music Production/Ableton/Ableton - Traccia MIDI\|Tracce MIDI]]
 
-I dispositivi Instrument, ci permettono di riprodurre un suono o generarlo da zero. Questo tipi di dispositivi, possono essere collocato solo in [[3. Resources/Music Production/Ableton/Ableton - Traccia MIDI\|Tracce MIDI]]
+## Tipi di Instruments
 
 **Esistono due tipi di dispositivi instrument:**
 

@@ -6,7 +6,7 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 
 ---
 
-- Creare/scegliere il SUB
+- Creare/scegliere il [[3. Resources/Music Production/Synth Sub Bass\|SUB]]
 - Scrittura SUB
 - [[3. Resources/Music Production/Synth Sub Bass (Mixing)\|Synth Sub Bass (Mixing)]]
 - [[3. Resources/Music Production/Mixing & Mastering/Kick & Sub (Mixing)\|Kick & Sub (Mixing)]]

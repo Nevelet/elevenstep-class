@@ -17,3 +17,9 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 - [[3. Resources/Music Production/Ableton/Ableton - Sampler\|Ableton - Sampler]] (solo avanzato) (**no Intro**)
 - Altri a richiesta
 
+
+## Related Notes
+
+- [[3. Resources/Music Production/Ableton/Ableton - Dispositivi\|Ableton - Dispositivi]]
+
+

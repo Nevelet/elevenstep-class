@@ -41,11 +41,6 @@ Gli accordi sono utilizzati in tutti i [[3. Resources/Music Production/Generi Mu
 
 
 
-
-
-
-
-
 ---
 
 ## 🔗 Related Notes
@@ -62,3 +57,4 @@ Gli accordi sono utilizzati in tutti i [[3. Resources/Music Production/Generi Mu
 
 - [Accordi musicali](https://it.wikipedia.org/wiki/Categoria:Accordi_musicali)
 - [CREARE VELOCEMENTE degli ACCORDI con o senza Plugin/Tools - YouTube](https://youtu.be/5wHqmeDUGYA?si=KbII624-rP6Yhm1r)
+

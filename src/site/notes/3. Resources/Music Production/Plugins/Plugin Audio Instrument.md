@@ -7,21 +7,27 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]], [[
 ---
 Gli **strumenti (Instruments)** sono plugin che risiedono nelle tracce MIDI, ricevono il MIDI e producono l'audio.
 
-Come possono essere chiamati:
+**Come possono essere chiamati:**
+
 - Virtual Instruments
 - Instruments
 - Instruments Plugins
 - Strumenti Virtuali
 
-abbiamo due tipi di strumenti virtuali: sintesi e campionamento
+**Abbiamo due tipi di strumenti virtuali:** 
 
-## Synth (Synthesizer)
+- Sintesi
+- Campionamento
+
+## Synths
+
+### [[3. Resources/Music Production/Synth\|Synth]] (Synthesizer)
 
 - [[3. Resources/Music Production/Plugins/Xfer Serum\|Xfer Serum]]
 - Native Instruments Massive (sintetizzatore)
 - Spectrasonics Omnisphere (sintetizzatore)
 
-## [[3. Resources/Music Production/Synth\|Synth]] modulari
+### [[3. Resources/Music Production/Synth\|Synth]] modulari
 
 - Bespoke
 - Plugdata
@@ -30,7 +36,6 @@ abbiamo due tipi di strumenti virtuali: sintesi e campionamento
 - Grid Bitwig Studio
 - Reaktor
 - SynthEdit
-
 
 ## [[3. Resources/Music Production/Campionatore\|Campionatori]] (Sampler)
 
@@ -41,11 +46,11 @@ _Alcuni plugin sono multi-timbrici, ossia che può caricare più suoni, librerie
 - [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx Un'ottima Alternativa GRATUITA al Kontakt]]
 
 
-## Drums
+### Drums
 
 - [MT Power Drum Kit Plugin sampler gratuito AU VST](https://www.powerdrumkit.com/it/)
 
-## Acoustic
+### Acoustic
 
 - Guitar
 - Orchestral

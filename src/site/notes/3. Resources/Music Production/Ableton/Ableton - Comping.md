@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ---
-Comping in Ableton Live è una funzione che consente di registrare più take di una sezione e poi combinarli per creare una traccia finale perfetta.
+Comping in Ableton Live **è una funzione che consente di registrare più take di una sezione e poi combinarli per creare una traccia finale perfetta.**
 
 Si può pensare al comping come a un modo per "prendere il meglio" da ogni registrazione. Immaginiamo di registrare una parte di chitarra: potresti suonare la parte tre o quattro volte, e ogni take avrà i suoi momenti buoni e cattivi. Forse la prima volta hai suonato l'inizio perfettamente, ma hai sbagliato la fine. La seconda volta, potresti aver suonato la fine in modo fantastico, ma hai suonato l'inizio in maniera imprecisa.
 

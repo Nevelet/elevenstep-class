@@ -6,8 +6,6 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ---
 
-_Zoom In/Out_
-
 ## Spostamento con mouse
 
 - Tramite il "Righello dei Tempi di Battuta"
@@ -30,3 +28,6 @@ _Zoom In/Out_
 - ALT (Allargare e stringere le tracce)
 
 
+## Notes
+
+- Zoom In/Out

@@ -13,7 +13,7 @@ Links:: [[3. Resources/Music Production/Arrangiamento\|Arrangiamento]], [[3. Res
 		- Loop
 		- Preset
 		- [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]]
-		- [[3. Resources/Music Production/Armonia\|Armonia]] [[3. Resources/Music Production/Melodia\|Melodia]]
+		- [[3. Resources/Music Production/Armonia\|Armonia]] e [[3. Resources/Music Production/Melodia\|Melodia]]
 - Come iniziare
 	- Inizio con melodia
 	- Inizio filtrato con suoni mono nota
@@ -49,3 +49,4 @@ Links:: [[3. Resources/Music Production/Arrangiamento\|Arrangiamento]], [[3. Res
 
 - rendere la vita più facile per i dj
 	- i dj di solito utilizzano l'intro come punto di riferimento per mixare con le altre
+

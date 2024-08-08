@@ -7,7 +7,6 @@ Links:: [[3. Resources/Music Production/Tecniche avanzate di Mixing\|Tecniche av
 ---
 Tra le modulazioni troviamo gli [[3. Resources/Music Production/LFO\|LFO]] e gli [[3. Resources/Music Production/ADSR Envelope\|Inviluppi]]
 
-
 ## Modulazioni veloce vs lente
 
 una modulazione lenta, ad es. tramite LFO, ci dà il tempo di percepirne il cambiamento, mentre una veloce, ci cambia in modo radicale il suono di partenza, ottenendo anche dei suoni metallici. Quest'ultima è una tecnica usata molto in fase di [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]], per creare suoni particolari.

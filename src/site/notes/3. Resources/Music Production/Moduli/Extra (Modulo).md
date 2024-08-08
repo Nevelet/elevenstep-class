@@ -15,9 +15,6 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 	- Selezione Multipla
 - [[3. Resources/Music Production/Ableton/Ableton - Organizzazione\|Ableton - Organizzazione]]
 - Localizzatori
-
-**Avanzato:**
-
 - [[3. Resources/Music Production/Ableton/Ableton - Preferenze\|Ableton - Preferenze]] avanzate
 - [[3. Resources/Music Production/Ableton/Gli Errori più Comuni di chi Inizia ad Utilizzare Ableton\|Gli Errori più Comuni di chi Inizia ad Utilizzare Ableton]]
 - Caricare File Video
@@ -33,20 +30,14 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 - [[3. Resources/Music Production/Ableton/Ableton - Lessons Panel\|Ableton - Lessons Panel]]
 - Automazione Tempo (BPM)
 - Cambio Metrica
-- MPE e Note Expression
+- [[3. Resources/Music Production/MPE (MIDI Polyphonic Expression)\|MPE]] e Note Expression
 - Importare un file MIDI (.mid)
 - Importare File Audio dal menù
 - [[3. Resources/Music Production/Ableton/Ableton - Tips & Tricks\|Ableton - Tips & Tricks]]
-	- Chance Tools
-	- Sostituzione Dinamica
-	- Ricerca Intelligente sul Browser
-	- Rinominare velocemente
-	- Usare due finestre
-	- Risparmiare sulle risorse
-	- File Options
 
 
 
 ## Related Notes
 
 - [[3. Resources/Music Production/Ableton/Ableton - Extra\|Ableton - Extra]]
+

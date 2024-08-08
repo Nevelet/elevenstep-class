@@ -5,9 +5,10 @@
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
-## Descrizione
 
-Il sound design audio **è l'arte di creare e modificare i suoni** utilizzati in film, televisione, videogiochi, teatro e altre forme di media. Il sound designer lavora per creare effetti sonori che siano realistici o fantastici, per accentuare l'atmosfera e l'emozione di una scena, e per manipolare la musica e i dialoghi in modo da comunicare efficacemente il messaggio del progetto. Il processo di sound design può includere la registrazione di suoni dal vivo, l'utilizzo di libreria di effetti sonori pre-esistenti o la creazione di nuovi suoni attraverso la sintesi digitale. 
+Il sound design audio **è l'arte di creare e modificare i suoni** utilizzati in film, televisione, videogiochi, teatro e altre forme di media. Il sound designer lavora per creare effetti sonori che siano realistici o fantastici, per accentuare l'atmosfera e l'emozione di una scena, e per manipolare la musica e i dialoghi in modo da comunicare efficacemente il messaggio del progetto. 
+
+Il processo di sound design può includere la registrazione di suoni dal vivo, l'utilizzo di libreria di effetti sonori pre-esistenti o la creazione di nuovi suoni attraverso la sintesi digitale. 
 
 ## Chapters
 
@@ -26,7 +27,6 @@ Il sound design audio **è l'arte di creare e modificare i suoni** utilizzati in
 - [[3. Resources/Music Production/Editing Audio\|Editing Audio]]
 - [[3. Resources/Music Production/Resampling Audio\|Resampling Audio]]
 - [[3. Resources/Music Production/Sound Design/Chains Effects (Sound Design)\|Chains Effects (Sound Design)]]
-
 
 ## Sound Design
 
@@ -50,16 +50,6 @@ Il sound design audio **è l'arte di creare e modificare i suoni** utilizzati in
 - [Sound Design and Synth Fundamentals - YouTube](https://www.youtube.com/watch?v=NJLIS2MkFe4)
 - [Diventare SOUND DESIGNER (con Massimo Mariani) 🎬 I MESTIERI DEL CINEMA - YouTube](https://www.youtube.com/watch?v=fQNHlNWPmdM)
 - [Sound Design. I segreti per iniziare. Ce lo spiega Furio Valitutti. - YouTube](https://www.youtube.com/watch?v=AWdZITRJCEo)
-
-
-
-## Query
-
-```dataview
-LIST
-FROM [[#this.file.link]] and !outgoing([[#this.file.link]])
-WHERE !contains(file.path, "Templates") AND !contains(file.path, "Daily") AND contains(Links, this.file.link)
-```
 
 
 ## Notes

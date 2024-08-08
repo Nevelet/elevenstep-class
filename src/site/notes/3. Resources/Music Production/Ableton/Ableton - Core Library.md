@@ -14,6 +14,10 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 - Templates
 
 
+## Related Notes
+
+- [[3. Resources/Music Production/Ableton/Ableton - Percorso Contenuti\|Ableton - Percorso Contenuti]]
+
 
 
 

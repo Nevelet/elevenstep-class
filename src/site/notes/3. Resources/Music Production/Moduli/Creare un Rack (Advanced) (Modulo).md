@@ -16,6 +16,9 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 	- Mappature complesse attraverso i Rack
 
 
+## Related Notes
+
+- [[3. Resources/Music Production/Ableton/Ableton - Racks\|Ableton - Racks]]
 
 
 

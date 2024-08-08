@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
-In musica, l'**arrangiamento** è il processo di **organizzare** gli elementi musicali di un brano per **realizzare una specifica versione** di esso. È come se si prendesse uno spartito e lo si interpretasse in un modo particolare, adattandolo a un determinato stile, contesto o organico strumentale.
+In musica, l'arrangiamento **è il processo di organizzare gli elementi musicali di un brano per realizzare una specifica versione di esso.** È come se si prendesse uno spartito e lo si interpretasse in un modo particolare, adattandolo a un determinato stile, contesto o organico strumentale.
 
 _Ogni genere musicale ha una struttura e un arrangiamento bene o male diverso, ed è per questo che una traccia di riferimento potrebbe aiutarti a capire come strutturarla e arrangiarla._
 
@@ -93,6 +93,7 @@ Non c'è un buon arrangiamento senza una buona [[3. Resources/Music Production/S
 Il processo di arrangiamento parte, generalmente, dalla scelta del genere musicale in cui si vuole arrangiare il pezzo.
 
 **Il processo può includere, al suo interno:**
+
 - la riarmonizzazione, qualora la sequenza di accordi di partenza sia non corrispondente allo stile musicale di arrivo;
 - lo sviluppo di una struttura complessa (intro e giri di intro, numero di chorus o strofe o ritornelli, giri di soli, sezioni strumentali, finali, ecc.);
 - la scelta degli strumenti da utilizzare in base al genere del brano.

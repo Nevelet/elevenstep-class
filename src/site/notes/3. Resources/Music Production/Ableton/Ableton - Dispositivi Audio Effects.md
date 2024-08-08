@@ -5,9 +5,8 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Ableton/Ableton - Dispositivi\|Ableton - Dispositivi]]
 
 ---
-## Descrizione
 
-Questi dispositivi modificano il suono di un segnale audio. Possono essere utilizzati per aggiungere effetti come riverbero, delay e compressione. 
+Questi dispositivi **modificano il suono di un segnale audio.** Possono essere utilizzati per aggiungere effetti come riverbero, delay e compressione. 
 
 ## Lista Completa
 

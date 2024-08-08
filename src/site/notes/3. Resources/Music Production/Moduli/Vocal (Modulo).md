@@ -10,7 +10,7 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 	- Trovare o/e [[3. Resources/Music Production/Registrazione Vocal\|Registrazione Vocal]]
 	- [[3. Resources/Music Production/Ableton/Mettere a tempo su Ableton\|Mettere a tempo su Ableton]]
 	- [[3. Resources/Music Production/Mettere in chiave un Vocal\|Mettere in chiave un Vocal]]
-- [[3. Resources/Music Production/Ableton/Ableton - Vista Clip Audio\|Ableton - Vista Clip Audio]] → Pannelli Tools (Basic)
+- [[3. Resources/Music Production/Ableton/Ableton - Vista Clip Audio\|Ableton - Vista Clip Audio]] → Pannelli Tools
 	- Clip
 	- Audio
 - [[3. Resources/Music Production/Mixing & Mastering/Vocal (Mixing)\|Vocal (Mixing)]]
@@ -25,5 +25,6 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 	- Automazioni
 
 
+## Related Notes
 
-[[3. Resources/Music Production/Strumenti Vocali\|Strumenti Vocali]]
+- [[3. Resources/Music Production/Strumenti Vocali\|Strumenti Vocali]]

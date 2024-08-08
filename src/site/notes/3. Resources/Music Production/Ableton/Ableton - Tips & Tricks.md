@@ -21,7 +21,6 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[Tips & Tri
 - Tasti Rapidi
 
 
-
 ## Locatori
 
 - Possibilità di selezionare e mettere in loop tra un punto e l'altro

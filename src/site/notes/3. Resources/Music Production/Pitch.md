@@ -5,7 +5,6 @@
 Links:: [[3. Resources/Music Production/Frequenze\|Frequenze]]
 
 ---
-## Descrizione
 
 Il pitch audio **è la [[3. Resources/Music Production/Frequenze\|frequenza]] fondamentale di un suono, che determina l'intonazione del suono stesso.** È possibile modificare il pitch di un suono **per cambiarne l'altezza o la tonalità**, e viene spesso utilizzato in produzione musicale e nella post-produzione audio per creare effetti o correggere errori di intonazione.
 

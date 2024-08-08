@@ -5,7 +5,6 @@
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
-## Descrizione
 
 Il mastering audio **è l'ultima fase di produzione audio**, durante la quale un ingegnere del suono, noto come "ingegnere di mastering", ottimizza e perfeziona la traccia audio finale. Questo processo **coinvolge l'equilibrio delle frequenze, il controllo della dinamica, la normalizzazione del volume e l'applicazione di effetti come la compressione e la limitazione.** L'obiettivo del mastering è garantire che la traccia suoni coerente, bilanciata e ottimizzata per la riproduzione su diversi sistemi audio.
 
@@ -168,8 +167,7 @@ Il mastering audio **è l'ultima fase di produzione audio**, durante la quale un
 ---
 ## Related Notes
 
-
-
+- [[3. Resources/Music Production/Mixing\|Mixing]]
 
 
 ## Notes
