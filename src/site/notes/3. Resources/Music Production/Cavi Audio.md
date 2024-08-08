@@ -23,8 +23,7 @@ Links:: [[3. Resources/General Knowledge/Audio\|Audio]]
 
 ## Query
 
-```dataview
-LIST
-FROM [[#this.file.link]] and !outgoing([[#this.file.link]])
-WHERE !contains(file.path, "Templates") AND !contains(file.path, "Daily") 
-```
+- [[3. Resources/Music Production/Risorse e materiale utile per la produzione musicale\|Risorse e materiale utile per la produzione musicale]]
+- [[3. Resources/Music Production/COME ESPANDERE VIA ADAT I CANALI DELLA SCHEDA AUDIO (CLOCK, BNC, Ingressi, Uscite)\|COME ESPANDERE VIA ADAT I CANALI DELLA SCHEDA AUDIO (CLOCK, BNC, Ingressi, Uscite)]]
+
+{ .block-language-dataview}
