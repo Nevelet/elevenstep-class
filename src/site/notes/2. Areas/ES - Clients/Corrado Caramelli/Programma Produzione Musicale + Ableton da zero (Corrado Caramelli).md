@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/es-training/programmi-lezioni-private-elevenstep/programma-ableton-da-zero-produzione-musicale/"}
+{"dg-publish":true,"permalink":"/2-areas/es-clients/corrado-caramelli/programma-produzione-musicale-ableton-da-zero-corrado-caramelli/"}
 ---
 
-
+Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 ---
 
@@ -252,4 +252,6 @@
 
 
 ## [[3. Resources/Music Production/Moduli/Extra (Modulo)\|Extra]]
+
+
 

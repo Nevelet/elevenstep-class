@@ -5,6 +5,7 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ---
+
 ## Descrizione
 
 La vista dettaglio che si trova in basso, è il cuore di Ableton, è attraverso queste due viste che possiamo elaborare/modificare tutto 

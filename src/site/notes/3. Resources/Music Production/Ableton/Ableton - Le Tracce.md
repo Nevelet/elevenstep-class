@@ -5,6 +5,7 @@
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Moduli/Le Sezioni di Ableton (Modulo)\|Le Sezioni di Ableton (Modulo)]]
 
 ---
+
 ## Cosa sono le tracce
 
 Le Tracce ospitano le clip e inoltre controllano il flusso dei segnali. Ogni traccia ha pure i controlli Mixer

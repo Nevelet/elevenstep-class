@@ -6,6 +6,7 @@ Links:: [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma 
 
 ---
 
+- Creare dei gruppi
 - Librerie
 	- Core Library
 	- Libreria Utente

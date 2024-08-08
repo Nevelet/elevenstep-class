@@ -25,10 +25,9 @@ Questa: [[3. Resources/Music Production/Creazione Elementi Percussivi (Drums)\|C
 - [[3. Resources/Music Production/Ableton/Ableton - Le Clip\|Le Clip]] 
 	- Creare una Clip MIDI
 	- [[3. Resources/Music Production/Ableton/Rispettare le CLIP e le battute\|Rispettare le CLIP e le battute]]
-	- [[3. Resources/Music Production/Ableton/Ableton - Vista Clip MIDI\|Vista Clip MIDI]] → Editor delle Note MIDI
-	- [[3. Resources/Music Production/Ableton/Ableton - Vista Clip MIDI\|Vista Clip MIDI]] → Pannelli Tools (Basic)
-		- Clip
-		- Notes
+	- [[3. Resources/Music Production/Ableton/Ableton - Vista Clip MIDI\|Vista Clip MIDI]]
+		- [[3. Resources/Music Production/Ableton/Ableton - Editor delle Note MIDI\|Editor delle Note MIDI]]
+		- [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista Clip (MIDI)\|Pannelli della Vista Clip (MIDI)]]
 - [[3. Resources/Music Production/Drums (Scrittura)\|Drums (Scrittura)]]
 	- [[3. Resources/Music Production/Registrazione MIDI\|Registrazione MIDI]]
 - Quantizzazione [[3. Resources/Music Production/MIDI\|MIDI]]
