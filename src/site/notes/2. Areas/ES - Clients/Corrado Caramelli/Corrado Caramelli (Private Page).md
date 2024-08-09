@@ -15,10 +15,9 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Ora disponibili: 
 - Prossimo lezione: 
 
-## Lezioni fatte
+## Moduli completati
 
-
-- [[0. Inbox/Lezione 01 di Produzione Musicale + Ableton da zero (Corrado Caramelli) (2024-08-09)\|Lezione 01 di Produzione Musicale + Ableton da zero (Corrado Caramelli) (2024-08-09)]]
+- 
 
 ## Risorse
 

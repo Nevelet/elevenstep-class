@@ -6,57 +6,90 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 ---
 
-## [[3. Resources/Music Production/Ableton/Info e Acquisto di Ableton\|Info e Acquisto di Ableton]]
-## [[3. Resources/Music Production/Moduli/Panoramica e Configurazione (Modulo)\|Panoramica e Configurazione]]
+## ✅ [[3. Resources/Music Production/Ableton/Info e Acquisto di Ableton\|Info e Acquisto di Ableton]]
+## ✅ [[3. Resources/Music Production/Moduli/Panoramica e Configurazione (Modulo)\|Panoramica e Configurazione]]
 
-- Le sezioni di Ableton
-- Configurazione Audio
-- Configurazione MIDI
-- Configurazione Plugins
+- [x] Le sezioni di Ableton
+- [x] Configurazione Audio
+- [x] Configurazione MIDI
 
-## [[3. Resources/Music Production/Moduli/Le Sezioni di Ableton (Modulo)\|Le Sezioni di Ableton]]
+## ✅ [[3. Resources/Music Production/Moduli/Le Sezioni di Ableton (Modulo)\|Le Sezioni di Ableton]]
 
-- Vista Sessione & Arrangiamento
-- Le Tracce
-- Vista dettaglio delle tracce
-- Browser
-- Barra di Controllo
+1. [x] [[3. Resources/Music Production/Ableton/Ableton - Vista Sessione\|Vista Sessione]] (approfondimento nel modulo dedicato)
+2. [x] [[3. Resources/Music Production/Ableton/Ableton - Vista Arrangiamento\|Vista Arrangiamento]] (approfondimento nel modulo dedicato)
+3. [x] [[3. Resources/Music Production/Ableton/Ableton - Le Tracce\|Ableton - Le Tracce]]
+4. [x] [[3. Resources/Music Production/Ableton/Ableton - La Vista dettaglio delle tracce\|Ableton - La Vista dettaglio delle tracce]]
+5. [x] [[3. Resources/Music Production/Ableton/Ableton - Browser\|Browser]]
+6. [x] Barra di Controllo
 
-## [[3. Resources/Music Production/Moduli/Dispositivi e Plugin (Modulo)\|Dispositivi e Plugin]]
+### Compiti per casa
 
-- Cosa sono i dispositivi
-- Differenza tra Instruments e Effects
-- Dispositivi Audio Effects
-- Dispositivi Instrument
-- Dispositivi MIDI
-- Aggiungere e organizzare i Plug-in
+- Fare pratica con le sezioni di Ableton (Vista Dispositivi, Clip, Tracce e Browser)
 
-## [[3. Resources/Music Production/Moduli/Vista Arrangiamento (Modulo)\|Vista Arrangiamento]]
+## ✅ [[3. Resources/Music Production/Moduli/Dispositivi e Plugin (Modulo)\|Dispositivi e Plugin]]
 
-- Area di Scrub
-- Selezione e Spostamento
-- Zoom
-- Griglia e Battute
-- Loop
-- Duplicare e Rispettare le Battute
+- [x] Cosa sono i [[3. Resources/Music Production/Ableton/Ableton - Dispositivi\|Dispositivi]]
+- [x] [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
+- [ ] [[3. Resources/Music Production/Ableton/Ableton - L'uso dei Preset\|L'uso dei Preset]]
+
+### Compiti per casa
+
+- prova ad usare alcuni dispositivi di Ableton e inizia a familiarizzare con le diverse tipologie. 
+
+## ✅ [[3. Resources/Music Production/Moduli/Vista Arrangiamento (Modulo)\|Vista Arrangiamento]]
+
+- [x] Area di Scrub
+- [x] Selezione e Spostamento
+- [x] Zoom
+- [x] Griglia e Battute
+- [x] Loop
+- [x] Duplicare e Rispettare le Battute
+
+### Compiti per casa
+
+- Muoversi nella vista arrangiamento è fondamentale, quindi cerca di fare molta pratica anche qui.
 
 ## [[3. Resources/Music Production/Moduli/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi (Drums)]]
 
-- Ritmo e tempo
-- Differenza tra one Shot e Loop
-- Drum Rack (Basic)
-- Trovare o creare il Kick giusto
-- Trovare o creare lo Snare/Clap
-- Trovare i Cymbals più adatti
-- Le Clip
-- Editor delle Note MIDI
-- Pannelli Tools MIDI (Basic)
-- Programming Kick & Clap/Snare
-- Programming Cymbals & Percs
-- Quantizzazione MIDI
-- L'utilizzo del Groove
-- Layering 
-- Mixing Tracks & Group (Basic)
+
+- [x] Cos'è il [[3. Resources/Music Production/Tempo (Musica)\|Tempo]] e il [[3. Resources/Music Production/Ritmo (Musica)\|Ritmo]]
+- [x] Utilizzo dei [[3. Resources/Music Production/Sample Audio\|Campioni audio]] (Sample)
+	- [x] [[3. Resources/Music Production/Differenza tra one Shot e Loop\|Differenza tra one Shot e Loop]]
+- [x] Quali sono gli [[3. Resources/Music Production/Strumenti Ritmici\|Strumenti Ritmici]]
+- [x] [[3. Resources/Music Production/Tutti i suoni della batteria\|Tutti i suoni della batteria]] e [[3. Resources/Music Production/Strumenti Principali Drums EDM\|Strumenti Principali Drums EDM]]
+- [x] [[3. Resources/Music Production/Tipi di Suoni della Drums per generi\|Tipi di Suoni della Drums per generi]]
+- [x] Cos'è l'[[3. Resources/General Knowledge/Audio\|Audio]] e il [[3. Resources/Music Production/MIDI\|MIDI]]
+- [x] [[3. Resources/Music Production/Batteria in Audio VS MIDI\|Batteria in Audio VS MIDI]]
+- [x] [[3. Resources/Music Production/Campionatore\|Campionatori]] e [[3. Resources/Music Production/Ableton/Ableton - Drum Rack\|Ableton - Drum Rack]]
+- [x] [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]] o creare il suono giusto
+	- [ ] Creare/scegliere il Kick → [[3. Resources/Music Production/Sound Design/Kick (Sound Design)\|Kick (Sound Design)]]
+	- [ ] Creare/scegliere Snare → [[3. Resources/Music Production/Sound Design/Snare (Sound Design)\|Snare (Sound Design)]]
+	- [ ] Creare/scegliere Clap → [[3. Resources/Music Production/Sound Design/Clap (Sound Design)\|Clap (Sound Design)]]
+	- [ ] Creare/scegliere i Cymbals → [[3. Resources/Music Production/Sound Design/Cymbals (Sound Design)\|Cymbals (Sound Design)]]
+	- [ ] Creare/scegliere i Percs
+- [ ] [[3. Resources/Music Production/Ableton/Ableton - Le Clip\|Le Clip]] 
+	- [x] Creare una Clip MIDI
+	- [x] [[3. Resources/Music Production/Ableton/Rispettare le CLIP e le battute\|Rispettare le CLIP e le battute]]
+	- [ ] [[3. Resources/Music Production/Ableton/Ableton - Vista Clip MIDI\|Vista Clip MIDI]]
+		- [ ] [[3. Resources/Music Production/Ableton/Ableton - Editor delle Note MIDI\|Editor delle Note MIDI]] (approfondire meglio)
+		- [ ] [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista Clip (MIDI)\|Pannelli della Vista Clip (MIDI)]] (approfondire meglio)
+- [ ] [[3. Resources/Music Production/Drums (Scrittura)\|Drums (Scrittura)]]
+- [ ] Quantizzazione [[3. Resources/Music Production/MIDI\|MIDI]]
+- [ ] Creare [[3. Resources/Music Production/Groove\|Groove]] con [[3. Resources/Music Production/Ableton/Ableton - Groove\|Ableton - Groove]]
+- [ ] [[3. Resources/Music Production/Layering\|Layering]]
+- [ ] [[3. Resources/Music Production/Mixing\|Mixing]] Tracks & Group
+	- [ ] [[3. Resources/Music Production/Mixing & Mastering/Kick (Mixing)\|Kick (Mixing)]]
+	- [ ] [[3. Resources/Music Production/Snare (Mixing)\|Snare (Mixing)]]
+	- [ ] [[3. Resources/Music Production/Cymbals (Mixing)\|Cymbals (Mixing)]]
+	- [ ] [[3. Resources/Music Production/Mixing & Mastering/Drums (Mix Buss)\|Drums (Mix Buss)]]
+
+### Compiti per casa
+
+- Creare un loop di batteria di 4 battute con una traccia Kick & Snare e una con Cymbals
+	- usare Drum Rack
+	- importare i campioni one-shot nella drum rack
+	- creare le note nell’Editor MIDI
+
 
 ## [[3. Resources/Music Production/Moduli/Routing e Registrazione MIDI su Ableton (Modulo)\|Routing e Registrazione MIDI]]
 
@@ -252,6 +285,8 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 
 ## [[3. Resources/Music Production/Moduli/Extra (Modulo)\|Extra]]
+
+- Installazione e utilizzo plugin → [[3. Resources/Music Production/Ableton/Ableton - Configurazione Plugins\|Configurazione Plugins]]
 
 
 
