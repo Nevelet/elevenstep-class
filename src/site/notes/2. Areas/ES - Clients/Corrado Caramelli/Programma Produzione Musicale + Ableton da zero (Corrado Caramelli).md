@@ -49,7 +49,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 - Muoversi nella vista arrangiamento è fondamentale, quindi cerca di fare molta pratica anche qui.
 
-## [[3. Resources/Music Production/Moduli/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi (Drums)]]
+## ✅ [[3. Resources/Music Production/Moduli/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi (Drums)]]
 
 
 - [x] Cos'è il [[3. Resources/Music Production/Tempo (Musica)\|Tempo]] e il [[3. Resources/Music Production/Ritmo (Musica)\|Ritmo]]
@@ -91,23 +91,23 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 	- creare le note nell’Editor MIDI
 
 
-## [[3. Resources/Music Production/Moduli/Routing e Registrazione MIDI su Ableton (Modulo)\|Routing e Registrazione MIDI]]
+## ✅ [[3. Resources/Music Production/Moduli/Routing e Registrazione MIDI su Ableton (Modulo)\|Routing e Registrazione MIDI]]
 
 - Routing Tracce MIDI
 - Registrazione MIDI
 
 ## [[3. Resources/Music Production/Moduli/Creazione Elementi Armonici (Modulo)\|Creazione Elementi Armonici]]
 
-- Le basi della Teoria Musicale o/e Strumenti
-- Scegliere la scala
-- Progressione Accordi
-- Sezione "Sounds"
-- Grand Piano (Ableton)
-- Preset o Sound Design Synth
-- Preset o Sound Design Supersaw
-- Dispositivi Essenziali MIDI
-- Mixing
-- Layering
+- [ ] Le basi della Teoria Musicale o/e Strumenti
+- [ ] Scegliere la scala
+- [ ] Progressione Accordi
+- [ ] Sezione "Sounds"
+- [ ] Grand Piano (Ableton)
+- [ ] Preset o Sound Design Synth
+- [ ] Preset o Sound Design Supersaw
+- [ ] Dispositivi Essenziali MIDI
+- [ ] Mixing
+- [ ] Layering
 
 ## [[3. Resources/Music Production/Moduli/Bass (Modulo)\|Bass]]
 
