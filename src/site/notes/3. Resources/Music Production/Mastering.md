@@ -135,6 +135,7 @@ Il mastering audio **è l'ultima fase di produzione audio**, durante la quale un
 ## Utilizzo del [[3. Resources/Music Production/Mixing & Mastering/Limiter\|Limiter]] & [[3. Resources/Music Production/Mixing & Mastering/Clipper\|Clipper]]
 
 - [[3. Resources/Music Production/Mixing & Mastering/Differenza tra Limiter e Clipper\|Differenza tra Limiter e Clipper]]
+- [[3. Resources/Music Production/Mixing & Mastering/Differenza tra Limiter, Clipper e Maximizer\|Differenza tra Limiter, Clipper e Maximizer]]
 - Utilizzo del [[3. Resources/Music Production/Mixing & Mastering/Limiter\|Limiter]] o/e [[3. Resources/Music Production/Mixing & Mastering/Clipper\|Clipper]]
 - Utilizzo di più Limiter/Clipper
 - [[3. Resources/Music Production/Maximizer\|Maximizer]]

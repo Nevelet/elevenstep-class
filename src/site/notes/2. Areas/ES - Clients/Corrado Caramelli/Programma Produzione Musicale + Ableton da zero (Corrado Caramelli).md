@@ -30,7 +30,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 - [x] Cosa sono i [[3. Resources/Music Production/Ableton/Ableton - Dispositivi\|Dispositivi]]
 - [x] [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
-- [ ] [[3. Resources/Music Production/Ableton/Ableton - L'uso dei Preset\|L'uso dei Preset]]
+- [x] [[3. Resources/Music Production/Ableton/Ableton - L'uso dei Preset\|L'uso dei Preset]]
 
 ### Compiti per casa
 
@@ -62,26 +62,26 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - [x] [[3. Resources/Music Production/Batteria in Audio VS MIDI\|Batteria in Audio VS MIDI]]
 - [x] [[3. Resources/Music Production/Campionatore\|Campionatori]] e [[3. Resources/Music Production/Ableton/Ableton - Drum Rack\|Ableton - Drum Rack]]
 - [x] [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]] o creare il suono giusto
-	- [ ] Creare/scegliere il Kick → [[3. Resources/Music Production/Sound Design/Kick (Sound Design)\|Kick (Sound Design)]]
-	- [ ] Creare/scegliere Snare → [[3. Resources/Music Production/Sound Design/Snare (Sound Design)\|Snare (Sound Design)]]
-	- [ ] Creare/scegliere Clap → [[3. Resources/Music Production/Sound Design/Clap (Sound Design)\|Clap (Sound Design)]]
-	- [ ] Creare/scegliere i Cymbals → [[3. Resources/Music Production/Sound Design/Cymbals (Sound Design)\|Cymbals (Sound Design)]]
-	- [ ] Creare/scegliere i Percs
-- [ ] [[3. Resources/Music Production/Ableton/Ableton - Le Clip\|Le Clip]] 
+	- [x] Creare/scegliere il Kick → [[3. Resources/Music Production/Sound Design/Kick (Sound Design)\|Kick (Sound Design)]]
+	- [x] Creare/scegliere Snare → [[3. Resources/Music Production/Sound Design/Snare (Sound Design)\|Snare (Sound Design)]]
+	- [x] Creare/scegliere Clap → [[3. Resources/Music Production/Sound Design/Clap (Sound Design)\|Clap (Sound Design)]]
+	- [x] Creare/scegliere i Cymbals → [[3. Resources/Music Production/Sound Design/Cymbals (Sound Design)\|Cymbals (Sound Design)]]
+	- [x] Creare/scegliere i Percs
+- [x] [[3. Resources/Music Production/Ableton/Ableton - Le Clip\|Le Clip]] 
 	- [x] Creare una Clip MIDI
 	- [x] [[3. Resources/Music Production/Ableton/Rispettare le CLIP e le battute\|Rispettare le CLIP e le battute]]
-	- [ ] [[3. Resources/Music Production/Ableton/Ableton - Vista Clip MIDI\|Vista Clip MIDI]]
-		- [ ] [[3. Resources/Music Production/Ableton/Ableton - Editor delle Note MIDI\|Editor delle Note MIDI]] (approfondire meglio)
-		- [ ] [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista Clip (MIDI)\|Pannelli della Vista Clip (MIDI)]] (approfondire meglio)
-- [ ] [[3. Resources/Music Production/Drums (Scrittura)\|Drums (Scrittura)]]
-- [ ] Quantizzazione [[3. Resources/Music Production/MIDI\|MIDI]]
-- [ ] Creare [[3. Resources/Music Production/Groove\|Groove]] con [[3. Resources/Music Production/Ableton/Ableton - Groove\|Ableton - Groove]]
-- [ ] [[3. Resources/Music Production/Layering\|Layering]]
-- [ ] [[3. Resources/Music Production/Mixing\|Mixing]] Tracks & Group
-	- [ ] [[3. Resources/Music Production/Mixing & Mastering/Kick (Mixing)\|Kick (Mixing)]]
-	- [ ] [[3. Resources/Music Production/Snare (Mixing)\|Snare (Mixing)]]
-	- [ ] [[3. Resources/Music Production/Cymbals (Mixing)\|Cymbals (Mixing)]]
-	- [ ] [[3. Resources/Music Production/Mixing & Mastering/Drums (Mix Buss)\|Drums (Mix Buss)]]
+	- [x] [[3. Resources/Music Production/Ableton/Ableton - Vista Clip MIDI\|Vista Clip MIDI]]
+		- [x] [[3. Resources/Music Production/Ableton/Ableton - Editor delle Note MIDI\|Editor delle Note MIDI]] (approfondire meglio)
+		- [x] [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista Clip (MIDI)\|Pannelli della Vista Clip (MIDI)]] (approfondire meglio)
+- [x] [[3. Resources/Music Production/Drums (Scrittura)\|Drums (Scrittura)]]
+- [x] Quantizzazione [[3. Resources/Music Production/MIDI\|MIDI]]
+- [x] Creare [[3. Resources/Music Production/Groove\|Groove]] con [[3. Resources/Music Production/Ableton/Ableton - Groove\|Ableton - Groove]]
+- [x] [[3. Resources/Music Production/Layering\|Layering]]
+- [x] [[3. Resources/Music Production/Mixing\|Mixing]] Tracks & Group
+	- [x] [[3. Resources/Music Production/Mixing & Mastering/Kick (Mixing)\|Kick (Mixing)]]
+	- [x] [[3. Resources/Music Production/Snare (Mixing)\|Snare (Mixing)]]
+	- [x] [[3. Resources/Music Production/Cymbals (Mixing)\|Cymbals (Mixing)]]
+	- [x] [[3. Resources/Music Production/Mixing & Mastering/Drums (Mix Buss)\|Drums (Mix Buss)]]
 
 ### Compiti per casa
 

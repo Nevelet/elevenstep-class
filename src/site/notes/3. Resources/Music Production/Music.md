@@ -20,6 +20,9 @@
 
 - Let It All Go - Birdy & RHODES: [Birdy and Rhodes - Let It All Go (Official Music Video) - YouTube](https://youtu.be/6u0DGIh3wLA?si=7YdrBDNRkL1nVdK7)
 
+## Favorite Artist
+
+- NOTSOBAD (House)
 
 
 ## 🔗 Related Notes
