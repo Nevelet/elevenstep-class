@@ -20,8 +20,5 @@
 - [[3. Resources/Music Production/Materiale Lezione/Programma Sound Design\|Programma Sound Design]]
 
 
-> [!NOTE]- Title
-> - contenuto
-> - altro contenuto
-> 	- sdadadadas
-> 		- sdadada
+
+- [[0. Inbox/Moduli Ableton da Zero (Callouts)\|Moduli Ableton da Zero (Callouts)]]
