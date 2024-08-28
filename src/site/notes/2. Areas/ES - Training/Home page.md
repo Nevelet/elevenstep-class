@@ -5,7 +5,7 @@
 
 ## Salve a tutti e benvenuti su Elevenstep Class!
 
-![Photo 1 BN (Medie).jpg](/img/user/3.%20Resources/Images/Photo%201%20BN%20(Medie).jpg)
+![Photo 1 BN (Medie).jpg|500](/img/user/3.%20Resources/Images/Photo%201%20BN%20(Medie).jpg)
 
 ## Programmi Lezione
 
@@ -21,4 +21,4 @@
 
 
 
-- [[0. Inbox/Moduli Ableton da Zero (Callouts)\|Moduli Ableton da Zero (Callouts)]]
+
