@@ -18,3 +18,10 @@
 - [[3. Resources/Music Production/Materiale Lezione/Programma Mixing & Mastering\|Programma Mixing & Mastering]]
 - [[3. Resources/Music Production/Materiale Lezione/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
 - [[3. Resources/Music Production/Materiale Lezione/Programma Sound Design\|Programma Sound Design]]
+
+
+> [!NOTE]- Title
+> - contenuto
+> - altro contenuto
+> 	- sdadadadas
+> 		- sdadada
