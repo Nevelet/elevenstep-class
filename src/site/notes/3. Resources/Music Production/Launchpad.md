@@ -22,7 +22,7 @@ I Launchpad sono spesso utilizzati da **produttori di musica elettronica, DJ e m
 - **Intuitivo e facile da usare:** Non è necessario avere una conoscenza approfondita della teoria musicale o della produzione audio per utilizzare un Launchpad.
 - **Creativo e versatile:** I Launchpad possono essere utilizzati per creare una vasta gamma di suoni e stili musicali.
 - **Portatile:** I Launchpad sono generalmente compatti e leggeri, quindi puoi portarli con te ovunque tu vada.
-- **Abordabile:** Esistono Launchpad per tutti i budget, da modelli economici a quelli più professionali.
+- **Abbordabile:** Esistono Launchpad per tutti i budget, da modelli economici a quelli più professionali.
 
 **Ci sono molte opzioni disponibili sul mercato.** Alcuni modelli popolari includono:
 

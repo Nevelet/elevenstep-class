@@ -63,7 +63,7 @@ Le modulazioni sono una parte fondamentale della [[3. Resources/Music Production
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Automazione vs Modulazione\|Automazione vs Modulazione]]
-- [[3. Resources/Music Production/Moduli/Automazioni & Modulazioni (Modulo)\|Automazioni & Modulazioni (Modulo)]]
+- [[Automazioni & Modulazioni (Modulo)\|Automazioni & Modulazioni (Modulo)]]
 
 
 

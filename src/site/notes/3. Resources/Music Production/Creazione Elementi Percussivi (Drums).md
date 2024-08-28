@@ -37,7 +37,7 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[
 
 ## 🔗 Related Notes
 
-- [[3. Resources/Music Production/Moduli/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi con Ableton (Drums) (Modulo)]]
+- [[Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi con Ableton (Drums) (Modulo)]]
 - [[3. Resources/Music Production/Strumenti Ritmici\|Strumenti Ritmici]]
 - [[3. Resources/Music Production/Groove Drums\|Groove Drums]]
 - [[3. Resources/Music Production/Patterns\|Patterns]]

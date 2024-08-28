@@ -10,7 +10,7 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
 
 È costituito dalle quattro fasi che rappresentano il volume di riproduzione di un suono nel tempo. L'evoluzione di ciascuna fase è determinata da una funzione.
 
-### ADSR
+## ADSR
 
 L'acronimo ADSR viene utilizzato nella teoria musicale relativamente alla sintesi elettronica dei suoni, e deriva dalle quattro parole inglesi Attack (Attacco), Decay (Decadimento), Sustain (Sostegno), Release (Rilascio).
 

@@ -12,8 +12,8 @@ Links:: [[3. Resources/Music Production/Mixing & Mastering/Drums (Mixing)\|Drums
 - [[3. Resources/Music Production/Mixing & Mastering/Snare (Effetti Audio)\|Snare (Effetti Audio)]]
 - [[3. Resources/Music Production/Mixing & Mastering/Snare (Immagine Stereo)\|Snare (Immagine Stereo)]]
 - [[3. Resources/Music Production/Snare (Tecniche)\|Snare (Tecniche)]]
-- [[3. Resources/Music Production/Snare (Tips & Tricks)\|Snare (Tips & Tricks)]]
 - Snare (Layering)
+- [[3. Resources/Music Production/Snare (Tips & Tricks)\|Snare (Tips & Tricks)]]
 
 
 ## Related Notes

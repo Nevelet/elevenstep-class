@@ -50,7 +50,7 @@ Per sessioni dal vivo, grazie alla sua gestione delle Clip, del tempo e delle Sc
 ## Registrazioni
 
 - Menu di Quantizzazione (Globale)
-	- Questo è **l'opzione più importante per la Vista Session** Perché aiuta ad **evitare errori ritmici durante la risproduzione delle Clip.**
+	- Questo è **l'opzione più importante per la Vista Session** Perché aiuta ad **evitare errori ritmici durante la riproduzione delle Clip.**
 		- Aspetta che finisca una misura stabilita
 		- è possibile la quantizzazione di default per ogni clip nelle preferenze "Record, Warp, Launch"
 - Registrazione della Sessione
@@ -176,7 +176,7 @@ Per sessioni dal vivo, grazie alla sua gestione delle Clip, del tempo e delle Sc
 
 - [[3. Resources/Music Production/Ableton/Ableton - Vista Arrangiamento\|Vista Arrangiamento]]
 - [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton\|Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton]]
-- [[3. Resources/Music Production/Moduli/Vista Sessione (Modulo)\|Vista Sessione (Modulo)]]
+- [[Vista Sessione (Modulo)\|Vista Sessione (Modulo)]]
 - [[2. Areas/ES - Content Creation/Content Video ES/Registrare una Sessione Live sulla Vista Arrangiamento\|Registrare una Sessione Live sulla Vista Arrangiamento]]
 - [[3. Resources/Music Production/Ableton/Ableton - Spostarsi tra le viste Sessione e Arrangiamento\|Ableton - Spostarsi tra le viste Sessione e Arrangiamento]]
 - [[3. Resources/Music Production/Ableton/Ableton - Differenza tra Vista Sessione e Vista Arrangiamento\|Ableton - Differenza tra Vista Sessione e Vista Arrangiamento]]

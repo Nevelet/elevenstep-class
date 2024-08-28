@@ -23,7 +23,7 @@ _Quanto basse deve avere il kick e quante il sub?_
 - Altra cosa, **sul sidechain, usare l'eq per prendere solo il body del kick** 
 - È possibile usare il Sidechain inverso, ossia abbassare le basse del kick quando c'è il sub con un EQ multibanda
 
-### Plug-in/Dipositivi
+### Plug-in/Dispositivi
 
 - Duck
 - [[2. Areas/ES - Content Creation/Content Video ES/Trackspacer plugin\|Trackspacer plugin]]

@@ -18,4 +18,4 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ## 🔗 Related Notes
 
-- [[3. Resources/Music Production/Moduli/Creazione Elementi Melodici (Modulo)\|Creazione Elementi Melodici (Modulo)]]
+- [[Creazione Elementi Melodici (Modulo)\|Creazione Elementi Melodici (Modulo)]]

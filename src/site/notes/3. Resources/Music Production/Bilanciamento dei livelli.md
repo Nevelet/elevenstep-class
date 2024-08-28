@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/bilanciamento-dei-livelli/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma Mixing & Mastering\|Programma Mixing & Mastering]]
+Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Materiale Lezione/Programma Mixing & Mastering\|Programma Mixing & Mastering]]
 
 ---
 

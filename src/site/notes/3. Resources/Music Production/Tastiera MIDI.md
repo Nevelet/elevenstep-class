@@ -34,7 +34,7 @@ A differenza di una tastiera tradizionale che produce suoni meccanicamente, la t
 - **Registrazione audio:** Per registrare tracce MIDI che possono essere successivamente modificate e mixate.
 - **Educazione musicale:** Per insegnare la teoria musicale e lo sviluppo di abilità pianistiche.
 
-## Scegli la tastiera MIDI
+## Scegliere la tastiera MIDI
 
 **La scelta della tastiera MIDI più adatta dipende dalle esigenze individuali e dal budget.**
 

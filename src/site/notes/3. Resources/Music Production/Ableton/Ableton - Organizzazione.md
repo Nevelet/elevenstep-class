@@ -23,5 +23,5 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 
 ## Related Notes
 
-- [[3. Resources/Music Production/Moduli/Organizzare il Progetto (Modulo)\|Organizzare il Progetto (Modulo)]]
+- [[Organizzare il Progetto (Modulo)\|Organizzare il Progetto (Modulo)]]
 

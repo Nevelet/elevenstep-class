@@ -25,6 +25,10 @@ Ci sono diverse componenti principali del tempo in musica:
 
 - [Beat e tempo | Learning Music](https://learningmusic.ableton.com/it/make-beats/beat-and-tempo.html)
 - [Tempo e genere | Learning Music](https://learningmusic.ableton.com/it/make-beats/tempo-and-genre.html)
-  
-## 📚 References
+
+
+## 🌍 External Links
+
+- [#03.1 Ritmo!Tempo Binario o Ternario? - YouTube](https://youtu.be/6PkPPtOfyDQ)
+
 

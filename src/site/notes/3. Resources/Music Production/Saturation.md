@@ -22,7 +22,7 @@ La saturazione audio **si verifica quando il segnale audio raggiunge un livello 
 
 ## Altra definizione
 
-La [[3. Resources/Music Production/Saturation\|saturazione]] è un effetto di modellazione d'onda in grado di aggiungere quel contributo "sporco", di spinta o di calore mancante al vostro suono. Può ammantare i segnali d'ingresso in una saturazione morbida o condurli a molte varietà di distorsione differenti.
+La [[3. Resources/Music Production/Saturation\|saturazione]] è un effetto di modellazione d'onda in grado di aggiungere quel contributo "sporco", di spinta o di calore mancante al suono. Può ammantare i segnali d'ingresso in una saturazione morbida o condurli a molte varietà di distorsione differenti.
 
 ## Plugins
 

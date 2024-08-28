@@ -35,7 +35,6 @@ Con la compressione seriale su un campione corto puoi abbassare la Threshold fin
 
 ## Tips & Tricks
 
-- alzare l'output o makeup gain prima di comprimere. Questo permette di definire prima quanta compressione vogliamo, quindi quanta gain reduction. 
 - abbassando al minimo la threshold, è più facile capire come lavorano gli attacchi e i rilasci. 
 
 ---

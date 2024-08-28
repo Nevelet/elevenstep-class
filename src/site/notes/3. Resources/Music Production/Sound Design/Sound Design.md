@@ -41,7 +41,7 @@ Il processo di sound design può includere la registrazione di suoni dal vivo, l
 - [[3. Resources/Music Production/Ableton/Ableton - Sound Design\|Ableton - Sound Design]]
 - [[3. Resources/Music Production/Sound Design/Sintesi Granulare\|Sintesi Granulare]]
 - [[3. Resources/Music Production/Texture (musica)\|Texture (musica)]]
-- [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma Sound Design\|Programma Sound Design]]
+- [[3. Resources/Music Production/Materiale Lezione/Programma Sound Design\|Programma Sound Design]]
 
 ## 📚 References
 

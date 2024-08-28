@@ -17,7 +17,7 @@ _Rhythmic/Percussion Instruments_
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Creazione Elementi Percussivi (Drums)\|Creazione Elementi Percussivi (Drums)]]
-- [[3. Resources/Music Production/Moduli/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi con Ableton (Drums) (Modulo)]]
+- [[Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi con Ableton (Drums) (Modulo)]]
 - [[3. Resources/Music Production/Strumenti Principali Drums EDM\|Strumenti Principali Drums EDM]]
 
 

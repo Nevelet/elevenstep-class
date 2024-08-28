@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/sound-design/concetti-fondamentali-fondamenti-del-sound-design/"}
 ---
 
-Links:: [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]], [[3. Resources/Music Production/Moduli/Introduzione al sound design (Modulo)\|Introduzione al sound design (Modulo)]]
+Links:: [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]], [[Introduzione al sound design (Modulo)\|Introduzione al sound design (Modulo)]]
 
 ---
 I concetti fondamentali del sound design sono quelli che permettono di manipolare e modellare i suoni a nostro piacimento. Questi concetti si basano su principi fisici, psicoacustici e creativi per dare vita alle idee del sound designer.

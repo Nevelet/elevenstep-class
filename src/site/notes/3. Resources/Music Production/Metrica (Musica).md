@@ -16,6 +16,8 @@ La metrica si basa su due elementi principali:
 
 Per esempio, un brano in 4/4 ha quattro pulsi per battuta e l'accento più forte cade sul primo pulso. Un brano in 3/4 ha tre pulsi per battuta e l'accento più forte cade sul primo pulso.
 
+Il primo valore ci indica quante pulsazioni ci sono, mentre l'altro ci indicano ogni quanto. Tipo 4/4 ci sono 4 pulsazioni ogni quarto.
+
 ## Tipi comuni di firme del tempo
 
 - **4/4:** È la firma del tempo più comune e indica quattro quarti di nota per misura.

@@ -18,7 +18,7 @@ Immagine il mixing come giocare a Tetris, ogni suono ha una sua forma e bisogna 
 
 - [[3. Resources/Music Production/Cosa ho Imparato e Sbagliato sul Mixing e Mastering\|Cosa ho Imparato e Sbagliato sul Mixing e Mastering]]
 - [BPM tempo and delay to time conversion calculator tempo - sengpielaudio Sengpiel Berlin](http://www.sengpielaudio.com/calculator-bpmtempotime.htm)
-- [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma Mixing & Mastering\|Programma Mixing & Mastering]]
+- [[3. Resources/Music Production/Materiale Lezione/Programma Mixing & Mastering\|Programma Mixing & Mastering]]
 
 ## Related Notes
 

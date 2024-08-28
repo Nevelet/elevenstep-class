@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/requisiti-per-creare-un-ottimo-brano/"}
 ---
 
-Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Moduli/Le fasi Preliminari (Modulo)\|Le fasi Preliminari (Modulo)]]
+Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[Le fasi Preliminari (Modulo)\|Le fasi Preliminari (Modulo)]]
 
 ---
 Creare un ottimo brano musicale coinvolge diversi aspetti, e i requisiti possono variare a seconda dello stile e degli obiettivi dell'artista. Inoltre richiede una combinazione di **talento, abilità, conoscenza e duro lavoro**. 

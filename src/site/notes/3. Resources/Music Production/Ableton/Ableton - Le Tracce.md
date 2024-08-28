@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-le-tracce/","tags":["type/note"]}
 ---
 
-Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Moduli/Le Sezioni di Ableton (Modulo)\|Le Sezioni di Ableton (Modulo)]]
+Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[Le Sezioni di Ableton (Modulo)\|Le Sezioni di Ableton (Modulo)]]
 
 ---
 

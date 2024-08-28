@@ -20,8 +20,8 @@ _Related: [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)
 
 ### EQ
 
-- ripulire la parte bassa con un EQ
-- utilizzare la modalità Audition dell'EQ Eight di Ableton
+- Ripulire la parte bassa con un EQ
+- Utilizzare la modalità Audition dell'EQ Eight di Ableton
 
 ### Gate
 
@@ -47,7 +47,7 @@ la riduzione rumore di Audacity è diversa rispetto al gate, quest'ultimo agisce
 
 ## Correzione intonazione
 
-- Autotune & Melodyne  
+- Autotune o/e Melodyne  
 
 ## Utilizzo del [[3. Resources/Music Production/Audio/Compressore\|Compressore]] sulla voce
 
@@ -87,9 +87,10 @@ Con l'aiuto del VU Meter e lo PSYSCOPE possiamo capire meglio come intervenire.
 
 - Saturazione in serie (in insert)
 - Saturazione in parallelo (è possibile usare il mix dry/wet)
-- meglio non saturare le basse delle voce per lasciarle naturale 
+- Meglio non saturare le basse delle voce per lasciarle naturale 
 
 ### Plugins
+
 - IVG
 - FabFilter Saturn
 - Decapitator di Soundtoys
@@ -133,7 +134,7 @@ Con l'aiuto del VU Meter e lo PSYSCOPE possiamo capire meglio come intervenire.
 
 ## Tips & Tricks
 
-- il Tremolo può aiutare a creare certi effetti particolare 
+- Il Tremolo può aiutare a creare certi effetti particolare 
 
 ## Tecniche Avanzate
 

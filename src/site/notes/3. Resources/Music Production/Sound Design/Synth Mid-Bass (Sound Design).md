@@ -22,7 +22,7 @@ Links:: [[3. Resources/Music Production/Synth Mid-Bass\|Synth Mid-Bass]], [[3. R
 ### Analizzare le frequenze
 
 - I MidBass suonano bene se sai gestire al meglio le frequenze e la sua dinamica
-- Mentre stai cercando il suono giusto per il tuo MidBass, utilizzo tipo lo SPAN, cosi puoi oltre a sentire, vedere ciò che manca al tuo suono.
+- Mentre stai cercando il suono giusto per il tuo MidBass, utilizza lo SPAN, cosi puoi oltre a sentire, vedere ciò che manca al tuo suono.
 - Nei MIDBASS, oltre a dare il corpo (importantissimo) bisogna dare un timbro, un tono. Quindi quando crei un suono da zero, ricordati queste cose:
 - Layer corpo (Low end)
 - Mid (Tono)

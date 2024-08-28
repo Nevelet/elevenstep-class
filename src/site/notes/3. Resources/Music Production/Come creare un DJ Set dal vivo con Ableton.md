@@ -30,7 +30,6 @@ Links:: [[0. Inbox/DJ mix\|DJ mix]]
 
 - **Software di mixaggio**: Esistono diversi software come Serato, Traktor, Virtual DJ e Ableton Live, che aiutano i DJ a creare mix con precisione digitale e a integrare librerie musicali digitali.
 	- [rekordbox - PIATTAFORMA DJ PROFESSIONALE COLLEGATA AL CLOUD](https://rekordbox.com/it/)
-	- 
 - **Software generali:**
 	- Mixed In Key (per tonalità e BPM) [Mixed In Key: Software for DJs and Music Producers - Mixed In Key](https://mixedinkey.com/)
 - **Siti utili:**

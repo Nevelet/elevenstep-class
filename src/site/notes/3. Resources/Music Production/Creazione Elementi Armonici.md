@@ -36,4 +36,4 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[
 
 ## 🔗 Related Notes
 
-- [[3. Resources/Music Production/Moduli/Creazione Elementi Armonici (Modulo)\|Creazione Elementi Armonici (Modulo)]]
+- [[Creazione Elementi Armonici (Modulo)\|Creazione Elementi Armonici (Modulo)]]

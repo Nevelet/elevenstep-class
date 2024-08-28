@@ -34,7 +34,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 ## Sovrascrivi MIDI
 
 
-# Registrazione MIDI (External MIDI)
+# Registrazione MIDI (Internal MIDI)
 
 - Tracce MIDI (Pre/Post FX) 
 	- STING

@@ -13,7 +13,7 @@ Links:: [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Imma
 
 ### [[3. Resources/Music Production/Pan pot\|Panning]] con Ritardo
 
-- in mono spostare uno dei due canali finché non si trova il punto dolce o in inglese lo "[[Sweet Spost\|Sweet Spost]]"
+- in mono spostare uno dei due canali finché non si trova il punto dolce o in inglese lo "[[Sweet Spot\|Sweet Spot]]"
 - Track delay
 
 ### Panning Spectral
@@ -23,7 +23,7 @@ Links:: [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Imma
 
 ## Effetti
 
-### [[Riverbero\|Riverbero]] (Profondità, Dimensione, spazio)
+### [[3. Resources/Music Production/Audio/Reverb\|Riverbero]] (Profondità, Dimensione, spazio)
 
 - Riverbero grande, porta indietro i suoni
 - Riverbero piccolo, porta in avanti nello spazio

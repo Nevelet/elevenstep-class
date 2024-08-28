@@ -11,7 +11,7 @@ Gli intervalli **sono fondamentali per la costruzione di melodie, armonie e scal
 
 ## Come si calcola un intervallo?
 
-Per calcolare un intervallo, si contano i **gradi** della scala musicale che separano le due note in questione, **incluso il grado di partenza e quello di arrivo**. I gradi possono essere **congiunti** (uno vicino all'altro) o **disgiunti** (non uno vicino all'altro).
+Per calcolare un intervallo, si contano i **[[3. Resources/Music Production/Gradi Scala\|gradi]]** della scala musicale che separano le due note in questione, **incluso il grado di partenza e quello di arrivo**. I gradi possono essere **congiunti** (uno vicino all'altro) o **disgiunti** (non uno vicino all'altro).
 
 Oltre al numero di gradi, si deve anche considerare la presenza di **alterazioni** (diesis ♯ o bemolli ♭) che aumentano o diminuiscono l'intervallo di un semitono.
 

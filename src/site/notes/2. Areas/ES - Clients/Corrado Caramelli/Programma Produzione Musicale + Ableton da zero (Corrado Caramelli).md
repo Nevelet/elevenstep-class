@@ -7,13 +7,13 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 ---
 
 ## ✅ [[3. Resources/Music Production/Ableton/Info e Acquisto di Ableton\|Info e Acquisto di Ableton]]
-## ✅ [[3. Resources/Music Production/Moduli/Panoramica e Configurazione (Modulo)\|Panoramica e Configurazione]]
+## ✅ [[Panoramica e Configurazione (Modulo)\|Panoramica e Configurazione]]
 
 - [x] Le sezioni di Ableton
 - [x] Configurazione Audio
 - [x] Configurazione MIDI
 
-## ✅ [[3. Resources/Music Production/Moduli/Le Sezioni di Ableton (Modulo)\|Le Sezioni di Ableton]]
+## ✅ [[Le Sezioni di Ableton (Modulo)\|Le Sezioni di Ableton]]
 
 1. [x] [[3. Resources/Music Production/Ableton/Ableton - Vista Sessione\|Vista Sessione]] (approfondimento nel modulo dedicato)
 2. [x] [[3. Resources/Music Production/Ableton/Ableton - Vista Arrangiamento\|Vista Arrangiamento]] (approfondimento nel modulo dedicato)
@@ -26,7 +26,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 - Fare pratica con le sezioni di Ableton (Vista Dispositivi, Clip, Tracce e Browser)
 
-## ✅ [[3. Resources/Music Production/Moduli/Dispositivi e Plugin (Modulo)\|Dispositivi e Plugin]]
+## ✅ [[Dispositivi e Plugin (Modulo)\|Dispositivi e Plugin]]
 
 - [x] Cosa sono i [[3. Resources/Music Production/Ableton/Ableton - Dispositivi\|Dispositivi]]
 - [x] [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
@@ -36,7 +36,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 - prova ad usare alcuni dispositivi di Ableton e inizia a familiarizzare con le diverse tipologie. 
 
-## ✅ [[3. Resources/Music Production/Moduli/Vista Arrangiamento (Modulo)\|Vista Arrangiamento]]
+## ✅ [[Vista Arrangiamento (Modulo)\|Vista Arrangiamento]]
 
 - [x] Area di Scrub
 - [x] Selezione e Spostamento
@@ -49,7 +49,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 - Muoversi nella vista arrangiamento è fondamentale, quindi cerca di fare molta pratica anche qui.
 
-## ✅ [[3. Resources/Music Production/Moduli/Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi (Drums)]]
+## ✅ [[Creazione Elementi Percussivi con Ableton (Drums) (Modulo)\|Creazione Elementi Percussivi (Drums)]]
 
 
 - [x] Cos'è il [[3. Resources/Music Production/Tempo (Musica)\|Tempo]] e il [[3. Resources/Music Production/Ritmo (Musica)\|Ritmo]]
@@ -91,12 +91,12 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 	- creare le note nell’Editor MIDI
 
 
-## ✅ [[3. Resources/Music Production/Moduli/Routing e Registrazione MIDI su Ableton (Modulo)\|Routing e Registrazione MIDI]]
+## ✅ [[Routing e Registrazione MIDI su Ableton (Modulo)\|Routing e Registrazione MIDI]]
 
 - Routing Tracce MIDI
 - Registrazione MIDI
 
-## [[3. Resources/Music Production/Moduli/Creazione Elementi Armonici (Modulo)\|Creazione Elementi Armonici]]
+## [[Creazione Elementi Armonici (Modulo)\|Creazione Elementi Armonici]]
 
 - [ ] Le basi della Teoria Musicale o/e Strumenti
 - [ ] Scegliere la scala
@@ -109,7 +109,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - [ ] Mixing
 - [ ] Layering
 
-## [[3. Resources/Music Production/Moduli/Bass (Modulo)\|Bass]]
+## [[Bass (Modulo)\|Bass]]
 
 - Cos'è e come utilizzare l'Operator
 - Campionatori vs Synth
@@ -118,37 +118,37 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Mixing Bass
 - Layering
 
-## [[3. Resources/Music Production/Moduli/Sub & Kick (Modulo)\|Sub & Kick]]
+## [[Sub & Kick (Modulo)\|Sub & Kick]]
 
 - Creare/scegliere il SUB
 - Mixing SUB
 - Gestione della Fase
 
-## [[3. Resources/Music Production/Moduli/Sidechain (Modulo)\|Sidechain]]
+## [[Sidechain (Modulo)\|Sidechain]]
 
 - Sidechain su Ableton
 
-## [[3. Resources/Music Production/Moduli/Creazione Elementi Melodici (Modulo)\|Creazione Elementi Melodici]]
+## [[Creazione Elementi Melodici (Modulo)\|Creazione Elementi Melodici]]
 
 - Preset o Sound Design Synth Lead
 - Creare una Melodia efficace
 - Mixing (Basic)
 - Layering
 
-## [[3. Resources/Music Production/Moduli/Creazione Atmosfera (Modulo)\|Creazione Atmosfera]]
+## [[Creazione Atmosfera (Modulo)\|Creazione Atmosfera]]
 
 - Creare un'atmosfera con Synth
 - Creare un'atmosfera con Resampling
 - Creare un arpeggio
 
-## [[3. Resources/Music Production/Moduli/Routing e Registrazione AUDIO (Modulo)\|Routing e Registrazione AUDIO]]
+## [[Routing e Registrazione AUDIO (Modulo)\|Routing e Registrazione AUDIO]]
 
 - Routing Audio
 - Registrazione Audio
 - Resampling
 - Comping (solo avanzato)
 
-## [[3. Resources/Music Production/Moduli/Vocal (Modulo)\|Vocal]]
+## [[Vocal (Modulo)\|Vocal]]
 
 - Trovare o/e Registrare un Vocal
 - Pannelli Tools Audio (Basic)
@@ -157,14 +157,14 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Mixing Vocal (Basic)
 - Sound Design Vocal
 
-## [[3. Resources/Music Production/Moduli/Editing Clip (Modulo)\|Editing Clip]]
+## [[Editing Clip (Modulo)\|Editing Clip]]
 
 - Copia, Incolla, Taglia, Elimina (anche di tempo)
 - Spostare
 - Duplicare
 - Multi selezione 
 
-## [[3. Resources/Music Production/Moduli/Le Tracce (Modulo)\|Le Tracce]]
+## [[Le Tracce (Modulo)\|Le Tracce]]
 
 - Gruppi
 - Track Delay
@@ -173,24 +173,24 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Collegare più Tracce
 - Selezione Multipla
 
-## [[3. Resources/Music Production/Moduli/WARP (Advanced) (Modulo)\|WARP (Advanced)]]
+## [[WARP (Advanced) (Modulo)\|WARP (Advanced)]]
 
 - Impostazioni di Warp
 - Algoritmi
 - Tips & Tricks 
 
-## [[3. Resources/Music Production/Moduli/Creare un Rack (Advanced) (Modulo)\|Creare un Rack]]
+## [[Creare un Rack (Advanced) (Modulo)\|Creare un Rack]]
 
 - Instrument, Audio Effect e MIDI Rack
 
-## [[3. Resources/Music Production/Moduli/Automazioni & Modulazioni (Modulo)\|Automazioni & Modulazioni]]
+## [[Automazioni & Modulazioni (Modulo)\|Automazioni & Modulazioni]]
 
 - Automazione vs Modulazione (Basic)
 - Automazioni
 - Modulazioni
 - Mappatura Tasti e MIDI
 
-## [[3. Resources/Music Production/Moduli/Arrangiamento Intro e Break (Modulo)\|Arrangiamento Intro e Break]]
+## [[Arrangiamento Intro e Break (Modulo)\|Arrangiamento Intro e Break]]
 
 - Cos'è l'arrangiamento?
 - Come strutturare un brano?
@@ -198,7 +198,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Arrangiamento Intro
 - Arrangiamento Break
 
-## [[3. Resources/Music Production/Moduli/Arrangiamento Buildup (Modulo)\|Arrangiamento Buildup]]
+## [[Arrangiamento Buildup (Modulo)\|Arrangiamento Buildup]]
 
 - Creare un crescendo
 - Aggiungere FX
@@ -208,13 +208,13 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Riciclo suoni intro e break
 - Automazioni
 
-## [[3. Resources/Music Production/Moduli/Automazioni e Modulazioni (Avanzate) (Modulo)\|Automazioni e Modulazioni (Avanzate)]]
+## [[Automazioni e Modulazioni (Avanzate) (Modulo)\|Automazioni e Modulazioni (Avanzate)]]
 
 - Automazione Tempo (BPM)
 - Cambio Metrica
 - Registrazione Automazione e Modulazione
 
-## [[3. Resources/Music Production/Moduli/Finalizzare il Drop (Modulo)\|Finalizzare il Drop]]
+## [[Finalizzare il Drop (Modulo)\|Finalizzare il Drop]]
 
 - Aggiungere gli FX
 - Creare dei Fills
@@ -222,21 +222,21 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Vocal Chant
 - Creare una variazione (Sezione B)
 
-## [[3. Resources/Music Production/Moduli/Breakdown + Drop (Modulo)\|Breakdown + Drop]]
+## [[Breakdown + Drop (Modulo)\|Breakdown + Drop]]
 
 - Creare un secondo Breakdown
 - Creare un Drop alternativo
 
-## [[3. Resources/Music Production/Moduli/Outro + Ritocchi Finali (Modulo)\|Outro + Ritocchi Finali]]
+## [[Outro + Ritocchi Finali (Modulo)\|Outro + Ritocchi Finali]]
 
 - Creare un Outro
 - Ritocchi Finali
 
-## [[3. Resources/Music Production/Moduli/Mixing (Modulo)\|Mixing]]
+## [[Mixing (Modulo)\|Mixing]]
 
-- [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma Mixing & Mastering\|Programma Mixing & Mastering]]
+- [[3. Resources/Music Production/Materiale Lezione/Programma Mixing & Mastering\|Programma Mixing & Mastering]]
 
-## [[3. Resources/Music Production/Moduli/Mastering (Modulo)\|Mastering]]
+## [[Mastering (Modulo)\|Mastering]]
 
 - Cos'è la [[3. Resources/Music Production/Mastering\|masterizzazione]] audio 
 - Tonal Balance: Creare un mix finale bilanciato e compatibile con diversi sistemi audio 
@@ -248,7 +248,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Tecniche di Mastering ([[3. Resources/Music Production/Mixing & Mastering/EQ Matching\|EQ Matching]])
 - Mastering online
 
-## [[3. Resources/Music Production/Moduli/Organizzare il Progetto (Modulo)\|Organizzare il Progetto]]
+## [[Organizzare il Progetto (Modulo)\|Organizzare il Progetto]]
 
 - Librerie
 - Gestire il Progetto Corrente (Cartella)
@@ -259,7 +259,7 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Tutto quello che c'è da salvare su Ableton (Backup)
 - Creare un Template
 
-## [[3. Resources/Music Production/Moduli/Approfondimento Dispositivi Ableton (Modulo)\|Approfondimento Dispositivi Ableton]]
+## [[Approfondimento Dispositivi Ableton (Modulo)\|Approfondimento Dispositivi Ableton]]
 
 - Max for Live (solo avanzato)
 - Operator (solo avanzato) (**no Intro**)
@@ -269,22 +269,22 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 - Sampler (solo avanzato) (**no Intro**)
 - Altri a richiesta
 
-## [[3. Resources/Music Production/Moduli/Vista Sessione (Modulo)\|Vista Sessione]]
+## [[Vista Sessione (Modulo)\|Vista Sessione]]
 
 - Tutto sulla Vista Session
 
-## [[3. Resources/Music Production/Moduli/Export (Modulo)\|Export]]
+## [[Export (Modulo)\|Export]]
 
 - Settaggi sull'esportazione
 - Esportare gli Stems
 
-## [[3. Resources/Music Production/Moduli/Distribuzione (Modulo)\|Distribuzione]]
+## [[Distribuzione (Modulo)\|Distribuzione]]
 
 - [[3. Resources/Music Production/Pubblicazione Musica\|Pubblicazione Musica]]
 - [[3. Resources/Music Production/Promozione Musica\|Promozione Musica]]
 
 
-## [[3. Resources/Music Production/Moduli/Extra (Modulo)\|Extra]]
+## [[Extra (Modulo)\|Extra]]
 
 - Installazione e utilizzo plugin → [[3. Resources/Music Production/Ableton/Ableton - Configurazione Plugins\|Configurazione Plugins]]
 

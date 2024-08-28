@@ -5,23 +5,40 @@
 Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 
 ---
-## Link utili
+# Link utili
 
-- Entrare in lezione: 
-- Prenotare la nuova lezione: 
+## 👨‍🏫 LINK VIDEOCALL
 
-## Info
+- [Entrare in lezione](https://meet.jit.si/2QkejdDCaJYL31w5)
 
-- Ora disponibili: 
-- Prossimo lezione: 
+---
+## 📆 Prenotazione lezione (per prenotare un nuovo giorno)
 
-## Moduli completati
+_Scegli qui sotto se la prossima lezione deve essere di 1 ora o di 2 ore._
 
-- 
+- 1 ora: [https://zcal.co/i/fsGGBM5r](https://zcal.co/i/fsGGBM5r)
+- 2 ore: [https://zcal.co/i/\_dAwTki1](https://zcal.co/i/_dAwTki1)
 
-## Risorse
+---
+## ⌚ ACQUISTO NUOVE ORE
 
+Sono finite le ore? Tranquillo/a, [cliccando qui](https://script.google.com/macros/s/AKfycbxSFIeJFTeIwePjTkY__UF3jU02myVaOVqBGh3tQXFu-UppkkGhNbrFSOBN7OPvxr0/exec?type=training) sotto puoi acquistarne altre
+
+---
+# ℹ Info
+
+### **Ore disponibili:** 16h
+
+### **Prossima Lezione:**
+
+
+---
+# 👨‍🏫 Lezioni/Moduli
+
+## [👉 Clicca qui per consultare i moduli e tutte le varie informazioni](https://elevenstep-class.netlify.app/2-areas/es-clients/corrado-caramelli/programma-produzione-musicale-ableton-da-zero-corrado-caramelli/)
 - [[2. Areas/ES - Clients/Corrado Caramelli/Programma Produzione Musicale + Ableton da zero (Corrado Caramelli)\|Programma Produzione Musicale + Ableton da zero (Corrado Caramelli)]]
+
+
 
 
 

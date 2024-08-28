@@ -15,4 +15,4 @@ Links:: [[3. Resources/Music Production/Registrazione\|Registrazione]], [[3. Res
 ## Related Notes
 
 - [[3. Resources/Music Production/Ableton/Ableton - Routing e Registrazione MIDI\|Ableton - Routing e Registrazione MIDI]]
-- [[3. Resources/Music Production/Moduli/Routing e Registrazione MIDI su Ableton (Modulo)\|Routing e Registrazione MIDI su Ableton (Modulo)]]
+- [[Routing e Registrazione MIDI su Ableton (Modulo)\|Routing e Registrazione MIDI su Ableton (Modulo)]]

@@ -17,7 +17,7 @@ La produzione musicale e l'atto e il processo creativo e tecnico che porta alla 
 ## Related Notes
 
 - [[3. Resources/Music Production/Web Production\|Web Production]]
-- [[2. Areas/ES - Training/Programmi Lezioni Private Elevenstep/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
+- [[3. Resources/Music Production/Materiale Lezione/Programma Produzione Musicale con Ableton\|Programma Produzione Musicale con Ableton]]
 
 
 ## 🔬 Query
