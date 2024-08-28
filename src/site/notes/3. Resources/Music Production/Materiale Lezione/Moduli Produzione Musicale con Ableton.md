@@ -7,10 +7,10 @@
 
 ## Le fasi Preliminari
 
-- Cosa serve per fare musica  
+- [[3. Resources/Music Production/Componenti per Home Studio\|Cosa serve per fare musica ]]
 	- Software  
 	- Hardware
-- Requisiti per creare un ottimo brano  
+- [[3. Resources/Music Production/Requisiti per creare un ottimo brano\|Requisiti per creare un ottimo brano]]
 	- Talento e ispirazione  
 	- Conoscenza della Teoria Musicale  
 	- Abilità tecniche  
@@ -21,16 +21,16 @@
 	- Produzione di alta qualità  
 	- Contesto e timing  
 	- Promozione efficace  
-- Le fasi della Produzione Musicale  
+- [[3. Resources/Music Production/Le Fasi della Produzione Musicale\|Le fasi della Produzione Musicale]]
 	- 1\. Pre-Produzione  
 	- 2\. Produzione  
 	- 3\. Post-produzione  
 	- 4\. Distribuzione  
 - Installare e Impostare i plugin necessari  
-	- Cosa sono i plugin  
+	- Cosa sono i [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]  
 	- Plugin consigliati 
 
-## Le basi della Teoria Musicale
+## Le basi della [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]]
 
 - Cos’è la teoria musicale  
 	-  La teoria musicale studia le regole e i principi che governano la composizione musicale.  
@@ -41,7 +41,7 @@
 		- Diesis (\#) e bemolle (b) per alterare l'altezza delle note.  
 	- Ottava  
 		- Divisione dello spettro sonoro in ottave, con 12 semitoni per ottava.  
-- Armonia  
+- [[3. Resources/Music Production/Armonia\|Armonia]]  
 	- Gli elementi più importanti  
 		- Le note  
 		- Le scale  
@@ -58,7 +58,7 @@
 		- Esprime emozioni  
 		- Struttura la musica  
 		- Comunica idee musicali  
-- Scale Musicali  
+- [[3. Resources/Music Production/Scale Musicali\|Scale Musicali]] 
 	- Cos’è una scala musicale  
 	- Qual è la sua funzione  
 	- Tono e semitono   
@@ -82,7 +82,7 @@
 		- V grado (Dominante)  
 		- VI grado (Sottotonica)  
 		- VII grado (Sensibile \[maj\] o Sottotonica \[min naturale\])  
-- Intervalli Musicali  
+- [[3. Resources/Music Production/Intervalli Musicali\|Intervalli Musicali]]
 	- Cosa sono gli intervalli  
 		- Distanza tra due note.  
 		- 3a maggiore (contare dalla nota di partenza alla nota di arrivo. Ad es. DO-MI)  
@@ -93,7 +93,7 @@
 		- Gli intervalli formano accordi e melodie.  
 	- Intervallo armonico (se suoniamo più note alla volta)  
 	- Intervallo melodico (se suoniamo più suoni in successione)  
-- Accordi  
+- [[3. Resources/Music Production/Accordi\|Accordi]]  
 	- Cosa sono gli accordi  
 		- Combinazione di tre o più note suonate simultaneamente.  
 	- Triade  
@@ -102,11 +102,11 @@
 		- Maggiore, minore, diminuito, aumentato.  
 	- Progressioni  
 		- Successione di accordi che crea una struttura armonica.  
-- Tonalità  
+- [[3. Resources/Music Production/Tonalità\|Tonalità]]  
 	- Definizione  
 	- Tonica e dominante  
 	- Modulazione  
-- Tempo  
+- [[3. Resources/Music Production/Tempo (Musica)\|Tempo]]  
 	- Cos’è il tempo  
 	- Funzione  
 		- Descrive l’andamento e la velocità  
@@ -122,7 +122,7 @@
 	- Quaternario (accenti metrici: forte, debole, mezzo forte, debole)  
 	- Ternario (accenti metrici: forte, debole, debole)  
 	- Binario (accenti metrici: forte, debole)  
-- Ritmo  
+- [[3. Resources/Music Production/Ritmo (Musica)\|Ritmo]]  
 	- Cos’è il ritmo  
 		- Si riferisce al modo in cui i suoni e le pause sono organizzati nel tempo. Successione di note che si ripetono nel tempo  
 		- Durata note  
@@ -133,54 +133,54 @@
 	- Groove  
 		- "feeling" o alla sensazione ritmica che dà coesione a un brano
 
-## Creazione Elementi Percussivi
+## [[3. Resources/Music Production/Creazione Elementi Percussivi (Drums)\|Creazione Elementi Percussivi (Drums)]]
 
-- Cos'è l'Audio e il MIDI  
+- Cos'è l'[[3. Resources/General Knowledge/Audio\|Audio]] e il [[3. Resources/Music Production/MIDI\|MIDI]]  
 - Utilizzo dei Campioni audio (Sample)  
-	- Cosa sono i Samples  
+	- Cosa sono i [[3. Resources/Music Production/Sample Audio\|Samples]]  
 	- Differenza tra one Shot e Loop  
-- Strumenti Ritmici (batteria e i suoi componenti)  
-	- Cos’è la batteria  
+- [[3. Resources/Music Production/Strumenti Ritmici\|Strumenti Ritmici]] (batteria e i suoi componenti)  
+	- Cos’è la [[3. Resources/Music Production/Drums\|batteria]]  
 	- I suoni della batteria   
 	- Batteria acustica vs Batteria digitale  
-- Batteria in Audio o MIDI  
-- Campionatore  
+- [[3. Resources/Music Production/Batteria in Audio VS MIDI\|Batteria in Audio VS MIDI]]  
+- [[3. Resources/Music Production/Campionatore\|Campionatore]]  
 	- Cos’è un campionatore  
 	- Come funziona un campionatore  
 	- Utilizzi dei campionatori  
 	- Tipi di campionatori  
 	- Plugin/Dispositivi consigliati  
-- Drum Rack  
+- [[3. Resources/Music Production/Ableton/Ableton - Drum Rack\|Drum Rack]]
 	- Cos’è la Drum Rack  
 	- PAD e Note  
 	- Simpler  
 	- Routing  
-- Scelta dei suoni e degli strumenti
-	- Librerie consigliate  
+- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei suoni e degli strumenti]]
+	- Librerie consigliate   
 	- Sample Pack consigliati  
 - Trovare o creare il suono giusto  
-	- Trovare o creare il Kick giusto  
-	- Trovare o creare lo Snare/Clap  
-	- Trovare i Cymbals più adatti  
+	- Trovare o creare il [[3. Resources/Music Production/Kick\|Kick]] giusto  
+	- Trovare o creare lo [[3. Resources/Music Production/Snare\|Snare]]/[[3. Resources/Music Production/Clap\|Clap]]  
+	- Trovare i [[3. Resources/Music Production/Cymbals\|Cymbals]] più adatti  
 - Scrittura batteria  
-	- Pattern Kick & Clap/Snare  
+	- [[3. Resources/Music Production/Patterns Drum\|Pattern Kick & Clap/Snare]]  
 	- Pattern Cymbals & Percs  
 - Quantizzazione MIDI  
-- Creare Groove  
-- Layering  
-- Mixing Tracks & Group
+- Creare [[3. Resources/Music Production/Groove\|Groove]]  
+- [[3. Resources/Music Production/Layering\|Layering]]  
+- [[3. Resources/Music Production/Mixing\|Mixing]] Tracks & Group
 
-## Creazione Elementi Armonici
+## [[3. Resources/Music Production/Creazione Elementi Armonici\|Creazione Elementi Armonici]]
 
 - Scegliere la scala  
 - Progressione Accordi  
-- Campionatori & Synth  
+- [[3. Resources/Music Production/Campionatore\|Campionatori]] & [[3. Resources/Music Production/Synth\|Synth]]  
 	- Cosa sono  
 	- La differenza  
-- Scelta dei Suoni e degli Strumenti  
-	- Synth  
+- Scelta dei Suoni e degli Strumenti
+	- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti (Synths)\|Synth]]
 		- Dispositivi/Plugin consigliati  
-	- Keys  
+	- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti (Keys)\|Keys]]
 		- Dispositivi/Plugin consigliati  
 - Trovare o Creare il suono giusto  
 	- Preset o Sound Design Synth  
@@ -194,7 +194,7 @@
 - Mixing  
 - Layering
 
-## Bass
+## [[3. Resources/Music Production/Bass\|Bass]]
 
 - Tipi di Bassi  
 	- Synth Sub Bass  
@@ -213,7 +213,7 @@
 	- Synth Stab  
 	- Upper-Bass  
 	- Analog Bass  
-- Scelta degli Strumenti (Bass)  
+- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti (Bass)\|Scelta degli Strumenti (Bass)]]
 	- Dispositivi  
 		- Operator  
 	- Plugin  
@@ -224,7 +224,7 @@
 	- Sezione Sound (Browser Ableton)  
 	- Main Bass  
 	- Loop Sample  
-- Scrittura Synth Bass  
+- [[3. Resources/Music Production/Synth Bass (Scrittura)\|Scrittura Synth Bass]]
 	- Patterns  
 		- Strumenti per creare dei Patterns (es. STING)  
 - Combinazione A+B & A+C	  
@@ -232,9 +232,9 @@
 	- Bass (Phrase B)  
 	- Bass (Phrase C)  
 - Catena di Effetti  
-- Mixing  
-- Sidechain  
-- Layering  
+- [[3. Resources/Music Production/Mixing\|Mixing]]  
+- [[3. Resources/Music Production/Sidechain\|Sidechain]]  
+- [[3. Resources/Music Production/Layering\|Layering]]  
 	- Resampling e Pitch  
 	- Tecniche di Noise  
 	- Groove background  
@@ -242,7 +242,7 @@
 
 ## Sub & Kick
 
-- Cos’è il Sub  
+- Cos’è il [[3. Resources/Music Production/Synth Sub Bass\|Sub]]  
 - Creare/Scegliere il Sub  
 - Scrittura Sub  
 - Mixing Sub  
@@ -264,11 +264,11 @@
 	- Strumenti utili per il Sidechain
 		- Oscilloscopio
 		- Analizzatore di frequenze
-- Gestione della Fase
+- Gestione della [[3. Resources/Music Production/Fase\|Fase]]
 
-## Creazione Elementi Melodici
+## [[3. Resources/Music Production/Creazione Elementi Melodici\|Creazione Elementi Melodici]]
 
-- Cos’è la melodia  
+- Cos’è la [[3. Resources/Music Production/Melodia\|melodia]]  
 - Caratteristiche della melodia  
 	- Altezza delle note  
 	- Durata delle note  
@@ -284,16 +284,16 @@
 	- Improvvisare  
 	- Adattare melodie esistenti  
 	- Seguire la propria ispirazione  
-- Quali sono gli Strumenti Melodici  
+- Quali sono gli [[3. Resources/Music Production/Strumenti Melodici\|Strumenti Melodici]]  
 	- Strumenti a Corda (Strings): come Chitarra, violino, violoncello, pianoforte.  
 	- Strumenti a Fiato (Woodwinds): come flauto, clarinetto, saxofono, tromba.  
 	- Strumenti a Tastiera (Musica): pianoforte, organo, sintetizzatore  
-- Preset o Sound Design Synth Lead  
+- Preset o Sound Design [[3. Resources/Music Production/Synth Lead\|Synth Lead]]  
 - Creare una Melodia efficace  
 - Mixing  
 - Layering
 
-## Creazione Atmosfera
+## [[3. Resources/Music Production/Creare un'atmosfera\|Creazione Atmosfera]]
 
 - Creare un'atmosfera con Synth  
 	- PAD  
@@ -303,7 +303,7 @@
 	- L’uso di campioni come voci, effetti ecc.  
 - Creare un arpeggio
 
-## Vocal
+## [[3. Resources/Music Production/Vocal (Music Production)\|Vocal]]
 
 - Vocal  
 	- Trovare o/e Registrare un Vocal  
@@ -317,31 +317,31 @@
 			- Auto Tune (Antares)  
 			- Waves Tune  
 		- Ad orecchio usando il Pitch  
-- Vista Clip Audio (Ableton)   
+- [[3. Resources/Music Production/Ableton/Ableton - Vista Clip Audio\|Vista Clip Audio (Ableton)]]
 	- Pannelli Tools  
 		- Clip  
 		- Audio  
-- Mixing Vocal  
+- [[3. Resources/Music Production/Mixing & Mastering/Vocal (Mixing)\|Vocal Mixing]]
 	- Utilizzo del Compressore sulla voce  
 	- Utilizzo dell'Equalizzatore sulla voce  
 	- Utilizzare in modo corretto il Riverbero  
 	- Utilizzare il Delay  
-- Sound Design Vocal  
+- [[3. Resources/Music Production/Sound Design/Vocal (Sound Design)\|Sound Design Vocal]]
 	- Editing  
 	- Creare dei Vocal Chops  
 	- Usare funzione Loop  
 	- Automazioni
 
-## Arrangiamento Intro e Break
+## Arrangiamento Intro e Breakdown
 
-- Cos'è l'arrangiamento?  
+- Cos'è l'[[3. Resources/Music Production/Arrangiamento\|Arrangiamento]]?  
 	- processo di organizzazione degli elementi musicali di un brano  
 	- trovare i suoni giusti nel posto giusto  
-- Come strutturare un brano?  
+- Come [[3. Resources/Music Production/Struttura (Musica)\|strutturare un brano]]?  
 	- schemi  
 	- tracce di riferimento  
-- Rispettare le CLIP e le battute  
-- Arrangiamento Intro  
+- [[3. Resources/Music Production/Ableton/Rispettare le CLIP e le battute\|Rispettare le CLIP e le battute]]  
+- [[3. Resources/Music Production/Arrangiamento Intro\|Arrangiamento Intro]]
 	- Cos’è l’intro  
 	- Riferimento Struttura  
 	- Trovare i suoni giusti per l'introduzione  
@@ -349,25 +349,25 @@
 	- Aggiungere gli SFX  
 		- Cosa sono gli effetti sonori  
 		- Tipi di SFX  
-- Arrangiamento Break  
+- [[3. Resources/Music Production/Arrangiamento Breakdown\|Arrangiamento Breakdown]]
 	- Melodia  
 	- Accordi  
 	- Drum  
 	- Trovare un Vocal
 
-## Arrangiamento Buildup
+## [[3. Resources/Music Production/Arrangiamento Buildup\|Arrangiamento Buildup]]
 
-- Cos'è un Buildup  
+- Cos'è un [[3. Resources/Music Production/Buildup\|Buildup]]  
 - Creare un crescendo  
-- Aggiungere SFX  
+- Aggiungere [[3. Resources/Music Production/Sound Effects\|SFX]]  
 - Kick & Snare roll  
-- Resampling Bass Drop  
+- [[3. Resources/Music Production/Resampling Audio\|Resampling]] Bass Drop  
 - Riciclo suoni intro e break  
-- Automazioni
+- [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni]]
 
-## Finalizzare il Drop
+## [[3. Resources/Music Production/Arrangiamento Drop\|Finalizzare il Drop]]
 
-- Cos'è un Drop  
+- Cos'è un [[3. Resources/Music Production/Drop\|Drop]]  
 - Creare una variazione (Sezione B)  
 - Aggiungere gli SFX  
 - Creare dei Fills  
@@ -376,30 +376,30 @@
 
 ## Breakdown \+ Drop
 
-- Cos’è un Breakdown  
+- Cos’è un [[3. Resources/Music Production/Breakdown\|Breakdown]]  
 - Creare un secondo Breakdown  
 - Drop alternativo  
 	- Resampling  
 	- Effects
 
-## Outro \+ Ritocchi Finali
+## [[3. Resources/Music Production/Arrangiamento Outro\|Outro]] \+ Ritocchi Finali
 
 - Creare un Outro  
 - Ritocchi Finali
 
-## Mixing
+## [[3. Resources/Music Production/Mixing\|Mixing]]
 
-- Bilanciamento dei livelli  
+- [[3. Resources/Music Production/Bilanciamento dei livelli\|Bilanciamento dei livelli]]
 	- Gain Staging  
 	- Leveling  
-- Equalizzazione (frequenze)  
-- Compressione (dinamica)  
-- Effetti Audio  
-- Immagine Stereo  
-- Sidechain
-- Automazioni (Mixing)
+- [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]] ([[3. Resources/Music Production/Frequenze\|frequenze]])  
+- [[3. Resources/Music Production/Mixing & Mastering/Compressione\|Compressione]] ([[3. Resources/Music Production/Gamma Dinamica\|dinamica]])  
+- [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]]
+- [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]]
+- [[3. Resources/Music Production/Sidechain\|Sidechain]]
+- [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni]]
 
-## Mastering
+## [[3. Resources/Music Production/Mastering\|Mastering]]
 
 - Cos'è la masterizzazione audio  
 - Processi Basilari  
@@ -476,15 +476,15 @@
 
 ## Distribuzione
 
-- Pubblicazione Musica  
+- [[3. Resources/Music Production/Pubblicazione Musica\|Pubblicazione Musica]]
 	- Usare distributori  
 	- Creare account Spotify Artist  
-- Promozione Musica  
+- [[3. Resources/Music Production/Promozione Musica\|Promozione Musica]]
 	- Trovare la giusta label  
 	- Come inviare una traccia ad una label
 
 ## Extra
 
-- Creare un template  
+- Creare un [[3. Resources/Music Production/Template Music Production\|Template]]  
 - Organizzazione generale per produzione musicale
 

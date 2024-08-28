@@ -654,6 +654,7 @@
 - Sostituzione Dinamica  
 - Risparmiare sulle risorse  
 - Rinominare velocemente
+- Copiare materiale da un progetto ad un altro
 
 ---
 

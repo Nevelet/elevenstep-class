@@ -8,9 +8,9 @@
 
 In questo modulo, imparerai le basi del sound design, dalla storia e gli elementi di questa disciplina ai processi di progettazione e realizzazione di un progetto di sound design.
 
-- Cos’è il Sound Design  
+- Cos’è il [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]]  
 	- **È l'arte di creare e modificare i suoni** utilizzati in film, televisione, videogiochi, teatro e altre forme di media.  
-- Concetti fondamentali del sound design  
+- [[3. Resources/Music Production/Sound Design/Concetti fondamentali (Fondamenti) del sound design\|Concetti fondamentali del sound design]]
 	- 1\. Proprietà del suono  
 		- Frequenza  
 		- Ampiezza  
@@ -34,7 +34,7 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 		- Narrazione sonora  
 		- Design emotivo  
 		- Estetica sonora  
-- Storia del sound design  
+- [[0. Inbox/Storia del sound design\|Storia del sound design]]
 	- Le radici del sound design  
 		- possono essere fatte risalire a tempi molto antichi, quando le persone utilizzavano suoni e musica per rituali, cerimonie e intrattenimento.  
 		- come disciplina definita, il sound design è emerso con l'avvento del cinema e della registrazione sonora all'inizio del XX secolo  
@@ -60,7 +60,7 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 		- Pierre Schaeffer  
 		- John Cage  
 		- Walter Murch  
-- Tipologie di Sound design  
+- [[0. Inbox/Tipologie di Sound design\|Tipologie di Sound design]]
 	- 1\. Sound design per il cinema e la televisione  
 	- 2\. Sound design per i videogiochi  
 	- 3\. Sound design per la radio  
@@ -68,7 +68,7 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 	- 5\. Sound design per l'esperienza utente (UX)  
 	- 6\. Sound design per l'installazione sonora e l'arte  
 	- 7\. Sound design per la musica  
-- Processi del Sound design  
+- [[0. Inbox/Processi del Sound design\|Processi del Sound design]]
 	- 1\. Concettualizzazione  
 		- Comprendere il progetto  
 		- Ricerca e ispirazione  
@@ -99,7 +99,7 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 		- **Creatività:** I sound designer devono essere creativi e in grado di ideare suoni unici e interessanti.  
 		- **Abilità di problem solving:** I sound designer devono essere in grado di risolvere problemi e trovare soluzioni creative alle sfide sonore.  
 		- Comunicazione efficace: I sound designer devono essere in grado di comunicare efficacemente le loro idee agli altri.  
-- Strumenti e software per il sound design  
+- [[0. Inbox/Strumenti e software per il sound design\|Strumenti e software per il sound design]]
 	- Software DAW (Digital Audio Workstation)  
 		- **Ableton Live:** Ideale per la creazione di musica elettronica e l'improvvisazione.  
 		- **Avid Pro Tools:** Uno standard del settore nell'industria audio professionale.  
@@ -148,7 +148,7 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 
 ## Le basi del Sound Design
 
-- Audio  
+- [[3. Resources/General Knowledge/Audio\|Audio]]  
 	- È tutto ciò che riguarda il fenomeno uditivo, ovvero la percezione delle vibrazioni sonore.  
 	- Caratteristiche  
 		- Frequenze  
@@ -169,7 +169,7 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 		- CInema e televisione  
 		- Comunicazione   
 		- Intrattenimento   
-- Timbro  
+- [[3. Resources/Music Production/Timbro (musica)\|Timbro]]  
 	- Cos’è il Timbro  
 		- è quella particolare qualità del suono che permette di distinguere due suoni con uguale frequenza o altezza, anche se prodotti da strumenti diversi.  
 	- Fattori  
@@ -177,15 +177,15 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 		- Il materiale dello strumento  
 		- La tecnica esecutiva  
 		- L'ambiente  
-- Pitch  
+- [[3. Resources/Music Production/Pitch\|Pitch]]  
 	- È la frequenza fondamentale di un suono, che determina l'intonazione del suono stesso.  
-- Frequenze  
+- [[3. Resources/Music Production/Frequenze\|Frequenze]]  
 	- È la misura della ripetizione delle onde sonore che compongono un suono. Viene espressa in Hertz (Hz) e rappresenta il numero di cicli completati dalla forma d'onda sonora in un secondo.  
 	- Calcoli  
 		- 1000 millisecondi \= 1 secondo.  
 		- 50 Hz \= 50 cicli al secondo  
 		- 1000 ms / 50 hz \= 20 ms ogni ciclo — 20 x 50 \= 1000 ms (1 secondo) 
-- Filtri
+- [[3. Resources/Music Production/Filtri\|Filtri]]
 	- Cosa sono i filtri:  
 		- I filtri di un equalizzatore sono circuiti elettronici o software che permettono di modificare selettivamente la risposta in frequenza di un sistema audio  
 	- I tipi più comuni di filtri sono:  
@@ -197,18 +197,18 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 		- **Filtri ad elimina banda (band-reject o notch):** Eliminano un certo intervallo di frequenze.  
 	- Risonanza  
 		- La risonanza in un filtro, aumenta l'ampiezza di quest'ultimo.  
-- Effetti Audio  
+- [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]]
 	- Gli **effetti audio** o audio effects agiscono sui segnali audio e possono essere collocati nelle tracce Audio e MIDI.   
 	- Alcuni effetti audio sono: riverbero, delay, filtro ecc...  
-- Tempo  
+- [[3. Resources/Music Production/Tempo (Musica)\|Tempo]]
 	- È un concetto fondamentale che si riferisce alla **misurazione del passare del tempo** all'interno di una composizione musicale  
-- Volume  
+- [[3. Resources/Music Production/Volume\|Volume]]  
 	- È la **forza** o **potenza** con cui percepiamo le vibrazioni sonore. In altre parole, è quanto un suono è "forte" o "debole"  
 	- L'intensità sonora è determinata da due fattori fisici:  
 	    - Ampiezza dell'onda sonora  
 	    - Pressione sonora  
 	    - L'unità di misura standard per l'intensità sonora è il **Decibel (dB)**. I decibel sono un'unità logaritmica che tiene conto della sensibilità non lineare dell'orecchio umano alle variazioni di intensità.  
-- ADSR  
+- [[3. Resources/Music Production/ADSR Envelope\|ADSR]]
 	- L'inviluppo  
 		- È costituito dalle quattro fasi che rappresentano il volume di riproduzione di un suono nel tempo. L'evoluzione di ciascuna fase è determinata da una funzione.  
 	- ADSR  
@@ -216,16 +216,16 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 		- Decay  
 		- Sustain  
 		- Release  
-- Modulazioni  
+- [[3. Resources/Music Production/Modulazioni\|Modulazioni]]  
 	- Tra le modulazioni troviamo gli LFO e gli Inviluppi  
 	- LFO
 		- Un LFO (Low Frequency Oscillator) **è un oscillatore a bassa frequenza utilizzato nella sintesi audio per generare modulazioni periodiche di un segnale audio**.  
-- Immagine Stereo   
+- [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]]   
 	- Rappresentazione tridimensionale della realtà  
-- Unison
+- [[3. Resources/Music Production/Unison\|Unison]]
 	- Nell'ambito dei sintetizzatori, l'unisono (anche chiamato unison mode o unison) è una tecnica che consiste nel **suonare simultaneamente** due o più copie identiche dello stesso patch o suono del sintetizzatore. Questo crea un effetto di **spessore** e **corposità**, rendendo il suono più potente e denso.
 
-## Le basi di un Sintetizzatore
+## Le basi di un [[3. Resources/Music Production/Synth\|Sintetizzatore]]
 
 - Cos'è  
   - È uno strumento musicale elettronico che genera suoni attraverso la sintesi sonora.  
@@ -302,7 +302,7 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 - Risorse utili  
   - [Learning Synths](https://learningsynths.ableton.com/it)
 
-## La sintesi sonora
+## [[3. Resources/Music Production/Sound Design/Sintesi Sonora\|La sintesi sonora ]]
 
 In questo modulo, imparerai i diversi tipi di sintesi del suono
 
@@ -319,35 +319,35 @@ In questo modulo, imparerai i diversi tipi di sintesi del suono
 	- Sintesi Fisica Modellata  
 	- Sintesi Campionata  
 	- Sintesi Vocale  
-- Sintesi Sottrattiva  
+- [[3. Resources/Music Production/Sintesi Sottrattiva\|Sintesi Sottrattiva]]
 	- Questa è una delle forme più comuni di sintesi. Inizia con un suono complesso e lo modella attraverso filtri per rimuovere determinate frequenze e ottenere il suono desiderato.  
-- Sintesi Additiva  
+- [[3. Resources/Music Production/Sintesi Additiva\|Sintesi Additiva]]
 	- Questo metodo costruisce un suono combinando più forme d'onda o parziali, ognuna con la propria frequenza, fase e ampiezza. Può creare suoni molto complessi e ricchi.  
-- Sintesi Granulare  
+- [[3. Resources/Music Production/Sound Design/Sintesi Granulare\|Sintesi Granulare]]
 	- In questo metodo, il suono viene scomposto in piccoli frammenti chiamati "grani". Questi grani possono essere manipolati in termini di lunghezza, tonalità, panning e altro.  
-- Sintesi FM (Frequency Modulation)  
+- [[3. Resources/Music Production/Sintesi FM (Frequency Modulation)\|Sintesi FM (Frequency Modulation)]]
 	- Questo metodo coinvolge la modulazione della frequenza di un oscillatore da parte di un altro oscillatore. Può produrre suoni molto complessi e armonicamente ricchi.  
-- Sintesi AM (Amplitude Modulation)  
+- [[3. Resources/Music Production/Sintesi AM (Amplitude Modulation)\|Sintesi AM (Amplitude Modulation)]]
   - Funziona modulando l'ampiezza di un segnale (chiamato **portante**) con un altro segnale (chiamato **modulante**). In altre parole, il modulante controlla quanto forte o debole è il portante in ogni istante.  
-- Ring Modulation  
+- [[3. Resources/Music Production/Ring Modulation\|Ring Modulation]]
 	- A differenza della sintesi AM (modulazione di ampiezza) che modifica solo l'ampiezza di un segnale, la ring modulation genera un output completamente nuovo combinando le frequenze dei due segnali originali.  
-- Sintesi Wavetable  
+- [[3. Resources/Music Production/Sintesi Wavetable\|Sintesi Wavetable]]
 	- Si basa sull'uso di una tavola periodica di forme d'onda, dette "tavole" o in inglese "table", che possono essere attraversate per generare suoni in continuo cambiamento.  
-- Sintesi Fisica Modellata  
+- [[3. Resources/Music Production/Sintesi Fisica Modellata\|Sintesi Fisica Modellata]]
 	- Questo metodo simula il comportamento fisico di oggetti e strutture per creare suoni realistici, come ad esempio il suono di una chitarra o di una tromba.  
-- Sintesi Campionata  
+- [[3. Resources/Music Production/Sintesi Campionata\|Sintesi Campionata]]
 	- Coinvolge la riproduzione di campioni di suoni preregistrati. Questa tecnica è molto comune nei sampler e nelle workstation musicali.  
-- Sintesi Vocale  
+- [[3. Resources/Music Production/Sintesi Vocale\|Sintesi Vocale]]
 	- Si concentra sulla riproduzione o creazione di suoni vocali, spesso attraverso l'analisi e la manipolazione delle formanti (risonanze acustiche) e altre caratteristiche vocali.
 
 ## Gli effetti sonori
 
 In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riverbero e del delay agli effetti più complessi, come la distorsione e la modulazione. Impareranno anche a utilizzare questi effetti per migliorare il proprio lavoro.
 
-- Introduzione agli effetti sonori  
+- Introduzione agli [[3. Resources/Music Production/Sound Effects\|effetti sonori]]  
 	- Gli effetti audio o Audio Effects agiscono sui segnali audio e possono essere collocati nelle tracce Audio e MIDI.  
 	- Alcuni effetti audio sono: riverbero, delay, filtro ecc...  
-- I diversi tipi di Effetti Audio  
+- I diversi tipi di [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]]
 	- Effetti di pitch e modulazione:  
 		- Pitch Shifting  
 		- Chorus  
@@ -372,7 +372,7 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
 		- Stereo Doubler  
 		- Stereo Widening
 
-## Sound Design Drums
+## [[3. Resources/Music Production/Sound Design/Drums (Sound Design)\|Sound Design Drums ]]
 
 - Utilizzo degli strumenti di analisi del suono  
 	- SPAN (Analizzatore Frequenza)  
@@ -381,7 +381,7 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
 	- Operator  
 	- Serum o Vital  
 	- Kick 2  
-- Kick  
+- [[3. Resources/Music Production/Sound Design/Kick (Sound Design)\|Kick]]  
 	- Gli elementi del Kick  
 		- Body/Punch (bottom)  
 		- Transient (top)  
@@ -412,7 +412,7 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
 		- Unire più campioni di kick acustici e sintetizzati  
 		- Body e punch meglio sintetizzati  
 		- Aggiungere MID e Transiente con qualche suono acustico: tom, hat, kick acoustic, noise ecc...  
-- Snare  
+- [[3. Resources/Music Production/Sound Design/Snare (Sound Design)\|Snare]]
 	- Gli elementi dello Snare  
 		- Body (bottom)  
 		- Transient (top)  
@@ -442,7 +442,7 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
   - Layering  
     - Unire più campioni di snare acustici e sintetizzati  
     - Aggiungere MID e Transiente con qualche suono acustico: tom, hat, snare acoustic, noise ecc…  
-- Clap  
+- [[3. Resources/Music Production/Sound Design/Clap (Sound Design)\|Clap]]
 	- OSC  
 		- Noise White  
 	- Amp  
@@ -456,7 +456,7 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
 		- EQ  
 		- Overdrive  
 		- Riverbero  
-- Cymbals  
+- [[3. Resources/Music Production/Sound Design/Cymbals (Sound Design)\|Cymbals]]
 	- OSC  
 		- Noise White  
 	- Effetti  
@@ -468,7 +468,7 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
 		- Frequency Shifter  
 		- EQ con risonanze 
 
-## Sound Design Bass
+## [[3. Resources/Music Production/Sound Design/Synth Bass (Sound Design)\|Sound Design Bass ]]
 
 - Tipi di Synth Bass
     - Synth Sub Bass
@@ -669,7 +669,7 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
         - Aggiungere un filtro passa-basso con un po' di risonanza
         - Aggiungere un leggero chorus o delay per più spessore
 
-## Sound Design Synths
+## [[3. Resources/Music Production/Sound Design/Synth (Sound Design)\|Sound Design Synths]]
 
 - Tipi di Synths
     - Plucks
@@ -771,7 +771,7 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
         - Aggiungere un filtro passa-basso con risonanza per modellare il timbro
         - Effetti come chorus e distorsione per arricchire il suono
 
-## Sound Design SFX
+## [[3. Resources/Music Production/Sound Design/SFX (Sound Design)\|Sound Design SFX]]
 
 - Tipi di SFX
     - Riser
@@ -817,10 +817,10 @@ In questo modulo, imparerai i diversi tipi di effetti sonori, dalle basi del riv
 
 ## Tecniche Avanzate di Sound Design
 
-- Tecniche di Editing Audio avanzate (taglio, copia, incolla, crossfade)  
-- Layering e processing  
-- Creazione di suoni complessi attraverso l'editing e il Resampling Audio  
-- Creare Chains Effects  
-- Creare movimento con le Automazioni  
-- Plugin e Dispositivi M4L consigliati
+- Tecniche di [[3. Resources/Music Production/Editing Audio\|Editing Audio]] avanzate (taglio, copia, incolla, crossfade)  
+- [[3. Resources/Music Production/Layering\|Layering]] e processing  
+- Creazione di suoni complessi attraverso l'editing e il [[3. Resources/Music Production/Resampling Audio\|Resampling Audio]]  
+- Creare [[3. Resources/Music Production/Sound Design/Chains Effects (Sound Design)\|Chains Effects]] 
+- Creare movimento con le [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni]] 
+- [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]] e [[0. Inbox/Dispostivi M4L\|Dispostivi M4L]] consigliati
 

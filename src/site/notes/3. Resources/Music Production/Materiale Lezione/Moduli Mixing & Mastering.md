@@ -5,22 +5,22 @@
 
 ---
 
-## Introduzione al Mixing
+## Introduzione al [[3. Resources/Music Production/Mixing\|Mixing]]
 
-- Principi di Mixing
+- [[3. Resources/Music Production/Mixing & Mastering/Principi di Mixing\|Principi di Mixing]]
 	- Cos'è il Mixing
 	- Solo il Mixing non basta
 		- Scegliere il suono giusto
 		- Sound Design
 		- Composizione
 	- Darsi degli obiettivi
-- Gli elementi del mix
+- [[3. Resources/Music Production/Mixing & Mastering/Gli elementi del mix\|Gli elementi del mix]]
 	- Drums
 	- Synth
 	- Vocal
 	- Orchestral Sounds
 	- Sample Audio
-- Componenti per Home Studio
+- [[3. Resources/Music Production/Componenti per Home Studio\|Componenti per Home Studio]]
 	- Software
 		- DAW
 		- Plugin Audio
@@ -37,14 +37,14 @@
 		- Sequencer e campionatore digitale
 		- Synth (Analog)
 		- Drum Machine
-- Strumenti per il Mixing
+- [[3. Resources/Music Production/Mixing & Mastering/Strumenti per il Mixing\|Strumenti per il Mixing]]
 	- Mixer
 	- Equalizzatore
 	- Compressore
 	- Effetti Audio
 	- Analyzer Plugin for Mixing and Mastering
 	- Traccia di Riferimento
-- Processi Basilari di Mixing
+- [[3. Resources/Music Production/Mixing & Mastering/Processi Basilari di Mixing\|Processi Basilari di Mixing]]
 	- Gain Staging
 	- Equalizzazione (frequenze)
 	- Compressione (dinamica)
@@ -53,10 +53,10 @@
 	- Sidechain
 	- Automazioni (Mixing)
 
-## Teoria del Suono
+## [[3. Resources/Music Production/Teoria del Suono\|Teoria del Suono]]
 
-- Cos'è il suono
-- Analogico vs Digitale
+- Cos'è il [[3. Resources/Music Production/Suono\|Suono]]
+- [[3. Resources/Music Production/Audio Digitale vs Audio Analogico\|Audio Digitale vs Audio Analogico]]
 	- La differenza fondamentale tra **audio digitale** e **audio analogico** risiede nel modo in cui il suono viene **rappresentato e memorizzato**.
 	- Audio analogico
 		- **Rappresentazione continua**: Il suono viene rappresentato da un'onda continua che varia in ampiezza e forma, in modo analogo alle vibrazioni fisiche dell'aria.
@@ -68,18 +68,18 @@
 		- **Supporti di registrazione**: CD, DVD, file audio digitali (MP3, WAV, FLAC).
 		- **Qualità del suono**: Teoricamente perfetta, senza rumore o distorsione, ma alcuni formati compressi possono avere una qualità inferiore.
 		- **Vantaggi**: Maggiore praticità, resistenza all'usura, facilità di copia e manipolazione.
-- La fase
-- Campionamento
+- La [[3. Resources/Music Production/Fase\|Fase]]
+- [[3. Resources/Music Production/Campionamento audio\|Campionamento audio]]
 	- Cos'è il campionamento
 	- Convertitore digitale-analogico
 	- Teorema del Campionamento (Nyquist Shannon)
 	- Frequenza di Campionamento
 	- Resampling Audio
-- Bit Rate & Bit Depth
-- Oversampling
-- Aliasing
-- Dithering
-- Livelli audio
+- [[3. Resources/Music Production/Bit Rate & Bit Depth\|Bit Rate & Bit Depth]]
+- [[3. Resources/Music Production/Oversampling\|Oversampling]]
+- [[3. Resources/Music Production/Aliasing\|Aliasing]]
+- [[3. Resources/Music Production/Dithering\|Dithering]]
+- [[3. Resources/Music Production/Audio/Livelli audio\|Livelli audio]]
 	- Unità di misura
 		- Decibel (dB)
 		- Peak Meter
@@ -89,7 +89,7 @@
 		- LUFS
 	- Clipping
 	- Headroom
-- Routing Audio
+- [[3. Resources/Music Production/Audio/Routing Audio\|Routing Audio]]
 	- Cos'è il Routing
 	- Routing Audio External
 		- Cavi Audio
@@ -99,7 +99,7 @@
 
 ## Organizzazione e Settaggio
 
-- Organizzare la sessione per il Mixing
+- [[3. Resources/Music Production/Mixing & Mastering/Organizzare la sessione per il Mixing\|Organizzare la sessione per il Mixing]]
 	- Dare un Nome alle tracce
 	- Eliminare se necessario…
 	- Evitare un Routing complicato
@@ -111,20 +111,20 @@
 	- Editing
 - La configurazione dell'ambiente di lavoro
 	- Setting Audio 
-		- Scheda audio, PC e DAW
-	- Installazione e Configurazione Plugins
+		- [[3. Resources/General Knowledge/Scheda audio\|Scheda audio]], PC e [[3. Resources/General Knowledge/Digital Audio Workstation\|DAW]]
+	- Installazione e Configurazione [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugins]]
 
 
 ## Gain Staging & Leveling
 
-- Gain Staging
+- [[3. Resources/Music Production/Mixing & Mastering/Gain Staging\|Gain Staging]]
 	- Differenza tra Gain e Volume
 	- Cos'è il Gain Staging
 	- Come procedere
 		- Lasciare volume della traccia a 0
 		- Mettere il VU Meter sul Pre Master
 		- Portare il gain 0 o al di sotto del dBVU
-- Balance Mix|Leveling
+- [[3. Resources/Music Production/Mixing & Mastering/Balance Mix\|Balance Mix]]
 	- Cos'è il Leveling
 		- Come in una squadra di calcio
 	- Come procedere
@@ -134,13 +134,13 @@
 
 ## L'Equalizzatore
 
-- Frequenze  
+- [[3. Resources/Music Production/Frequenze\|Frequenze]]  
 	- È la misura della ripetizione delle onde sonore che compongono un suono. Viene espressa in Hertz (Hz) e rappresenta il numero di cicli completati dalla forma d'onda sonora in un secondo.  
 	- Calcoli  
 		- 1000 millisecondi \= 1 secondo.  
 		- 50 Hz \= 50 cicli al secondo  
 		- 1000 ms / 50 hz \= 20 ms ogni ciclo — 20 x 50 \= 1000 ms (1 secondo
-- Equalizzatore
+- [[3. Resources/Music Production/Audio/Equalizzatore\|Equalizzatore]]
 	- Cos'è un'Equalizzatore
 		- **È un dispositivo o una funzione di un software che permette di regolare il livello di frequenza del suono in una traccia audio.**
 	- Dove si utilizza
@@ -157,7 +157,7 @@
 		5. **Q-factor:** indica la forma della curva EQ e rappresenta il rapporto tra la larghezza della banda e la frequenza centrale.
 		6. **Gain master:** regola il volume generale del segnale audio dopo l'applicazione dell'equalizzazione.
 		7. **Fase:** può essere regolata per correggere eventuali problemi di fase nel segnale audio. (Natural Phase & Linear Phase)
-- Filtri
+- [[3. Resources/Music Production/Filtri\|Filtri]]
 	- Cosa sono i filtri:  
 		- I filtri di un equalizzatore sono circuiti elettronici o software che permettono di modificare selettivamente la risposta in frequenza di un sistema audio  
 	- I tipi più comuni di filtri sono:  
@@ -169,7 +169,7 @@
 		- **Filtri ad elimina banda (band-reject o notch):** Eliminano un certo intervallo di frequenze.  
 	- Risonanza  
 		- La risonanza in un filtro, aumenta l'ampiezza di quest'ultimo.  
-- Plugin EQ consigliati
+- [[3. Resources/Music Production/Mixing & Mastering/Plugin EQ\|Plugin EQ]] consigliati
 	- Plugin Free
 		- TDR Nova (Mid/Side, Dinamico)
 	- Ableton (Stock)
@@ -178,9 +178,9 @@
 
 ## Il Compressore
 
-- Gamma dinamica
+- [[3. Resources/Music Production/Gamma Dinamica\|Gamma dinamica]]
 	- Cos'è la Gamma dinamica
-- Compressore
+- [[3. Resources/Music Production/Audio/Compressore\|Compressore]]
 	- Cos'è il Compressore
 	- I Parametri di un Compressore
 		1. **Threshold:** il livello di volume a cui il compressore inizia ad agire.
@@ -217,7 +217,7 @@
 		- Compattare il suono
 		- tenere a bada i transienti e alzare la parte bassa
 	- Compressione Seriale vs Gruppo/Buss
-- Plugin/Dispositivi consigliati
+- [[3. Resources/Music Production/Mixing & Mastering/Plugin Compressore\|Plugin/Dispositivi consigliati]]
 	- Ableton (Stock)
 		- Compressor
 		- Glue Compressor
@@ -227,12 +227,12 @@
 
 ## Panoramica e Bilanciamento Stereo
 
-- Cos'è la Stereofonia?
+- Cos'è la [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Stereofonia]]?
 	- È ==una tecnica di registrazione e riproduzione audio che crea un effetto stereo==, cioè ==l'illusione di un suono tridimensionale==.
 	- È importante nel mixing perché consente di creare una sensazione di spazialità e di profondità all'interno di una produzione musicale.
-- Cos'è il Mono?
+- Cos'è il [[3. Resources/Music Production/Mono\|Mono]]?
 	- È l'abbreviazione di "monofonico" o "monoaurale" e indica una riproduzione audio in cui tutte le tracce e i suoni sono mescolati insieme in un singolo canale audio. In altre parole, l'audio è riprodotto attraverso un unico altoparlante o attraverso un solo canale di uscita, invece che attraverso due canali separati come in un sistema stereo.
-- Posizionamento dei suoni nell'Immagine Stereo
+- [[3. Resources/Music Production/Mixing & Mastering/Posizionamento dei suoni nell'Immagine Stereo\|Posizionamento dei suoni nell'Immagine Stereo]]
 	- Devo pannarlo a sinistra o a destra?
 		- immagina i tuoi suoni su un palcoscenico, e posizionali come preferisci
 		- non puoi mettere uno strumento dietro l'altro, altrimenti occuperebbero lo stesso punto nello spazio e l'ascoltatore perderebbe interesse
@@ -242,11 +242,11 @@
 		- Il kick e basso al centro, perché ci deve arrivare tutto dritto in pancia. Punto centrale, di focus. Sono le portanti di ogni genere
 		- Voce pure al centro, ma le seconde voci ai lati. Cioè la voce è di natura in mono, ma con gli effetti, come riverbero e delay o anche le altre voci di accompagnamento, la rendono stereofonica
 			- Con gli effetti o con le doppie, avrà anche del contorno stereofonico.
-- Mid/Side
+- [[3. Resources/Music Production/Mixing & Mastering/Mid-Side\|Mid/Side]]
 	- È una tecnica di elaborazione del suono che si basa sulla separazione dei canali stereo in due parti: il canale centrale (mid) e il canale laterale (side).
 	- EQ Mid/Side
 		- **==permette di modificare separatamente le frequenze nel canale mid e side, offrendo così un maggiore controllo sull'immagine stereo del mix.==**
-- Tecniche per creare un suono stereo
+- [[3. Resources/Music Production/Mixing & Mastering/Tecniche per creare un suono stereo\|Tecniche per creare un suono stereo]]
 	- Panning
 		- Cos'è
 			- Pan pot (panoramic potentiometer) in italiano: potenziometro panoramico o chiamato semplicemente Pan. È un processo per appunto spostare il suono in diverse direzioni
@@ -281,7 +281,7 @@
 			- MONO e poi STEREO o viceversa. 
 			- Ho analizzato un bel po' di tracce è la maggior parte suonano più in mono che un stereo
 			- giocare molto con l'arrangiamento
-- Come gestire correttamente l'immagine stereo
+- [[3. Resources/Music Production/Mixing & Mastering/Come gestire correttamente l'immagine stereo\|Come gestire correttamente l'immagine stereo]]
 	- Usando gli strumenti giusti
 		- SPAN
 		- Correlation Meter
@@ -293,7 +293,7 @@
 		- se alcuni suoni stanno al centro
 		- se alcune cose spariscono troppo
 	- Usare una traccia di riferimento
-- Plugin di Immagine Stereo consigliati
+- [[3. Resources/Music Production/Mixing & Mastering/Plugin Immagine Stereo\|Plugin Immagine Stereo]] consigliati
 	- Correlometer by Voxengo
 	- S1 Imager by Waves
 	- Utility by Ableton
@@ -301,7 +301,7 @@
 
 ## Utilizzo degli effetti audio
 
-- Concetti di base degli Effetti Audio
+- Concetti di base degli [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]]
 	- Cosa sono
 		- Gli effetti audio o Audio Effects agiscono sui segnali audio e possono essere collocati nelle tracce Audio e MIDI.  
 		- Alcuni effetti audio sono: riverbero, delay, filtro ecc...  
@@ -329,7 +329,7 @@
 		- Effetti di apertura stereo:  
 			- Stereo Doubler  
 			- Stereo Widening
-- Reverb (mostrare schema Excalidraw)
+- [[3. Resources/Music Production/Audio/Reverb\|Reverb]] (mostrare schema Excalidraw)
 	- Cos'è il riverbero
 	- A cosa serve
 		- Aggiungere spazio e profondità ai suoni
@@ -365,7 +365,7 @@
 	- Differenze con l'eco
 		- **Riverbero:** Si tratta di molte riflessioni sonore ravvicinate e sovrapposte, creando una coda sonora continua e diffusa.
 		- **Eco:** Si verifica quando c'è un ritardo sufficiente (di solito superiore a 50-100 millisecondi) per distinguere chiaramente il suono riflesso dal suono originale
-- Saturazione
+- [[3. Resources/Music Production/Saturation\|Saturazione]]
 	- Cos'è
 		- La saturazione è un effetto di modellazione d'onda in grado di aggiungere quel contributo "sporco", di spinta o di calore mancante al suono.
 	- Caratteristiche
@@ -394,12 +394,12 @@
 			- FabFilter Saturn
 			- Decapitator di Soundtoys
 - Altri effetti
-	- **Chorus:** È un effetto sonoro utilizzato per creare l'impressione di più strumenti che suonano contemporaneamente
-	- **Flanger:** Si ottiene sovrapponendo due segnali audio con una leggera differenza di tempo
-	- **Phaser:** È un effetto sonoro usato in produzione musicale che altera la Fase del segnale audio per creare un suono modulato e spaziale.
+	- **[[3. Resources/Music Production/Chorus\|Chorus]]:** È un effetto sonoro utilizzato per creare l'impressione di più strumenti che suonano contemporaneamente
+	- **[[3. Resources/Music Production/Audio/Flanger\|Flanger]]:** Si ottiene sovrapponendo due segnali audio con una leggera differenza di tempo
+	- **[[3. Resources/Music Production/Phaser\|Phaser]]:** È un effetto sonoro usato in produzione musicale che altera la Fase del segnale audio per creare un suono modulato e spaziale.
 
 
-## Mixing Kick
+## [[3. Resources/Music Production/Mixing & Mastering/Kick (Mixing)\|Mixing Kick]]
 
 - Gli elementi del Kick  
 	- Body/Punch (bottom)  
@@ -419,7 +419,7 @@
 	- Split kick
 - Layering
 
-## Mixing Sub 
+## [[3. Resources/Music Production/Synth Sub Bass (Mixing)\|Mixing Sub ]]
 
 - Dare spazio al kick con un EQ
 - Mono sulle frequenze gravi
@@ -430,11 +430,11 @@
 	- Usare un Tremolo per creare più movimento
 	- Disattivare se possibile il Random Phase
 
-## Mixing Kick & Sub
+## [[3. Resources/Music Production/Mixing & Mastering/Kick & Sub (Mixing)\|Mixing Kick & Sub]]
 
 - Balance Kick e Sub
 	- Un ottimo valore per il Kick è stare all'incirca sui -3 dbvu, e insieme al SUB, dovrebbe stare attorno allo 0 dBVU.
-- Sidechain
+- [[3. Resources/Music Production/Sidechain\|Sidechain]]
 	- Cos'è il Sidechain
 	- Tipi di Sidechain
 		- **Compressore (dinamico)**
@@ -456,9 +456,9 @@
 	- Gestione della fase
 
 
-## Mixing Drums
+## Mixing [[3. Resources/Music Production/Drums\|Drums]]
 
-- Snare
+- [[3. Resources/Music Production/Snare\|Snare]]
 	- Caratteristiche
 		- Body (bottom)  
 		- Transient (top)  
@@ -479,7 +479,7 @@
 		- Fade in per tagliare la punta quando suona insieme con il kick
 		- Kick diverso quando suona nello stesso momento del Clap/Snare
 		- A volte si può usare un transient shaper per dare più o meno punto/coda
-- Clap
+- [[3. Resources/Music Production/Clap\|Clap]]
 	- Caratteristiche
 	- Equalizzazione
 	- Compressione
@@ -488,7 +488,7 @@
 	- Layering
 	- Tips & Tricks
 		- Ritardare leggermente il clap quando sta insieme con il kick
-- Cymbals
+- [[3. Resources/Music Production/Cymbals\|Cymbals]]
 	- Caratteristiche
 	- Equalizzazione
 	- Compressione
@@ -500,7 +500,7 @@
 	- Sidechain
 	- Tips & Tricks
 		- Ritardare leggermente i cymbals permette di creare più groove e evitare conflitto con il kick
-- Percussion
+- [[3. Resources/Music Production/Percussion\|Percussion]]
 	- Caratteristiche
 	- Equalizzazione
 	- Compressione
@@ -512,7 +512,7 @@
 	- Sidechain
 	- Tips & Tricks
 		- Ritardare leggermente le percussioni permette di creare più groove e evitare conflitto con il kick
-- Drums (Mix Buss)
+- [[3. Resources/Music Production/Mixing & Mastering/Drums (Mix Buss)\|Drums (Mix Buss)]]
 	- Compressione parallela
 	- Plugin/Dispositivi consigliati per la compressione
 		- Glue Compressor (dispositivo di Ableton)
@@ -522,7 +522,7 @@
 		- API 2500 (plugin Waves)
 
 
-## Mixing Basses
+## [[3. Resources/Music Production/Synth Generic Bass (Mixing)\|Mixing Basses]]
 
 - Caratteristiche
 - Equalizzazione
@@ -548,7 +548,7 @@
 	- Automazione filtri, pitch, effetti 
 
 
-## Mixing Vocals
+## [[3. Resources/Music Production/Mixing & Mastering/Vocal (Mixing)\|Mixing Vocals]]
 
 - Caratteristiche
 - Rimuovere rumori indesiderati
@@ -625,7 +625,7 @@
 	- Equalizzazione Dinamica per evitare i conflitti
 
 
-## Mixing Synths
+## [[3. Resources/Music Production/Synth (Mixing)\|Mixing Synths]]
 
 - Caratteristiche
 - Equalizzazione
@@ -652,7 +652,7 @@
 	- Automazione filtri, pitch, effetti
 
 
-## Mixing Orchestral Sounds
+## [[3. Resources/Music Production/Mixing & Mastering/Orchestral Sounds (Mixing)\|Mixing Orchestral Sounds]]
 
 - Caratteristiche
 - Equalizzazione
@@ -675,7 +675,7 @@
 - Tips & Tricks
 	- Le automazioni nella musica orchestrale sono molto importanti
 
-## Mixing Samples
+## [[3. Resources/Music Production/Mixing & Mastering/Sample (Mixing)\|Mixing Samples]]
 
 - Caratteristiche
 - Equalizzazione
@@ -688,7 +688,7 @@
 
 
 
-## Mastering e finalizzazione del mix
+## [[3. Resources/Music Production/Mastering\|Mastering]] e finalizzazione del mix
 
 - Cos'è la masterizzazione audio  
 - Processi Basilari  

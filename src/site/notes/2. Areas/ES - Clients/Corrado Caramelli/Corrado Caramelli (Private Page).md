@@ -36,7 +36,7 @@ Sono finite le ore? Tranquillo/a, [cliccando qui](https://script.google.com/macr
 # 👨‍🏫 Lezioni/Moduli
 
 ## [👉 Clicca qui per consultare i moduli e tutte le varie informazioni](https://elevenstep-class.netlify.app/2-areas/es-clients/corrado-caramelli/programma-produzione-musicale-ableton-da-zero-corrado-caramelli/)
-- [[2. Areas/ES - Clients/Corrado Caramelli/Programma Produzione Musicale + Ableton da zero (Corrado Caramelli)\|Programma Produzione Musicale + Ableton da zero (Corrado Caramelli)]]
+- [[2. Areas/ES - Clients/Corrado Caramelli/Moduli Produzione Musicale + Ableton da zero (Corrado Caramelli)\|Moduli Produzione Musicale + Ableton da zero (Corrado Caramelli)]]
 
 
 

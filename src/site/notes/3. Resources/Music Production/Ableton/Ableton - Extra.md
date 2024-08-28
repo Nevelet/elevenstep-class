@@ -16,7 +16,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 - Follow (Segui Tempo)
 - Utilizzare uno strumento su più canali (multi outputs)
 - Usare l'Editor di testo
-- Tasti Rapidi
+- [[3. Resources/Music Production/Ableton/Ableton - Tasti Rapidi\|Ableton - Tasti Rapidi]]
 - [[3. Resources/Music Production/Ableton/Ableton - Tutti i modi Alternativi al Bounce (Midi-Audio)\|Ableton - Tutti i modi Alternativi al Bounce (Midi-Audio)]]
 - [[3. Resources/Music Production/Ableton/Ableton - Tape Stop Effect\|Ableton - Tape Stop Effect]]
 - [[3. Resources/Music Production/Ableton/Ableton - Lessons Panel\|Ableton - Lessons Panel]]
@@ -27,10 +27,6 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 - Importare File Audio dal menù
 - Multi edit notes
 - Muoversi tra le viste Sessione e Arrangiamento
-- Tasti Rapidi momentanei (Ableton 12)
-	- Solo tracce (Tenendo premuto il tasto è possibile mettere in solo fino a quando il tasto viene rilasciato)
-	- Anche il tasto A per l'automazione
-- Anche se Tastiera MIDI del Computer è attiva, possiamo usare i tasti rapidi aggiungendo il Tasto SHIFT (Ableton 12)
 - Copiare materiale da un progetto ad un altro
 	- Nella versione 12 sono stati aggiunti anche le tracce di ritorno e il master quando viene espando il progetto nel browser
 

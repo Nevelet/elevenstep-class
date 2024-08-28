@@ -28,7 +28,7 @@
 		- **Novation Launchpad Mini:** Un Launchpad compatto ed economico, ideale per principianti.
 		- **[Akai Professional APC Mini](https://www.strumentimusicali.net/product_info.php/products_id/172055/akai-apc-mini-mkii.html):** Un Launchpad progettato specificamente per l'utilizzo con il software Ableton Live.
 		- [Ricerca su Amazon.it](https://www.amazon.it/launchpad/s?k=launchpad)
-- Tastiere MIDI
+- [[3. Resources/Music Production/Tastiera MIDI\|Tastiere MIDI]]
 	- Una **tastiera MIDI**, o **tastiera controller MIDI (In inglese: MIDI keyboard)**, è una periferica musicale che simula una tastiera di pianoforte
 	- Principali caratteristiche
 		- **Tasti:** Solitamente sensibili alla dinamica (velocità di pressione) e alla aftertouch (pressione continuata dopo la pressione iniziale), per un controllo espressivo del suono.
@@ -63,9 +63,9 @@
 	- Browser  
 	- Vista dettaglio delle tracce  
 	- Barra di controllo  
-- Configurazione Audio  
+- [[3. Resources/Music Production/Ableton/Ableton - Configurazione Audio\|Configurazione Audio]]
 	- Scheda Audio  
-- Configurazione MIDI  
+- [[3. Resources/Music Production/Ableton/Ableton - Configurazione MIDI\|Configurazione MIDI]]
 	- [[3. Resources/Music Production/Ableton/Ableton - Superficie di Controllo\|Superficie di Controllo]]
 		- Cos'è
 			- Le superfici di controllo sono script appositamente scritti che consentono il controllo tattile di Live attraverso parametri predefiniti.
@@ -73,7 +73,7 @@
 		- Ingresso (Porta d'ingresso)
 		- Uscita (Porta di uscita)
 		- Modalità di Subentro
-	- Sync & Link → MIDI Sync
+	- Sync & Link → [[3. Resources/Music Production/MIDI Sync\|MIDI Sync]]
 		- Cos'è
 			- È il segnale che controlla il timing delle funzioni in un sintetizzatore. Il clock può essere fornito tramite MIDI o voltaggio di controllo.
 		- Il MIDI Sync include:
@@ -95,39 +95,39 @@
 				- Auto (utilizza quello interno se non ci sono input di clock)
 		- MIDI Clock esterni
 			- [midiclock⁺ – precision reference clock - E-RM](https://www.e-rm.de/midiclock/)
-	- Setting Controller & Tastiera MIDI
+	- Setting [[3. Resources/Music Production/Controller MIDI\|Controller MIDI]] & Tastiera MIDI
 
 ## Preparare le Tracce
 
-- Le Tracce  
+- [[3. Resources/Music Production/Ableton/Ableton - Le Tracce\|Le Tracce]]
 	- Cos'è l'Audio e il MIDI  
 	- Cosa sono le tracce  
 	- Tipi di tracce  
 	- Differenza tra Traccia Audio, Midi e Tracce di Ritorno  
 	- Creare nuove tracce  
 	- Mixer delle tracce  
-- Routing MIDI  
-	- Cos’è il Routing  
-	- Da MIDI a AUDIO  
+- [[3. Resources/Music Production/Routing MIDI\|Routing MIDI]]
+	- Cos’è il [[3. Resources/Music Production/Routing\|Routing]]  
+	- Da [[3. Resources/Music Production/MIDI\|MIDI]] a [[3. Resources/General Knowledge/Audio\|AUDIO]]  
 	- Routing nella vista dettaglio delle tracce  
-	- Routing Tracce
+	- [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Routing Tracce]]
 		- Input Tracce  
 			- Tipo di ingresso   
 			- Canale d’ingresso  
 		- Output Tracce  
 			- Tipo di uscita  
-- Routing Audio  
+- [[3. Resources/Music Production/Ableton/Ableton - Routing Audio Tracce\|Routing Audio]]
 	- Input Tracce  
 		- Tipo di ingresso   
 		- Canale d’ingresso  
 	- Output Tracce  
 		- Tipo di uscita  
 		- Canale di uscita  
-- Creare Tracce Instruments
-	- Aggiungere Plugin Instrument
-	- External Instrument per dispositivi hardware esterni (synth, campionatori, drum machine ecc.)
-	- Usare gli strumenti virtuali di Ableton (Drum Rack, Simpler, Operator, etc.).
-- Creare Tracce External
+- Creare Tracce MIDI Instruments
+	- Aggiungere [[3. Resources/Music Production/Plugins/Plugin Audio Instrument\|Plugin Audio Instrument]]
+	- External Instrument per dispositivi hardware esterni ([[3. Resources/Music Production/Synth\|synth]], [[3. Resources/Music Production/Campionatore\|Campionatori]], [[3. Resources/Music Production/Drum Machine\|drum machine]] ecc.)
+	- Usare gli strumenti virtuali di Ableton ([[3. Resources/Music Production/Ableton/Ableton - Drum Rack\|Drum Rack]], [[3. Resources/Music Production/Ableton/Ableton - Simpler\|Simpler]], [[3. Resources/Music Production/Ableton/Ableton - Operator\|Operator]], etc.).
+- Creare Tracce Audio External
 	- MIC
 	- Guitar
 	- Altro
@@ -141,7 +141,7 @@
 
 ## Warp
 
-- Cos’è il WARP  
+- Cos’è il [[3. Resources/Music Production/Ableton/Ableton - WARP\|Warp]]  
 - Cosa attiva il WARP e le preferenze di auto-warp  
 - BPM del Segmento vs BPM del progetto  
 - Modalità di WARP  
@@ -152,12 +152,12 @@
 
 ## Aggiungere Effetti (Audio & MIDI)
 
-- Effetti su traccia (Insert)
+- [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]] su traccia (Insert)
 	- Beat repeat
 	- Auto-filter Bypass
-	- Phaser-Flanger
+	- [[3. Resources/Music Production/Phaser\|Phaser]]-[[3. Resources/Music Production/Audio/Flanger\|Flanger]]
 	- Presets Audio Effect Rack
-- Effetti con traccia di ritorno (Parallelo)
+- [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]] con [[3. Resources/Music Production/Ableton/Ableton - Traccia di Ritorno\|Traccia di Ritorno]] (Parallelo)
 
 ## Come avere un Pre-ascolto su Ableton
 
@@ -193,7 +193,7 @@
 
 ## Registrazione e Lancio Clip per Live Set
 
-- Registrare nella Vista Sessione
+- Registrare nella [[3. Resources/Music Production/Ableton/Ableton - Vista Sessione\|Vista Sessione]]
 	- Tutte le tracce o solo quelle Armate
 		- Innesca Registrazione al Lancio (Click destro su una scena) (sulle Preferenze si chiama Avvia Registrazione al Lancio Scena)
 	- Prepara Scena per Nuova Registrazione (tasto New. Visibile solo in modalità mappatura MIDI o Key)
@@ -203,10 +203,10 @@
 		- Solo su tracce armate (pref.)
 		- Su tutte le tracce (pref.)
 	- Registrare dei Loop perfetti
-- Registrare nella Vista Arrangiamento
-- Tasti Rapidi con tastiera PC
+- Registrare nella [[3. Resources/Music Production/Ableton/Ableton - Vista Arrangiamento\|Vista Arrangiamento]]
+- [[3. Resources/Music Production/Ableton/Ableton - Tasti Rapidi\|Tasti Rapidi]] con tastiera PC
 
-## Clip
+## [[3. Resources/Music Production/Ableton/Ableton - Le Clip\|Le Clip]]
 
 - Menu di Quantizzazione (Globale)
 	- Questo è **l'opzione più importante per la Vista Session** Perché aiuta ad **evitare errori ritmici durante la riproduzione delle Clip.**
@@ -225,7 +225,7 @@
 	- Fallow Action su scene  
 
 
-## Mapping con Ableton
+## [[3. Resources/Music Production/Ableton/Ableton - Mappatura\|Mapping con Ableton]]
 
 - Mapping Vista Sessione
 	- Tasto arma automazione
@@ -236,12 +236,12 @@
 
 
 
-## Mixing
+## [[3. Resources/Music Production/Mixing\|Mixing]]
 
-- Mixing Volumi
-- Limiter su Master
+- Mixing [[3. Resources/Music Production/Volume\|Volumi]]
+- [[3. Resources/Music Production/Mixing & Mastering/Limiter\|Limiter]] su Master
 
-## Creare Rack avanzati per live set
+## Creare [[3. Resources/Music Production/Ableton/Ableton - Racks\|Rack]] avanzati per live set
 
 - Automatismo effetti o/e strumenti
 	- [How to use Ableton for live performaning (like Anomalie) | Part 1 - Setting up the basics - YouTube](https://youtu.be/0kGvSJiizTM)
@@ -257,7 +257,7 @@
 
 ## Extra
 
-- Salvataggio Template
+- Salvataggio [[3. Resources/Music Production/Template Music Production\|Template]]
 - Crea Catena di Azioni Seguenti  
 - Impatto sulle Prestazioni su ogni traccia  
 - Alternare le due viste (Riprodurre in entrambe le viste)  

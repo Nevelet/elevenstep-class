@@ -58,7 +58,7 @@ I musicisti di musica elettronica potevano esibirsi dal vivo usando Ableton Live
 - [[3. Resources/Music Production/Ableton/Ableton - Dispositivi\|Ableton - Dispositivi]]
 - [[3. Resources/Music Production/Ableton/Ableton - Dispositivi Audio Effects\|Ableton - Dispositivi Audio Effects]]
 - [[3. Resources/Music Production/Ableton/Ableton - Dispositivi Instruments\|Ableton - Dispositivi Instruments]]
-- [[Ableton - Dispositivi MIDI\|Ableton - Dispositivi MIDI]]
+- [[3. Resources/Music Production/Ableton/Ableton - Dispositivi Effetti MIDI\|Ableton - Dispositivi Effetti MIDI]]
 - [[3. Resources/Music Production/Ableton/Ableton - Simpler\|Ableton - Simpler]]
 
 ## Registrazione Audio & MIDI
@@ -159,14 +159,6 @@ Ableton è un software per la creazione di musica, esibizioni dal vivo in partic
 [^1]:  Ableton è stata fondata nel 1999 e ha rilasciato la prima versione di Live nel 2001. I nostri prodotti sono utilizzati da una comunità di musicisti, sound designer e artisti dedicati da tutto il mondo. - _from: [Learn more about Ableton - maker of Live and Push | Ableton](https://www.ableton.com/en/about/)_
 
 [^2]: [Ableton Live - Wikipedia](https://it.wikipedia.org/wiki/Ableton_Live)
-
-
-
-
-
-
-
-
 
 
 

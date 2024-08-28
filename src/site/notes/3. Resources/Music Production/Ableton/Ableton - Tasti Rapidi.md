@@ -24,6 +24,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[Tasti Rapi
 -   Inviluppo Seguendo la Griglia
 
 
+
 ## Modalità disegno
 
 -   B + b premuto
@@ -346,3 +347,11 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[Tasti Rapi
 - Preferenze
 	- CTRL+,
 
+
+
+## MISC
+
+- Tasti Rapidi momentanei (Ableton 12)
+	- Solo tracce (Tenendo premuto il tasto è possibile mettere in solo fino a quando il tasto viene rilasciato)
+	- Anche il tasto A per l'automazione
+- Anche se Tastiera MIDI del Computer è attiva, possiamo usare i tasti rapidi aggiungendo il Tasto SHIFT (Ableton 12)

@@ -11,32 +11,32 @@
 		- Computer
 		- Giradischi
 		- CDJ (Lettori CD specializzati per DJ)
-		- Controller MIDI
+		- [[3. Resources/Music Production/Controller MIDI\|Controller MIDI]]
 			- Push (di Ableton)
 			- Akai
-		- Mixer
+		- [[3. Resources/Music Production/Mixer\|Mixer]]
 		- Controller DJ
-		- Scheda audio
+		- [[3. Resources/General Knowledge/Scheda audio\|Scheda audio]]
 		- Monitor audio
 	- Software
-		- Software di mixaggio (Serato, Traktor, Rekordbox, Virtual DJ e Ableton Live)
+		- Software di mixaggio (Serato, Traktor, Rekordbox, Virtual DJ e [[3. Resources/Music Production/Ableton/Ableton\|Ableton]] Live)
 		- Software generali (ad es. Mixed In Key)
 		- Siti utili (ad es. Song Key & BPM)
 
 ## Setting Ableton (Audio e MIDI)
 
-- Configurazione delle preferenze audio: driver, latenza, buffer size.
-- Configurazione delle preferenze MIDI: riconoscimento del controller, assegnazione dei controlli.
+- [[3. Resources/Music Production/Ableton/Ableton - Configurazione Audio\|Configurazione delle preferenze audio]]: driver, latenza, buffer size.
+- [[3. Resources/Music Production/Ableton/Ableton - Configurazione MIDI\|Configurazione delle preferenze MIDI]]: riconoscimento del controller, assegnazione dei controlli.
 
 ## Modalità di Mixing
 
-- Crossfader di Ableton + Controller MIDI 
+- Crossfader di Ableton + [[Controller MIDI \|Controller MIDI ]]
 - Tracce che vanno sul mixer esterno. Quindi poi bisogna mixare i brani da quest'ultimo.
 - Entrambi. È possibile usare entrambe le soluzioni
 
 ## Preparare il Progetto (Tracce, Effetti, ecc.)
 
-- Tracce
+- [[3. Resources/Music Production/Ableton/Ableton - Le Tracce\|Le Tracce]]
 	- È possibile usare le tracce per mettere alcuni brani e spostarli poi nei vari deck.
 	- È possibile raggruppare le tracce con i gruppi, tipo gruppo CUE 1 con dentro alcune tracce e CUE 2 con dentro altre tracce
 	- Schema 1:
@@ -44,7 +44,7 @@
 		- Deck B
 		- FX
 		- VOX
-- Aggiungere gli effetti
+- Aggiungere gli [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]]
 	- Effetti su tracce
 		- EQ Three
 		- Auto Filter Bypass
@@ -56,14 +56,14 @@
 		- Utility
 		- Youlean Loudness
 		- Limiter
-- Introduzione ai racks di effetti.
+- Introduzione ai [[3. Resources/Music Production/Ableton/Ableton - Racks\|racks]] di effetti.
 - Creazione di clip e scene per la gestione delle tracce.
 
 ## Routing (Entrate & Uscite)
 
-- Routing Ableton (MIDI)
-	- Cos’è il Routing  
-	- Da MIDI a AUDIO  
+- [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Routing Ableton (MIDI)]]
+	- Cos’è il [[3. Resources/Music Production/Routing\|Routing]]  
+	- Da [[3. Resources/Music Production/MIDI\|MIDI]] a [[3. Resources/General Knowledge/Audio\|AUDIO]]  
 	- Routing nella vista dettaglio delle tracce  
 	- Tracce
 		- Input Tracce  
@@ -98,17 +98,16 @@
 ## Sistemazione e Importazione Brani
 
 - Sistemare in ordine le tracce da mixare
-	- BPM
+	- [[3. Resources/Music Production/BPM\|BPM]]
 		- In un vero DJ Mix, le tracce vengono messe a tempo in live, mentre qui viene fatto prima di fare il mix. 
-	- Key (tonalità)
+	- Key ([[3. Resources/Music Production/Tonalità\|tonalità]])
 	- Genere, Mood
 - Importazione delle tracce audio.
-- Warping
+- [[3. Resources/Music Production/Ableton/Ableton - WARP\|Warping]]
 	- Warpare velocemente le tracce
 	- Start tracce
 	- Salvare il warping e la posizione con il tasto save
-
-## Vista Sessione di Ableton
+## [[3. Resources/Music Production/Ableton/Ableton - Vista Sessione\|Vista Sessione di Ableton]]
 
 - Cos'è la Vista Sessione  
 - A cosa serve la Vista Session?  
@@ -167,13 +166,13 @@
 - Organizzazione delle scene per live set.
 - Pratica al lancio Clip e Scene
 
-## Scene e Clip
+## Scene e [[3. Resources/Music Production/Ableton/Ableton - Le Clip\|Clip]]
 
 - Creazione e gestione di clip
 - Organizzazione delle scene
 - Pratica al lancio Clip e Scene
 
-## Mapping con Ableton
+## [[3. Resources/Music Production/Ableton/Ableton - Mappatura\|Mapping con Ableton]]
 
 - Mapping Vista Sessione
 - Mapping Effetti
@@ -196,10 +195,10 @@
 - Fare pratica con diversi generi musicali.
 - Registrazione e revisione del mix.
 
-## Registrazione nella Vista Arrangiamento
+## Registrazione nella [[3. Resources/Music Production/Ableton/Ableton - Vista Arrangiamento\|Vista Arrangiamento]]
 
-- Registrazione di una performance in tempo reale.
-- Editing e arrangiamento delle clip registrate.
+- [[3. Resources/Music Production/Registrazione\|Registrazione]] di una performance in tempo reale.
+- [[3. Resources/Music Production/Editing Audio\|Editing Audio]] e arrangiamento delle clip registrate.
 - Creazione di transizioni e automazioni.
 
 ## Extra
@@ -210,7 +209,7 @@
 	- [DJ Deck Strip - Tom Cosm's Ko-fi Shop - Ko-fi ❤️ Where creators get support from fans through donations, memberships, shop sales and more! The original 'Buy Me a Coffee' Page.](https://ko-fi.com/s/97d20a2b40)
 	- [DJ Deck Strip](https://tomcosm.gumroad.com/l/widwep)
 - Creare i Markers
-- Salvare template
+- Salvare [[3. Resources/Music Production/Template Music Production\|Template]]
 
 ## Consigli Finali
 

@@ -177,13 +177,13 @@
 	- Canale di uscita  
 
 --
-### Creare Tracce Instruments
+### Creare Tracce MIDI Instruments
 - Aggiungere Plugin Instrument
 - External Instrument per dispositivi hardware esterni (synth, campionatori, drum machine ecc.)
 - Usare gli strumenti virtuali di Ableton (Drum Rack, Simpler, Operator, etc.).
 
 --
-### Creare Tracce External
+### Creare Tracce Audio External
 - MIC
 - Guitar
 - Altro
