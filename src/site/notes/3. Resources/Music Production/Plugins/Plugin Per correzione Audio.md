@@ -12,6 +12,7 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio Effect\|Plugin Audi
     - Uno dei migliori software di riduzione del rumore disponibile. Offre strumenti avanzati per eliminare rumori di fondo, clic e altri artefatti audio indesiderati.
 - **Waves Z-Noise/X-Noise**:
     - Plugin di Waves molto efficaci per la riduzione del rumore. Z-Noise è particolarmente utile per rimuovere rumori continui, mentre X-Noise è ottimo per rumori intermittenti.
+- **WNS Noise Suppressor by Waves**
 - **Clarity Vx (Waves)**
 	- [Clarity Vx – Clean Vocals. Fast. No Compromise. - Waves Audio](https://www.waves.com/plugins/clarity-vx)
 - **Tutti i plugin della Waves per il Noise Reduction**

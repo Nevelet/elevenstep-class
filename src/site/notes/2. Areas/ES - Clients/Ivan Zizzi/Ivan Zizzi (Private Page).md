@@ -4,6 +4,4 @@
 
 
 
-[[2. Areas/ES - Clients/Ivan Zizzi/Lezioni Ivan Zizzi\|Lezioni Ivan Zizzi]]
-
-
+- [[2. Areas/ES - Clients/Ivan Zizzi/Moduli Sound Design (Ivan Zizzi)\|Moduli Sound Design (Ivan Zizzi)]]

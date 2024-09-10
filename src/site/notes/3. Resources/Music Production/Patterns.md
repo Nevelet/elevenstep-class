@@ -18,10 +18,12 @@ _I Pattern sono dei modelli/schemi che seguono alcuni criteri per la scrittura d
 
 ## 🔬 Query
 
-| File |
-| ---- |
-
-{ .block-language-dataview}
+```dataview
+TABLE
+from [[#this.file.link]] and !outgoing([[#this.file.link]])
+WHERE contains(Links, this.file.link) OR contains(up, this.file.link)
+SORT file.name asc
+```
 
 
 

@@ -10,8 +10,12 @@ Links:: [[3. Resources/Music Production/Mastering\|Mastering]]
 
 ![image](https://assets-global.website-files.com/60a0ade9a9e15bdd6b98f68b/61e5de1288e5f7fd636e1095_LUFS%20Normalization%20Chart.png)
 
-YouTube: -13 LUFS
+YouTube: -14 LUFS (2024)
 Spotify: -14 LUFS
+
+**Attenzione, le piattaforme considerano il LUFS integrated e non Short term.**
+
+Ad esempio se il mio LUFS in Short term è -7 e il LUFS integrated è -9, YouTube lo abbasserà di -4 db. Il risultato sarà -14 il LUFS integrated e -11 il LUFS Short term. 
 
 ## Mastering per Spotify
 

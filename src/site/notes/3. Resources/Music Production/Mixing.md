@@ -44,20 +44,15 @@ Immagine il mixing come giocare a Tetris, ogni suono ha una sua forma e bisogna 
 
 ## Query
 
-| File                                                                                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[2. Areas/Personal Growth & Dev/Journaling/2022/2022-12-13\|2022-12-13]]                                                                    |
-| [[2. Areas/Personal Growth & Dev/Journaling/2022/2022-12-15\|2022-12-15]]                                                                    |
-| [[2. Areas/Personal Growth & Dev/Journaling/2023/2023-04-25\|2023-04-25]]                                                                    |
-| [[2. Areas/Personal Growth & Dev/Journaling/2023/2023-06-10\|2023-06-10]]                                                                    |
-| [[3. Resources/Sources/5 consigli su come mixare la voce\|5 consigli su come mixare la voce]]                                                |
-| [[3. Resources/Music Production/Mixing & Mastering/808 Bass (Mixing)\|808 Bass (Mixing)]]                                                    |
-| [[3. Resources/Music Production/Ableton/Ableton - EQ Eight\|Ableton - EQ Eight]]                                                             |
-| [[3. Resources/Music Production/Ableton/Ableton - Mixing con Drum Rack\|Ableton - Mixing con Drum Rack]]                                     |
-| [[3. Resources/Music Production/Ableton/Ableton - Mixing con i Dispositivi Effects Audio\|Ableton - Mixing con i Dispositivi Effects Audio]] |
-| [[3. Resources/Music Production/Ableton/Ableton per performance in Live\|Ableton per performance in Live]]                                   |
+```dataview
+TABLE 
+FROM [[#this.file.name]] AND !outgoing([[#this.file.name]]) AND !#type/daily AND !#type/reviews 
 
-{ .block-language-dataview}
+SORT file.name asc
+
+LIMIT 10
+
+```
 
 
 ## Notes

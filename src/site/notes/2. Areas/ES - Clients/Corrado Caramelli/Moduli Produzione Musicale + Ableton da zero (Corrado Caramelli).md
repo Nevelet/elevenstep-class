@@ -331,11 +331,488 @@ Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
 > 	- [ ] Dispositivi o Plugin Effetti MIDI  
 > 	- [ ] Scale  
 > 	- [ ] Chord  
-> 	- [ ] Arpeggiator  
+> 	- [x] Arpeggiator  
 > 	- [ ] Scaler (Plugin)  
-> - [ ] Scrittura accordi  
+> - [x] Scrittura accordi  
 > - [ ] Mixing  
 > - [ ] Layering
+
+> [!NOTE]- ## [[3. Resources/Music Production/Bass\|Bass]]
+> - Tipi di Bassi  
+> 	- Synth Sub Bass  
+> 	- Synth Mid-Bass  
+> 	- Synth Reese Bass  
+> 	- Synth Donk Bass  
+> 	- Synth Wobble Bass  
+> 	- Acid Bass  
+> 	- Octave Bass  
+> 	- Portamento Bass  
+> 	- Plucked Bass  
+> 	- FM Bass  
+> 	- 808 Bass  
+> 	- Techno Rumble Bass  
+> 	- Retro Synthwave Bass  
+> 	- Synth Stab  
+> 	- Upper-Bass  
+> 	- Analog Bass  
+> - [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti (Bass)\|Scelta degli Strumenti (Bass)]]
+> 	- Dispositivi  
+> 		- Operator  
+> 	- Plugin  
+> 		- Vital  
+> 		- ABPL2 (Ample Bass P II Lite) (Basso acustico)  
+> - Sound Design/Scelta dei suoni  
+> 	- Presets Instruments  
+> 	- Sezione Sound (Browser Ableton)  
+> 	- Main Bass  
+> 	- Loop Sample  
+> - [[3. Resources/Music Production/Synth Bass (Scrittura)\|Scrittura Synth Bass]]
+> 	- Patterns  
+> 		- Strumenti per creare dei Patterns (es. STING)  
+> - Combinazione A+B & A+C	  
+> 	- Bass (Phrase A)  
+> 	- Bass (Phrase B)  
+> 	- Bass (Phrase C)  
+> - Catena di Effetti  
+> - [[3. Resources/Music Production/Mixing\|Mixing]]  
+> - [[3. Resources/Music Production/Sidechain\|Sidechain]]  
+> - [[3. Resources/Music Production/Layering\|Layering]]  
+> 	- Resampling e Pitch  
+> 	- Tecniche di Noise  
+> 	- Groove background  
+> 	- Automazioni
+
+> [!NOTE]- ## Sub & Kick
+> - Cos’è il [[3. Resources/Music Production/Synth Sub Bass\|Sub]]  
+> - Creare/Scegliere il Sub  
+> - Scrittura Sub  
+> - Mixing Sub  
+> - Sidechain
+> 	- Cos'è il Sidechain
+> 	- Tipi di Sidechain
+> 		- **Compressore (dinamico)**
+> 		- **Volume shaping (statico)**
+> 		- **Automazione Volume (più preciso)**
+> 		- **Multibanda (più controllo)** (ad es. Trackspacer plugin)
+> 	- Plug-in consigliati
+> 		- Duck
+> 		- Volume shaper
+> 		- Trackspacer
+> 		- LFOTool (Xfer)
+> 		- Kickstart (Nicky Romero)
+> 		- Multiband Sidechain (Vengeance)
+> 		- OneKnob Pumper (Waves)
+> 	- Strumenti utili per il Sidechain
+> 		- Oscilloscopio
+> 		- Analizzatore di frequenze
+> - Gestione della [[3. Resources/Music Production/Fase\|Fase]]
+
+> [!NOTE]- ## [[3. Resources/Music Production/Creazione Elementi Melodici\|Creazione Elementi Melodici]]
+> - Cos’è la [[3. Resources/Music Production/Melodia\|melodia]]  
+> - Caratteristiche della melodia  
+> 	- Altezza delle note  
+> 	- Durata delle note  
+> 	- Movimento melodico  
+> 	- Salti melodici  
+> - Funzione della melodia  
+> 	- Trasmettere emozioni  
+> 	- Rendere il brano memorabile  
+> 	- Dare struttura al brano  
+> 	- Distinguere un brano dall'altro  
+> - Come si crea una melodia  
+> 	- Utilizzare scale musicali  
+> 	- Improvvisare  
+> 	- Adattare melodie esistenti  
+> 	- Seguire la propria ispirazione  
+> - Quali sono gli [[3. Resources/Music Production/Strumenti Melodici\|Strumenti Melodici]]  
+> 	- Strumenti a Corda (Strings): come Chitarra, violino, violoncello, pianoforte.  
+> 	- Strumenti a Fiato (Woodwinds): come flauto, clarinetto, saxofono, tromba.  
+> 	- Strumenti a Tastiera (Musica): pianoforte, organo, sintetizzatore  
+> - Preset o Sound Design [[3. Resources/Music Production/Synth Lead\|Synth Lead]]  
+> - Creare una Melodia efficace  
+> - Mixing  
+> - Layering
+> 
+
+> [!NOTE]- ## [[3. Resources/Music Production/Creare un'atmosfera\|Creazione Atmosfera]]
+> - Creare un'atmosfera con Synth  
+> 	- PAD  
+> 	- String  
+> - Creare un'atmosfera con Resampling  
+> 	- Registrare il suono del Synth e manipolarlo in audio  
+> 	- L’uso di campioni come voci, effetti ecc.  
+> - Creare un arpeggio
+
+> [!NOTE]- ## Routing e Registrazione [[3. Resources/General Knowledge/Audio\|Audio]]
+> - [[3. Resources/Music Production/Ableton/Ableton - Routing Audio Tracce\|Routing Audio]]  
+> 	- Input Tracce  
+> 		- Tipo di ingresso   
+> 		- Canale d’ingresso  
+> 	- Output Tracce  
+> 		- Tipo di uscita  
+> 		- Canale di uscita  
+> - [[3. Resources/Music Production/Ableton/Ableton - Registrazione Audio\|Registrazione Audio]]
+> 	- Registrazione Audio (External)  
+> 		- Selezionare un Input  
+> 		- Registrare su una base  
+> 		- Preferenze Record  
+> 		- Punch In/Out  
+> 	- Registrazione Audio (Internal)  
+> 		- Registrare da un'altra Traccia Audio/MIDI  
+> 		- Registrare da più Tracce  
+> 		- Registrare da un Gruppo  
+> 		- Registrare da una mandata  
+> 		- Resampling  
+> - [[3. Resources/Music Production/Ableton/Ableton - Comping\|Comping]]  
+> 	- Traccia Take Lane  
+> 	- Tasti Rapidi
+
+> [!NOTE]- ## Editing Nella Clip Audio
+> - [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista Clip (AUDIO)\|I Pannelli della Vista Clip]]  
+> 	- Pannelli delle Clip  
+> 	- Pannelli Tools  
+> - [[3. Resources/Music Production/Ableton/Mettere a tempo su Ableton\|Mettere a tempo con il WARP]]
+> 	- Cos’è il [[3. Resources/Music Production/Ableton/Ableton - WARP\|Warp]]  
+> 	- Cosa attiva il WARP e le preferenze di auto-warp  
+> 	- BPM del Segmento vs BPM del progetto  
+> 	- Modalità di WARP  
+> 	- Impostazioni di WARP  
+> 	- Preferenze di WARP  
+> 	- Tasti Rapidi  
+> 	- Warping Multi-Clip
+
+> [!NOTE]- ## [[3. Resources/Music Production/Vocal (Music Production)\|Vocal]]
+> - Vocal  
+> 	- Trovare o/e Registrare un Vocal  
+> 	- Mettere a tempo su Ableton  
+> 		- Trovare l'attacco giusto  
+> 		- Trovare il BPM  
+> 		- Warping  
+> 	- Mettere in chiave un Vocal  
+> 		- Tramite plugin  
+> 			- Melodyne  
+> 			- Auto Tune (Antares)  
+> 			- Waves Tune  
+> 		- Ad orecchio usando il Pitch  
+> - [[3. Resources/Music Production/Ableton/Ableton - Vista Clip Audio\|Vista Clip Audio (Ableton)]]
+> 	- Pannelli Tools  
+> 		- Clip  
+> 		- Audio  
+> - [[3. Resources/Music Production/Mixing & Mastering/Vocal (Mixing)\|Vocal Mixing]]
+> 	- Utilizzo del Compressore sulla voce  
+> 	- Utilizzo dell'Equalizzatore sulla voce  
+> 	- Utilizzare in modo corretto il Riverbero  
+> 	- Utilizzare il Delay  
+> - [[3. Resources/Music Production/Sound Design/Vocal (Sound Design)\|Sound Design Vocal]]
+> 	- Editing  
+> 	- Creare dei Vocal Chops  
+> 	- Usare funzione Loop  
+> 	- Automazioni
+
+> [!NOTE]- ## Editing Clip
+> - Copia, Incolla, Taglia, Elimina  
+> - Funzioni di tempo  
+> - Spostare  
+> - Duplicare  
+> - Multi selezione  
+> - Consolidare
+
+> [!NOTE]- ## Automazioni & Modulazioni
+> - [[3. Resources/Music Production/Automazioni (Mixing)\|Automazione]] e [[3. Resources/Music Production/Modulazioni\|Modulazione]]  
+> 	- Cos’è un automazione  
+> 	- Cos’è una modulazione  
+> 	- Quali sono le differenze  
+> - [[3. Resources/Music Production/Ableton/Ableton - Automazioni\|Creare un automazione su Ableton]]
+> 	- Inviluppo di automazione  
+> 	- Linea/Traccia di Automazione  
+> 	- Modalità disegno  
+> 	- Attivare e bloccare automazione  
+> 	- Menu contestuale  
+> 	- Automazione tempo e metrica  
+> 	- Tasti Rapidi  
+> - [[3. Resources/Music Production/Ableton/Ableton - Modulazioni\|Creare una modulazione su Ableton]]
+> - [[3. Resources/Music Production/Ableton/Ableton - Mappatura\|Mappatura Tasti e MIDI]]
+> - [[3. Resources/Music Production/Ableton/Ableton - Registrazione Automazione\|Registrazione Automazione]]
+
+> [!NOTE]- ## Rack
+> - Cosa sono i [[3. Resources/Music Production/Ableton/Ableton - Racks\|Rack]]  
+> - Tipi di Rack  
+> - Creare un rack di effetti da zero  
+> - Creare un rack di strumenti da zero  
+> - Elementi Rack  
+> 	- Macro  
+> 	- Catene  
+> 	- Variazioni Macro  
+> 	- Randomizzazione  
+> 	- Chain, Key e Velocity  
+> - Mappature Macro  
+> - Extra  
+> 	- Estrai catene
+
+> [!NOTE]- ## Max for Live
+> - Cos’è [[3. Resources/Music Production/Max for Live (Ableton)\|Max for Live]]
+> - Tipi di dispositivi  
+> - Dispositivi di M4L consigliati
+
+> [!NOTE]- ## Arrangiamento Intro e Breakdown
+> - [x] Cos'è l'[[3. Resources/Music Production/Arrangiamento\|Arrangiamento]]?  
+> 	- [x] processo di organizzazione degli elementi musicali di un brano  
+> 	- [x] trovare i suoni giusti nel posto giusto  
+> - [ ] Come [[3. Resources/Music Production/Struttura (Musica)\|strutturare un brano]]?  
+> 	- [ ] schemi  
+> 	- [ ] tracce di riferimento  
+> - [x] [[3. Resources/Music Production/Ableton/Rispettare le CLIP e le battute\|Rispettare le CLIP e le battute]]  
+> - [ ] [[3. Resources/Music Production/Arrangiamento Intro\|Arrangiamento Intro]]
+> 	- [x] Cos’è l’intro  
+> 	- [ ] Riferimento Struttura  
+> 	- [x] Trovare i suoni giusti per l'introduzione  
+> 	- [x] Creare delle Automazioni  
+> 	- [ ] Aggiungere gli SFX  
+> 		- [ ] Cosa sono gli effetti sonori  
+> 		- [ ] Tipi di SFX  
+> - [ ] [[3. Resources/Music Production/Arrangiamento Breakdown\|Arrangiamento Breakdown]]
+> 	- [ ] Melodia  
+> 	- [ ] Accordi  
+> 	- [ ] Drum  
+> 	- [ ] Trovare un Vocal
+
+> [!NOTE]- ## [[3. Resources/Music Production/Arrangiamento Buildup\|Arrangiamento Buildup]]
+> - Cos'è un [[3. Resources/Music Production/Buildup\|Buildup]]  
+> - Creare un crescendo  
+> - Aggiungere [[3. Resources/Music Production/Sound Effects\|SFX]]  
+> - Kick & Snare roll  
+> - [[3. Resources/Music Production/Resampling Audio\|Resampling]] Bass Drop  
+> - Riciclo suoni intro e break  
+> - [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni]]
+
+> [!NOTE]- ## [[3. Resources/Music Production/Arrangiamento Drop\|Finalizzare il Drop]]
+> - Cos'è un [[3. Resources/Music Production/Drop\|Drop]]  
+> - Creare una variazione (Sezione B)  
+> - Aggiungere gli SFX  
+> - Creare dei Fills  
+> - Creare delle Automazioni  
+> - Vocal Chant
+
+> [!NOTE]- ## Breakdown \+ Drop
+> - Cos’è un [[3. Resources/Music Production/Breakdown\|Breakdown]]  
+> - Creare un secondo Breakdown  
+> - Drop alternativo  
+> 	- Resampling  
+> 	- Effects
+
+> [!NOTE]- ## [[3. Resources/Music Production/Arrangiamento Outro\|Outro]] \+ Ritocchi Finali
+> - Creare un Outro  
+> - Ritocchi Finali
+
+> [!NOTE]- ## [[3. Resources/Music Production/Mixing\|Mixing]]
+> - [[3. Resources/Music Production/Bilanciamento dei livelli\|Bilanciamento dei livelli]]
+> 	- Gain Staging  
+> 	- Leveling  
+> - [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]] ([[3. Resources/Music Production/Frequenze\|frequenze]])  
+> - [[3. Resources/Music Production/Mixing & Mastering/Compressione\|Compressione]] ([[3. Resources/Music Production/Gamma Dinamica\|dinamica]])  
+> - [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]]
+> - [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]]
+> - [[3. Resources/Music Production/Sidechain\|Sidechain]]
+> - [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni]]
+
+> [!NOTE]- ## [[3. Resources/Music Production/Mastering\|Mastering]]
+> - Cos'è la masterizzazione audio  
+> - Processi Basilari  
+> 	- Dinamica  
+> 	- Frequenze  
+> 	- Immagine stereo  
+> - Poche cose ma buone  
+> - Analizzare tutto il Mix e Traccia di Riferimento  
+> 	- Strumenti di analisi  
+> 		- Check Master (Rack)  
+> 		- SPAN  
+> 		- PSYSCOPE  
+> 		- Youlean Loudness Meter  
+> 		- Correlation Meter  
+> 	- Traccia di riferimento  
+> 		- Analizzare traccia di riferimento con SPAN Sidechain  
+> 		- estrarre stems traccia di riferimento  
+> - Tonal Balance: Creare un mix finale bilanciato e compatibile con diversi sistemi audio  
+> - Lavorare sulle Frequenze  
+> 	- Equalizzazione (Natural Phase & Linear Phase)  
+> 	- Equalizzazione Linear Phase  
+> 	- EQ Tonal Balance  
+> 	- EQ Matching  
+> 		- FabFilter Q3  
+> 		- Izotope Ozone EQ  
+> 	- Ridurre l'effetto harsh in fase di mastering (De-essing)  
+> 	- Oversampling & Lookahead per evitare ulteriori distorsioni  
+> 	- Utilizzo del De-esser  
+> 	- Utilizzo di EQ dinamici (Soothe2 o VASTAUS alternativa free)  
+> 	- Togliere le risonanze  
+> 	- Non esagerare con i saturatori, exciter ecc.  
+> 	- Taglio sugli estremi di banda  
+> 	- Per non cambiare la fase, meglio usare l'EQ Linear Phase  
+> 	- provare ad usare un High/Low Cut in Brickwall  
+> - Lavorare sulla Spazialità  
+> 	- Equalizzazione Mid-Side  
+> 	- Imager \- Stereo Widening  
+> 	- Mono compatibilità  
+> 	- Automazioni mid/side prima del drop  
+> - Lavorare sulla Dinamica  
+> 	- Gestire la dinamica del brano  
+> 	- Compressore Multibanda  
+> 	- Compressore  
+> - Color  
+> 	- Saturazione  
+> - Limiting  
+>   - LUFS & Curve Isofoniche  
+> 	- Cos'è il LUFS  
+> 	- Cosa sono le Curve Isofoniche  
+> 	- Come ottenere un LUFS alto  
+> 		- Avere un mix bilanciato  
+> 		- Scegliere o/e creare i suoni giusti → Scelta dei Suoni e degli Strumenti & Sound Design  
+> 		- Layering  
+> 	- Differenza tra Limiter e Clipper  
+> 	- Differenza tra Limiter, Clipper e Maximizer  
+> 	- Utilizzo del Limiter o/e Clipper  
+> 	- Utilizzo di più Limiter/Clipper  
+> 	- Maximizer  
+> 	- Valori ottimali  
+> 		- Peak reduction  
+> 		- LUFS  
+> - Ascolto finale  
+> 	- Analisi del suono e utilizzo degli Analyzer  
+> 	- simulazione di ambienti e dispositivi (Mixchecker o Place It)  
+> - Export  
+> 	- Formati audio  
+> 	- Frequenza di Campionamento  
+> 	- Bit Rate & Bit Depth  
+> 	- Dithering  
+> 	- Mastering per lo Streaming  
+> - Mastering online  
+> 	- Mastering per lo Streaming  
+> 	- Mastering online (Comparazione Mastering Online)
+
+> [!NOTE]- ## [[3. Resources/Music Production/Ableton/Ableton - Organizzazione\|Organizzare il Progetto]]
+> - Creare dei gruppi nelle tracce
+> - [[3. Resources/Music Production/Ableton/Ableton - Percorso Contenuti\|Ableton - Percorso Contenuti]]
+> - Librerie
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Core Library\|Ableton - Core Library]]
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Libreria Utente\|Ableton - Libreria Utente]]
+> - Progetti e Live Set
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Live Set vs Progetto\|Ableton - Live Set vs Progetto]]
+> 	- Gestire il Progetto Corrente (Cartella)
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Come salvare nel modo giusto i progetti\|Ableton - Come salvare nel modo giusto i progetti]]
+> - Files
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Tipi di File Specifici\|Ableton - Tipi di File Specifici]]
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Gestione dei File (File Manager)\|Ableton - Gestione dei File (File Manager)]]
+> 	- [[3. Resources/Music Production/Ableton/Ableton - File Mancanti\|Ableton - File Mancanti]]
+> 	- Trovare e gestire i file registrati
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Backup files (Tutto quello che c'è da salvare)\|Ableton - Backup files (Tutto quello che c'è da salvare)]]
+> - [[3. Resources/Music Production/Ableton/Ableton - Template (Modelli)\|Ableton - Template (Modelli)]]
+
+> [!NOTE]- ## L’uso dei Dispositivi
+> - [[3. Resources/Music Production/Ableton/Ableton - Dispositivi Instruments\|Dispositivi Instruments]]  
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Operator\|Operator]] (solo avanzato) (no Intro)  
+> 	- Drift (solo avanzato)  
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Wavetable\|Wavetable]] (solo avanzato)  
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Simpler\|Simpler]] (solo avanzato)  
+> 	- [[3. Resources/Music Production/Ableton/Ableton - Sampler\|Sampler]] (solo avanzato) (no Intro)  
+> 	- Altri a richiesta  
+> - [[3. Resources/Music Production/Ableton/Ableton - Dispositivi Audio Effects\|Dispositivi Audio Effects]]
+> - [[3. Resources/Music Production/Ableton/Ableton - Dispositivi Effetti MIDI\|Dispositivi Effetti MIDI]]
+
+> [!NOTE]- ## [[3. Resources/Music Production/Ableton/Ableton - Vista Sessione\|Vista Sessione]]
+> - Cos'è la Vista Sessione  
+> - A cosa serve la Vista Session?  
+> - Differenze tra Arrangement e Session  
+> - Traccia Session e Slot per Clip  
+> 	- Pulsante stop Clip  
+> 	- Rimuovere Pulsante Stop  
+> 	- Pulsante di Registrazione  
+> 	- Inserire o Registrare Clip  
+> - Registrazioni  
+> 	- Menu di Quantizzazione (Globale)  
+> 	- Registrazione della Sessione  
+> 	- Tutte le tracce o solo quelle Armate  
+> 	- Prepara Scena per Nuova Registrazione (tasto New. Visibile solo in modalità mappatura MIDI o Key)  
+> 	- Quantizzazione in Registrazione  
+> 	- Registrare le Automazioni  
+> 	- Registrare dei Loop perfetti  
+> 	- Tasti Rapidi con tastiera PC  
+> - Scene  
+> 	- Menù contestuale  
+> 	- Inserisci Scena  
+> 	- Cattura e Inserisci Scena  
+> 	- Seleziona tutti gli Slot della Scena  
+> 	- Annulla Lancio della Scena  
+> 	- Al Lancio Seleziona Scena Successiva (Pref)  
+> 	- Innesca Registrazione al Lancio (Pref)  
+> 	- Cambio BPM e Metrica (Tempo e Divisione Metrica della Scena)  
+> - Follow Action (Azione seguente)  
+> 	- Cos’è il Follow Action  
+> 	- Azione A / B  
+> 	- Change dell'azione seguente (0-100%)  
+> 	- Azione seguente collegata (Linked e Unlinked)  
+> 	- Tempo dell'azione seguente o Moltiplicatore (in base a quale opzione si sceglie tra Linked e Unlinked)  
+> 	- Aggiustamenti avanti e indietro  
+> 	- Modalità di Lancio di default  
+> 	- Quantize (Quantizzazione della Clip)  
+> 	- Velocity  
+> 	- Fallow Action su scene  
+> - Preferenze Launch  
+> 	- Modalità di Lancio di default  
+> 	- Quantizzazione default del Lancio  
+> 	- Seleziona al Lancio  
+> 	- Al Lancio Seleziona Scena Successiva  
+> 	- Avvia Registrazione al Lancio Scena  
+> - Extra  
+> 	- Crea Catena di Azioni Seguenti  
+> 	- Impatto sulle Prestazioni su ogni traccia  
+> 	- Alternare le due viste (Riprodurre in entrambe le viste)  
+> 	- Mappatura Vista Sessione  
+> 	- Display di stato della Traccia (cerchio nella tracce che indicano la durata della clip)  
+> 	- Torna all'Arrangiamento (tasto presente nell'arrangiamento per attivare le clip su quest'ultima vista.)  
+> 	- Abilita le Azioni seguenti Globalmente (tasto presente nella traccia master)
+> 	- Fade (nella vista clip)  
+> 	- I controlli di Preascolto (o Cueing) (Slider per passare da A a B)
+
+> [!NOTE]- ## [[3. Resources/Music Production/Ableton/Ableton - Export\|Export]]
+> - Settaggi sull'esportazione  
+> - Creare File Master per il web  
+> - Creare File Master per Mixing/Mastering  
+> - Creare degli Stems
+
+> [!NOTE]- ## Distribuzione
+> - [[3. Resources/Music Production/Pubblicazione Musica\|Pubblicazione Musica]]
+> 	- Usare distributori  
+> 	- Creare account Spotify Artist  
+> - [[3. Resources/Music Production/Promozione Musica\|Promozione Musica]]
+> 	- Trovare la giusta label  
+> 	- Come inviare una traccia ad una label
+> 
+
+> [!NOTE]- ## [[3. Resources/Music Production/Ableton/Ableton - Extra\|Extra]]
+> - [[3. Resources/Music Production/Ableton/Ableton - Le Tracce\|Le Tracce]] (Advanced)  
+> 	- Gruppi  
+> 	- Track Delay  
+> 	- Freeze  
+> 	- Menu Contestuale  
+> 	- Collegare più Tracce  
+> 	- Selezione Multipla  
+> - Localizzatori  
+> 	- Creare nuovi locatori  
+> 	- Mappare i locatori  
+> - Importare File Video su Ableton  
+> - Collegare e usare uno strumento Hardware  
+> - Editare il campione con un programma esterno  
+> - Follow (Segui Tempo)  
+> - Utilizzare uno strumento su più canali (multi outputs)  
+> - File Options  
+> - Creare un Lessons Panel  
+> - Importare un file MIDI (.mid)  
+> - Tips & Tricks  
+> 	- Sostituzione Dinamica  
+> 	- Risparmiare sulle risorse  
+> 	- Rinominare velocemente
+> 	- Copiare materiale da un progetto ad un altro
+
 
 
 

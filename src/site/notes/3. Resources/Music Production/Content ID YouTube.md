@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]]
 
 ---
-> Content ID è il sistema di [[YouTube\|YouTube]] scalabile e automatizzato grazie al quale i titolari di copyright possono identificare i video di YouTube che includono contenuti di loro proprietà. — [Utilizzo di Content ID - Guida di YouTube (google.com)](https://support.google.com/youtube/answer/3244015?)
+> Content ID è il sistema di [[0. Inbox/YouTube\|YouTube]] scalabile e automatizzato grazie al quale i titolari di copyright possono identificare i video di YouTube che includono contenuti di loro proprietà. — [Utilizzo di Content ID - Guida di YouTube (google.com)](https://support.google.com/youtube/answer/3244015?)
 
 > Content ID è un sistema di impronte digitali sviluppato da Google che viene utilizzato per identificare e gestire facilmente i contenuti protetti da copyright su YouTube.
 
