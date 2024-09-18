@@ -20,6 +20,7 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
 - [[0. Inbox/Plugin Audio Effect (De-Reverb)\|Plugin Audio Effect (De-Reverb)]]
 - [[3. Resources/Music Production/Plugins/Plugin Per correzione Audio\|Plugin Per correzione Audio]]
 
+Tape Emulation/Simulation
 
 ## Notes
 

@@ -19,11 +19,8 @@ Un EQ a fase lineare è un tipo di [[3. Resources/Music Production/Audio/Equaliz
 - [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]]
 
 
-```dataview
-LIST
-FROM [[#this.file.link]] and !outgoing([[#this.file.link]])
-WHERE !contains(file.path, "Templates") AND !contains(file.path, "Daily")
-```
+
+{ .block-language-dataview}
 
 
 

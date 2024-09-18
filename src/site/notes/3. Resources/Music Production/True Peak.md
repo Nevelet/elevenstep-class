@@ -15,7 +15,11 @@ Il true peak è il valore massimo di un segnale audio, compreso eventuali picchi
 - [Missaggio & Mastering - True Peak (Cos'è e come intervenire) - YouTube](https://www.youtube.com/embed/syOnPq3NdKk)
 
 
-## Related Notes
+## Internal Links
 
 - [[3. Resources/Music Production/Oversampling\|Oversampling]]
 
+
+## 🌍 External Links
+
+- [Perché Il True Peak "NON Conta Più" – Passato e Presente - YouTube](https://youtu.be/4v8QSn3LBOw)

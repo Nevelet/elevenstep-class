@@ -22,6 +22,7 @@ Il [[3. Resources/Music Production/LUFS\|LUFS]] è un indicatore per capire quan
 
 La prima è quella complessiva (dall'inizio alla fine della canzone o del programma audio), mentre le altre due si riferiscono a due finestre temporali di 3s e 300 ms. Inoltre, definisce lo LR (loudness range): l'escursione del loudness della traccia audio riprodotta.
 
+Momentary ti dà il volume medio percepito in un periodo di tempo che varia tra 300/400 ms
 
 ## FAQ
 

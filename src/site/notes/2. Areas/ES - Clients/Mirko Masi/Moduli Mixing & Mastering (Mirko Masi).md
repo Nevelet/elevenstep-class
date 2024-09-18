@@ -670,23 +670,23 @@ Links:: [[2. Areas/ES - Clients/Mirko Masi/Mirko Masi\|Mirko Masi]]
 > 
 
 > [!NOTE]- ## ▶ [[3. Resources/Music Production/Mastering\|Mastering]] e finalizzazione del mix
-> - [ ] Cos'è la masterizzazione audio  
-> - [ ] Processi Basilari  
-> 	- [ ] Dinamica  
-> 	- [ ] Frequenze  
-> 	- [ ] Immagine stereo  
-> - [ ] Poche cose ma buone  
+> - [x] Cos'è la masterizzazione audio  
+> - [x] Processi Basilari  
+> 	- [x] Dinamica  
+> 	- [x] Frequenze  
+> 	- [x] Immagine stereo  
+> - [x] Poche cose ma buone  
 > - [ ] Analizzare tutto il Mix e Traccia di Riferimento  
 > 	- [ ] Strumenti di analisi  
 > 		- [ ] Check Master (Rack)  
-> 		- [ ] SPAN  
-> 		- [ ] PSYSCOPE  
-> 		- [ ] Youlean Loudness Meter  
-> 		- [ ] Correlation Meter  
+> 		- [x] SPAN  
+> 		- [x] PSYSCOPE  
+> 		- [x] Youlean Loudness Meter  
+> 		- [x] Correlation Meter  
 > 	- [ ] Traccia di riferimento  
-> 		- [ ] Analizzare traccia di riferimento con SPAN Sidechain  
+> 		- [x] Analizzare traccia di riferimento con SPAN Sidechain  
 > 		- [ ] estrarre stems traccia di riferimento  
-> - [ ] Tonal Balance: Creare un mix finale bilanciato e compatibile con diversi sistemi audio  
+> - [x] Tonal Balance: Creare un mix finale bilanciato e compatibile con diversi sistemi audio  
 > - [ ] Lavorare sulle Frequenze  
 > 	- [ ] Equalizzazione (Natural Phase & Linear Phase)  
 > 	- [ ] Equalizzazione Linear Phase  
@@ -698,38 +698,38 @@ Links:: [[2. Areas/ES - Clients/Mirko Masi/Mirko Masi\|Mirko Masi]]
 > 	- [ ] Oversampling & Lookahead per evitare ulteriori distorsioni  
 > 	- [ ] Utilizzo del De-esser  
 > 	- [ ] Utilizzo di EQ dinamici (Soothe2 o VASTAUS alternativa free)  
-> 	- [ ] Togliere le risonanze  
-> 	- [ ] Non esagerare con i saturatori, exciter ecc.  
+> 	- [x] Togliere le risonanze  
+> 	- [x] Non esagerare con i saturatori, exciter ecc.  
 > 	- [ ] Taglio sugli estremi di banda  
 > 	- [ ] Per non cambiare la fase, meglio usare l'EQ Linear Phase  
 > 	- [ ] provare ad usare un High/Low Cut in Brickwall  
 > - [ ] Lavorare sulla Spazialità  
-> 	- [ ] Equalizzazione Mid-Side  
-> 	- [ ] Imager \- Stereo Widening  
-> 	- [ ] Mono compatibilità  
+> 	- [x] Equalizzazione Mid-Side  
+> 	- [x] Imager \- Stereo Widening  
+> 	- [x] Mono compatibilità  
 > 	- [ ] Automazioni mid/side prima del drop  
 > - [ ] Lavorare sulla Dinamica  
-> 	- [ ] Gestire la dinamica del brano  
-> 	- [ ] Compressore Multibanda  
+> 	- [x] Gestire la dinamica del brano  
+> 	- [x] Compressore Multibanda  
 > 	- [ ] Compressore  
 > - [ ] Color  
 > 	- [ ] Saturazione  
 > - [ ] Limiting  
->   - [ ] LUFS & Curve Isofoniche  
+>   - [x] LUFS & Curve Isofoniche  
 > 	- [ ] Cos'è il LUFS  
-> 	- [ ] Cosa sono le Curve Isofoniche  
-> 	- [ ] Come ottenere un LUFS alto  
-> 		- [ ] Avere un mix bilanciato  
-> 		- [ ] Scegliere o/e creare i suoni giusti → Scelta dei Suoni e degli Strumenti & Sound Design  
-> 		- [ ] Layering  
+> 	- [x] Cosa sono le Curve Isofoniche  
+> 	- [x] Come ottenere un LUFS alto  
+> 		- [x] Avere un mix bilanciato  
+> 		- [x] Scegliere o/e creare i suoni giusti → Scelta dei Suoni e degli Strumenti & Sound Design  
+> 		- [x] Layering  
 > 	- [ ] Differenza tra Limiter e Clipper  
 > 	- [ ] Differenza tra Limiter, Clipper e Maximizer  
 > 	- [ ] Utilizzo del Limiter o/e Clipper  
 > 	- [ ] Utilizzo di più Limiter/Clipper  
 > 	- [ ] Maximizer  
-> 	- [ ] Valori ottimali  
-> 		- [ ] Peak reduction  
-> 		- [ ] LUFS  
+> 	- [x] Valori ottimali  
+> 		- [x] Peak reduction  
+> 		- [x] LUFS  
 > - [ ] Ascolto finale  
 > 	- [ ] Analisi del suono e utilizzo degli Analyzer  
 > 	- [ ] simulazione di ambienti e dispositivi (Mixchecker o Place It)  
