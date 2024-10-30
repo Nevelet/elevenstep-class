@@ -5,10 +5,13 @@
 Links:: [[3. Resources/Music Production/Le Fasi della Produzione Musicale\|Le Fasi della Produzione Musicale]], [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
+- Tramite [[3. Resources/Music Production/Label\|Label]]
+- Tramite [[0. Inbox/Canali Promozionali YouTube\|Canali Promozionali YouTube]]
+- Indipendente
+	- [[3. Resources/Music Production/RouteNote\|RouteNote]]
+	- [[3. Resources/Music Production/Distributori Musica\|Distributori Musica]]
 
-- [[3. Resources/Music Production/RouteNote\|RouteNote]]
-- [[3. Resources/Music Production/Distributori Musica\|Distributori Musica]]
-
+Di solito le release vengono distribuite il venerdì
 
 
 

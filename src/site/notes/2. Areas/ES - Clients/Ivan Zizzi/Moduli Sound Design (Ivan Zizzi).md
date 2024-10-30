@@ -466,6 +466,358 @@ Links:: [[2. Areas/ES - Clients/Ivan Zizzi/@Ivan Zizzi\|@Ivan Zizzi]]
 > 		- [ ] EQ con risonanze 
 > 
 
+> [!NOTE]- ## [[3. Resources/Music Production/Sound Design/Synth Bass (Sound Design)\|Sound Design Bass ]]
+> - [ ] Tipi di Synth Bass
+>     - [ ] Synth Sub Bass
+>     - [ ] Synth Mid-Bass
+>     - [ ] Synth Reese Bass
+>     - [ ] Synth Donk Bass
+>     - [ ] Synth Wobble Bass
+>     - [ ] Acid Bass
+>     - [ ] Octave Bass
+>     - [ ] Portamento Bass
+>     - [ ] Plucked Bass
+>     - [ ] FM Bass
+>     - [ ] 808 Bass
+>     - [ ] Techno Rumble Bass
+>     - [ ] Retro Synthwave Bass
+>     - [ ] Synth Stab
+>     - [ ] Upper-Bass
+>     - [ ] Analog Bass
+> - [ ] Synth Sub Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Frequenze molto basse (20Hz - 60Hz)
+>         - [ ] Usato per dare potenza e profondità alla traccia
+>         - [ ] Semplice, senza troppi armonici
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda sinusoidale o triangolare
+>         - [ ] Aggiungere un filtro passa-basso per eliminare gli armonici superiori
+>         - [ ] Controllare l'ampiezza per evitare distorsioni
+> - [ ] Synth Mid-Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Range di frequenze tra 100 Hz e 300 Hz
+>         - [ ] Aggiunge corpo e presenza al mix
+>         - [ ] Può avere più armonici rispetto al Sub Bass
+>     - [ ] Analizzare le frequenze
+>         - [ ] I MidBass suonano bene se sai gestire al meglio le frequenze e la sua dinamica
+>         - [ ] Mentre stai cercando il suono giusto per il tuo MidBass, utilizza lo SPAN, cosi puoi oltre a sentire, vedere ciò che manca al tuo suono.
+>         - [ ] Nei MIDBASS, oltre a dare il corpo (importantissimo) bisogna dare un timbro, un tono. Quindi quando crei un suono da zero, ricordati queste cose:
+>         - [ ] Layer corpo (Low end)
+>         - [ ] Mid (Tono)
+>         - [ ] Aria (Noise, effects ecc...)
+>     - [ ] Suono grezzo
+>         - [ ] partire con un suono già ottimo, è un grosso vantaggio.
+>         - [ ] scegliere un suono non troppo complesso, altrimenti l'eccessivo utilizzo di effetti può portare tanti artefatti al suono. Tagliare le altissime fin da subito, aiuta un po' a correggere questo problema.
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega o triangolare
+>         - [ ] Usare sintesi FM
+>         - [ ] Modulare il suono con diversi LFO
+>     - [ ] Effetti
+>         - [ ] FX Synth
+>             - [ ] Phaser (parallelo)
+>             - [ ] Flanger (parallelo)
+>             - [ ] Chorus per dare più pienezza e apertura
+>             - [ ] Filter COMBS per dare un suono più croccante e pieno Comb Filter
+>             - [ ] EQ per tagliare le basse ma con la risonanza e l'automazione da anche più timbro
+>             - [ ] Riverbero finale con un'automazione sul DRY/WET permette di creare un ambiente ritmico.
+>         - [ ] FX DAW
+>             - [ ] Comprimere con OTT
+>             - [ ] Aggiungere un po' di distorsione o saturazione
+>             - [ ] Controllare l'EQ per mantenere chiarezza nelle medie frequenze
+>         - [ ] FX MIDI
+>             - [ ] Arpeggiator
+>     - [ ] Resampling
+>         - [ ] Freeze & Resampling
+>         - [ ] Mettere in loop una regione e registrare tutte le varie modifiche in audio.
+>         - [ ] Evitare file audio troppo lunghi, altrimenti si rischia di creare confusione
+>     - [ ] Layering
+>         - [ ] Resampling e Pitch
+>         - [ ] Tecniche di Noise
+>         - [ ] Groove background
+>         - [ ] Automazioni
+>         - [ ] Con lo stesso suono modificandolo pesantemente e abbassando di molto il pitch (freq) per renderlo più corposo
+>         - [ ] Separare i layers dal suono principale con dei gruppi.
+>         - [ ] Noise Layering
+>         - [ ] Erosion
+> - [ ] Synth Reese Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono ricco di armonici, spesso stereo
+>         - [ ] Molto usato nel Drum & Bass e Jungle
+>         - [ ] Effetto di movimento grazie a unisono e modulazione
+>     - [ ] Come si crea:
+>         - [ ] Usare due o più oscillatori leggermente detunati
+>         - [ ] Applicare modulazione di fase e filtri in movimento
+>         - [ ] Utilizzare unisono per ampliare lo stereo
+> - [ ] Synth Donk Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono percussivo e tonale
+>         - [ ] Usato nella musica bounce e hard dance
+>         - [ ] Breve attacco, decay medio
+>     - [ ] Come si crea:
+>         - [ ] Iniziare con un'onda sinusoidale o a dente di sega
+>         - [ ] Aggiungere un inviluppo rapido sul filtro
+>         - [ ] Distorsione leggera per più carattere
+> - [ ] Synth Wobble Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono in movimento, usato molto nel dubstep
+>         - [ ] Frequenza di taglio del filtro modulata
+>         - [ ] Spesso in sync con il tempo
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega
+>         - [ ] Applicare LFO sulla frequenza di taglio del filtro
+>         - [ ] Sincronizzare l'LFO con il BPM della traccia
+> - [ ] Acid Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono squillante e distorto
+>         - [ ] Caratteristico delle linee di basso Acid House
+>         - [ ] Usato tipicamente con il Roland TB-303
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega
+>         - [ ] Aggiungere un filtro passa-basso risonante
+>         - [ ] Applicare distorsione e glide
+> - [ ] Octave Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Giocato su ottave differenti per creare varietà
+>         - [ ] Aggiunge dinamica e contrasto
+>         - [ ] Usato spesso nella musica dance e pop
+>     - [ ] Come si crea:
+>         - [ ] Usare due oscillatori su ottave diverse
+>         - [ ] Filtrare leggermente l'oscillatore inferiore
+>         - [ ] Aggiungere compressione per uniformare
+> - [ ] Portamento Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono scivolante tra le note
+>         - [ ] Usato spesso nei lead e nei bassi di synth
+>         - [ ] Carattere fluido e continuo
+>     - [ ] Come si crea:
+>         - [ ] Attivare il portamento/glide nel synth
+>         - [ ] Regolare il tempo di portamento per la scivolosità desiderata
+>         - [ ] Usare un'onda a dente di sega o triangolare
+> - [ ] Plucked Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Attacco breve, suono secco
+>         - [ ] Usato in tracce che richiedono precisione ritmica
+>         - [ ] Simula il pizzicato di una corda
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda sinusoidale con un inviluppo ADSR breve
+>         - [ ] Applicare un filtro passa-alto per enfatizzare l'attacco
+>         - [ ] Aggiungere un pizzico di riverbero
+> - [ ] FM Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono ricco e complesso grazie alla modulazione di frequenza
+>         - [ ] Può variare da suoni metallici a bassi profondi
+>         - [ ] Usato in generi come l'elettronica e il funk
+>     - [ ] Come si crea:
+>         - [ ] Usare sintesi FM con un modulatore e un portatore
+>         - [ ] Sperimentare con il rapporto di frequenza tra i due
+>         - [ ] Aggiungere un filtro per modellare il suono
+> - [ ] 808 Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Basso tonante e sub profondo
+>         - [ ] Iconico nella musica hip-hop e trap
+>         - [ ] Spesso associato alla drum machine Roland TR-808
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda sinusoidale o un campione di 808
+>         - [ ] Aggiungere distorsione per più grinta
+>         - [ ] Applicare sidechain con la cassa per dare respiro
+> - [ ] Techno Rumble Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono sub profondo con riverbero
+>         - [ ] Usato per dare profondità nelle tracce techno
+>         - [ ] Effetto di rimbombo e spazio
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda sinusoidale
+>         - [ ] Aggiungere un riverbero lungo e filtrato
+>         - [ ] Layer con un kick sidechainato
+> - [ ] Retro Synthwave Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono ispirato agli anni '80
+>         - [ ] Spesso usato in tracce Synthwave e Retrowave
+>         - [ ] Richiamo ai synth classici come Juno e Prophet
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega o pulsante
+>         - [ ] Applicare chorus e delay
+>         - [ ] EQ per esaltare le medie e alte frequenze
+> - [ ] Synth Stab
+>     - [ ] Caratteristiche:
+>         - [ ] Suono breve e incisivo
+>         - [ ] Usato per accenti ritmici in generi come house e trance
+>         - [ ] Tende a essere molto dinamico
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega con inviluppo rapido
+>         - [ ] Aggiungere un filtro passa-basso con inviluppo veloce
+>         - [ ] Effetti come riverbero e delay per arricchire il suono
+> - [ ] Upper-Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Range di frequenze superiori rispetto al sub bass
+>         - [ ] Aggiunge definizione al basso nel mix
+>         - [ ] Usato per rendere il basso più udibile su sistemi meno potenti
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega o quadrata
+>         - [ ] Aggiungere distorsione per creare armonici superiori
+>         - [ ] Filtrare leggermente le basse frequenze
+> - [ ] Analog Bass
+>     - [ ] Caratteristiche:
+>         - [ ] Suono caldo e spesso
+>         - [ ] Caratteristico dei sintetizzatori analogici vintage
+>         - [ ] Usato in una vasta gamma di generi
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega o triangolare con sintesi analogica
+>         - [ ] Aggiungere un filtro passa-basso con un po' di risonanza
+>         - [ ] Aggiungere un leggero chorus o delay per più spessore
+
+> [!NOTE]- ## [[3. Resources/Music Production/Sound Design/Synth (Sound Design)\|Sound Design Synths]]
+> - [ ] Tipi di Synths
+>     - [ ] Plucks
+>     - [ ] Bells
+>     - [ ] Supersaw
+>     - [ ] Key
+>     - [ ] Arp
+>     - [ ] String
+>     - [ ] Pad
+>     - [ ] Drone
+>     - [ ] Brass
+> - [ ] Synth Plucks
+>     - [ ] Caratteristiche:
+>         - [ ] Suono percussivo con attacco veloce e rilascio breve
+>         - [ ] Utilizzato per melodie ritmiche e arpeggi
+>         - [ ] Molto definito e incisivo
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega o sinusoidale
+>         - [ ] Applicare un inviluppo ADSR con attacco rapido e rilascio breve
+>         - [ ] Aggiungere un filtro passa-alto per enfatizzare l'attacco
+> - [ ] Synth Bells
+>     - [ ] Caratteristiche:
+>         - [ ] Suono brillante e cristallino, simile a campane o carillon
+>         - [ ] Ricco di armonici superiori
+>         - [ ] Usato per melodie e arpeggi delicati
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda sinusoidale o triangolare
+>         - [ ] Aggiungere modulazione in frequenza (FM) per arricchire il suono
+>         - [ ] Effetti come riverbero e delay per creare spazio
+> - [ ] Synth Supersaw
+>     - [ ] Caratteristiche:
+>         - [ ] Suono massiccio e ampio
+>         - [ ] Costituito da diverse onde a dente di sega leggermente detunate
+>         - [ ] Usato per lead, pad e stabs nei generi elettronici
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega con più oscillatori detunati
+>         - [ ] Applicare unisono per ampliare il suono
+>         - [ ] Aggiungere un filtro passa-basso con inviluppo lento
+> - [ ] Synth Key
+>     - [ ] Caratteristiche:
+>         - [ ] Suono che emula strumenti a tastiera come piano o e-piano
+>         - [ ] Usato per accordi, riff e arpeggi
+>         - [ ] Può essere caldo e morbido o brillante e incisivo
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega o triangolare
+>         - [ ] Aggiungere modulazione di ampiezza (AM) o FM per variare il timbro
+>         - [ ] Effetti come chorus e riverbero per aggiungere profondità
+> - [ ] Synth Arp
+>     - [ ] Caratteristiche:
+>         - [ ] Suono ciclico creato con un arpeggiatore
+>         - [ ] Può essere monofonico o polifonico
+>         - [ ] Usato per creare sequenze melodiche ripetitive
+>     - [ ] Come si crea:
+>         - [ ] Usare un synth con arpeggiatore incorporato
+>         - [ ] Selezionare una progressione di note e impostare l'arpeggiatore
+>         - [ ] Modificare la velocità e l'ordine delle note per variare il pattern
+> - [ ] Synth String
+>     - [ ] Caratteristiche:
+>         - [ ] Simula il suono di archi come violini o ensemble
+>         - [ ] Usato per pad, lead melodici e atmosfere
+>         - [ ] Suono ricco e sostenuto
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega o a impulso con un inviluppo lento
+>         - [ ] Aggiungere chorus e riverbero per dare spessore e spazio
+>         - [ ] Applicare un leggero vibrato per un effetto realistico
+> - [ ] Synth Pad
+>     - [ ] Caratteristiche:
+>         - [ ] Suono lungo, sostenuto e atmosferico
+>         - [ ] Ampio e avvolgente, spesso utilizzato per creare texture sonore o riempire lo spazio sonoro
+>         - [ ] Comunemente usato in generi come ambient, chillout, trance, e pop per creare un sottofondo armonico
+>         - [ ] Il timbro può variare da caldo e morbido a freddo e brillante, a seconda della scelta delle onde e degli effetti
+>     - [ ] Come si crea:
+>         - [ ] Oscillatori: Usare più oscillatori con forme d'onda a dente di sega, triangolare o sinusoidale leggermente detunati tra loro per creare un suono ricco e pieno
+>         - [ ] Filtro: Applicare un filtro passa-basso con un leggero inviluppo per ammorbidire gli acuti e mantenere un suono caldo
+>         - [ ] Envelopes: Attacco lento (attack) e rilascio lungo (release) sull'inviluppo dell'ampiezza (ADSR) per un suono graduale e sostenuto
+>     - [ ] Effetti:
+>         - [ ] Aggiungere chorus, riverbero e delay per aumentare l'ampiezza e la profondità del suono
+>         - [ ] Usare un LFO (Low-Frequency Oscillator) per modulare leggermente il pitch o il filtro, creando un effetto di movimento e vivacità
+>         - [ ] Utilizzi:
+>         - [ ] Creazione di atmosfere o ambienti sonori
+>         - [ ] Riempimento armonico in mix complessi
+>         - [ ] Come sfondo sonoro che lega insieme altri elementi musicali
+> - [ ] Synth Drone
+>     - [ ] Caratteristiche:
+>         - [ ] Suono statico, continuo e spesso grave
+>         - [ ] Usato per atmosfere, intro o sottofondi
+>         - [ ] Frequenze basse e medie, poco movimento armonico
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda sinusoidale o dente di sega con pitch basso
+>         - [ ] Aggiungere un filtro passa-basso con cutoff molto basso
+>         - [ ] Effetti come riverbero lungo e modulazione lenta per dare profondità
+> - [ ] Synth Brass
+>     - [ ] Caratteristiche:
+>         - [ ] Simula il suono di ottoni come trombe o corni
+>         - [ ] Usato per stabs, lead potenti o linee melodiche
+>         - [ ] Suono brillante, aggressivo e spesso con un attacco pronunciato
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega con un inviluppo ADSR per l'attacco
+>         - [ ] Aggiungere un filtro passa-basso con risonanza per modellare il timbro
+>         - [ ] Effetti come chorus e distorsione per arricchire il suono
+
+> [!NOTE]- ## [[3. Resources/Music Production/Sound Design/SFX (Sound Design)\|Sound Design SFX]]
+> - [ ] Tipi di SFX
+>     - [ ] Riser
+>     - [ ] Rising
+>     - [ ] Reverse
+>     - [ ] Uplifter
+> - [ ] Riser
+>     - [ ] Caratteristiche:
+>         - [ ] Suono che cresce in intensità, usato per creare tensione
+>         - [ ] Frequenze aumentano progressivamente fino a un climax
+>         - [ ] Utilizzato in build-up prima di un drop o di una transizione
+>     - [ ] Come si crea:
+>         - [ ] Usare un'onda a dente di sega o sinusoidale con pitch che sale
+>         - [ ] Applicare un inviluppo che aumenta il volume o il filtro passa-alto
+>         - [ ] Aggiungere effetti come riverbero e delay per aumentare l'intensità
+> - [ ] Rising
+>     - [ ] Caratteristiche:
+>         - [ ] Simile al riser, ma con un focus maggiore sulla crescita in altezza del suono
+>         - [ ] Può essere più breve o più lungo rispetto al riser
+>         - [ ] Usato per segnali sonori che suggeriscono un incremento di energia
+>     - [ ] Come si crea:
+>         - [ ] Modulare il pitch di un suono (ad esempio, una nota lunga) in aumento
+>         - [ ] Aggiungere rumore bianco con un filtro passa-alto in salita
+>         - [ ] Utilizzare un LFO per modulare il filtro e aumentare l'intensità
+> - [ ] Reverse
+>     - [ ] Caratteristiche:
+>         - [ ] Suono che viene riprodotto al contrario
+>         - [ ] Spesso usato per transizioni, effetti di suspense o creare un effetto "risucchio"
+>         - [ ] Può essere applicato a qualsiasi suono, da batterie a sintetizzatori
+>     - [ ] Come si crea:
+>         - [ ] Prendere un campione o una porzione di audio
+>         - [ ] Invertire il suono (reverse) nel DAW
+>         - [ ] Applicare effetti come riverbero prima dell'inversione per un suono più fluido
+> - [ ] Uplifter
+>     - [ ] Caratteristiche:
+>         - [ ] Suono che aumenta progressivamente in altezza e intensità, simile al riser
+>         - [ ] Può includere elementi melodici o ritmici
+>         - [ ] Utilizzato per aumentare la tensione o segnalare una transizione
+>     - [ ] Come si crea:
+>         - [ ] Usare un oscillatore con pitch in salita o modulazione FM per suoni complessi
+>         - [ ] Aggiungere effetti come flanger, phaser, o delay per arricchire il movimento
+>         - [ ] Spesso combinato con noise in aumento e filtri in movimento
+
+> [!NOTE]- ## Tecniche Avanzate di Sound Design
+> - [ ] Tecniche di [[3. Resources/Music Production/Editing Audio\|Editing Audio]] avanzate (taglio, copia, incolla, crossfade)  
+> - [ ] [[3. Resources/Music Production/Layering\|Layering]] e processing  
+> - [ ] Creazione di suoni complessi attraverso l'editing e il [[3. Resources/Music Production/Resampling Audio\|Resampling Audio]]  
+> - [ ] Creare [[3. Resources/Music Production/Sound Design/Chains Effects (Sound Design)\|Chains Effects]] 
+> - [ ] Creare movimento con le [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni]] 
+> - [ ] [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]] e [[0. Inbox/Dispostivi M4L\|Dispostivi M4L]] consigliati
+
 
 
 

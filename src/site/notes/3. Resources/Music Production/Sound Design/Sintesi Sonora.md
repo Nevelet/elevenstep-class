@@ -9,6 +9,9 @@ Links:: [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]
 
 La sintesi sonora è il processo attraverso il quale i suoni possono essere creati e manipolati elettronicamente o digitalmente. Questo è un campo vasto e complesso che coinvolge diverse tecniche e approcci, ma l'obiettivo comune è quello di generare suoni artificiali, che possono essere utilizzati in produzioni musicali, sound design, effetti sonori, e molto altro.
 
+**altra descrizione**
+La sintesi sonora è il processo di generazione di suoni a partire da onde sonore semplici, anziché campionare suoni reali. Questo processo è alla base della creazione di suoni elettronici, come quelli usati nei sintetizzatori musicali, ed è un elemento fondamentale per musica elettronica, sound design, e produzioni cinematografiche.
+
 ## Ecco alcune delle principali tecniche di sintesi sonora:
 
 - [[3. Resources/Music Production/Sintesi Sottrattiva\|Sintesi Sottrattiva]]

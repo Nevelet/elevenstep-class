@@ -28,6 +28,8 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio Effect\|Plugin Audi
 - **ReaFir** (Noise Reduction di Cockos)
 - **SpectraLayers 11 by Steinberg**
 	- [SpectraLayers: Advanced Spectral Audio Editor | Steinberg](https://www.steinberg.net/spectralayers/)
+- **BL Denoiser**
+- Denoiser Classic
 
 
 

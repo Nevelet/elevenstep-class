@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-areas/es-clients/mirko-masi/moduli-mixing-and-mastering-mirko-masi/"}
 ---
 
-Links:: [[2. Areas/ES - Clients/Mirko Masi/Mirko Masi\|Mirko Masi]]
+Links:: [[2. Areas/ES - Clients/Mirko Masi\|Mirko Masi]]
 
 ---
 
@@ -676,16 +676,16 @@ Links:: [[2. Areas/ES - Clients/Mirko Masi/Mirko Masi\|Mirko Masi]]
 > 	- [x] Frequenze  
 > 	- [x] Immagine stereo  
 > - [x] Poche cose ma buone  
-> - [ ] Analizzare tutto il Mix e Traccia di Riferimento  
-> 	- [ ] Strumenti di analisi  
-> 		- [ ] Check Master (Rack)  
+> - [x] Analizzare tutto il Mix e Traccia di Riferimento  
+> 	- [x] Strumenti di analisi  
+> 		- [x] Check Master (Rack)  
 > 		- [x] SPAN  
 > 		- [x] PSYSCOPE  
 > 		- [x] Youlean Loudness Meter  
 > 		- [x] Correlation Meter  
-> 	- [ ] Traccia di riferimento  
+> 	- [x] Traccia di riferimento  
 > 		- [x] Analizzare traccia di riferimento con SPAN Sidechain  
-> 		- [ ] estrarre stems traccia di riferimento  
+> 		- [x] estrarre stems traccia di riferimento  
 > - [x] Tonal Balance: Creare un mix finale bilanciato e compatibile con diversi sistemi audio  
 > - [ ] Lavorare sulle Frequenze  
 > 	- [ ] Equalizzazione (Natural Phase & Linear Phase)  
@@ -714,19 +714,19 @@ Links:: [[2. Areas/ES - Clients/Mirko Masi/Mirko Masi\|Mirko Masi]]
 > 	- [ ] Compressore  
 > - [ ] Color  
 > 	- [ ] Saturazione  
-> - [ ] Limiting  
+> - [x] Limiting  
 >   - [x] LUFS & Curve Isofoniche  
-> 	- [ ] Cos'è il LUFS  
+> 	- [x] Cos'è il LUFS  
 > 	- [x] Cosa sono le Curve Isofoniche  
 > 	- [x] Come ottenere un LUFS alto  
 > 		- [x] Avere un mix bilanciato  
 > 		- [x] Scegliere o/e creare i suoni giusti → Scelta dei Suoni e degli Strumenti & Sound Design  
 > 		- [x] Layering  
-> 	- [ ] Differenza tra Limiter e Clipper  
-> 	- [ ] Differenza tra Limiter, Clipper e Maximizer  
-> 	- [ ] Utilizzo del Limiter o/e Clipper  
-> 	- [ ] Utilizzo di più Limiter/Clipper  
-> 	- [ ] Maximizer  
+> 	- [x] Differenza tra Limiter e Clipper  
+> 	- [x] Differenza tra Limiter, Clipper e Maximizer  
+> 	- [x] Utilizzo del Limiter o/e Clipper  
+> 	- [x] Utilizzo di più Limiter/Clipper  
+> 	- [x] Maximizer  
 > 	- [x] Valori ottimali  
 > 		- [x] Peak reduction  
 > 		- [x] LUFS  

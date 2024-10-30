@@ -32,6 +32,12 @@ Word Length (Bit) = Risoluzione - Gamma dinamica - Toni riproducibili
 - 24 bit (DVD) (144 dB - 16.777.216)
 - 32 bit (192 dB - 4.294.967.296)
 
+Ogni bit aggiuntivo aumenta la gamma dinamica di circa 6 dB. Quindi:
+
+- Per un campionamento a 16 bit, la gamma dinamica massima è di circa 96 dB (16 x 6 dB).
+- Per un campionamento a 24 bit, la gamma dinamica massima è di circa 144 dB (24 x 6 dB).
+
+
 
 ## 📝 Notes
 

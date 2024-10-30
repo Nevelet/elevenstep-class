@@ -23,7 +23,7 @@ _Alcuni compressori, tipo quello di Ableton permette di filtrare il suono sorgen
 - **Volume shaping (statico)**
 - **Automazione Volume (più preciso)**
 	- Facendo l'automazione del volume tramite qualsiasi dispositivo, tipo l'utility di Ableton
-- **Multibanda (più controllo)** (ad es. [[2. Areas/ES - Content Creation/Content Video ES/Trackspacer plugin\|Trackspacer plugin]])
+- **Multibanda (più controllo)** (ad es. [[1. Projects/Trackspacer plugin\|Trackspacer plugin]])
 	- Agire in modo diverso su ogni banda: High, Mid e Low
 
 
@@ -31,7 +31,7 @@ _Alcuni compressori, tipo quello di Ableton permette di filtrare il suono sorgen
 
 - [[3. Resources/Music Production/Plugins/Duck\|Duck]]
 - Volume shaper
-- [[2. Areas/ES - Content Creation/Content Video ES/Trackspacer plugin\|Trackspacer plugin]]
+- [[1. Projects/Trackspacer plugin\|Trackspacer plugin]]
 - LFOTool (Xfer)
 - Kickstart (Nicky Romero)
 - Multiband Sidechain (Vengeance)

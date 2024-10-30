@@ -9,8 +9,6 @@
 
 - [[3. Resources/General Knowledge/Digital Audio Workstation\|DAW]]
 - [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
-- [[3. Resources/Music Production/Sample Audio\|Sample Audio]]
-
 
 # Hardware
 
@@ -30,5 +28,6 @@
 - [[3. Resources/Music Production/Synth (Analog)\|Synth (Analog)]]
 - [[3. Resources/Music Production/Drum Machine\|Drum Machine]]
 
+# Altre risorse
 
-
+- [[3. Resources/Music Production/Sample Audio\|Sample Audio]]

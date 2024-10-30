@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/music-production/","tags":["type/dashboard/MOC"]}
 ---
 
-Links:: [[HOME\|HOME]]
+Links:: [[0. Inbox/HOME\|HOME]]
 
 ---
 ## ℹ About

@@ -51,6 +51,45 @@ editing video invece, fa molto affidamento all'elaborazione parallela, multi cor
 ![Serial vs parallel processing CPU.png](/img/user/3.%20Resources/Images/Serial%20vs%20parallel%20processing%20CPU.png)
 
 
+## Portatili per l'audio
+
+Un buon portatile per la produzione audio dovrebbe avere caratteristiche come:
+
+1. **Processore potente**: meglio un Intel i7/i9 o AMD Ryzen 7/9, poiché i software audio (come Ableton) possono richiedere molta potenza di calcolo.
+2. **RAM**: almeno 16 GB, ma 32 GB è l'ideale per progetti con molti plugin.
+3. **Archiviazione SSD**: per una velocità di caricamento rapida; un SSD da almeno 512 GB è una buona base.
+4. **Schermo di qualità**: non è necessario l’alta risoluzione, ma un display chiaro e di buone dimensioni aiuta nel lavoro di mixaggio.
+5. **Connettività**: porte USB-C e Thunderbolt sono preferibili per collegare facilmente interfacce audio esterne.
+
+### Fascia alta
+
+- **MacBook Pro (14" o 16", con chip M2 Pro o M2 Max)**: i chip M2 Pro e Max gestiscono ottimamente carichi pesanti, e i MacBook Pro sono molto silenziosi e ben ventilati. Ableton è ottimizzato per macOS, e i tempi di risposta sono eccellenti anche con progetti complessi.
+- **Dell XPS 15 (con processore Intel i7/i9 e almeno 32 GB di RAM)**: questa serie offre una grande potenza e flessibilità, uno schermo ben bilanciato e un buon sistema di raffreddamento. Scegli una configurazione con GPU dedicata (come NVIDIA) se usi anche plugin visivi o video.
+- **Razer Blade 15 (con processore Intel i7/i9 e 32 GB di RAM)**: benché sia noto come laptop da gaming, il Blade 15 è ottimo per audio grazie alla potenza e alla qualità costruttiva, oltre alla disponibilità di porte Thunderbolt e USB per l’integrazione delle periferiche.
+- **ASUS ProArt StudioBook 16**: progettato per creativi, ha un sistema di raffreddamento eccellente, processori AMD Ryzen 9 o Intel i9 e GPU NVIDIA, ideale se lavori anche con video. Supporta storage fino a 1-2 TB SSD, che è ottimo per progetti con tracce audio di grandi dimensioni.
+
+### Prezzi più contenuti
+
+- **Apple MacBook Air M1 (13")**: la versione con chip M1 è ancora molto valida per l'audio e gestisce Ableton bene, anche se non come i modelli Pro. Con 16 GB di RAM, regge più tracce audio rispetto alla configurazione base. È anche molto silenzioso e ha una batteria ottima.
+- **Acer Swift X 14 (con AMD Ryzen 7 e 16 GB di RAM)**: economico e potente, grazie al Ryzen 7 e alla GPU NVIDIA, offre buone performance per il prezzo. Supporta molti plugin, anche se potrebbe avere qualche limite con progetti molto grandi.
+- **HP Pavilion 15 (con Intel i5/i7 e 16 GB di RAM)**: un'opzione affidabile a costo moderato. L'i7 è preferibile per maggior potenza e velocità con Ableton, ma anche la versione con i5 va bene se il budget è ridotto.
+- **Lenovo IdeaPad 5 (con AMD Ryzen 5/7 e 16 GB di RAM)**: un’ottima opzione economica, grazie al Ryzen 5 o 7. È sorprendentemente potente e abbastanza versatile da reggere Ableton, anche se potresti dover evitare progetti audio estremamente complessi.
+
+
+### References: 
+
+- [Top Picks for the Best Laptop for Music Production | Slate Digital](https://slatedigital.com/best-laptop-for-music-production/)
+- [Acer Swift X 14 music ableton - Cerca con Google](https://www.google.com/search?q=Acer+Swift+X+14+music+ableton)
+
+## PC fisso
+
+
+
+### References:
+
+- [The best desktop PC ingredients for Ableton? - Ableton Forum](https://forum.ableton.com/viewtopic.php?t=247206)
+- [What pc is good enough for Ableton? : r/ableton](https://www.reddit.com/r/ableton/comments/15kq946/what_pc_is_good_enough_for_ableton/)
+
 
 ---
 ## 📚 References

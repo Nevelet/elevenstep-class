@@ -524,7 +524,7 @@ _Quanto basse deve avere il kick e quante il sub?_
 ### Plug-in/Dispositivi
 
 - Duck
-- [[2. Areas/ES - Content Creation/Content Video ES/Trackspacer plugin\|Trackspacer plugin]]
+- [[1. Projects/Trackspacer plugin\|Trackspacer plugin]]
 - Compressor (Ableton)
 
 
@@ -594,7 +594,7 @@ _Quanto basse deve avere il kick e quante il sub?_
 ### Plug-in/Dispositivi
 
 - Duck
-- [[2. Areas/ES - Content Creation/Content Video ES/Trackspacer plugin\|Trackspacer plugin]]
+- [[1. Projects/Trackspacer plugin\|Trackspacer plugin]]
 - Compressor (Ableton)
 
 

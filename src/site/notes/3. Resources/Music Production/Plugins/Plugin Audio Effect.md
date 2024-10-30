@@ -21,6 +21,8 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
 - [[3. Resources/Music Production/Plugins/Plugin Per correzione Audio\|Plugin Per correzione Audio]]
 
 Tape Emulation/Simulation
+RESONANCE SUPPRESSOR o SOPPRESSORE DI RISONANZA (Ad es. Soothe 2)
+
 
 ## Notes
 
