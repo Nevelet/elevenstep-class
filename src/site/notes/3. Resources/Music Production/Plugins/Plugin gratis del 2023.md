@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin-gratis-del-2023/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin-gratis-del-2023/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
@@ -67,7 +67,7 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
 	- Inner Pitch per Windows, Mac e Linux (VST/VST3, AU, AAX e LV2) è disponibile gratuitamente. La versione completa include più funzionalità che scambiano la qualità per la CPU, sbloccando la migliore qualità di pitch-shifting e il più basso utilizzo della CPU. È in vendita al prezzo introduttivo di $ 29 USD fino al 20 ottobre 2023 (normale $ 38,67 USD).
 
 
-- [ ] tutti i plugin sopra, devono essere sostituiti da queste note: [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/I migliori plugin gratuiti Instruments del 2023\|I migliori plugin gratuiti Instruments del 2023]] e [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/I migliori plugin effetti audio del 2023\|I migliori plugin effetti audio del 2023]]
+- [ ] tutti i plugin sopra, devono essere sostituiti da queste note: [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/I migliori plugin gratuiti Instruments del 2023\|I migliori plugin gratuiti Instruments del 2023]] e [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/I migliori plugin effetti audio del 2023\|I migliori plugin effetti audio del 2023]]
 
 da aggiungere nella lista dopo aver aggiornato quella sopra: 
 - https://u-he.com/products/protoverb/

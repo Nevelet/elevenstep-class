@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/il-warping-nelle-prime-versioni-di-ableton/","tags":["action/develop"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/il-warping-nelle-prime-versioni-di-ableton/"}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Ableton/Ableton - WARP\|Ableton - WARP]]

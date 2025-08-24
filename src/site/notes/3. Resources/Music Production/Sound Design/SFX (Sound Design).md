@@ -17,6 +17,6 @@ Links:: [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Riser SFX con Vital (Sound Design)\|Riser SFX con Vital (Sound Design)]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Riser SFX con Vital (Sound Design)\|Riser SFX con Vital (Sound Design)]]
 
 

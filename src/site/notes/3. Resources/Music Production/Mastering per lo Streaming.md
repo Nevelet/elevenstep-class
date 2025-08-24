@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Mastering\|Mastering]]
 
 ---
-[[0. Inbox/Spotify\|Spotify]] dice che possiamo suonare più alta di -14 LUFS, purché abbiamo un TP di -2dB. Questo per evitare che quando facciamo la conversione, non introduca distorsione 
+[[3. Resources/Music Production/Spotify\|Spotify]] dice che possiamo suonare più alta di -14 LUFS, purché abbiamo un TP di -2dB. Questo per evitare che quando facciamo la conversione, non introduca distorsione 
 
 
 ![image](https://assets-global.website-files.com/60a0ade9a9e15bdd6b98f68b/61e5de1288e5f7fd636e1095_LUFS%20Normalization%20Chart.png)
@@ -25,7 +25,7 @@ Ad esempio se il mio LUFS in Short term è -7 e il LUFS integrated è -9, YouTub
 
 [Loudness Penalty: Analyzer](https://www.loudnesspenalty.com/)
 
-![mastering_per_spotify.png](/img/user/3.%20Resources/Images/mastering_per_spotify.png)
+![mastering_per_spotify.png](/img/user/3.%20Resources/Attachments/mastering_per_spotify.png)
 
 
 ## Reference

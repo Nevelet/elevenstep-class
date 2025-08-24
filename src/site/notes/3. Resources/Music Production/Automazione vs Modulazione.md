@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/automazione-vs-modulazione/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/automazione-vs-modulazione/","tags":["note"]}
 ---
 
 Links:: [[Differenze\|Differenze]], [[Automazione\|Automazione]], [[Modulazione\|Modulazione]]
@@ -60,4 +60,4 @@ Per fare le automazioni abbiamo bisogno degli Inviluppi e ne esistono due tipi:
 - [[3. Resources/Music Production/Ableton/Ableton - Automazioni\|Ableton - Automazioni]]
 - [[3. Resources/Music Production/Ableton/Ableton - Modulazioni\|Ableton - Modulazioni]]
 - [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni (Mixing)]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/AUTOMAZIONE vs MODULAZIONE/✍ AUTOMAZIONE vs MODULAZIONE\|✍ AUTOMAZIONE vs MODULAZIONE]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/AUTOMAZIONE vs MODULAZIONE/✍ AUTOMAZIONE vs MODULAZIONE\|✍ AUTOMAZIONE vs MODULAZIONE]]

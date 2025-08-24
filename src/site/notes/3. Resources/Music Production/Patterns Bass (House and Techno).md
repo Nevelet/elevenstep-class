@@ -8,32 +8,32 @@ Links:: [[3. Resources/Music Production/Patterns Bass\|Patterns Bass]]
 
 ## Off-Beat
 
-![Pattern Bass - Off-Beat.png](/img/user/3.%20Resources/Images/Pattern%20Bass%20-%20Off-Beat.png)
+![Pattern Bass - Off-Beat.png](/img/user/3.%20Resources/Attachments/Pattern%20Bass%20-%20Off-Beat.png)
 
 ## 16th Note Bassline
 
-![Pattern Bass - 16th Note Bassline.png](/img/user/3.%20Resources/Images/Pattern%20Bass%20-%2016th%20Note%20Bassline.png)
+![Pattern Bass - 16th Note Bassline.png](/img/user/3.%20Resources/Attachments/Pattern%20Bass%20-%2016th%20Note%20Bassline.png)
 
 
 ## The Groover Bass
 
-![Pattern Bass - The Groover Bass.png](/img/user/3.%20Resources/Images/Pattern%20Bass%20-%20The%20Groover%20Bass.png)
+![Pattern Bass - The Groover Bass.png](/img/user/3.%20Resources/Attachments/Pattern%20Bass%20-%20The%20Groover%20Bass.png)
 
 ## Sustained Bass
 
-![Pattern Bass - Sustained Bass.png](/img/user/3.%20Resources/Images/Pattern%20Bass%20-%20Sustained%20Bass.png)
+![Pattern Bass - Sustained Bass.png](/img/user/3.%20Resources/Attachments/Pattern%20Bass%20-%20Sustained%20Bass.png)
 
 **Con Glide**
-![Pattern Bass - Sustained Bass (con Glide).png](/img/user/3.%20Resources/Images/Pattern%20Bass%20-%20Sustained%20Bass%20(con%20Glide).png)
+![Pattern Bass - Sustained Bass (con Glide).png](/img/user/3.%20Resources/Attachments/Pattern%20Bass%20-%20Sustained%20Bass%20(con%20Glide).png)
 
 ## Legato Bass
 
 
-![Pattern Bass - Legato Bass.png](/img/user/3.%20Resources/Images/Pattern%20Bass%20-%20Legato%20Bass.png)
+![Pattern Bass - Legato Bass.png](/img/user/3.%20Resources/Attachments/Pattern%20Bass%20-%20Legato%20Bass.png)
 
 ## Pluck Bass
 
-![Pattern Bass - Pluck Bass.png](/img/user/3.%20Resources/Images/Pattern%20Bass%20-%20Pluck%20Bass.png)
+![Pattern Bass - Pluck Bass.png](/img/user/3.%20Resources/Attachments/Pattern%20Bass%20-%20Pluck%20Bass.png)
 
 
 

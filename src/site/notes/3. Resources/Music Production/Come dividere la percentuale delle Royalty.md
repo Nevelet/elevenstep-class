@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/come-dividere-la-percentuale-delle-royalty/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/come-dividere-la-percentuale-delle-royalty/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Royalties\|Royalties]], [[3. Resources/Music Production/Distributori Musica\|Distributori Musica]]

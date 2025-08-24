@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/intervalli-musicali/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/intervalli-musicali/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]], [[3. Resources/Music Production/Pitch\|Pitch]], [[3. Resources/Music Production/Scale Musicali\|Scale Musicali]]

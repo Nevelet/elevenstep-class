@@ -17,12 +17,16 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
 - [[3. Resources/Music Production/Plugin Audio Effect (Time & Space)\|Plugin Audio Effect (Time & Space)]]
 - [[3. Resources/Music Production/Plugin Audio Effect (Stereo)\|Plugin Audio Effect (Stereo)]]
 - Plugin Audio Effect (Multi-Effect)
-- [[0. Inbox/Plugin Audio Effect (De-Reverb)\|Plugin Audio Effect (De-Reverb)]]
+- [[3. Resources/Music Production/Plugin Audio Effect (De-Reverb)\|Plugin Audio Effect (De-Reverb)]]
 - [[3. Resources/Music Production/Plugins/Plugin Per correzione Audio\|Plugin Per correzione Audio]]
+- Plugin Audio Effect (Pitch Correction)
+	- [[3. Resources/Music Production/Alternative FREE AutoTune\|Alternative FREE AutoTune]]
 
 Tape Emulation/Simulation
-RESONANCE SUPPRESSOR o SOPPRESSORE DI RISONANZA (Ad es. Soothe 2)
 
+RESONANCE SUPPRESSOR o SOPPRESSORE DI RISONANZA (Ad es. Soothe 2) 
+
+frequency masking - mascheramento di frequenza (ad es. Trackspacer)
 
 ## Notes
 

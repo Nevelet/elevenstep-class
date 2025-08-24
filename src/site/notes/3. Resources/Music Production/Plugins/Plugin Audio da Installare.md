@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin-audio-da-installare/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin-audio-da-installare/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]

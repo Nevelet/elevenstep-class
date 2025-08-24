@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/alternative-ai-plugin-popolari/","tags":["type/note/input"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/alternative-ai-plugin-popolari/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]

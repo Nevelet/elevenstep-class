@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/come-utilizzare-un-sintetizzatore-hardware-in-una-daw/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/come-utilizzare-un-sintetizzatore-hardware-in-una-daw/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Synth\|Synth]], [[3. Resources/Music Production/Hardware MIDI\|Hardware MIDI]], [[3. Resources/General Knowledge/Digital Audio Workstation\|DAW]]
@@ -16,7 +16,7 @@ Links:: [[3. Resources/Music Production/Synth\|Synth]], [[3. Resources/Music Pro
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Ableton/Ableton – External Instrument Device\|Ableton – External Instrument Device]]
-- [[2. Areas/ES - Content Creation/Content Video ES/Come usare un sintetizzatore analogico su una DAW\|Come usare un sintetizzatore analogico su una DAW]]
+- [[3. Resources/Music Production/Come usare un sintetizzatore analogico su una DAW\|Come usare un sintetizzatore analogico su una DAW]]
 
 
 ## 📚 References

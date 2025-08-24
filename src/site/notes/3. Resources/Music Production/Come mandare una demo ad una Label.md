@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/come-mandare-una-demo-ad-una-label/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/come-mandare-una-demo-ad-una-label/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Label\|Label]], [[Demo\|Demo]]

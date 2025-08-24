@@ -30,13 +30,15 @@ La conoscenza dei gradi della scala è fondamentale per:
 Attenzione perché se diciamo accordo di 3a maggiore, facciamo riferimento al 2 grado della scala, che si conta dopo la tonica, mentre la frase 3a maggiore conta anche la tonica. 
 
 
+
+
 ---
 
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Accordi\|Accordi]]
 - [[3. Resources/Music Production/Scale Musicali\|Scale Musicali]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/CREARE VELOCEMENTE degli ACCORDI con o senza Plugin\|CREARE VELOCEMENTE degli ACCORDI con o senza Plugin]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/CREARE VELOCEMENTE degli ACCORDI con o senza Plugin\|CREARE VELOCEMENTE degli ACCORDI con o senza Plugin]]
 
 ## 📚 References
 

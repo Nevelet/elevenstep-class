@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/synth-mid-bass-mixing/"}
 ---
 
-Links:: [[3. Resources/Music Production/Synth Mid-Bass\|Synth Mid-Bass]], [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Synth Mid-Bass\|Synth Mid-Bass]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 ## Mixing & Effects

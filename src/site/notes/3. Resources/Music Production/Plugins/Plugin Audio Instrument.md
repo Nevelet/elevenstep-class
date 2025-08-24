@@ -43,7 +43,7 @@ _Alcuni plugin sono multi-timbrici, ossia che può caricare più suoni, librerie
 
 - [One Small Clue](https://www.onesmallclue.com/)
 - [[3. Resources/Music Production/Native Instrument Kontakt\|Native Instrument Kontakt]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx Un'ottima Alternativa GRATUITA al Kontakt]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx Un'ottima Alternativa GRATUITA al Kontakt]]
 
 
 ### Drums

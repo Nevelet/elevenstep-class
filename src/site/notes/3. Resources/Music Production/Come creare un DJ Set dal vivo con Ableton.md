@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/come-creare-un-dj-set-dal-vivo-con-ableton/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/come-creare-un-dj-set-dal-vivo-con-ableton/","tags":["note"]}
 ---
 
-Links:: [[0. Inbox/DJ mix\|DJ mix]]
+Links:: [[3. Resources/Music Production/DJ mix\|DJ mix]]
 
 ---
 
@@ -73,7 +73,7 @@ Links:: [[0. Inbox/DJ mix\|DJ mix]]
 ## Routing (entrate/uscite)
 
 - [[3. Resources/Music Production/Ableton/Ableton - Routing\|Ableton - Routing]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come avere un Pre-ascolto su Ableton\|Come avere un Pre-ascolto su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come avere un Pre-ascolto su Ableton\|Come avere un Pre-ascolto su Ableton]]
 	- Cue Out 
 	- External Audio
 	- Metodo con i Sends
@@ -162,7 +162,7 @@ Links:: [[0. Inbox/DJ mix\|DJ mix]]
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Ableton per DJ Set/Ableton per DJ Set\|Ableton per DJ Set]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Ableton per DJ Set/Ableton per DJ Set\|Ableton per DJ Set]]
 - [[3. Resources/Music Production/Come creare un DJ Mix Registrato con Ableton\|Come creare un DJ Mix Registrato con Ableton]]
 
 

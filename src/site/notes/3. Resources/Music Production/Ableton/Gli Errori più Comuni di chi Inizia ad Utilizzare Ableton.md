@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/gli-errori-piu-comuni-di-chi-inizia-ad-utilizzare-ableton/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/gli-errori-piu-comuni-di-chi-inizia-ad-utilizzare-ableton/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]

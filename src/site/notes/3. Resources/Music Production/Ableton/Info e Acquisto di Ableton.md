@@ -7,5 +7,5 @@ Links:: [[3. Resources/Music Production/Materiale Lezione/Programma Ableton da z
 ---
 
 - Requisiti di sistema → [Live Minimum System Requirements – Ableton](https://help.ableton.com/hc/en-us/articles/115001663530-Live-Minimum-System-Requirements)
-- Scelta delle edizioni → [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Differenza edizioni di Ableton (Lite Intro Stardard e Suite)\|Differenza edizioni di Ableton (Lite Intro Stardard e Suite)]]
+- Scelta delle edizioni → [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Differenza edizioni di Ableton (Lite Intro Stardard e Suite)\|Differenza edizioni di Ableton (Lite Intro Stardard e Suite)]]
 

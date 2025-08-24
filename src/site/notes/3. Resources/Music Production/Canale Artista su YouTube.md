@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/canale-artista-su-you-tube/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/canale-artista-su-you-tube/","tags":["note"]}
 ---
 
-Links:: [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]], [[0. Inbox/YouTube\|YouTube]]
+Links:: [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]], [[3. Resources/Content Creation/YouTube\|YouTube]]
 
 ---
 Ottenere il Canale Ufficiale Artista su YouTube

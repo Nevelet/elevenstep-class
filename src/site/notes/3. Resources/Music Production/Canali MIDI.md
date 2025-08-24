@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/canali-midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/canali-midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/MIDI\|MIDI]]
@@ -27,5 +27,5 @@ In breve, i canali MIDI offrono un modo organizzato e flessibile per gestire e i
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Ableton/Ableton - Utilizzare uno strumento su più canali MIDI\|Ableton - Utilizzare uno strumento su più canali MIDI]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Impostare gli outputs su Kontakt\|Impostare gli outputs su Kontakt]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Impostare gli outputs su Kontakt\|Impostare gli outputs su Kontakt]]
 - [[3. Resources/Music Production/MPE (MIDI Polyphonic Expression)\|MPE (MIDI Polyphonic Expression)]]

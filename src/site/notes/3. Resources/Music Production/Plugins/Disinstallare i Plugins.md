@@ -130,7 +130,7 @@ MAC
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come Eliminare definitivamente i Plugin\|Come Eliminare definitivamente i Plugin]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come Eliminare definitivamente i Plugin\|Come Eliminare definitivamente i Plugin]]
 
 ## References
 

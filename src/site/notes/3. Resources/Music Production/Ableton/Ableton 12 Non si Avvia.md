@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-12-non-si-avvia/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-12-non-si-avvia/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/slides/mixing-and-mastering-2023/01-modulo-introduzione-al-mixing-slide/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/slides/mixing-and-mastering-2023/01-modulo-introduzione-al-mixing-slide/","tags":["note"]}
 ---
 
 
@@ -21,7 +21,7 @@
 
 
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 ## Descrizione
@@ -55,7 +55,7 @@ Il mixing audio è importante **perché permette di bilanciare e combinare tutti
 
 
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 ## Descrizione
@@ -89,7 +89,7 @@ Il mixing audio è importante **perché permette di bilanciare e combinare tutti
 
 
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Mixing & Mastering/Principi di Mixing\|Principi di Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Mixing & Mastering/Principi di Mixing\|Principi di Mixing]]
 
 ---
 

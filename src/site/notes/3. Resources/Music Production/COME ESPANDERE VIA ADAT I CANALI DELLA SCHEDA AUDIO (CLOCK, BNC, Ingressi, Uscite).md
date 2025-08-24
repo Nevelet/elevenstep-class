@@ -46,5 +46,5 @@ URL:: [COME ESPANDERE VIA ADAT I CANALI DELLA SCHEDA AUDIO (CLOCK, BNC, Ingressi
 
 ---
 Created:: 2023-05-27
-DateLink:: [[2. Areas/Personal Growth & Dev/Journaling/2023/2023-05-27\|2023-05-27]]
+DateLink:: [[2. Areas/Journal/Daily/2023/2023-05-27\|2023-05-27]]
 Last_modified:: 2023-05-27

@@ -21,7 +21,7 @@ Links:: [[3. Resources/Music Production/Audio/Equalizzatore\|Equalizzatore]]
 ## Notes
 
 1. Larghezza di banda: determina la larghezza della banda di frequenza da regolare.
-- Slope
+- Slope (pendenza. Usato per i tipi di filtri Low/High Cut)
 	- x 8, x 16...
 	- Brickwall
 

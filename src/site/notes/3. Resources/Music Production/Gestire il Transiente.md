@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/gestire-il-transiente/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Transienti\|Transienti]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Transienti\|Transienti]]
 
 ---
 - _Aggiungere transienti permette di dare più presenza e di rendere un suono più incisivo_

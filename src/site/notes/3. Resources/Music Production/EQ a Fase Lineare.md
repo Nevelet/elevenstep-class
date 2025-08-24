@@ -37,6 +37,6 @@ Un EQ a fase lineare è un tipo di [[3. Resources/Music Production/Audio/Equaliz
 
 ---
 Created:: 2023-04-13
-DateLink:: [[2. Areas/Personal Growth & Dev/Journaling/2023/2023-04-13\|2023-04-13]]
+DateLink:: [[2. Areas/Journal/Daily/2023/2023-04-13\|2023-04-13]]
 
 

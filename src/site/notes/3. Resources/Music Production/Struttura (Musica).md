@@ -21,7 +21,7 @@ _Le varie sezioni rappresentano la struttura/forma di un brano_
 
 ## Classiche strutture
 
-![Come strutturare un brano (excalidraw).png](/img/user/4.%20Archived/1.%20Projects/Completed/ES%20-%20Content%20Creation%20(Elevenstep)/Come%20strutturare%20un%20brano/Come%20strutturare%20un%20brano%20(excalidraw).png)
+![Come strutturare un brano (excalidraw).png](/img/user/4.%20Archived/Projects%20Completed/ES%20-%20Content%20Creation%20(Elevenstep)/Come%20strutturare%20un%20brano/Come%20strutturare%20un%20brano%20(excalidraw).png)
 
 
 ## Da dove iniziare per creare un brano
@@ -51,6 +51,6 @@ momenti melodici  e momenti mononota
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come strutturare un brano/✍ Come strutturare un brano\|✍ Come strutturare un brano]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come strutturare un brano/✍ Come strutturare un brano\|✍ Come strutturare un brano]]
 - [[3. Resources/Music Production/Arrangiamento\|Arrangiamento]]
 

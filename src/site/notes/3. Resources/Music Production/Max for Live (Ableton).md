@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/max-for-live-ableton/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/max-for-live-ableton/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/MAX\|MAX]]
@@ -26,7 +26,7 @@ Nella versione 12 di Ableton, è stata aggiunta la possibilità di usare le modu
 
 ## Related Notes
 
-- [[0. Inbox/Dispostivi M4L\|Dispostivi M4L]]
+- [[3. Resources/Music Production/Ableton/Dispostivi M4L\|Dispostivi M4L]]
 
 ## Notes
 

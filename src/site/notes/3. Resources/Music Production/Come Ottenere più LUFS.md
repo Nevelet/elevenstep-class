@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/LUFS\|LUFS]], [[Loudness\|Loudness]]
 ---
 ## Peak & Average
 
-Per dare più loud alla nostra traccia dovremmo alzare l'Average, ossia il valore medio, e per farlo dovremmo intervenire sull'escursione dinamica, quindi se tra il picco e il valore medio c'è troppa distanza, quando dovrai alzare sul limiter, andrai a ridurre proprio questa distanza, ma farai lavorare molto il [[3. Resources/Music Production/Mixing & Mastering/Limiter\|limiter]] se appunto hai un mix con molti picchi. 
+Per dare più loud alla nostra traccia dovremmo alzare l'Average, ossia il valore medio, e per farlo dovremmo intervenire sull'escursione dinamica, quindi se tra il picco e il valore medio c'è troppa distanza, quando dovrai alzare sul limiter, andrai a ridurre proprio questa distanza, ma farai lavorare molto il [[3. Resources/Music Production/Mixing & Mastering/Limiter\|Limiter]] se appunto hai un mix con molti picchi. 
 
 ## Volume percepito
 
@@ -15,7 +15,7 @@ Per dare più loud alla nostra traccia dovremmo alzare l'Average, ossia il valor
 ## Step/Fasi per ottenere più loud
 
 - [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]]
-- [[3. Resources/Music Production/Mixing\|Mixing]]
+- [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 - [[3. Resources/Music Production/Mastering\|Mastering]]
 
 ## Step Sound Design/Scelta dei suoni

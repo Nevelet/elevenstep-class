@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/Teoria del Suono\|Teoria del Suono]]
 ---
 ## Cos'è il Clipping
 
-![image_1630099910183_0.png](/img/user/3.%20Resources/Images/image_1630099910183_0.png)
+![image_1630099910183_0.png](/img/user/3.%20Resources/Attachments/image_1630099910183_0.png)
 
 **Il clipping audio si verifica quando un segnale audio supera la capacità massima di elaborazione del sistema di registrazione o riproduzione.** Questo causa una distorsione del suono che può essere fastidiosa per l'ascoltatore. In pratica, **quando il livello del segnale è troppo alto, la forma d'onda viene tagliata ai picchi, creando un suono distorto e sgradevole.** Il clipping può essere evitato monitorando attentamente il livello del segnale e regolando i controlli di volume in modo appropriato.
 

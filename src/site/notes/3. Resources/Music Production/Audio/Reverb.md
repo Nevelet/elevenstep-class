@@ -87,7 +87,7 @@ Ci sono diversi tipi di riverberi, e che possiamo raggruppare in 3 categorie: ri
 **Convolution Reverb ([[3. Resources/Music Production/Riverbero a Convoluzione\|Riverbero a Convoluzione]]):** 
 
 - Utilizza campioni di riverbero presi da ambienti reali e applica questo riverbero al suono originale per una maggiore autenticità e realismo.
-- Plugin: [IR-1 Convolution Reverb](https://www.waves.com/plugins/ir1-convolution-reverb) (Waves), [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Hybrid Reverb\|Hybrid Reverb]] (Ableton)
+- Plugin: [IR-1 Convolution Reverb](https://www.waves.com/plugins/ir1-convolution-reverb) (Waves), [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Hybrid Reverb\|Hybrid Reverb]] (Ableton)
 
 **Riverbero Shimmer**
 

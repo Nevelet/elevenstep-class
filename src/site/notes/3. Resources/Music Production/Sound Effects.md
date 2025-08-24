@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/sound-effects/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/sound-effects/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Tipi di Strumenti Musicali\|Tipi di Strumenti Musicali]]
@@ -24,7 +24,7 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[
 
 ## Altri
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Tape Stop Effect su Ableton\|Tape Stop Effect su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Tape Stop Effect su Ableton\|Tape Stop Effect su Ableton]]
 - Backspin (riavvolgimento del nastro)
 
 

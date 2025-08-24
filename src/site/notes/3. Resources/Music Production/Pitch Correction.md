@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/pitch-correction/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Pitch\|Pitch]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Pitch\|Pitch]]
 
 ---
 Nella produzione musicale, la **correzione dell'intonazione** (o pitch correction) è un processo che consiste nel **modificare l'intonazione di una registrazione audio**, in particolare di una voce umana, per renderla più precisa e in linea con le note desiderate.
@@ -18,14 +18,14 @@ Esistono diversi metodi per la correzione dell'intonazione, che si possono divid
 
 ## 2. Correzione automatica
 
-- La correzione automatica utilizza **software** o **[[3. Resources/Music Production/Plugins/Plugin\|plugin]]** in grado di **analizzare automaticamente l'intonazione** di una registrazione e correggerla in modo automatico.
+- La correzione automatica utilizza **software** o **[[3. Resources/Music Production/Plugins/Plugin\|Plugin]]** in grado di **analizzare automaticamente l'intonazione** di una registrazione e correggerla in modo automatico.
 - Questi software utilizzano algoritmi sofisticati per identificare le note stonate e modificarle automaticamente.
 - La correzione automatica è generalmente più veloce e semplice rispetto a quella manuale, ma può dare risultati meno precisi e naturali, soprattutto se utilizzata in modo eccessivo.
 
 ## Esempi di strumenti per la correzione dell'intonazione
 
 - **Software di editing audio:** Pro Tools, Logic Pro, Cubase, Audacity
-- **Plugin di correzione dell'intonazione:** [[3. Resources/Music Production/Plugins/Auto-tune\|Auto-Tune]], Melodyne, Waves Tune
+- **Plugin di correzione dell'intonazione:** [[3. Resources/Music Production/Plugins/Auto-tune\|Auto-tune]], Melodyne, Waves Tune
 - **Effetti hardware:** TC-Helicon VoiceTone Correct
 
 ## Applicazioni della correzione dell'intonazione
@@ -46,7 +46,7 @@ In alcuni generi musicali, come il pop o l'hip hop, la correzione dell'intonazio
 
 
 
-
 ## 🔗 Related Notes
 
+- [[3. Resources/Music Production/Alternative FREE AutoTune\|Alternative FREE AutoTune]]
 - [[3. Resources/Music Production/Plugins/Auto-tune\|Auto-tune]]

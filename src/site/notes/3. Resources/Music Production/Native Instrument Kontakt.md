@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/native-instrument-kontakt/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/native-instrument-kontakt/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio Instrument\|Plugin Audio Instrument]]
@@ -48,7 +48,7 @@ KeySwitch
 
 ## Mixer (Outputs)
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Impostare gli outputs su Kontakt\|Impostare gli outputs su Kontakt]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Impostare gli outputs su Kontakt\|Impostare gli outputs su Kontakt]]
 
 
 ## Risparmiare RAM

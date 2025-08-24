@@ -36,9 +36,12 @@ La sintesi sonora è il processo di generazione di suoni a partire da onde sonor
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Le fondamenta del Sound Design\|Le fondamenta del Sound Design]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Le fondamenta del Sound Design\|Le fondamenta del Sound Design]]
 
 
+## Risorse
+
+- [tommasorosati.it/wp-content/uploads/2016/03/Sintesisonora.pdf](https://www.tommasorosati.it/wp-content/uploads/2016/03/Sintesisonora.pdf)
 
 ## References
 

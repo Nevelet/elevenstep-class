@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/componenti-per-home-studio/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/componenti-per-home-studio/","tags":["note"]}
 ---
 
 
@@ -15,6 +15,7 @@
 - [[3. Resources/Music Production/Computer per l'Audio\|Computer per l'Audio]]
 - [[3. Resources/General Knowledge/Scheda audio\|Scheda audio]]
 - [[3. Resources/Music Production/Monitor Audio\|Monitor Audio]]
+- [[3. Resources/Music Production/Cuffie Monitor\|Cuffie Monitor]]
 - [[3. Resources/Music Production/Controller MIDI\|Controller MIDI]]
 - [[3. Resources/Music Production/Mixer\|Mixer]]
 - Kit/Bundle

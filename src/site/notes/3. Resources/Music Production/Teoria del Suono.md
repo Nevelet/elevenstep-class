@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/teoria-del-suono/"}
 ---
 
-Links:: [[3. Resources/Music Production/Suono\|Suono]], [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Suono\|Suono]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 La teoria del suono è un insieme di principi e concetti che descrivono la natura, la propagazione e la percezione del suono. Essa comprende diverse aree di studio, tra cui:

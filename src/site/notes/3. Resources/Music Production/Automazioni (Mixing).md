@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/automazioni-mixing/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/automazioni-mixing/","tags":["note"]}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing & Mastering/Processi Basilari di Mixing\|Processi Basilari di Mixing]], [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing & Mastering/Processi Basilari di Mixing\|Processi Basilari di Mixing]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 

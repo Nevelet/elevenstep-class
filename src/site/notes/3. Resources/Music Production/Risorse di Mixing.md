@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/risorse-di-mixing/"}
 ---
 
-Links:: [[3. Resources/Music Production/Utility di Mixing & Mastering\|Utility di Mixing & Mastering]], [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Utility di Mixing & Mastering\|Utility di Mixing & Mastering]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 ## Video

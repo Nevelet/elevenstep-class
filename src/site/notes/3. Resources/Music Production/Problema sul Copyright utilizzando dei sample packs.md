@@ -34,6 +34,6 @@ Links:: [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]]
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Tutto quello che c'è da sapere sulle Royalty\|Tutto quello che c'è da sapere sulle Royalty]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Tutto quello che c'è da sapere sulle Royalty\|Tutto quello che c'è da sapere sulle Royalty]]
 - [[3. Resources/Music Production/Copyright\|Copyright]]
 - [[3. Resources/Music Production/Royalties\|Royalties]]

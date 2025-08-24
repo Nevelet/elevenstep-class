@@ -15,7 +15,7 @@ Le unità di misura più comuni nel mixing sono:
 - [[3. Resources/Music Production/BPM\|BPM]]
 
 
-## Unità di misura usate nel [[3. Resources/Music Production/Mixing\|Mixing]]
+## Unità di misura usate nel [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 - [[3. Resources/Music Production/Peak Meter\|Peak Meter]]
 - [[3. Resources/Music Production/dBFS\|dBFS]]

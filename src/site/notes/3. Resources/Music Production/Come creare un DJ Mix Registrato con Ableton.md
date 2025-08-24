@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/come-creare-un-dj-mix-registrato-con-ableton/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/come-creare-un-dj-mix-registrato-con-ableton/","tags":["note"]}
 ---
 
-Links:: [[0. Inbox/DJ mix\|DJ mix]]
+Links:: [[3. Resources/Music Production/DJ mix\|DJ mix]]
 
 ---
 Per creare un DJ mix registrato di alta qualità, è necessario combinare diverse tecniche e competenze. Ecco alcuni degli aspetti fondamentali:

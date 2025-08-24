@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/tipi-di-strumenti-musicali/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/tipi-di-strumenti-musicali/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Strumenti Musicali\|Strumenti Musicali]]

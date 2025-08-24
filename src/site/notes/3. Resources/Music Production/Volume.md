@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/volume/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/volume/","tags":["note"]}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Audio/Livelli audio\|Livelli audio]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Audio/Livelli audio\|Livelli audio]]
 
 ---
-In ambito [[3. Resources/General Knowledge/Audio\|audio]], il **volume** si riferisce a due concetti distinti ma strettamente correlati:
+In ambito [[3. Resources/General Knowledge/Audio\|Audio]], il **volume** si riferisce a due concetti distinti ma strettamente correlati:
 
 ## 1. Intensità sonora
 
@@ -16,7 +16,7 @@ In ambito [[3. Resources/General Knowledge/Audio\|audio]], il **volume** si rife
 
 L'unità di misura standard per l'intensità sonora è il **[[3. Resources/Music Production/Decibel (dB)\|Decibel (dB)]]**. I decibel sono un'unità logaritmica che tiene conto della sensibilità non lineare dell'orecchio umano alle variazioni di intensità.
 
-## 2. Livello di [[3. Resources/Music Production/Registrazione\|registrazione]] o riproduzione audio
+## 2. Livello di [[3. Resources/Music Production/Registrazione\|Registrazione]] o riproduzione audio
 
 È la **regolazione** che determina quanto forte viene registrato o riprodotto un suono. Questo livello viene solitamente espresso in **unità arbitrarie** (ad esempio, da 0 a 100%) o in **decibel (dB)**.
 

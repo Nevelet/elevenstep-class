@@ -30,4 +30,4 @@ _Il balance è soggettivo, io magari voglio dare più energia a quel suono piutt
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come fare un ottimo LEVELING\|Come fare un ottimo LEVELING]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come fare un ottimo LEVELING\|Come fare un ottimo LEVELING]]

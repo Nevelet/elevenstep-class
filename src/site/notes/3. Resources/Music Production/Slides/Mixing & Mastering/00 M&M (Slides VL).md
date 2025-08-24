@@ -93,7 +93,7 @@ Dunque, il campionamento è la conversione di un segnale analogico in digitale, 
 
 --
 
-![Campionamento.png|600](/img/user/3.%20Resources/Images/Campionamento.png)
+![Campionamento.png|600](/img/user/3.%20Resources/Attachments/Campionamento.png)
 
 --
 

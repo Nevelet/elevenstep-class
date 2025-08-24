@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/tecniche-avanzate-di-mixing/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 

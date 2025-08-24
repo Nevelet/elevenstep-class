@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/aggregatori-vs-distributori-musicali/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/aggregatori-vs-distributori-musicali/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Distributori Musica\|Distributori Musica]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/batch-file-audio-normalizzazione/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/batch-file-audio-normalizzazione/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Audio\|Audio]]

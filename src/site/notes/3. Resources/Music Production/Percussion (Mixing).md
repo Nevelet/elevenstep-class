@@ -20,5 +20,5 @@ Links:: [[3. Resources/Music Production/Mixing & Mastering/Drums (Mixing)\|Drums
 
 - [[3. Resources/Music Production/Percussion\|Percussion]]
 - [[3. Resources/Music Production/Drums\|Drums]]
-- [[3. Resources/Music Production/Mixing\|Mixing]]
+- [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 

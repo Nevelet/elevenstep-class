@@ -25,7 +25,7 @@ Links:: [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scel
 	- Library
 		- Kontakt Factory Library
 		- Studio Drummer
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx]]
 	- SF2
 	- SFZ
 		- [the_open_source_drumkit.tar.7z](https://download.linuxaudio.org/musical-instrument-libraries/sfz/the_open_source_drumkit.tar.7z)

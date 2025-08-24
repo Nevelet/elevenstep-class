@@ -34,7 +34,7 @@
 
 - [[3. Resources/Music Production/Routing MIDI\|Routing MIDI]]
 	- Cos’è il [[3. Resources/Music Production/Routing\|Routing]]  
-	- Da [[3. Resources/Music Production/MIDI\|MIDI]] a [[3. Resources/General Knowledge/Audio\|AUDIO]]  
+	- Da [[3. Resources/Music Production/MIDI\|MIDI]] a [[3. Resources/General Knowledge/Audio\|Audio]]  
 	- Routing nella vista dettaglio delle tracce  
 	- [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Routing Tracce]]
 		- Input Tracce  

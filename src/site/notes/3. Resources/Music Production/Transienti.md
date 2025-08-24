@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/transienti/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 I transienti sono i primi momenti ad alta energia di un certo suono nella tua forma d’onda. Queste esplosioni danno al nostro cervello molte informazioni sulla qualità di un suono.

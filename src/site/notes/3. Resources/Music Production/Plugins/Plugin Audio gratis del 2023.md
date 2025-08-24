@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin-audio-gratis-del-2023/","tags":["type/project"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin-audio-gratis-del-2023/","tags":["project"]}
 ---
 
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]

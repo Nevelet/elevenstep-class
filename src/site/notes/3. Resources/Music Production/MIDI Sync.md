@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/midi-sync/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/midi-sync/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/MIDI\|MIDI]], [[3. Resources/Music Production/Sincronizzazione\|Sincronizzazione]]
@@ -55,7 +55,7 @@ Links:: [[3. Resources/Music Production/MIDI\|MIDI]], [[3. Resources/Music Produ
 
 ## Related Notes
 
-- [[3. Resources/General Knowledge/Ableton - Sincronizzazione tramite MIDI\|Ableton - Sincronizzazione tramite MIDI]]
+- [[3. Resources/Music Production/Ableton - Sincronizzazione tramite MIDI\|Ableton - Sincronizzazione tramite MIDI]]
 
 
 

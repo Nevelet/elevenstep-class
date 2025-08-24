@@ -13,12 +13,12 @@ Il routing [[3. Resources/Music Production/MIDI\|MIDI]] è il processo di indiri
 
 - Cavi MIDI
 - Collegare le attrezzature
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Routing e Registrazione MIDI su Ableton (External)\|Routing e Registrazione MIDI su Ableton (External)]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Routing e Registrazione MIDI su Ableton (External)\|Routing e Registrazione MIDI su Ableton (External)]]
 
 
 ## Routing MIDI Internal
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Routing e Registrazione MIDI su Ableton (Internal)\|Routing e Registrazione MIDI su Ableton (Internal)]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Routing e Registrazione MIDI su Ableton (Internal)\|Routing e Registrazione MIDI su Ableton (Internal)]]
 - [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Ableton - Routing MIDI Tracce (Input & Output)]]
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/pitch/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/pitch/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Frequenze\|Frequenze]]

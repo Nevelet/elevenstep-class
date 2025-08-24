@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-vista-sessione/","tags":["type/note/develop"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-vista-sessione/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
@@ -175,9 +175,8 @@ Per sessioni dal vivo, grazie alla sua gestione delle Clip, del tempo e delle Sc
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Ableton/Ableton - Vista Arrangiamento\|Vista Arrangiamento]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton\|Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton\|Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton]]
 - [[Vista Sessione (Modulo)\|Vista Sessione (Modulo)]]
-- [[2. Areas/ES - Content Creation/Content Video ES/Registrare una Sessione Live sulla Vista Arrangiamento\|Registrare una Sessione Live sulla Vista Arrangiamento]]
 - [[3. Resources/Music Production/Ableton/Ableton - Spostarsi tra le viste Sessione e Arrangiamento\|Ableton - Spostarsi tra le viste Sessione e Arrangiamento]]
 - [[3. Resources/Music Production/Ableton/Ableton - Differenza tra Vista Sessione e Vista Arrangiamento\|Ableton - Differenza tra Vista Sessione e Vista Arrangiamento]]
 

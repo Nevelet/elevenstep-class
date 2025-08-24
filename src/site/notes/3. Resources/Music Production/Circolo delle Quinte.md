@@ -15,6 +15,10 @@ Il Circolo delle Quinte è rappresentato da un cerchio diviso in **dodici settor
 
 Oltre alle note fondamentali, il Circolo delle Quinte include anche le **diesis (#)** e i **bemolli (♭)** che possono essere aggiunti a una nota per alterarne l'altezza. Le diesis si trovano alla destra di ogni nota, mentre i bemolli si trovano alla sinistra.
 
+Si chiama cosi perché ci sono tutte le quinte. Ad esempio partendo da C, dopo troviamo G che è la quinta del Do maggiore. Quelle sopra sono in maggiore, quelle sotto in minore.
+
+
+
 ## Funzioni del Circolo delle Quinte
 
 Il Circolo delle Quinte ha diverse funzioni importanti:
@@ -23,6 +27,10 @@ Il Circolo delle Quinte ha diverse funzioni importanti:
 - **Costruire accordi:** Il Circolo delle Quinte può essere utilizzato per costruire rapidamente gli accordi maggiori, minori e di settima. Ogni accordo ha una sua posizione specifica sul cerchio.
 - **Scrivere melodie:** Il Circolo delle Quinte può essere utile per trovare idee melodiche che siano compatibili con una determinata tonalità. Le note vicine sul cerchio tendono a suonare bene insieme.
 - **Improvvisare:** Il Circolo delle Quinte può essere uno strumento prezioso per gli improvvisatori, che possono usarlo per orientarsi all'interno di una tonalità e scegliere le note da suonare.
+- Capire quante alterazioni ci sono
+- Cambiare facilmente tonalità, se ad esempio vogliamo suonare con una tonalità più bassa.
+- Ci aiuta a trovare anche gli accordi di dominante (ovvero di quinta)
+
 
 ## Vantaggi dell'utilizzo del Circolo delle Quinte
 

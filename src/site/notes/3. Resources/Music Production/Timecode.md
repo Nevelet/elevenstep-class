@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/timecode/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/timecode/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Sincronizzazione\|Sincronizzazione]]

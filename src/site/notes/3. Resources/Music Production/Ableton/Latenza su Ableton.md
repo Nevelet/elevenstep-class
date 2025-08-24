@@ -41,7 +41,7 @@ ci sono due metodo per compensare la latenza:
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come registrare la voce su una traccia senza gain in input\|Come registrare la voce su una traccia senza gain in input]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come registrare la voce su una traccia senza gain in input\|Come registrare la voce su una traccia senza gain in input]]
 
 
 

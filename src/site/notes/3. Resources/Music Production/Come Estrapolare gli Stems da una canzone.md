@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/come-estrapolare-gli-stems-da-una-canzone/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/come-estrapolare-gli-stems-da-una-canzone/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Tecniche (Music Production)\|Tecniche (Music Production)]], [[3. Resources/Music Production/Music Production\|Music Production]]
@@ -126,7 +126,7 @@ VirtualDJ 2021 utilizza la tecnologia avanzata e la potenza dei computer odierni
 
 ### UVR (Il migliore)
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Ultimate Vocal Remover/✍ Ultimate Vocal Remover\|✍ Ultimate Vocal Remover]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Ultimate Vocal Remover/✍ Ultimate Vocal Remover\|✍ Ultimate Vocal Remover]]
 
 
 ## 5. Online tools (Free)

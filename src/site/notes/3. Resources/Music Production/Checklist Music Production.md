@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/checklist-music-production/"}
 ---
 
-Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[0. Inbox/Checklist\|Checklist]]
+Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Dashboard/Checklist\|Checklist]]
 
 ---
 ## Pre *(prima di inviarlo alla Label)*

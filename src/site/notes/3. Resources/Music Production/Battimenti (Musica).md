@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/battimenti-musica/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/battimenti-musica/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music\|Musica]], [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]]

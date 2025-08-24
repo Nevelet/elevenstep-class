@@ -25,6 +25,6 @@ Links:: [[3. Resources/Music Production/Drums\|Drums]], [[3. Resources/Music Pro
 
 ## Reference
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Creare la batteria in audio o in MIDI\|Creare la batteria in audio o in MIDI]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Creare la batteria in audio o in MIDI\|Creare la batteria in audio o in MIDI]]
 
 

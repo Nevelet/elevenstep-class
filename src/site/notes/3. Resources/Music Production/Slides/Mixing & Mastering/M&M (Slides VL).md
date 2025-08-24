@@ -101,7 +101,7 @@ Dunque, il campionamento è la conversione di un segnale analogico in digitale, 
 
 --
 
-![Campionamento.png|600](/img/user/3.%20Resources/Images/Campionamento.png)
+![Campionamento.png|600](/img/user/3.%20Resources/Attachments/Campionamento.png)
 
 --
 
@@ -486,8 +486,8 @@ Si può aggiungere ad esempio un rumore bianco, come ad esempio in questa tecnic
 
 ## Balance Kick e Sub
 
-![image_1631828669292_0.png](/img/user/3.%20Resources/Images/image_1631828669292_0.png)
-![image_1631828681254_0.png](/img/user/3.%20Resources/Images/image_1631828681254_0.png)
+![image_1631828669292_0.png](/img/user/3.%20Resources/Attachments/image_1631828669292_0.png)
+![image_1631828681254_0.png](/img/user/3.%20Resources/Attachments/image_1631828681254_0.png)
 
 
 </div></div>
@@ -505,8 +505,8 @@ Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music P
 ---
 ## Balance Kick e Sub
 
-![image_1631828669292_0.png](/img/user/3.%20Resources/Images/image_1631828669292_0.png)
-![image_1631828681254_0.png](/img/user/3.%20Resources/Images/image_1631828681254_0.png)
+![image_1631828669292_0.png](/img/user/3.%20Resources/Attachments/image_1631828669292_0.png)
+![image_1631828681254_0.png](/img/user/3.%20Resources/Attachments/image_1631828681254_0.png)
 
 ## Livelli Audio
 
@@ -524,7 +524,7 @@ _Quanto basse deve avere il kick e quante il sub?_
 ### Plug-in/Dispositivi
 
 - Duck
-- [[1. Projects/Trackspacer plugin\|Trackspacer plugin]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/TRACKSPACER - Un Plugin Intelligente per DARE SPAZIO AI SUONI\|TRACKSPACER - Un Plugin Intelligente per DARE SPAZIO AI SUONI]]
 - Compressor (Ableton)
 
 
@@ -575,8 +575,8 @@ Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music P
 ---
 ## Balance Kick e Sub
 
-![image_1631828669292_0.png](/img/user/3.%20Resources/Images/image_1631828669292_0.png)
-![image_1631828681254_0.png](/img/user/3.%20Resources/Images/image_1631828681254_0.png)
+![image_1631828669292_0.png](/img/user/3.%20Resources/Attachments/image_1631828669292_0.png)
+![image_1631828681254_0.png](/img/user/3.%20Resources/Attachments/image_1631828681254_0.png)
 
 ## Livelli Audio
 
@@ -594,7 +594,7 @@ _Quanto basse deve avere il kick e quante il sub?_
 ### Plug-in/Dispositivi
 
 - Duck
-- [[1. Projects/Trackspacer plugin\|Trackspacer plugin]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/TRACKSPACER - Un Plugin Intelligente per DARE SPAZIO AI SUONI\|TRACKSPACER - Un Plugin Intelligente per DARE SPAZIO AI SUONI]]
 - Compressor (Ableton)
 
 
@@ -727,7 +727,7 @@ _Quanto basse deve avere il kick e quante il sub?_
 
 
 
-Links:: [[3. Resources/Music Production/Synth (Mixing)\|Synth (Mixing)]], [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Synth Mid-Bass (Mixing)\|Synth Mid-Bass (Mixing)]]
+Links:: [[3. Resources/Music Production/Synth (Mixing)\|Synth (Mixing)]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Synth Mid-Bass (Mixing)\|Synth Mid-Bass (Mixing)]]
 
 ---
 
@@ -772,7 +772,7 @@ gestire gli effetti all'interno dei synth: routing e processing.
 
 ### Altre risorse
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
 
 ## Mixing [[3. Resources/Music Production/Layering\|Layering]]
 

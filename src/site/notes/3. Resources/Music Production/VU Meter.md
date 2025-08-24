@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Mixing & Mastering/Analyzer Plugin for Mixing and Mastering\|Analyzer Plugin for Mixing and Mastering]], [[3. Resources/Music Production/Unità di misura\|Unità di misura]]
 
 ---
-![image_1630096291908_0.png](/img/user/3.%20Resources/Images/image_1630096291908_0.png)
+![image_1630096291908_0.png](/img/user/3.%20Resources/Attachments/image_1630096291908_0.png)
 
 ## Cos'è
 

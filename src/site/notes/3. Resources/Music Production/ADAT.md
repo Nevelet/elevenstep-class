@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/adat/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/adat/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Scheda audio\|Scheda audio]]

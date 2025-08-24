@@ -16,4 +16,4 @@ Attacco e rilascio lunghi e sustain elevato, che spesso emulano il suono di uno 
 ## Related Notes
 
 - [[3. Resources/Music Production/Synth PAD\|Synth PAD]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Sound Design PAD con VITAL & WAVETABLE\|Sound Design PAD con VITAL & WAVETABLE]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Sound Design PAD con VITAL & WAVETABLE\|Sound Design PAD con VITAL & WAVETABLE]]

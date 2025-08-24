@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/condivisione-audio-con-mac/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/condivisione-audio-con-mac/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Audio\|Audio]]
@@ -11,7 +11,7 @@ Links:: [[3. Resources/General Knowledge/Audio\|Audio]]
 - Preferenze Audio Ableton: Selezionare su output device "ZoomAudioDevice"
 - Configurazioni MIDI Audio
 	- creare un dispositivo combinato
-- [[3. Resources/Tech/Anydesk\|Anydesk]]
+- [[3. Resources/General Knowledge/Anydesk\|Anydesk]]
 	- Impostazioni → Audio → Trasmissione e Uscita
 	- _La trasmissione audio non è attualmente disponibile per AnyDesk per macOS a causa delle limitazioni del fornitore._
 - Jitsi Meet

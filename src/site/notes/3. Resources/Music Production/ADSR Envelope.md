@@ -19,7 +19,7 @@ L'acronimo ADSR viene utilizzato nella teoria musicale relativamente alla sintes
 - Sustain 
 - Release
 
-![ADSR.png](/img/user/3.%20Resources/Images/ADSR.png)
+![ADSR.png](/img/user/3.%20Resources/Attachments/ADSR.png)
 
 
 ### Attack

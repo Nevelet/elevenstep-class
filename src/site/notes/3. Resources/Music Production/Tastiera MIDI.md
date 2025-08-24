@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/tastiera-midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/tastiera-midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/MIDI\|MIDI]], [[3. Resources/Music Production/Componenti per Home Studio\|Componenti per Home Studio]], [[3. Resources/Music Production/Tastiera (Musica)\|Tastiera (Musica)]]

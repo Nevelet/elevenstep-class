@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/sound-design/sound-design/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/sound-design/sound-design/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
@@ -37,7 +37,7 @@ Il processo di sound design può includere la registrazione di suoni dal vivo, l
 ## Related Notes
 
 - [[3. Resources/Music Production/Sound Design/Tips e Tricks Sound Design\|Tips e Tricks Sound Design]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Le fondamenta del Sound Design\|Le fondamenta del Sound Design]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Le fondamenta del Sound Design\|Le fondamenta del Sound Design]]
 - [[3. Resources/Music Production/Ableton/Ableton - Sound Design\|Ableton - Sound Design]]
 - [[3. Resources/Music Production/Sound Design/Sintesi Granulare\|Sintesi Granulare]]
 - [[3. Resources/Music Production/Texture (musica)\|Texture (musica)]]

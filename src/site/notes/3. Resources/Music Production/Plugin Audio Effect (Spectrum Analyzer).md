@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/plugin-audio-effect-spectrum-analyzer/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/plugin-audio-effect-spectrum-analyzer/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio Effect (Analyzer)\|Plugin Audio Effect (Analyzer)]]

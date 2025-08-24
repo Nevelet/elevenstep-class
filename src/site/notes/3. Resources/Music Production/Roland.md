@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/roland/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/roland/","tags":["note"]}
 ---
 
 Links:: [[Aziende\|Aziende]]

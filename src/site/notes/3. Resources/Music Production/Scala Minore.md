@@ -17,7 +17,7 @@ T, s, T, T, s, T, T
 
 Esiste un diverso procedimento per derivare una scala minore da una scala maggiore, generandone una che, pur non avendo la stessa composizione di suoni di quella maggiore, condivide però con essa lo stesso suono di partenza, ossia la stessa tonica. Tale scala è detta scala omologa minore e la si ottiene abbassando di un semitono il III, il VI e VII grado della scala maggiore di partenza. In questo modo, ad esempio, da Do maggiore (Do, Re, Mi, Fa, Sol, La, Si, Do) si ottiene la scala di Do minore (Do, Re, Mi♭, Fa, Sol, La♭, Si♭, Do) che costituisce la forma omologa del Do maggiore.
 
-![Pasted_image_20210515165057_1631044975204_0.png](/img/user/3.%20Resources/Images/Pasted_image_20210515165057_1631044975204_0.png)
+![Pasted_image_20210515165057_1631044975204_0.png](/img/user/3.%20Resources/Attachments/Pasted_image_20210515165057_1631044975204_0.png)
 
 
 ## 📚 References

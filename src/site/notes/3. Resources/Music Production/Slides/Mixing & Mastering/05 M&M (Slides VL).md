@@ -16,7 +16,7 @@
 
 
 
-Links:: [[3. Resources/Music Production/Synth (Mixing)\|Synth (Mixing)]], [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Synth Mid-Bass (Mixing)\|Synth Mid-Bass (Mixing)]]
+Links:: [[3. Resources/Music Production/Synth (Mixing)\|Synth (Mixing)]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Synth Mid-Bass (Mixing)\|Synth Mid-Bass (Mixing)]]
 
 ---
 
@@ -61,7 +61,7 @@ gestire gli effetti all'interno dei synth: routing e processing.
 
 ### Altre risorse
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
 
 ## Mixing [[3. Resources/Music Production/Layering\|Layering]]
 

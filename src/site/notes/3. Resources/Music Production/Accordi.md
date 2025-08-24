@@ -50,7 +50,7 @@ Gli accordi sono utilizzati in tutti i [[3. Resources/Music Production/Generi Mu
 - [[3. Resources/Music Production/Gradi Scala\|Gradi Scala]]
 - [[3. Resources/Music Production/L'utilizzo dei rivolti\|L'utilizzo dei rivolti]]
 - [[3. Resources/Music Production/Creazione Elementi Armonici\|Creazione Elementi Armonici]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/CREARE VELOCEMENTE degli ACCORDI con o senza Plugin\|CREARE VELOCEMENTE degli ACCORDI con o senza Plugin]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/CREARE VELOCEMENTE degli ACCORDI con o senza Plugin\|CREARE VELOCEMENTE degli ACCORDI con o senza Plugin]]
 
 
 ## 📚 References

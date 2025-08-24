@@ -13,10 +13,10 @@ Links:: [[3. Resources/Music Production/Frequenze\|Frequenze]], [[3. Resources/M
 3. [[3. Resources/Music Production/Texture (musica)\|Texture (musica)]]
 
 
-![image_1631219233522_0.png](/img/user/3.%20Resources/Images/image_1631219233522_0.png)
-![image_1631219267251_0.png](/img/user/3.%20Resources/Images/image_1631219267251_0.png)
-![image_1631219295385_0.png](/img/user/3.%20Resources/Images/image_1631219295385_0.png)
-![image_1631219319090_0.png](/img/user/3.%20Resources/Images/image_1631219319090_0.png)
+![image_1631219233522_0.png](/img/user/3.%20Resources/Attachments/image_1631219233522_0.png)
+![image_1631219267251_0.png](/img/user/3.%20Resources/Attachments/image_1631219267251_0.png)
+![image_1631219295385_0.png](/img/user/3.%20Resources/Attachments/image_1631219295385_0.png)
+![image_1631219319090_0.png](/img/user/3.%20Resources/Attachments/image_1631219319090_0.png)
 
 
 - **Sub-Bass:** 20 Hz — 60 Hz	

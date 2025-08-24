@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/bass/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/bass/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Strumenti Armonici\|Strumenti Armonici]]

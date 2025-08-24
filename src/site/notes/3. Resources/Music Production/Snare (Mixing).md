@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/snare-mixing/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/snare-mixing/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Mixing & Mastering/Drums (Mixing)\|Drums (Mixing)]]

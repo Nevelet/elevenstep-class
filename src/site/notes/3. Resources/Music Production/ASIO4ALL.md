@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/asio-4-all/"}
 ---
 
-Links:: [[3. Resources/Music Production/Driver Audio\|Driver Audio]], [[0. Inbox/ASIO\|ASIO]]
+Links:: [[3. Resources/Music Production/Driver Audio\|Driver Audio]], [[3. Resources/Music Production/Audio/ASIO\|ASIO]]
 
 ---
 
@@ -21,7 +21,7 @@ Links:: [[3. Resources/Music Production/Driver Audio\|Driver Audio]], [[0. Inbox
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/FlexASIO\|FlexASIO]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/FlexASIO\|FlexASIO]]
 - KoordASIO
-- [[0. Inbox/ASIO\|ASIO]]
+- [[3. Resources/Music Production/Audio/ASIO\|ASIO]]
 

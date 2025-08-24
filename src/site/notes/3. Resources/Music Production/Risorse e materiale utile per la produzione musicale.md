@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/risorse-e-materiale-utile-per-la-produzione-musicale/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/risorse-e-materiale-utile-per-la-produzione-musicale/","tags":["note"]}
 ---
 
 Links:: [[]]
@@ -67,7 +67,7 @@ Ecco un elenco di risorse e materiale utile per la produzione musicale che potre
    - [[3. Resources/Music Production/Cavi Audio\|Cavi Audio]] di qualità
    - [[3. Resources/Music Production/Monitor Audio\|Monitor Audio]] o cuffie di monitoraggio (ad esempio, Audio-Technica ATH-M50x)
 
-## Strumenti per la [[3. Resources/Music Production/Composizione\|composizione]] e l'[[3. Resources/Music Production/Arrangiamento\|arrangiamento]]
+## Strumenti per la [[3. Resources/Music Production/Composizione\|Composizione]] e l'[[3. Resources/Music Production/Arrangiamento\|Arrangiamento]]
 
    - [[3. Resources/Music Production/Tastiera MIDI\|Tastiera MIDI]]
    - [[3. Resources/Music Production/Controller MIDI\|Controller MIDI]] (ad esempio, Akai MPK Mini)

@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]]
 
 ---
-![Creative Commons.png](/img/user/3.%20Resources/Images/Creative%20Commons.png)
+![Creative Commons.png](/img/user/3.%20Resources/Attachments/Creative%20Commons.png)
 
 
 Ci permette di creare delle releazioni tra l'autore e il fruitore

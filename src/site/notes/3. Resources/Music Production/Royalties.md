@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/royalties/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/royalties/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]], [[3. Resources/Music Production/Royalties\|Royalties]]
@@ -14,8 +14,12 @@ Royalties = plurale
 
 La percentuale che l'editore versa all'autore di un'opera dell'ingegno (libro, canzone, disco, brevetto, ecc.) per ogni esemplare venduto, o comunque in percentuale sugli incassi (nel caso per es. del film), come diritto di autore.
 
+Le royalties sono compensi che un autore riceve da una sua opera intellettuale (musica, film, romanzi, software ecc.) generati dall'utilizzo stesso di quell'opera che qualcun altro fa. 
 
-> Le royalties sono delle percentuali che devono essere pagate agli aventi diritto per ogni utilizzo di un’opera musicale. Ogni volta in cui un negozio, un ristorante, una palestra etc. trasmettono un brano musicale devono ottenere delle licenze dalle collecting societies ([[3. Resources/Music Production/Società di collecting\|Società di collecting]]). Le più comuni sono [[SIAE\|SIAE]], SCF e Nuovo IMAIE, le quali riscuotono rispettivamente i proventi degli autori, dei produttori fonografici e degli artisti interpreti esecutori, a cui li distribuiscono sotto forma di royalties. — [Musica Royalty Free: cos'è e quali sono i vantaggi? - IPRights](https://www.iprights.it/musica-royalty-free/)
+Le royalties vengono calcati di solito in percentuale, ovvero l'autore ricevere una percentuale sull'importo totale generato dall'utilizzo dell'opera stessa (nel caso delle piattaforme di streaming musicale, sulla base delle riproduzioni). C'è anche la possibilità di ricevere questi compensi tramite una quota fissa, ovvero se vendo 100 prodotti ad un'azienda verrò pagato al di là che l'azienda venda o meno quei prodotti. 
+
+
+> Le royalties sono delle percentuali che devono essere pagate agli aventi diritto per ogni utilizzo di un’opera musicale. Ogni volta in cui un negozio, un ristorante, una palestra etc. trasmettono un brano musicale devono ottenere delle licenze dalle collecting societies ([[3. Resources/Music Production/Società di collecting\|Società di collecting]]). Le più comuni sono [[3. Resources/Music Production/SIAE\|SIAE]], SCF e Nuovo IMAIE, le quali riscuotono rispettivamente i proventi degli autori, dei produttori fonografici e degli artisti interpreti esecutori, a cui li distribuiscono sotto forma di royalties. — [Musica Royalty Free: cos'è e quali sono i vantaggi? - IPRights](https://www.iprights.it/musica-royalty-free/)
 
 > Quando un’opera viene rilasciata con licenza royalty free non significa che si tratti di musica libera da copyright. Piuttosto, i diritti d’autore ed i diritti connessi vengono pagati una tantum, senza bisogno di corrispondere somme ulteriori per ogni successivo utilizzo. — [Musica Royalty Free: cos'è e quali sono i vantaggi? - IPRights](https://www.iprights.it/musica-royalty-free/)
 
@@ -48,7 +52,7 @@ A volte il termine "Royalty Free" può creare confusione, perché alcuni pensano
 
 ### Costi e Licenze
 
-Ulteriori costi, laddove applicabili. In Italia ad esempio, esiste la [[SIAE\|SIAE]], una [[3. Resources/Music Production/Società di collecting\|Società di collecting]] che tutela e certifica l'acquisto dei brani. Quindi in base al contesto e all'utilizzo, bisogna pagare una cifra per l'utilizzo di un'opera, anche di un brano in licenza Royalty Free. 
+Ulteriori costi, laddove applicabili. In Italia ad esempio, esiste la [[3. Resources/Music Production/SIAE\|SIAE]], una [[3. Resources/Music Production/Società di collecting\|Società di collecting]] che tutela e certifica l'acquisto dei brani. Quindi in base al contesto e all'utilizzo, bisogna pagare una cifra per l'utilizzo di un'opera, anche di un brano in licenza Royalty Free. 
 
 Il costo per una licenza Royalty Free, varia in base anche al formato e ad altri parametri, questo perché i benefici e i guadagni saranno maggiori e dunque, anche il prezzo per acquisire una licenza.
 
@@ -88,7 +92,7 @@ Con i campioni Royalty devi pagare ogni volta che usi quel campione, mentre con 
 - [[Royalty Canvas.canvas]]
 - [[3. Resources/Music Production/Problema sul Copyright utilizzando dei sample packs\|Problema sul Copyright utilizzando dei sample packs]]
 - [[3. Resources/Music Production/Come dividere la percentuale delle Royalty\|Come dividere la percentuale delle Royalty]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Tutto quello che c'è da sapere sulle Royalty\|Tutto quello che c'è da sapere sulle Royalty]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Tutto quello che c'è da sapere sulle Royalty\|Tutto quello che c'è da sapere sulle Royalty]]
 
 
 ## Resources

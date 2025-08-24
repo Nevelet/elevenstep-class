@@ -69,7 +69,7 @@ _different types of "synth sounds"_ → [[3. Resources/Music Production/Sound De
 
 ### Altre risorse
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
 
 ## Mixing [[3. Resources/Music Production/Layering\|Layers]]
 

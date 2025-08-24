@@ -78,7 +78,7 @@ Imparare le scale musicali **è importante per chiunque voglia suonare uno strum
 - [[3. Resources/Music Production/Accordi\|Accordi]]
 - [[3. Resources/Music Production/Gradi Scala\|Gradi Scala]]
 - [[3. Resources/Music Production/Armonia\|Armonia]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/CREARE VELOCEMENTE degli ACCORDI con o senza Plugin\|CREARE VELOCEMENTE degli ACCORDI con o senza Plugin]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/CREARE VELOCEMENTE degli ACCORDI con o senza Plugin\|CREARE VELOCEMENTE degli ACCORDI con o senza Plugin]]
 
 
 ## Resources

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/suddivisone-strumenti-musicali/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/suddivisone-strumenti-musicali/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Strumenti Musicali\|Strumenti Musicali]]
@@ -19,7 +19,7 @@ Gli strumenti musicali possono essere suddivisi in diverse categorie in base all
 
 ## Considerazioni
 
-Ogni categoria di strumenti svolge un ruolo unico nella creazione di musica, contribuendo alla [[3. Resources/Music Production/Melodia\|melodia]], all'[[3. Resources/Music Production/Armonia\|armonia]], al [[3. Resources/Music Production/Ritmo (Musica)\|ritmo]] e alla [[3. Resources/Music Production/Texture (musica)\|texture]] complessiva di una composizione.
+Ogni categoria di strumenti svolge un ruolo unico nella creazione di musica, contribuendo alla [[3. Resources/Music Production/Melodia\|Melodia]], all'[[3. Resources/Music Production/Armonia\|Armonia]], al [[3. Resources/Music Production/Ritmo (Musica)\|ritmo]] e alla [[3. Resources/Music Production/Texture (musica)\|texture]] complessiva di una composizione.
 
 La lista degli strumenti musicali importanti è vastissima e in continua evoluzione. La chiave per apprezzare la musica è conoscere le diverse sonorità e il ruolo che ogni strumento può giocare nella creazione di un'opera musicale.
 

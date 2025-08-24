@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/copyright/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/copyright/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]]
@@ -26,12 +26,18 @@ In pratica il copyright avviene in automatico, una volta che metti al mondo la t
 
 ## Come crearsi delle prove?
 
+La data di pubblicazione può essere utile come prova di anteriorità, ma non è sufficiente da sola per proteggere completamente i tuoi diritti d'autore. Il diritto d'autore si applica automaticamente al momento della creazione di un'opera musicale, indipendentemente dalla data di pubblicazione. Tuttavia, per avere una prova legale più solida, è consigliabile registrare il tuo lavoro presso un ente ufficiale, come ad esempio la Library of Congress negli Stati Uniti, o conservare documenti che attestino la data di creazione e la tua proprietà intellettuale.
+
+In Italia, la SIAE non richiede la registrazione formale per proteggere i diritti d'autore, poiché questi sono automatici, ma l'iscrizione alla SIAE può aiutare nella gestione e tutela dei diritti, specialmente per quanto riguarda l'utilizzo pubblico delle opere.
+
+Quindi, mentre la data di pubblicazione può essere utile, non è sufficiente da sola per garantire una protezione completa. È importante conservare documenti che attestino la tua proprietà intellettuale e considerare la registrazione ufficiale per una tutela più efficace.
+
 - La data
 	- Timestamp del file
 	- Upload su qualche servizio
 - Raccomandata
 - Email
-  
+
 **La data**
 Ti basta semplicemente mostrare la data di creazione della tua opera, ad esempio può essere la data del tuo progetto di Ableton o del file wav e cosi via. Questo ovviamente dimostra che il primo sei stato tu.
 Ovviamente questo può anche essere omesso cambiando la data del pc ad esempio e quindi c'è un altro modo per mostrare una data autentica senza che venga modificata? Certo! Ti basta pubblicare la traccia su SoundCloud anche privata, SoundCloud avrà la sua data di caricamento. Ho nominato SoundCloud, ma puoi utilizzare qualsiasi servizio come banca di dati.

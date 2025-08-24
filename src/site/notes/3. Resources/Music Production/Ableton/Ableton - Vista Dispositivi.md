@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-vista-dispositivi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-vista-dispositivi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Ableton/Ableton - La Vista dettaglio delle tracce\|Ableton - La Vista dettaglio delle tracce]]

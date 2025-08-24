@@ -32,7 +32,7 @@ La [[3. Resources/Music Production/Saturation\|saturazione]] è un effetto di mo
 - PSP Vintage Warmer
 - Oxford Inflator
 - [Analog Obsession](https://analogobsession.com/color-preamp-saturation/)
-	- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Plugin MoMa by Analog Obsession\|Plugin MoMa by Analog Obsession]]
+	- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Plugin MoMa by Analog Obsession\|Plugin MoMa by Analog Obsession]]
 	- TUBA
 	- BritPre
 	- TuPre

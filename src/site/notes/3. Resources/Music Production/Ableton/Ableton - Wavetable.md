@@ -19,7 +19,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Sound Design PAD con VITAL & WAVETABLE\|Sound Design PAD con VITAL & WAVETABLE]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Sound Design PAD con VITAL & WAVETABLE\|Sound Design PAD con VITAL & WAVETABLE]]
 - [[3. Resources/Music Production/Sintesi Wavetable\|Sintesi Wavetable]]
 
 ## References

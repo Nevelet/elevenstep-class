@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/virtual-midi-bus/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/virtual-midi-bus/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/MIDI\|MIDI]]

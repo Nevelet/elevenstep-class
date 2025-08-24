@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/synth-mid-bass/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/synth-mid-bass/","tags":["note"]}
 ---
 
 Link:: [[3. Resources/Music Production/Music Production\|Music Production]]

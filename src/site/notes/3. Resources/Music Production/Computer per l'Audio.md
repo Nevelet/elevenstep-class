@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/computer-per-l-audio/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/computer-per-l-audio/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Computer\|Computer]], [[3. Resources/Music Production/Componenti per Home Studio\|Componenti per Home Studio]]
@@ -48,7 +48,7 @@ Links:: [[3. Resources/General Knowledge/Computer\|Computer]], [[3. Resources/Mu
 
 editing video invece, fa molto affidamento all'elaborazione parallela, multi core
 
-![Serial vs parallel processing CPU.png](/img/user/3.%20Resources/Images/Serial%20vs%20parallel%20processing%20CPU.png)
+![Serial vs parallel processing CPU.png](/img/user/3.%20Resources/Attachments/Serial%20vs%20parallel%20processing%20CPU.png)
 
 
 ## Portatili per l'audio

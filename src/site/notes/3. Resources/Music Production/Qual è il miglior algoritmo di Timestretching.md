@@ -50,5 +50,5 @@ KievII
 
 ---
 Created:: 2023-05-16
-DateLink:: [[2. Areas/Personal Growth & Dev/Journaling/2023/2023-05-16\|2023-05-16]]
+DateLink:: [[2. Areas/Journal/Daily/2023/2023-05-16\|2023-05-16]]
 

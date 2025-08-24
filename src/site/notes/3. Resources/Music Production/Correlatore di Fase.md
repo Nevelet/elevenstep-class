@@ -51,7 +51,7 @@ Ci permette inoltre, di capire quali frequenze sono interessate per l'immagine s
 ## Reference
 
 - [Correlatore di Fase - Cerca con Google](https://www.google.com/search?q=Correlatore+di+Fase&oq=Correlatore+di+Fase&aqs=edge..69i57j0i512j0i15i22i30.1308j0j9&sourceid=chrome&ie=UTF-8)
-- [[3. Resources/Sources/plugin gratuito per controllare la tua immagine stereo\|plugin gratuito per controllare la tua immagine stereo]]
+- [[3. Resources/Sources/Video/plugin gratuito per controllare la tua immagine stereo\|plugin gratuito per controllare la tua immagine stereo]]
 
 
 

@@ -7,7 +7,7 @@
 ## Info e Acquisto di [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 - Requisiti di sistema → [Live Minimum System Requirements – Ableton](https://help.ableton.com/hc/en-us/articles/115001663530-Live-Minimum-System-Requirements)
-- Scelta delle edizioni → [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Differenza edizioni di Ableton (Lite Intro Stardard e Suite)\|Differenza edizioni di Ableton (Lite Intro Stardard e Suite)]]
+- Scelta delle edizioni → [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Differenza edizioni di Ableton (Lite Intro Stardard e Suite)\|Differenza edizioni di Ableton (Lite Intro Stardard e Suite)]]
 
 ## Panoramica e Configurazione
 
@@ -186,7 +186,7 @@
 	- PAD e Note  
 	- Simpler  
 	- Routing  
-- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei suoni e degli strumenti]]
+- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]]
 	- Librerie consigliate   
 	- Sample Pack consigliati  
 - Trovare o creare il suono giusto  
@@ -400,7 +400,7 @@
 
 ## [[3. Resources/Music Production/Creazione Elementi Melodici\|Creazione Elementi Melodici]]
 
-- Cos’è la [[3. Resources/Music Production/Melodia\|melodia]]  
+- Cos’è la [[3. Resources/Music Production/Melodia\|Melodia]]  
 - Caratteristiche della melodia  
 	- Altezza delle note  
 	- Durata delle note  
@@ -616,7 +616,7 @@
 - [[3. Resources/Music Production/Bilanciamento dei livelli\|Bilanciamento dei livelli]]
 	- Gain Staging  
 	- Leveling  
-- [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]] ([[3. Resources/Music Production/Frequenze\|frequenze]])  
+- [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]] ([[3. Resources/Music Production/Frequenze\|Frequenze]])  
 - [[3. Resources/Music Production/Mixing & Mastering/Compressione\|Compressione]] ([[3. Resources/Music Production/Gamma Dinamica\|dinamica]])  
 - [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]]
 - [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin-per-randomizzare/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin-per-randomizzare/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]

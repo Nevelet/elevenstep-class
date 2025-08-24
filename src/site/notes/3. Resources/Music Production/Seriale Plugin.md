@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/seriale-plugin/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/seriale-plugin/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/mettere-a-tempo-su-ableton/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/mettere-a-tempo-su-ableton/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]

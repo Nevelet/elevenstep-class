@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/creazione-elementi-armonici/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/creazione-elementi-armonici/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Strumenti Armonici\|Strumenti Armonici]]
@@ -26,7 +26,7 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[
 - Scrittura accordi
 	- Per costruire gli accordi, è importante conoscere questi processi: **[[3. Resources/Music Production/Intervalli Musicali\|Intervalli]] → [[3. Resources/Music Production/Scale Musicali\|Scala]] → [[3. Resources/Music Production/Armonizzazione Scala\|Armonizzazione Scala]] → [[3. Resources/Music Production/Accordi\|Accordi]]**
 - [[3. Resources/Music Production/Ableton/Ableton - Dispositivi MIDI Essenziali\|Ableton Dispositivi MIDI Essenziali]] o Plugin Effetti MIDI
-- [[3. Resources/Music Production/Mixing\|Mixing]]
+- [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 - [[3. Resources/Music Production/Layering\|Layering]]
 
 

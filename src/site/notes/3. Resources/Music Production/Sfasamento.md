@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Fase\|Fase]]
 
 ---
-In produzione musicale, lo **sfasamento** (phase in inglese) si riferisce a un fenomeno fisico che può verificarsi quando si combinano due o più onde sonore con frequenze simili.
+In produzione musicale, lo **sfasamento** (phase o phase shift in inglese) si riferisce a un fenomeno fisico che può verificarsi quando si combinano due o più onde sonore con frequenze simili.
 
 ## Come funziona
 

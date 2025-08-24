@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/midi-in-out-e-thru/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/midi-in-out-e-thru/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/MIDI\|MIDI]]

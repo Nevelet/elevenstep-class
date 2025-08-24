@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/hardware-midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/hardware-midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/MIDI\|MIDI]]

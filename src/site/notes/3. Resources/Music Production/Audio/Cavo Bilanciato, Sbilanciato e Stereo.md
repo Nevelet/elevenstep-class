@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/audio/cavo-bilanciato-sbilanciato-e-stereo/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/audio/cavo-bilanciato-sbilanciato-e-stereo/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Cavi Audio\|Cavi Audio]]

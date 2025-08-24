@@ -26,5 +26,5 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 # Metadata
 **Dates:**
 Created:: 2023-04-11
-DateLink:: [[2. Areas/Personal Growth & Dev/Journaling/2023/2023-04-11\|2023-04-11]]
+DateLink:: [[2. Areas/Journal/Daily/2023/2023-04-11\|2023-04-11]]
 Last_modified:: 2023-04-11

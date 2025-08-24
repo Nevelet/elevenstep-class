@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/atmos-sound/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/atmos-sound/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]

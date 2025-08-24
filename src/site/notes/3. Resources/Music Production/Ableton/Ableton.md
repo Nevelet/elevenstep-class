@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Digital Audio Workstation\|DAW]]
 
 ---
 Ableton è un [[3. Resources/General Knowledge/Software\|Software]] audio di [[3. Resources/Music Production/Music Production\|Music Production]]: composizione, sound design, missaggio e appartiene alla categoria [[3. Resources/General Knowledge/Digital Audio Workstation\|Digital Audio Workstation]], abbreviato di solito con l'acronimo **[[3. Resources/General Knowledge/Digital Audio Workstation\|DAW]]**
-Ableton è stata fondata nel 1999 da [[3. Resources/People/@Gerhard Behles\|@Gerhard Behles]], [[3. Resources/People/@Robert Henke\|@Robert Henke]], che insieme formarono il gruppo [[3. Resources/General Knowledge/Monolake\|Monolake]], e dall'ingegnere informatico [[3. Resources/People/@Bernd Roggendorf\|@Bernd Roggendorf]]. 
+Ableton è stata fondata nel 1999 da [[3. Resources/Sources/People/@Gerhard Behles\|@Gerhard Behles]], [[3. Resources/Sources/People/@Robert Henke\|@Robert Henke]], che insieme formarono il gruppo [[3. Resources/General Knowledge/Monolake\|Monolake]], e dall'ingegnere informatico [[3. Resources/Sources/People/@Bernd Roggendorf\|@Bernd Roggendorf]]. 
 La prima versione è stata rilasciata nel 2001 [^1]
 { #c60778}
 
@@ -104,7 +104,7 @@ I musicisti di musica elettronica potevano esibirsi dal vivo usando Ableton Live
 - [[3. Resources/Music Production/Ableton/Ableton - Preferenze\|Ableton - Preferenze]]
 - [[3. Resources/Music Production/Ableton/Ableton - Tutti i modi Alternativi al Bounce (Midi-Audio)\|Ableton - Tutti i modi Alternativi al Bounce (Midi-Audio)]]
 - [[3. Resources/Music Production/Come Trovare il Tempo di un MIDI\|Come Trovare il Tempo di un MIDI]]
-- [[3. Resources/Sources/Ableton - Come fare il multicampionamento con Sampler\|Ableton - Come fare il multicampionamento con Sampler]]
+- [[3. Resources/Sources/Articles/Ableton - Come fare il multicampionamento con Sampler\|Ableton - Come fare il multicampionamento con Sampler]]
 - [[3. Resources/Music Production/Ableton/Learning Music (Ableton)\|Learning Music (Ableton)]]
 - [[3. Resources/Music Production/Ableton/Ableton - Selezione e Spostamento Advanced\|Ableton - Selezione e Spostamento Advanced]]
 
@@ -140,7 +140,7 @@ I musicisti di musica elettronica potevano esibirsi dal vivo usando Ableton Live
 - Genere:: [[3. Resources/General Knowledge/Digital Audio Workstation\|Digital Audio Workstation]]
 - Sviluppatore:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 - Ultime-versione:: 12
-- Fondatori:: [[3. Resources/People/@Gerhard Behles\|@Gerhard Behles]], [[3. Resources/People/@Robert Henke\|@Robert Henke]]
+- Fondatori:: [[3. Resources/Sources/People/@Gerhard Behles\|@Gerhard Behles]], [[3. Resources/Sources/People/@Robert Henke\|@Robert Henke]]
 - Fondato:: 1999 (23 anni fa)
 - Supporto:: support@ableton.com (non so se è ancora disponibile)
 - Website:: [Music production with Live and Push | Ableton](https://www.ableton.com/en/)
@@ -152,7 +152,7 @@ Ableton è un programma per fare musica, suonare dal vivo, mixing e mastering au
 Ableton è un software per la creazione di musica, esibizioni dal vivo in particolare una [[3. Resources/General Knowledge/Digital Audio Workstation\|Digital Audio Workstation]], ossia una Digital Audio Workstation
 
 **Altre figure all'interno di Ableton**
-[[3. Resources/People/@Bernd Roggendorf\|@Bernd Roggendorf]] è un [[programmatore di computer\|programmatore di computer]] e conosce il duo, attraverso altri amici
+[[3. Resources/Sources/People/@Bernd Roggendorf\|@Bernd Roggendorf]] è un [[programmatore di computer\|programmatore di computer]] e conosce il duo, attraverso altri amici
 
 ## References
 

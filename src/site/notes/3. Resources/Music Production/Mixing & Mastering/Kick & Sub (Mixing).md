@@ -7,8 +7,8 @@ Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music P
 ---
 ## Balance Kick e Sub
 
-![image_1631828669292_0.png](/img/user/3.%20Resources/Images/image_1631828669292_0.png)
-![image_1631828681254_0.png](/img/user/3.%20Resources/Images/image_1631828681254_0.png)
+![image_1631828669292_0.png](/img/user/3.%20Resources/Attachments/image_1631828669292_0.png)
+![image_1631828681254_0.png](/img/user/3.%20Resources/Attachments/image_1631828681254_0.png)
 
 ## Livelli Audio
 
@@ -26,7 +26,7 @@ _Quanto basse deve avere il kick e quante il sub?_
 ### Plug-in/Dispositivi
 
 - Duck
-- [[1. Projects/Trackspacer plugin\|Trackspacer plugin]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/TRACKSPACER - Un Plugin Intelligente per DARE SPAZIO AI SUONI\|TRACKSPACER - Un Plugin Intelligente per DARE SPAZIO AI SUONI]]
 - Compressor (Ableton)
 
 

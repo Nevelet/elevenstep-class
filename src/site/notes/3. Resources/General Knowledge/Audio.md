@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/general-knowledge/audio/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/general-knowledge/audio/","tags":["topic"]}
 ---
 
-Links:: [[0. Inbox/HOME\|HOME]]
+Links:: [[_HOME\|_HOME]]
 
 ---
 L'audio **è tutto ciò che riguarda il fenomeno uditivo, ovvero la percezione delle vibrazioni sonore.** Si può pensare all'audio come a un'onda invisibile che viaggia attraverso un mezzo, come l'aria o l'acqua, e viene captata dal nostro udito.

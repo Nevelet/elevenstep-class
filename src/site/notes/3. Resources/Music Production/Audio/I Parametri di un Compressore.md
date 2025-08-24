@@ -16,12 +16,12 @@ Links:: [[3. Resources/Music Production/Audio/Compressore\|Compressore]]
 
 
 ### Threshold (Soglia)
-![image_1630097374952_0.png](/img/user/3.%20Resources/Images/image_1630097374952_0.png)
+![image_1630097374952_0.png](/img/user/3.%20Resources/Attachments/image_1630097374952_0.png)
 
 
 
 ### La Ratio (Rapporto)
-![image_1630097479969_0.png](/img/user/3.%20Resources/Images/image_1630097479969_0.png)
+![image_1630097479969_0.png](/img/user/3.%20Resources/Attachments/image_1630097479969_0.png)
 
 La ratio di un compressore audio indica la quantità di riduzione del livello di un segnale audio che verrà applicata dal compressore quando il segnale supera una certa soglia. Ad esempio, con una ratio di 4:1, ogni volta che il segnale supera la soglia impostata, il compressore ridurrà il livello del segnale a 1/4 della sua ampiezza originaria.
 
@@ -34,7 +34,7 @@ In sintesi, più alta è la ratio, maggiore sarà la quantità di compressione a
 Pronuncia ˈrāSH(ē)ō in inglese o ràzzio in latino
 
 ### Attacchi e Rilasci
-![image_1630097546724_0.png](/img/user/3.%20Resources/Images/image_1630097546724_0.png)
+![image_1630097546724_0.png](/img/user/3.%20Resources/Attachments/image_1630097546724_0.png)
 
 Gli attacchi e i rilasci di un compressore audio sono i parametri che regolano l'effetto del compressore sul segnale audio. 
 
@@ -59,12 +59,12 @@ Ci sono diversi modi per risolvere:
 - Utilizzare la funzione "Lookahead" che trovi ad esempio su un [[3. Resources/Music Production/Mixing & Mastering/Limiter\|Limiter]]
 
 ### Knee
-![Knee Compressor.jpg](/img/user/3.%20Resources/Images/Knee%20Compressor.jpg)
+![Knee Compressor.jpg](/img/user/3.%20Resources/Attachments/Knee%20Compressor.jpg)
 Con un'impostazione di hard knee si ha una risposta più "meccanica" dal compressore, mentre il soft knee può garantire risultati più morbidi, con un senso più "musicale", in quanto la compressione inizia a lavorare in modo meno istantaneo e quindi, apparentemente, più naturale.
 
 ### Peak vs RMS
-![Peak-vs.-RMS.png](/img/user/3.%20Resources/Images/Peak-vs.-RMS.png)
-![Sound-Wave-RMS-and-Peak-652x199.jpg](/img/user/3.%20Resources/Images/Sound-Wave-RMS-and-Peak-652x199.jpg)
+![Peak-vs.-RMS.png](/img/user/3.%20Resources/Attachments/Peak-vs.-RMS.png)
+![Sound-Wave-RMS-and-Peak-652x199.jpg](/img/user/3.%20Resources/Attachments/Sound-Wave-RMS-and-Peak-652x199.jpg)
 I processori di dinamica hanno in generale due possibili modalità di funzionamento: ci sono quelli basati sui valori di picco e quelli che si basano sul valore "RMS response". Ognuno dei due sistemi presenta i suoi vantaggi in differenti situazioni. Ad esempio, l'analisi basata sui picchi si rivela particolarmente efficace con le percussioni, mentre l'analisi [[3. Resources/Music Production/RMS\|RMS]] dà migliori risultati con programmi complessi.
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-registrazione-automazione/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-registrazione-automazione/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
@@ -27,4 +27,4 @@ La Modulazione non può essere registrata. Può essere scritta e modificata solo
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Registrare le Automazioni su Ableton\|Registrare le Automazioni su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Registrare le Automazioni su Ableton\|Registrare le Automazioni su Ableton]]

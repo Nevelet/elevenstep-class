@@ -9,7 +9,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 La prima versione di Ableton Live fu rilasciata nella primavera del 2001 (non a caso, le nuovi versioni, escono quasi tutti in questo periodo). Live quindi è il più giovane rispetto Cubase, Logic, Pro Tools e FL Studio.
 
-La città Natale di Live è Berlino, e i suoi genitori sono: [[3. Resources/People/@Gerhard Behles\|@Gerhard Behles]] [[3. Resources/People/@Robert Henke\|@Robert Henke]]
+La città Natale di Live è Berlino, e i suoi genitori sono: [[3. Resources/Sources/People/@Gerhard Behles\|@Gerhard Behles]] [[3. Resources/Sources/People/@Robert Henke\|@Robert Henke]]
 
 questa primissima versione, non offriva le funzionalità del [[3. Resources/Music Production/MIDI Sequencer\|MIDI Sequencing]], quindi i VST instruments ad es. non erano supportati, ma il suo punto forte era la manipolazione dei campioni e la capacità di [[3. Resources/General Knowledge/Time Stretching\|stretchare]] l'audio in tempo reale. Infatti Live era un software principalmente per i Loop a differenza ad esempio di [[Logic\|Logic]] e [[Cubase\|Cubase]] che hanno iniziato come [[3. Resources/Music Production/MIDI Sequencer\|MIDI Sequencing]] e poi hanno introdotto l'audio digitale.
 

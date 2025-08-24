@@ -27,6 +27,6 @@ Links:: [[3. Resources/Music Production/Mixing & Mastering/Compressione\|Compres
 Drum buss è un dispositivo di Ableton basato sullo stile analogico. ottimo per processare l'intera batteria. Permette di gestire il transiente, dare pienezza e di incollare i vari elementi della batteria. 
 
 
-**[[3. Resources/Music Production/Mixing & Mastering/Compressione Parallela\|Compressione parallela]]**
+**[[3. Resources/Music Production/Mixing & Mastering/Compressione Parallela\|Compressione Parallela]]**
 
 

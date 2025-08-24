@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/sincronizzazione/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/sincronizzazione/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Audio\|Audio]], [[3. Resources/Music Production/MIDI\|MIDI]]
@@ -30,7 +30,7 @@ _[[3. Resources/Music Production/CV Trigger Sync\|CV Trigger Sync]], è sprovvis
 
 ## 🔗 Related Notes
 
-- [[3. Resources/Tech/Sincronizzare più Computer e Strumenti\|Sincronizzare più Computer e Strumenti]]
+- [[3. Resources/General Knowledge/Sincronizzare più Computer e Strumenti\|Sincronizzare più Computer e Strumenti]]
 - [[3. Resources/Music Production/Timecode\|Timecode]]
 
 

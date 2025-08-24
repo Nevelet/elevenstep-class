@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Teoria del Suono\|Teoria del Suono]]
 
 ---
-![image_1631111054215_0.png](/img/user/3.%20Resources/Images/image_1631111054215_0.png)
+![image_1631111054215_0.png](/img/user/3.%20Resources/Attachments/image_1631111054215_0.png)
 Come puoi vedere dall'immagine sopra, il Bit, indica risoluzione di ampiezza, mentre la freq. di campionamento, la risoluzione in frequenza.
 
 ## Bit Rate

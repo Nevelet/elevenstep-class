@@ -27,7 +27,7 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[
 - [[3. Resources/Music Production/Drum Fills\|Drum Fills]]
 - [[3. Resources/Music Production/Layering\|Layering]]
 - [[3. Resources/Music Production/Groove Drums\|Groove Drums]]
-- [[3. Resources/Music Production/Mixing\|Mixing]]
+- [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 	- [[3. Resources/Music Production/Mixing & Mastering/Kick (Mixing)\|Kick (Mixing)]]
 	- [[3. Resources/Music Production/Snare (Mixing)\|Snare (Mixing)]]
 	- [[3. Resources/Music Production/Cymbals (Mixing)\|Cymbals (Mixing)]]

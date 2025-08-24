@@ -17,7 +17,7 @@ Links:: [[3. Resources/Music Production/Mixing & Mastering/Compressione\|Compres
 
 ## Come Usarla
 
-- ![image_1631220419425_0.png](/img/user/3.%20Resources/Images/image_1631220419425_0.png)
+- ![image_1631220419425_0.png](/img/user/3.%20Resources/Attachments/image_1631220419425_0.png)
 - Attacco lento e rilascio veloce
 - Threshold esagerata
 - Dry/Wet
@@ -26,6 +26,6 @@ Links:: [[3. Resources/Music Production/Mixing & Mastering/Compressione\|Compres
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Compressione Parallela/✍ COMPRESSIONE PARALLELA Perché, Come e Quando dovresti farla\|✍ COMPRESSIONE PARALLELA Perché, Come e Quando dovresti farla]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Compressione Parallela/✍ COMPRESSIONE PARALLELA Perché, Come e Quando dovresti farla\|✍ COMPRESSIONE PARALLELA Perché, Come e Quando dovresti farla]]
 
 

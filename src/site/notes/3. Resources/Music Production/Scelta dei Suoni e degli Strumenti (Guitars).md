@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/scelta-dei-suoni-e-degli-strumenti-guitars/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/scelta-dei-suoni-e-degli-strumenti-guitars/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]], [[3. Resources/Music Production/Chitarra\|Guitar]]
@@ -17,7 +17,7 @@ Links:: [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scel
 - DSK Dynamic Guitars
 - [[3. Resources/Music Production/Native Instrument Kontakt\|Native Instrument Kontakt]]
 	- Factory Library
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx]]
 	- 
 
 

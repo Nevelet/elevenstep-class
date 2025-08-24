@@ -28,8 +28,8 @@ Ecco alcune differenze chiave tra frequency shifter e pitch shifter:
 
 I frequency shifter sono utilizzati in diversi ambiti audio:
 
-- **[[3. Resources/Music Production/Music\|Musica]]:** Vengono utilizzati per creare effetti sonori particolari, come suoni [[3. Resources/Music Production/Chorus\|chorus]], [[3. Resources/Music Production/Audio/Flanger\|flanger]], effetti metallici o effetti underwater (sott'acqua). Possono essere utilizzati anche per creare [[3. Resources/Music Production/Texture (musica)\|texture]] sonore uniche o per aggiungere tensione e movimento alla musica.
-- **[[3. Resources/Music Production/Sound Design/Sound Design\|Sound design]]:** Vengono utilizzati per creare effetti sonori per film, videogiochi e altri media. Possono essere usati per trasformare il suono di oggetti quotidiani in suoni alieni o futuristici.
+- **[[3. Resources/Music Production/Music\|Musica]]:** Vengono utilizzati per creare effetti sonori particolari, come suoni [[3. Resources/Music Production/Chorus\|Chorus]], [[3. Resources/Music Production/Audio/Flanger\|Flanger]], effetti metallici o effetti underwater (sott'acqua). Possono essere utilizzati anche per creare [[3. Resources/Music Production/Texture (musica)\|texture]] sonore uniche o per aggiungere tensione e movimento alla musica.
+- **[[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]]:** Vengono utilizzati per creare effetti sonori per film, videogiochi e altri media. Possono essere usati per trasformare il suono di oggetti quotidiani in suoni alieni o futuristici.
 - **Post produzione audio:** Possono essere utilizzati per correggere lievi variazioni di velocità in una registrazione audio, mantenendo intatto il pitch del materiale audio.
 
 ## Tipi di frequency shifter

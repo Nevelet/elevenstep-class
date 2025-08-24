@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/come-creare-velocemente-degli-accordi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/come-creare-velocemente-degli-accordi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Accordi\|Accordi]]

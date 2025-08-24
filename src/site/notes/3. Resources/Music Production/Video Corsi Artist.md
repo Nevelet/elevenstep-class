@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/video-corsi-artist/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/video-corsi-artist/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[Video Corsi\|Video Corsi]]

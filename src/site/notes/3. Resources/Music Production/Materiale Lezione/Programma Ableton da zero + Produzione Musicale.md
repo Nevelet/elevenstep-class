@@ -267,6 +267,7 @@
 - Dispositivi Instruments  
 - Dispositivi Audio  
 - Dispositivi MIDI
+
 ## Vista Sessione
 
 - Cos'è la Vista Sessione  

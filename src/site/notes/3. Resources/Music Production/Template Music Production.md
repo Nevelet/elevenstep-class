@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/template-music-production/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing & Mastering/Organizzare la sessione per il Mixing\|Organizzare la sessione per il Mixing]]
+Links:: [[3. Resources/Music Production/Mixing & Mastering/Organizzare la sessione per il Mixing\|Organizzare la sessione per il Mixing]], [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
 ## Descrizione

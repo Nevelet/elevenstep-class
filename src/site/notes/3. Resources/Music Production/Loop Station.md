@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/loop-station/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/loop-station/","tags":["note"]}
 ---
 
 Links:: [[Loop\|Loop]], [[3. Resources/General Knowledge/Audio\|Audio]]

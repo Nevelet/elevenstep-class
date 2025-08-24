@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/cavi-audio/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/cavi-audio/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Audio\|Audio]]
@@ -18,7 +18,7 @@ Links:: [[3. Resources/General Knowledge/Audio\|Audio]]
 ## Related Notes
 
 - [[3. Resources/Music Production/Audio/Routing Audio\|Routing Audio]]
-- [[3. Resources/Sources/Guida ai cavi audio i 9 connettori più utilizzati per le tue esigenze musicali\|Guida ai cavi audio i 9 connettori più utilizzati per le tue esigenze musicali]]
+- [[3. Resources/Sources/Articles/Guida ai cavi audio i 9 connettori più utilizzati per le tue esigenze musicali\|Guida ai cavi audio i 9 connettori più utilizzati per le tue esigenze musicali]]
 
 
 ## Query

@@ -15,7 +15,6 @@ Il groove **è un termine usato nella musica per descrivere una sensazione di [[
 - [[3. Resources/Music Production/Ableton/Ableton - Groove\|Ableton - Groove]]
 - [[3. Resources/Music Production/Ableton/Ableton - Estrarre il Groove\|Ableton - Estrarre il Groove]]
 - [[3. Resources/Music Production/Estrai Groove per il SUB-Bass\|Estrai Groove per il SUB-Bass]]
-- [[2. Areas/ES - Content Creation/Content Video ES/Tutorial Groove Poliritmici con Ableton\|Tutorial Groove Poliritmici con Ableton]]
 - [[3. Resources/Music Production/Ritmo (Musica)\|Ritmo (Musica)]]
 
 

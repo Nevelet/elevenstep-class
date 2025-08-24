@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/batteria-in-audio-vs-midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/batteria-in-audio-vs-midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Drums\|Drums]], [[3. Resources/Music Production/Creazione Elementi Percussivi (Drums)\|Creazione Drums]]
@@ -92,5 +92,5 @@ Links:: [[3. Resources/Music Production/Drums\|Drums]], [[3. Resources/Music Pro
 
 ## 📚 References
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Creare la batteria in audio o in MIDI\|Creare la batteria in audio o in MIDI]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Creare la batteria in audio o in MIDI\|Creare la batteria in audio o in MIDI]]
 

@@ -18,7 +18,7 @@ Ho analizzato un bel po' di tracce è la maggior parte suonano più in mono che 
 
 ## Reference
 
-- [[3. Resources/Sources/LA STEREOFONIA DEI TUOI MIX NON RISALTA, FAI QUESTO! (Mixare, Registrare, Home Studio)\|LA STEREOFONIA DEI TUOI MIX NON RISALTA, FAI QUESTO! (Mixare, Registrare, Home Studio)]]
+- [[3. Resources/Sources/Video/LA STEREOFONIA DEI TUOI MIX NON RISALTA, FAI QUESTO! (Mixare, Registrare, Home Studio)\|LA STEREOFONIA DEI TUOI MIX NON RISALTA, FAI QUESTO! (Mixare, Registrare, Home Studio)]]
 
 
 

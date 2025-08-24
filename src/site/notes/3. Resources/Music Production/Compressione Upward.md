@@ -60,8 +60,8 @@ Links:: [[3. Resources/Music Production/Mixing & Mastering/Compressione\|Compres
 ---
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Tutto sulla Compressione Upward\|Tutto sulla Compressione Upward]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Tutto sulla Compressione Upward\|Tutto sulla Compressione Upward]]
 - [[3. Resources/Music Production/Audio/Compressore\|Compressore]]
-- [[3. Resources/Music Production/Mixing\|Mixing]]
+- [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 

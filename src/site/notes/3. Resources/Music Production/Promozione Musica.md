@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/promozione-musica/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/promozione-musica/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Le Fasi della Produzione Musicale\|Le Fasi della Produzione Musicale]], [[3. Resources/Music Production/Music Production\|Music Production]]
@@ -27,7 +27,7 @@ Promuovere sui social Social
 	- Cosa fare
 		- ricorda alle persone che sta per arrivare la nuova musica e che possono condividere con gli altri
 		- condividi il teaser principale (preview song)
-		- mandare la tua canzone su qualche [[0. Inbox/Canali Promozionali YouTube\|Canali Promozionali YouTube]]
+		- mandare la tua canzone su qualche [[3. Resources/Music Production/Canali Promozionali YouTube\|Canali Promozionali YouTube]]
 		- fare storie e post
 - Day 4: OUT NOW
 	- Cosa fare

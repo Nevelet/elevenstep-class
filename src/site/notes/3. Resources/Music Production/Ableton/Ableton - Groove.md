@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-groove/","tags":["type/note/develop"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-groove/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]

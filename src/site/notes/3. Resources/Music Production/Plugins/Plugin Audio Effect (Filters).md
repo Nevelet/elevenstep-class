@@ -12,7 +12,7 @@ Links:: [[3. Resources/Music Production/Plugins/Plugin Audio Effect\|Plugin Audi
 ## EQ
 
 - [[FabFilter Pro-Q3\|FabFilter Pro-Q3]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Sonimus - SonEQ2\|Sonimus - SonEQ2]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Sonimus - SonEQ2\|Sonimus - SonEQ2]]
 - [[3. Resources/Music Production/TDR Nova\|TDR Nova]] (Free)
 
 

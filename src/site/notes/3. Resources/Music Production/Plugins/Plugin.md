@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/plugins/plugin/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Audio\|Audio]]

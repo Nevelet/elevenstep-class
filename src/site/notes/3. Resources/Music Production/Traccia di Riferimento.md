@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/traccia-di-riferimento/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 ## A cosa ci aiuta una traccia di riferimento?

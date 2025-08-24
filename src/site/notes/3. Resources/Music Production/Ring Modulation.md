@@ -5,7 +5,9 @@
 Links:: [[3. Resources/Music Production/Sound Design/Sintesi Sonora\|Sintesi Sonora]]
 
 ---
-La ring modulation, in italiano modulazione ad anello, è una tecnica di [[3. Resources/Music Production/Sound Design/Sound Design\|sound design]] utilizzata per creare suoni unici e complessi moltiplicando due segnali audio. A differenza della sintesi AM (modulazione di ampiezza) che modifica solo l'ampiezza di un segnale, la ring modulation genera un output completamente nuovo combinando le frequenze dei due segnali originali.
+La ring modulation, in italiano modulazione ad anello, è una tecnica di [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]] utilizzata per creare suoni unici e complessi moltiplicando due segnali audio. A differenza della sintesi AM (modulazione di ampiezza) che modifica solo l'ampiezza di un segnale, la ring modulation genera un output completamente nuovo combinando le frequenze dei due segnali originali.
+
+[ring modulation - Cerca con Google](https://www.google.com/search?q=ring+modulation&sca_esv=c263faa809bdb49e&hl=it&authuser=0&sxsrf=ADLYWIIc_dleXgZIsK07ny5-kF0QQiYcJw:1730910038763&source=hp&biw=1830&bih=870&ei=VpcrZ8jgK5OP9u8P9uvq6A4&iflsig=AL9hbdgAAAAAZyulZsHazvMfv_q3aYLj2hMfCb7s9pVU&ved=0ahUKEwjI4_uvjsiJAxWTh_0HHfa1Gu0Q4dUDCBA&uact=5&oq=ring+modulation&gs_lp=EgNpbWciD3JpbmcgbW9kdWxhdGlvbjIFEAAYgAQyBRAAGIAEMgUQABiABDIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHjIEEAAYHkj1FVDyBVizFHABeACQAQCYAW-gAZILqgEEMTEuNLgBA8gBAPgBAYoCC2d3cy13aXotaW1nmAIQoAL-C6gCCsICBxAjGCcY6gLCAgQQIxgnwgIOEAAYgAQYsQMYgwEYigXCAgsQABiABBixAxiDAcICCBAAGIAEGLEDmAMLkgcENi4xMKAH1VE&sclient=img&udm=2#vhid=Ay8kIbGHA5GUGM&vssid=mosaic)
 
 ## Come funziona la ring modulation
 
@@ -42,4 +44,19 @@ I suoni prodotti dalla ring modulation sono spesso descritti come metallici, tin
 
 La ring modulation è una tecnica potente e versatile per il sound design. Può essere utilizzata per creare una vasta gamma di suoni, da sottili effetti di texture a suoni principali rumorosi e metallici. Sperimentando con diversi segnali di ingresso e parametri, puoi scoprire un mondo di possibilità sonore uniche.
 
+
+## Altra descrizione
+
+La **Ring Modulation** (Modulazione ad Anello) prende il nome dal circuito originale utilizzato per implementarla, che era composto da una configurazione a forma di **anello** di quattro diodi. Questo circuito permetteva di combinare due segnali audio (uno portante e uno modulante) in un modo specifico.
+
+### Breve spiegazione del funzionamento:
+
+- La Ring Modulation genera un segnale combinando il **prodotto** (moltiplicazione) delle onde del segnale portante e del segnale modulante.
+- Questo processo crea due nuove frequenze: la somma (**f₁ + f₂**) e la differenza (**|f₁ - f₂|**) delle frequenze originali, eliminando la portante.
+
+### Caratteristiche sonore:
+
+- Produce suoni metallici, complessi e ricchi di armoniche, spesso usati in sound design o musica elettronica.
+
+Il nome "anello" quindi deriva dalla struttura fisica del circuito originario, anche se oggi la modulazione ad anello viene realizzata digitalmente o con altri tipi di circuiti.
 

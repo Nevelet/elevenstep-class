@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/teoria-musicale/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/teoria-musicale/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
@@ -9,12 +9,12 @@ La **Teoria Musicale** è un insieme di **concetti, regole e principi** che desc
 
 ## Cosa comprende la Teoria Musicale
 
-- **Elementi fondamentali della musica**: Note, altezze, durata, [[3. Resources/Music Production/Ritmo (Musica)\|ritmo]], [[3. Resources/Music Production/Melodia\|melodia]], [[3. Resources/Music Production/Armonia\|armonia]], [[3. Resources/Music Production/Timbro (musica)\|timbro]], [[3. Resources/Music Production/Dinamica (Musica)\|dinamica]], [agogica](https://it.wikipedia.org/wiki/Agogica).
-- **[[3. Resources/Music Production/Scale Musicali\|Scale musicali]]**: Maggiori, minori, modali, esotiche.
+- **Elementi fondamentali della musica**: Note, altezze, durata, [[3. Resources/Music Production/Ritmo (Musica)\|ritmo]], [[3. Resources/Music Production/Melodia\|Melodia]], [[3. Resources/Music Production/Armonia\|Armonia]], [[3. Resources/Music Production/Timbro (musica)\|timbro]], [[3. Resources/Music Production/Dinamica (Musica)\|dinamica]], [agogica](https://it.wikipedia.org/wiki/Agogica).
+- **[[3. Resources/Music Production/Scale Musicali\|Scale Musicali]]**: Maggiori, minori, modali, esotiche.
 - **[[3. Resources/Music Production/Accordi\|Accordi]]**: Triadi, accordi di settima, accordi estesi, inversioni di accordi, progressioni armoniche.
 - **[[3. Resources/Music Production/Ritmo (Musica)\|Ritmo]]**: Battute, tempi, suddivisioni ritmiche, sincopi, poliritmi.
 - **[[3. Resources/Music Production/Tonalità\|Tonalità]]**: Sistema tonale maggiore e minore, modulazioni, cromatismo.
-- **Elementi di [[3. Resources/Music Production/Armonia\|armonia]]**: Funzioni tonali, cadenze, accordi di passaggio, modulazioni.
+- **Elementi di [[3. Resources/Music Production/Armonia\|Armonia]]**: Funzioni tonali, cadenze, accordi di passaggio, modulazioni.
 - **Struttura musicale**: Forme musicali (rondo, sonata, fuga, ecc.), fraseggio, cadenze.
 - **Notazione musicale**: Pentagramma, chiavi, note, valori di durata, alterazioni, segni di espressione.
 - **Elementi di contrappunto**: Combinazione di più linee melodiche indipendenti.

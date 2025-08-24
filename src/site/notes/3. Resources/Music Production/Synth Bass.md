@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/synth-bass/","tags":["type/note","type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/synth-bass/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Synth\|Synth]]
@@ -29,6 +29,7 @@ Links:: [[3. Resources/Music Production/Synth\|Synth]]
 - Synth Stab
 - Upper-Bass
 - Analog Bass
+- Dread Bass (usato nella drum and bass. È una sorta di acid bass in reverse)
 
 
 ---

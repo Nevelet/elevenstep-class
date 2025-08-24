@@ -277,24 +277,24 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 - **Filtri passa-basso (low pass o high cut):** Attenuano le alte frequenze. 
 - **Filtri passa-alto (high pass o low cut):** Attenuano le basse frequenze. 
 
-![Filtri LP & HP.jpg|800](/img/user/3.%20Resources/Images/Filtri%20LP%20&%20HP.jpg)
+![Filtri LP & HP.jpg|800](/img/user/3.%20Resources/Attachments/Filtri%20LP%20&%20HP.jpg)
 
 --
 
 - **Filtri a campana (bell o peaking):**   
-- ![Filter Bell.jpg](/img/user/3.%20Resources/Images/Filter%20Bell.jpg)
+- ![Filter Bell.jpg](/img/user/3.%20Resources/Attachments/Filter%20Bell.jpg)
 
 --
 - **Filtri passa-banda (band pass):** Permettono solo a un certo intervallo di frequenze di passare.  
-- ![Filter Band Pass.jpg](/img/user/3.%20Resources/Images/Filter%20Band%20Pass.jpg)
+- ![Filter Band Pass.jpg](/img/user/3.%20Resources/Attachments/Filter%20Band%20Pass.jpg)
 
 --
 - **Filtro a scaffale (shelving):**  
-- ![Filter Shelving.jpg](/img/user/3.%20Resources/Images/Filter%20Shelving.jpg)
+- ![Filter Shelving.jpg](/img/user/3.%20Resources/Attachments/Filter%20Shelving.jpg)
 
 --
 - **Filtri ad elimina banda (band-reject o notch):** Eliminano un certo intervallo di frequenze.  
-- ![Filter Notch.jpg](/img/user/3.%20Resources/Images/Filter%20Notch.jpg)
+- ![Filter Notch.jpg](/img/user/3.%20Resources/Attachments/Filter%20Notch.jpg)
 
 --
 - Risonanza  
@@ -332,7 +332,7 @@ In questo modulo, imparerai le basi del sound design, dalla storia e gli element
 	- Release  
 
 --
-![ADSR.png|500](/img/user/3.%20Resources/Images/ADSR.png)
+![ADSR.png|500](/img/user/3.%20Resources/Attachments/ADSR.png)
 
 --
 ### Modulazioni  

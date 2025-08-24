@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/pan-pot/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]], [[3. Resources/Music Production/Ableton/Ableton - Mixer\|Ableton - Mixer]], [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]], [[3. Resources/Music Production/Ableton/Ableton - Mixer\|Ableton - Mixer]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 Pan pot (panoramic potentiometer) in italiano: potenziometro panoramico

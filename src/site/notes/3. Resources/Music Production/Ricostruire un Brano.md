@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ricostruire-un-brano/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ricostruire-un-brano/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]

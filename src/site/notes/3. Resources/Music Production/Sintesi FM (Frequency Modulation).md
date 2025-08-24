@@ -12,5 +12,5 @@ Questo metodo coinvolge la modulazione della frequenza di un oscillatore da part
 - la modulante con un'onda semplice
 - Synth Dexed
 
-![Sintesi FM.png](/img/user/3.%20Resources/Images/Sintesi%20FM.png)
+![Sintesi FM.png](/img/user/3.%20Resources/Attachments/Sintesi%20FM.png)
 

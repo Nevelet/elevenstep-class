@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/arrangiamento/","tags":["type/dashboard"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/arrangiamento/","tags":["dashboard"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
@@ -111,7 +111,7 @@ Il processo di arrangiamento parte, generalmente, dalla scelta del genere musica
 
 - [[3. Resources/Music Production/Struttura (Musica)\|Struttura (Musica)]]
 - [[3. Resources/Music Production/Consigli Arrangiamento brano\|Consigli Arrangiamento brano]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come strutturare un brano/✍ Come strutturare un brano\|✍ Come strutturare un brano]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come strutturare un brano/✍ Come strutturare un brano\|✍ Come strutturare un brano]]
 - [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni (Mixing)]]
 - [[3. Resources/Music Production/Arrangiamento vs Struttura Brano\|Arrangiamento vs Struttura Brano]]
 - [[3. Resources/Music Production/Layering\|Layering]]

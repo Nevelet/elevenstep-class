@@ -11,7 +11,7 @@ La frequenza di campionamento è la misura espressa in hertz, che indica il nume
 
 Dunque, il campionamento è la conversione di un segnale analogico in digitale, effettuando tante "fotografie" al secondo, in base al sample rate impostato.
 
-![Campionamento.png](/img/user/3.%20Resources/Images/Campionamento.png)
+![Campionamento.png](/img/user/3.%20Resources/Attachments/Campionamento.png)
 
 La qualità del file da riprodurre è dato da due fattori: risoluzione e frequenza di campionamento. La risoluzione è espressa in Bit, mentre il valore di campionamento è espresso in Kilohertz (kHz).
 

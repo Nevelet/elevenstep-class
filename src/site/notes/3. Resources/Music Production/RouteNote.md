@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/route-note/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/route-note/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Pubblicazione Musica\|Pubblicazione Musica]], [[3. Resources/Music Production/Distributori Musica\|Distributori Musica]]

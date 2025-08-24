@@ -19,7 +19,7 @@ Si tratta di un **effetto eco singolo che ritorna millisecondi dopo l'uscita**.
 
 ## References
 
-- [[3. Resources/Sources/La VOCE è MONO, ma allora come si fa a farla STEREO\|La VOCE è MONO, ma allora come si fa a farla STEREO]]
+- [[3. Resources/Sources/Video/La VOCE è MONO, ma allora come si fa a farla STEREO\|La VOCE è MONO, ma allora come si fa a farla STEREO]]
 
 
 

@@ -18,8 +18,8 @@ In musica, un **campionatore** (o **sampler** in inglese) è uno **strumento ele
 
 I campionatori offrono una vasta gamma di **funzioni per manipolare i campioni**, tra cui:
 
-- **[[Pitch shifting \|Pitch shifting ]]**: Modifica dell'altezza del suono (più acuto o più grave).
-- **[[3. Resources/General Knowledge/Time Stretching\|Time stretching]]**: Variazione della durata del suono (rallentato o accelerato).
+- **[[3. Resources/Music Production/Pitch Shifting\|Pitch Shifting]]**: Modifica dell'altezza del suono (più acuto o più grave).
+- **[[3. Resources/General Knowledge/Time Stretching\|Time Stretching]]**: Variazione della durata del suono (rallentato o accelerato).
 - **Looping**: Ripetizione di una porzione del campione in modo continuo.
 - **Triggering**: Avvio del campione premendo un tasto o un pad.
 - **Amplificazione e equalizzazione**: Regolazione del volume e delle frequenze del campione.
@@ -36,7 +36,7 @@ I campionatori sono utilizzati in una **vasta gamma di generi musicali**, tra cu
 
 **Oltre alla musica, i campionatori sono utilizzati anche in altri ambiti, come:**
 
-- **[[3. Resources/Music Production/Sound Design/Sound Design\|Sound design]]**: I campionatori sono utilizzati dai sound designer per creare effetti sonori per film, videogiochi e altri media.
+- **[[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]]**: I campionatori sono utilizzati dai sound designer per creare effetti sonori per film, videogiochi e altri media.
 - **Radio e televisione**: I campionatori possono essere utilizzati per riprodurre jingle, effetti sonori e voci fuori campo.
 - **Teatro e performance**: I campionatori possono essere utilizzati per creare paesaggi sonori per spettacoli teatrali e performance artistiche.
 
@@ -58,7 +58,7 @@ I campionatori sono utilizzati in una **vasta gamma di generi musicali**, tra cu
 
 - [One Small Clue](https://www.onesmallclue.com/)
 - [[3. Resources/Music Production/Native Instrument Kontakt\|Native Instrument Kontakt]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx Un'ottima Alternativa GRATUITA al Kontakt]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/TX16Wx Un'ottima Alternativa GRATUITA al Kontakt\|TX16Wx Un'ottima Alternativa GRATUITA al Kontakt]]
 - [[3. Resources/Music Production/Ableton/Ableton - Sampler\|Sampler]]
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/house-music/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/house-music/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Generi Musicali\|Generi Musicali]]

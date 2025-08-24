@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/synth/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/synth/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
@@ -44,7 +44,7 @@ Esistono diverse tipologie di sintetizzatori, ognuna con le sue caratteristiche 
 - Si suddividono in diverse sottocategorie ([[3. Resources/Music Production/Sound Design/Sintesi Sonora\|Sintesi Sonora]]):
     - **[[3. Resources/Music Production/Sintesi FM (Frequency Modulation)\|Sintesi FM]] (Frequency Modulation):** utilizza la modulazione di frequenza per creare suoni complessi e brillanti. Un esempio famoso è il Yamaha DX7.
     - **[[3. Resources/Music Production/Sintesi Wavetable\|Sintesi Wavetable]]:** utilizza tabelle d'onda per generare suoni complessi e ricchi. Un esempio famoso è il Waldorf Blofeld.
-    - **[[3. Resources/Music Production/Sintesi Sottrattiva\|Sintesi sottrattiva]] digitale:** emula il funzionamento dei sintetizzatori analogici sottrattivi.
+    - **[[3. Resources/Music Production/Sintesi Sottrattiva\|Sintesi Sottrattiva]] digitale:** emula il funzionamento dei sintetizzatori analogici sottrattivi.
     - **[[3. Resources/Music Production/Sintesi Campionata\|Sintesi basata su campioni]]:** utilizza registrazioni di suoni reali come base per la sintesi.
 
 ### Altri tipi di sintetizzatori

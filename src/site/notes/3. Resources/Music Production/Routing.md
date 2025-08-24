@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/routing/"}
 ---
 
-Links:: [[3. Resources/Music Production/Bilanciamento dei livelli\|Bilanciamento dei livelli]], [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Bilanciamento dei livelli\|Bilanciamento dei livelli]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 Instradare il segnale passando attraverso dispositivi, input, output per raggiungere la destinazione

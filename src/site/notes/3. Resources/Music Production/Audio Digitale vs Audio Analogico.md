@@ -7,9 +7,9 @@ Links:: [[3. Resources/Music Production/Teoria del Suono\|Teoria del Suono]]
 ---
 La differenza fondamentale tra **audio digitale** e **audio analogico** risiede nel modo in cui il suono viene **rappresentato e memorizzato**.
 
-![audio analogico vs audio digitale.png](/img/user/3.%20Resources/Images/audio%20analogico%20vs%20audio%20digitale.png)
+![audio analogico vs audio digitale.png](/img/user/3.%20Resources/Attachments/audio%20analogico%20vs%20audio%20digitale.png)
 
-![audio analogico vs audio digitale 2.png](/img/user/3.%20Resources/Images/audio%20analogico%20vs%20audio%20digitale%202.png)
+![audio analogico vs audio digitale 2.png](/img/user/3.%20Resources/Attachments/audio%20analogico%20vs%20audio%20digitale%202.png)
 ## Audio analogico
 
 - **Rappresentazione continua**: Il suono viene rappresentato da un'onda continua che varia in ampiezza e forma, in modo analogo alle vibrazioni fisiche dell'aria.

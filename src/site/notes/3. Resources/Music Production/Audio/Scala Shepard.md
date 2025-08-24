@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/audio/scala-shepard/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/audio/scala-shepard/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Audio\|Audio]], [[3. Resources/Music Production/Teoria del Suono\|Teoria del Suono]]

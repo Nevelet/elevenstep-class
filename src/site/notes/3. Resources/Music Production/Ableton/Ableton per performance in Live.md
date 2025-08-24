@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-per-performance-in-live/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-per-performance-in-live/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
@@ -81,7 +81,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 - Tracce di ritorno
 - Mandare click batterista
 
-[[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come avere un Pre-ascolto su Ableton\|Come avere un Pre-ascolto su Ableton]]
+[[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come avere un Pre-ascolto su Ableton\|Come avere un Pre-ascolto su Ableton]]
 
 
 ## Preparare le Scene
@@ -138,9 +138,9 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Ableton per performance in Live (Content)\|Ableton per performance in Live (Content)]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton\|Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come avere un Pre-ascolto su Ableton\|Come avere un Pre-ascolto su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Ableton per performance in Live (Content)\|Ableton per performance in Live (Content)]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton\|Come REGISTRARE e CREARE dei LOOP Perfetti sulla VISTA SESSIONE di Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come avere un Pre-ascolto su Ableton\|Come avere un Pre-ascolto su Ableton]]
 
 
 ## 📚 References

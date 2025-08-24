@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/come-espandere-i-canali-della-scheda-audio/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/come-espandere-i-canali-della-scheda-audio/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Scheda audio\|Scheda audio]]

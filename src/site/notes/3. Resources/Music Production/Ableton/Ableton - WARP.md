@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-warp/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-warp/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Music Production\|Music Production]] 
@@ -55,19 +55,19 @@ Per risultati più precisi, è consigliabile utilizzare "Transients" questo andr
 
 **Modalità di Loop dei Transienti**
 No Loop:
-![Warp_-_Beats_(No_Loop)_1630682700429_0.jpg](/img/user/3.%20Resources/Images/Warp_-_Beats_(No_Loop)_1630682700429_0.jpg)
+![Warp_-_Beats_(No_Loop)_1630682700429_0.jpg](/img/user/3.%20Resources/Attachments/Warp_-_Beats_(No_Loop)_1630682700429_0.jpg)
 Viene stretchato ad ogni segmento senza andare in Loop tra i vari Marcatori
 Il campione viene tagliuzzato in base soprattutto ai Marcatori, tra l'inizio e la fine di ogni segmento, il campione non andrà il Loop, ma verrà soltanto stretchato.
 Se non ci sono Marcatori di Transienti, il campione suonerà con la sua durata originale fino al prossimo Marcatore.
 
 🌀 Loop Avanti:
-![Warp_-_Beats_(Loop_Avanti)_1630682667706_0.jpg](/img/user/3.%20Resources/Images/Warp_-_Beats_(Loop_Avanti)_1630682667706_0.jpg)
+![Warp_-_Beats_(Loop_Avanti)_1630682667706_0.jpg](/img/user/3.%20Resources/Attachments/Warp_-_Beats_(Loop_Avanti)_1630682667706_0.jpg)
 
 Ogni segmento audio fra i transienti suona fino alla propria fine. Poi il
 playback torna a un punto di zero-crossing vicino al centro del segmento e continua in loop fino al tempo del transiente successivo.
 
 🌀 Loop Avanti-Indietro:
-![Warp_-_Beats_(Loop_Avanti_e_Indietro)_1630682562961_0.jpg](/img/user/3.%20Resources/Images/Warp_-_Beats_(Loop_Avanti_e_Indietro)_1630682562961_0.jpg)
+![Warp_-_Beats_(Loop_Avanti_e_Indietro)_1630682562961_0.jpg](/img/user/3.%20Resources/Attachments/Warp_-_Beats_(Loop_Avanti_e_Indietro)_1630682562961_0.jpg)
 Ogni segmento audio fra i transienti suona fino alla propria fine.
 Quindi il playback si inverte fino a quando non raggiunge un punto di zero-crossing vicino al centro del segmento e poi procede di nuovo in avanti verso la fine del segmento. Questo comportamento continua fino al tempo del transiente successivo. Questa modalità, in combinazione con la scelta "Preserva Transienti", può spesso produrre un'ottima qualità nei tempi più lenti.
 
