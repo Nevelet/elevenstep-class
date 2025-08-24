@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/Frequenze\|Frequenze]], [[3. Resources/M
 ---
 Le curve isofoniche **sono una rappresentazione di quanto il nostro orecchio è sensibile in base a determinate [[3. Resources/Music Production/Frequenze\|Frequenze]] e volume.** Quindi studiare le curve isofoniche, ci aiuterà meglio a comprendere e ad intervenire sul nostro [[3. Resources/Music Production/Mixing\|Mixing]] e [[3. Resources/Music Production/Mastering\|Mastering]], soprattutto sull'[[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]].
 
-![image_1630095660477_0.png](/img/user/3.%20Resources/Images/image_1630095660477_0.png)
+![image_1630095660477_0.png](/img/user/3.%20Resources/Attachments/image_1630095660477_0.png)
 
 
 ## Approfondimento — [Wikipedia](https://it.wikipedia.org/wiki/Diagramma_di_uguale_intensit%C3%A0_sonora)

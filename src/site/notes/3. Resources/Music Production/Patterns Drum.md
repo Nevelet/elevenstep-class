@@ -8,7 +8,7 @@ Links:: [[3. Resources/Music Production/Patterns\|Patterns]]
 I [[3. Resources/Music Production/Patterns\|Pattern]] **sono dei modelli, delle linee guida che ogni genere bene o male segue.** Ad es. il Kick in 4/4 è utilizzato spesso nella musica House, cosi come il groove e le scale musicali. 
 In rete puoi trovare degli schemi per un determinato strumento. Ecco un esempio:
 
-![pattern genre.jpeg|400x600](/img/user/3.%20Resources/Images/pattern%20genre.jpeg)
+![pattern genre.jpeg|400x600](/img/user/3.%20Resources/Attachments/pattern%20genre.jpeg)
 
 ## Generi
 

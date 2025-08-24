@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-vista-clip-audio/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-vista-clip-audio/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton - Vista Clip\|Ableton - Vista Clip]], [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]

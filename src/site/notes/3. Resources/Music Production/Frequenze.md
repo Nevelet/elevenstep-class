@@ -11,7 +11,7 @@ La frequenza audio **è la misura della ripetizione delle onde sonore che compon
 
 La frequenza è una vibrazione periodica la cui frequenza è nella banda udibile dall'essere umano medio
 
-![frequenza.png](/img/user/3.%20Resources/Images/frequenza.png)
+![frequenza.png](/img/user/3.%20Resources/Attachments/frequenza.png)
 
 ## Calcoli
 

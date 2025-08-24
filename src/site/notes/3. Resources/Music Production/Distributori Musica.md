@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/distributori-musica/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/distributori-musica/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]], [[3. Resources/Music Production/Diritti d'autore\|Diritti d'autore]]
 
 ---
 _in inglese: Music Distribution_
+
+Un distributore musicale è un ==servizio che facilita la pubblicazione e la diffusione della musica online su piattaforme come Spotify, Apple Music e altri==. Funge da intermediario tra l'artista e le piattaforme, gestendo i aspetti tecnici e legali della pubblicazione.
 
 ## Distributori 
 
@@ -25,7 +27,7 @@ _in inglese: Music Distribution_
 ## Related Notes
 
 - [[3. Resources/Music Production/Aggregatori Vs Distributori Musicali\|Aggregatori Vs Distributori Musicali]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Tutto quello che c'è da sapere sulle Royalty\|Tutto quello che c'è da sapere sulle Royalty]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Tutto quello che c'è da sapere sulle Royalty\|Tutto quello che c'è da sapere sulle Royalty]]
 
 ## References
 

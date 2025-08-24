@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-midi-generator/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-midi-generator/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista Clip (MIDI)\|Ableton - I Pannelli della Vista Clip (MIDI)]], [[3. Resources/Music Production/MIDI\|MIDI]]
@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton - I Pannelli della Vista
 ---
 Il generatore MIDI introdotto nella versione 12 di [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], ci permette di generare, partendo da zero, delle note [[3. Resources/Music Production/MIDI\|MIDI]] attraverso l'uso di diverse funzioni.
 
-![MIDI Generator di Ableton Live.png](/img/user/3.%20Resources/Images/MIDI%20Generator%20di%20Ableton%20Live.png)
+![MIDI Generator di Ableton Live.png](/img/user/3.%20Resources/Attachments/MIDI%20Generator%20di%20Ableton%20Live.png)
 _immagine presa dal sito: [MIDI Generator in Ableton Live 12 - Federico Pepe](https://blog.federicopepe.com/2024/04/midi-generator-in-ableton-live-12/)_
 
 Il Generatore MIDI o in inglese MIDI Generator, si trova nella scheda (l'ultima) all'interno della [[3. Resources/Music Production/Ableton/Ableton - Vista Clip MIDI\|Vista Clip MIDI]]

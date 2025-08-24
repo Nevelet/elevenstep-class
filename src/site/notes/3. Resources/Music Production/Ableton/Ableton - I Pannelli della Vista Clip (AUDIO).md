@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-i-pannelli-della-vista-clip-audio/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-i-pannelli-della-vista-clip-audio/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton - Vista Clip Audio\|Ableton - Vista Clip Audio]]

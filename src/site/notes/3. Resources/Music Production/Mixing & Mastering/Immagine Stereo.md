@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/mixing-and-mastering/immagine-stereo/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/mixing-and-mastering/immagine-stereo/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/Music Production/Mixing & Mastering/Processi Basilari di Mixing\|Processi Basilari di Mixing]], [[3. Resources/Music Production/Mixing\|Mixing]], [[Stereo\|Stereo]], [[3. Resources/Music Production/Mixing\|Mixing]]
@@ -30,7 +30,7 @@ Inoltre, l'immagine stereo è importante poiché è diventata uno standard nell'
 - [[3. Resources/Music Production/Pan pot\|Panning]]
 - [[3. Resources/Music Production/Mixing & Mastering/Mid-Side\|Mid-Side]]
 - [[Surround\|Surround]]
-- [[3. Resources/Sources/What is Stereo Imaging\|What is Stereo Imaging]]
+- [[3. Resources/Sources/Video/What is Stereo Imaging\|What is Stereo Imaging]]
 - [[3. Resources/Music Production/Stereo e Audio Multicanale\|Stereo e Audio Multicanale]]
 
 
@@ -52,6 +52,6 @@ Con la parola stereo o stereofonia, si fa riferimento a due canali (2.0), mentre
 ## References
 
 - [Stereofonia - Wikipedia](https://it.wikipedia.org/wiki/Stereofonia)
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
 
 

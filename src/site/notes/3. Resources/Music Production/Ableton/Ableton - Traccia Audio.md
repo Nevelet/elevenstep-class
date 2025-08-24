@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton - Le Tracce\|Ableton - L
 ---
 ## Cos'è
 
-In poche parole, **una traccia [[3. Resources/General Knowledge/Audio\|audio]] è un file che contiene un suono. Questo suono può essere registrato, importato o generato dal software.**
+In poche parole, **una traccia [[3. Resources/General Knowledge/Audio\|Audio]] è un file che contiene un suono. Questo suono può essere registrato, importato o generato dal software.**
 
 Questi dati sono rappresentati come onde sonore e possono essere riprodotti da dispositivi come altoparlanti o cuffie. A differenza di una traccia MIDI, una traccia audio contiene informazioni sonore reali e non istruzioni per generare suoni. È come una registrazione di ciò che è stato suonato o registrato in un dato momento.
 

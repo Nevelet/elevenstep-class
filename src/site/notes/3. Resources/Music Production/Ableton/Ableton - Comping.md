@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-comping/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-comping/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
@@ -30,7 +30,7 @@ Con il comping, puoi selezionare le migliori parti di ogni take e unirle in una 
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Tutorial Comping Ableton/✍ Tutorial Comping Ableton\|✍ Tutorial Comping Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Tutorial Comping Ableton/✍ Tutorial Comping Ableton\|✍ Tutorial Comping Ableton]]
 - [[3. Resources/Music Production/Ableton/Ableton - Le Tracce\|Ableton - Le Tracce]]
 
 

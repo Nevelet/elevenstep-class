@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-editor-delle-note-midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-editor-delle-note-midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton - Vista Clip MIDI\|Ableton - Vista Clip MIDI]], [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/MIDI\|MIDI]]

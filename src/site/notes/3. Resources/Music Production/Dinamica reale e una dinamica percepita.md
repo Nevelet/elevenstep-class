@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/dinamica-reale-e-una-dinamica-percepita/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/dinamica-reale-e-una-dinamica-percepita/","tags":["note"]}
 ---
 
-Links:: [[3. Resources/Music Production/Gamma Dinamica\|Gamma Dinamica]], [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Gamma Dinamica\|Gamma Dinamica]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 ## Notes

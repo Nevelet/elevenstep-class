@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/editing-audio/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/editing-audio/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/General Knowledge/Audio\|Audio]], [[3. Resources/Music Production/Music Production\|Music Production]]

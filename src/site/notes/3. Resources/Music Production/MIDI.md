@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
@@ -11,7 +11,7 @@ Il MIDI (Musical Instrument Digital Interface) è il linguaggio che ti consente 
 
 Sono i dati inviati dal controller MIDI a uno strumento virtuale, quando premi un tasto, colpisci un pad, giri un codificatore o premi il pedale sustain.
 
-![MIDI Track.png](/img/user/3.%20Resources/Images/MIDI%20Track.png)
+![MIDI Track.png](/img/user/3.%20Resources/Attachments/MIDI%20Track.png)
 
 ## MIDI Note e MIDI CC
 

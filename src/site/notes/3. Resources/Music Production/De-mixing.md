@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/de-mixing/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 ## Descrizione
@@ -81,6 +81,6 @@ In sintesi, il demixing è una forma di unmixing focalizzata sul recupero delle 
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Ultimate Vocal Remover/✍ Ultimate Vocal Remover\|✍ Ultimate Vocal Remover]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Ultimate Vocal Remover/✍ Ultimate Vocal Remover\|✍ Ultimate Vocal Remover]]
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/synth-analog/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/synth-analog/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Synth\|Synth]], [[3. Resources/Music Production/Componenti per Home Studio\|Componenti per Home Studio]]

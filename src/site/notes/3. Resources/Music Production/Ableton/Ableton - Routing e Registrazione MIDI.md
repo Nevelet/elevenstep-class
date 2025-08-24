@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-routing-e-registrazione-midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-routing-e-registrazione-midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/MIDI\|MIDI]], [[3. Resources/Music Production/Routing\|Routing]], [[3. Resources/Music Production/Registrazione\|Registrazione]]

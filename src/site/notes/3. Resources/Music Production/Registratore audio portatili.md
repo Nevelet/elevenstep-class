@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/registratore-audio-portatili/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/registratore-audio-portatili/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Registrazione Audio\|Registrazione Audio]]

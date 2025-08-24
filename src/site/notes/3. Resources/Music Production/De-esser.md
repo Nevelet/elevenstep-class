@@ -41,4 +41,4 @@ consonante sibilante (s, z)
 ## Related Notes
 
 - [[3. Resources/General Knowledge/Sibilante\|Sibilante]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Cosa è e Come usare il De-esser/Cos'è e Come usare il De-esser\|Cos'è e Come usare il De-esser]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Cosa è e Come usare il De-esser/Cos'è e Come usare il De-esser\|Cos'è e Come usare il De-esser]]

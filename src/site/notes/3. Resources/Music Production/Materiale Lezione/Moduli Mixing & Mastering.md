@@ -178,7 +178,7 @@
 
 ## Il Compressore
 
-- [[3. Resources/Music Production/Gamma Dinamica\|Gamma dinamica]]
+- [[3. Resources/Music Production/Gamma Dinamica\|Gamma Dinamica]]
 	- Cos'è la Gamma dinamica
 - [[3. Resources/Music Production/Audio/Compressore\|Compressore]]
 	- Cos'è il Compressore

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/orchestral-sounds-tipi-di-suoni/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/orchestral-sounds-tipi-di-suoni/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Orchestral Sounds\|Orchestral Sounds]], [[3. Resources/Music Production/Tipi di Strumenti Musicali\|Tipi di Strumenti Musicali]]

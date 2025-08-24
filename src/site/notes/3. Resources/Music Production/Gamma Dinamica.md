@@ -9,10 +9,10 @@ Links:: [[3. Resources/Music Production/Teoria del Suono\|Teoria del Suono]]
 
 La gamma dinamica audio **==è la differenza tra il livello più alto e quello più basso di un segnale audio.==** In altre parole, rappresenta la variazione tra i suoni più forti e quelli più deboli presenti in una registrazione o durante una riproduzione. Una gamma dinamica ampia può migliorare l'esperienza d'ascolto, poiché permette di apprezzare meglio i dettagli e le sfumature del suono. Tuttavia, se la gamma dinamica è troppo elevata, potrebbe essere difficile per l'ascoltatore distinguere i suoni più deboli rispetto a quelli più forti.
 
-![dynamic range_01.png](/img/user/3.%20Resources/Images/dynamic%20range_01.png)
-![image_1630099726660_0.png](/img/user/3.%20Resources/Images/image_1630099726660_0.png)
+![dynamic range_01.png](/img/user/3.%20Resources/Attachments/dynamic%20range_01.png)
+![image_1630099726660_0.png](/img/user/3.%20Resources/Attachments/image_1630099726660_0.png)
 
-![dynamic range_02.jpg](/img/user/3.%20Resources/Images/dynamic%20range_02.jpg)
+![dynamic range_02.jpg](/img/user/3.%20Resources/Attachments/dynamic%20range_02.jpg)
 
 ## Approfondimento
 
@@ -40,7 +40,7 @@ _Il valore RMS aiuta molto per capire la differenza tra il picco e il volume med
 
 **cos'è la dinamica nell'audio?**
 
-La dinamica nell'audio si riferisce alla variazione di livello sonoro, dall'audio più silenzioso al più forte, che si verifica durante la riproduzione di una registrazione. La dinamica è un elemento importante nell'audio perché consente di creare contrasti di volume, di enfatizzare alcune parti della registrazione e di dare una maggiore sensazione di profondità e realismo al suono. La gestione della dinamica è uno dei compiti principali del [[3. Resources/Music Production/Mastering\|Mastering]] audio, dove gli ingegneri del suono cercano di bilanciare il volume delle diverse parti della registrazione per ottenere un [[3. Resources/Music Production/Mixing\|Mixing]] equilibrato e piacevole da ascoltare.
+La dinamica nell'audio si riferisce alla variazione di livello sonoro, dall'audio più silenzioso al più forte, che si verifica durante la riproduzione di una registrazione. La dinamica è un elemento importante nell'audio perché consente di creare contrasti di volume, di enfatizzare alcune parti della registrazione e di dare una maggiore sensazione di profondità e realismo al suono. La gestione della dinamica è uno dei compiti principali del [[3. Resources/Music Production/Mastering\|Mastering]] audio, dove gli ingegneri del suono cercano di bilanciare il volume delle diverse parti della registrazione per ottenere un [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]] equilibrato e piacevole da ascoltare.
 Una gamma dinamica ampia consente di apprezzare meglio le sfumature e le variazioni di volume all'interno della musica, mentre una gamma dinamica stretta può portare a una compressione dei suoni e a una perdita di dettagli.
 
 **differenza tra dinamica audio e gamma dinamica?**

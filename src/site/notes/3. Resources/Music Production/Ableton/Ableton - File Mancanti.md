@@ -14,7 +14,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Gestire File Mancanti su Ableton\|Gestire File Mancanti su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Gestire File Mancanti su Ableton\|Gestire File Mancanti su Ableton]]
 
 ## Resources
 

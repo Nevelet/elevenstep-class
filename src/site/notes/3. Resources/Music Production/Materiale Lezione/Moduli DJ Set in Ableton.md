@@ -63,7 +63,7 @@
 
 - [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Routing Ableton (MIDI)]]
 	- Cos’è il [[3. Resources/Music Production/Routing\|Routing]]  
-	- Da [[3. Resources/Music Production/MIDI\|MIDI]] a [[3. Resources/General Knowledge/Audio\|AUDIO]]  
+	- Da [[3. Resources/Music Production/MIDI\|MIDI]] a [[3. Resources/General Knowledge/Audio\|Audio]]  
 	- Routing nella vista dettaglio delle tracce  
 	- Tracce
 		- Input Tracce  
@@ -100,7 +100,7 @@
 - Sistemare in ordine le tracce da mixare
 	- [[3. Resources/Music Production/BPM\|BPM]]
 		- In un vero DJ Mix, le tracce vengono messe a tempo in live, mentre qui viene fatto prima di fare il mix. 
-	- Key ([[3. Resources/Music Production/Tonalità\|tonalità]])
+	- Key ([[3. Resources/Music Production/Tonalità\|Tonalità]])
 	- Genere, Mood
 - Importazione delle tracce audio.
 - [[3. Resources/Music Production/Ableton/Ableton - WARP\|Warping]]

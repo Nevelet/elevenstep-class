@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-tipi-di-file-specifici/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-tipi-di-file-specifici/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Ableton/Ableton - Organizzazione\|Ableton - Organizzazione]]
@@ -98,5 +98,5 @@ _Se non sai come accedere alle cartelle nascoste, in questo articolo di Ableton,
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Tipi di File Specifici su Ableton - Come Usarli e Dove Salvarli\|Tipi di File Specifici su Ableton - Come Usarli e Dove Salvarli]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Tipi di File Specifici su Ableton - Come Usarli e Dove Salvarli\|Tipi di File Specifici su Ableton - Come Usarli e Dove Salvarli]]
 - [[3. Resources/Music Production/Ableton/Ableton - Formato di Campioni Supportati\|Ableton - Formato di Campioni Supportati]]

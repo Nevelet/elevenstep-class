@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/music-production/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/music-production/","tags":["topic"]}
 ---
 
-Links:: [[0. Inbox/HOME\|HOME]]
+Links:: [[_HOME\|_HOME]]
 
 ---
 ## ℹ About
@@ -22,13 +22,14 @@ La produzione musicale e l'atto e il processo creativo e tecnico che porta alla 
 
 ## 🔬 Query
 
-- [[3. Resources/Sources/Tecniche avanzate per il Sidechain\|Tecniche avanzate per il Sidechain]]
+- [[3. Resources/Sources/Video/Tecniche avanzate per il Sidechain\|Tecniche avanzate per il Sidechain]]
 - [[3. Resources/Music Production/Vocal (Music Production)\|Vocal (Music Production)]]
 - [[3. Resources/Music Production/Video Corsi Artist\|Video Corsi Artist]]
 - [[3. Resources/Music Production/Verse\|Verse]]
 - [[3. Resources/Music Production/Tips & Tricks (Music Production)\|Tips & Tricks (Music Production)]]
 - [[3. Resources/Music Production/Tipi di Strumenti Musicali\|Tipi di Strumenti Musicali]]
 - [[3. Resources/Music Production/Teoria Musicale\|Teoria Musicale]]
+- [[3. Resources/Music Production/Template Music Production\|Template Music Production]]
 - [[3. Resources/Music Production/Tecnologia Musicale\|Tecnologia Musicale]]
 - [[3. Resources/Music Production/Tecniche (Music Production)\|Tecniche (Music Production)]]
 - [[3. Resources/Music Production/Tastiera (Musica)\|Tastiera (Musica)]]
@@ -37,6 +38,7 @@ La produzione musicale e l'atto e il processo creativo e tecnico che porta alla 
 - [[3. Resources/Music Production/Suddivisone Strumenti Musicali\|Suddivisone Strumenti Musicali]]
 - [[3. Resources/Music Production/Struttura (Musica)\|Struttura (Musica)]]
 - [[3. Resources/Music Production/Strumenti Musicali\|Strumenti Musicali]]
+- [[3. Resources/Music Production/Stems Wet vs Dry\|Stems Wet vs Dry]]
 - [[3. Resources/Music Production/Sound Effects\|Sound Effects]]
 - [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]]
 - [[3. Resources/Music Production/Sound Design/Sintesi Sonora\|Sintesi Sonora]]
@@ -77,6 +79,7 @@ La produzione musicale e l'atto e il processo creativo e tecnico che porta alla 
 - [[3. Resources/Music Production/Come ricreare un Remake\|Come ricreare un Remake]]
 - [[3. Resources/Music Production/Come mandare una demo ad una Label\|Come mandare una demo ad una Label]]
 - [[3. Resources/Music Production/Come Estrapolare gli Stems da una canzone\|Come Estrapolare gli Stems da una canzone]]
+- [[3. Resources/Music Production/Come esportare gli Stems\|Come esportare gli Stems]]
 - [[3. Resources/Music Production/Chorus (Ritornello)\|Chorus (Ritornello)]]
 - [[3. Resources/Music Production/Chitarra\|Chitarra]]
 - [[3. Resources/Music Production/Checklist Music Production\|Checklist Music Production]]
@@ -90,7 +93,8 @@ La produzione musicale e l'atto e il processo creativo e tecnico che porta alla 
 - [[3. Resources/General Knowledge/Utility (Music Production)\|Utility (Music Production)]]
 - [[3. Resources/General Knowledge/Digital Audio Workstation\|Digital Audio Workstation]]
 - [[2. Areas/TE - Music Production/Risposte Rapide (Music Production)\|Risposte Rapide (Music Production)]]
-- [[2. Areas/ES - Training/Dubstep Music Production\|Dubstep Music Production]]
+- [[2. Areas/TE - Music Production/Dubstep Music Production\|Dubstep Music Production]]
+- [[0. Inbox/I principali dubbi in merito alla distribuzione online di un'opera\|I principali dubbi in merito alla distribuzione online di un'opera]]
 
 { .block-language-dataview}
 

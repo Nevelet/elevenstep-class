@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/groove-drums/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/groove-drums/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Groove\|Groove]], [[3. Resources/Music Production/Drums\|Drums]]

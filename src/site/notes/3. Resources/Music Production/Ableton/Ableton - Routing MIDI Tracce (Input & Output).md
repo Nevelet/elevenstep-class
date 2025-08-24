@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-routing-midi-tracce-input-and-output/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-routing-midi-tracce-input-and-output/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton - Routing\|Ableton - Routing]] [[3. Resources/Music Production/Routing\|Routing]], [[Tracce\|Tracce]]

@@ -49,7 +49,7 @@
 
 <split even>
 
-![MIDI Track.png|500](/img/user/3.%20Resources/Images/MIDI%20Track.png)
+![MIDI Track.png|500](/img/user/3.%20Resources/Attachments/MIDI%20Track.png)
 ![image|400](https://img.freepik.com/vettori-premium/onda-sonora-con-imitazione-del-suono-tecnologia-di-identificazione-audio_106065-64.jpg)
 </split>
 

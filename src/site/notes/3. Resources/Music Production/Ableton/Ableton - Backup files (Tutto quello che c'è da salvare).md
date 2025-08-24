@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-backup-files-tutto-quello-che-c-e-da-salvare/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-backup-files-tutto-quello-che-c-e-da-salvare/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Ableton/Ableton - Organizzazione\|Ableton - Organizzazione]]
@@ -103,7 +103,7 @@ Library: [Resetting Live's Library – Ableton](https://help.ableton.com/hc/en-u
 
 - [Come e Cosa Salvare di Ableton e non Solo... Organizzazione - YouTube](https://youtu.be/JyW6gbMg--0?si=iu1Y00u8Yo1BK_7d)
 - [ABLETON BACKUP: Salva questi file, prima che sia troppo tardi! - YouTube](https://www.youtube.com/watch?v=l3kQdIbK3nY&t=114s)
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Backup Ableton (2023) Tutto quello che c'è da salvare su Ableton\|Backup Ableton (2023) Tutto quello che c'è da salvare su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Backup Ableton (2023) Tutto quello che c'è da salvare su Ableton\|Backup Ableton (2023) Tutto quello che c'è da salvare su Ableton]]
 
 
 ## Related Notes

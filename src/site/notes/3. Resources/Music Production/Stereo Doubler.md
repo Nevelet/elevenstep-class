@@ -12,7 +12,7 @@ Lo Stereo Doubler è un effetto audio utilizzato per **creare una versione più 
 Esistono due modi principali in cui gli Stereo Doubler ottengono questo effetto:
 
 1. **Ritardo:** Lo Stereo Doubler crea una copia leggermente ritardata del segnale audio originale. Questo ritardo è solitamente molto breve, nell'ordine di pochi millisecondi. La copia ritardata viene poi leggermente spostata a sinistra o a destra per creare una separazione stereo.
-2. **Modulazione:** Alcuni Stereo Doubler utilizzano la modulazione, come il [[3. Resources/Music Production/Chorus\|chorus]] o il [[3. Resources/Music Production/Audio/Flanger\|flanger]], per creare lievi variazioni di intonazione e [[3. Resources/Music Production/Timbro (musica)\|timbro]] nella copia del segnale. Queste variazioni sottili creano un leggero sfasamento tra il segnale originale e la copia, che all'ascolto si traduce in un effetto di allargamento stereo.
+2. **Modulazione:** Alcuni Stereo Doubler utilizzano la modulazione, come il [[3. Resources/Music Production/Chorus\|Chorus]] o il [[3. Resources/Music Production/Audio/Flanger\|Flanger]], per creare lievi variazioni di intonazione e [[3. Resources/Music Production/Timbro (musica)\|timbro]] nella copia del segnale. Queste variazioni sottili creano un leggero sfasamento tra il segnale originale e la copia, che all'ascolto si traduce in un effetto di allargamento stereo.
 
 
 ## Benefici dell'utilizzo di uno Stereo Doubler
@@ -29,7 +29,7 @@ Lo Stereo Doubler può essere utilizzato su una varietà di sorgenti sonore, tra
 - **Voci:** Può aiutare le voci a risaltare nel mix e dare loro un suono più corposo.
 - **Synth e tastiere:** Può aiutare a rendere i synth e le tastiere più presenti e corposi nel mix.
 
-**È importante notare che lo Stereo Doubler non è un sostituto di una vera registrazione stereo.** Tuttavia, può essere un ottimo strumento per creare un'[[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|immagine stereo]] più ampia e corposa a partire da un segnale audio monofonico.
+**È importante notare che lo Stereo Doubler non è un sostituto di una vera registrazione stereo.** Tuttavia, può essere un ottimo strumento per creare un'[[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]] più ampia e corposa a partire da un segnale audio monofonico.
 
 ## Tipi di Stereo Double
 

@@ -25,4 +25,4 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Layering MIDI su Ableton\|Layering MIDI su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Layering MIDI su Ableton\|Layering MIDI su Ableton]]

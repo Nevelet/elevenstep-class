@@ -9,7 +9,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton - Le Tracce\|Ableton - L
 
 Una traccia [[3. Resources/Music Production/MIDI\|MIDI]] è un file di dati che contiene informazioni su note musicali, come quale nota suonare, quando suonarla e con quale intensità. Non contiene suoni reali, ma fornisce istruzioni a un dispositivo o software musicale su come generare suoni. In sostanza, è come una partitura digitale che può essere riprodotta da strumenti elettronici o software musicali.
 
-![MIDI Track.png](/img/user/3.%20Resources/Images/MIDI%20Track.png)
+![MIDI Track.png](/img/user/3.%20Resources/Attachments/MIDI%20Track.png)
 
 ## Per cosa può essere usata una traccia MIDI?
 

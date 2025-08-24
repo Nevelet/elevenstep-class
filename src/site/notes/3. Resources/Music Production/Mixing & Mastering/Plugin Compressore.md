@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/mixing-and-mastering/plugin-compressore/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/mixing-and-mastering/plugin-compressore/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Audio/Compressore\|Compressore]]

@@ -11,7 +11,7 @@ A differenza di un [[3. Resources/Music Production/Audio/Compressore\|Compressor
 
 I Maximizer sono spesso dotati di algoritmi intelligenti che controllano il livello di volume in modo dinamico per mantenere il suono coerente e naturale, evitando artefatti indesiderati come clipping o distorsione digitale. Sono comunemente utilizzati nell'industria musicale per dare ai brani un impatto maggiore e una maggiore presenza su dispositivi di riproduzione con range dinamico limitato, come smartphone o sistemi di diffusione domestici.
 
-![L1 Ultramaximizer.png](/img/user/3.%20Resources/Images/L1%20Ultramaximizer.png)
+![L1 Ultramaximizer.png](/img/user/3.%20Resources/Attachments/L1%20Ultramaximizer.png)
 _L1 Ultramaximizer by Waves_
 
 

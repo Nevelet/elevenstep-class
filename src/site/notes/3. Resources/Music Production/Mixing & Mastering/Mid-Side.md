@@ -9,9 +9,9 @@ Il mid side è una tecnica di elaborazione del suono che si basa sulla separazio
 
 ==Conversione del segnale stereo==
 
-![mid_side_01.png](/img/user/3.%20Resources/Images/mid_side_01.png)
-![mid_side_02.png](/img/user/3.%20Resources/Images/mid_side_02.png)
-![mid_side_03.png](/img/user/3.%20Resources/Images/mid_side_03.png)
+![mid_side_01.png](/img/user/3.%20Resources/Attachments/mid_side_01.png)
+![mid_side_02.png](/img/user/3.%20Resources/Attachments/mid_side_02.png)
+![mid_side_03.png](/img/user/3.%20Resources/Attachments/mid_side_03.png)
 
 
 ---

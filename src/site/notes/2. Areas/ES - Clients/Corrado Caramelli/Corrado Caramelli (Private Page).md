@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/es-clients/corrado-caramelli/corrado-caramelli-private-page/","tags":["type/note/lesson"]}
+{"dg-publish":true,"permalink":"/2-areas/es-clients/corrado-caramelli/corrado-caramelli-private-page/","tags":["client"]}
 ---
 
-Links:: [[2. Areas/ES - Clients/Corrado Caramelli\|Corrado Caramelli]]
+Links:: [[2. Areas/ES - Clients/Corrado Caramelli/Corrado Caramelli\|Corrado Caramelli]]
 
 ---
 # Link utili
@@ -27,7 +27,7 @@ Sono finite le ore? Tranquillo/a, [cliccando qui](https://script.google.com/macr
 ---
 # ℹ Info
 
-### **Ore disponibili:** 16h
+### **Ore disponibili:** 6h
 
 ### **Prossima Lezione:**
 

@@ -16,7 +16,7 @@ Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music P
 
 ## Rimuovere rumori indesiderati
 
-_Related: [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Enfatizzare un rumore di fondo in una registrazione\|Enfatizzare un rumore di fondo in una registrazione]]_
+_Related: [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Enfatizzare un rumore di fondo in una registrazione\|Enfatizzare un rumore di fondo in una registrazione]]_
 
 ### EQ
 
@@ -125,8 +125,8 @@ Con l'aiuto del VU Meter e lo PSYSCOPE possiamo capire meglio come intervenire.
 ### Resources
 
 - [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]]
-- [[3. Resources/Sources/La VOCE è MONO, ma allora come si fa a farla STEREO\|La VOCE è MONO, ma allora come si fa a farla STEREO]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
+- [[3. Resources/Sources/Video/La VOCE è MONO, ma allora come si fa a farla STEREO\|La VOCE è MONO, ma allora come si fa a farla STEREO]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come Gestire e Creare più Immagine Stereo/✍ Come Gestire e Creare più Immagine Stereo\|✍ Come Gestire e Creare più Immagine Stereo]]
 
 ## Automazioni
 

@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 ---
 ## Descrizione
 
-Le superfici di controllo sono dotate di pulsanti, fader, encoder e controlli di tracciamento. Sono progettate per l'uso in studio, comprese le funzioni mixer e la navigazione DAW.
+Le superfici di controllo sono dotate di pulsanti, fader, encoder e controlli di tracciamento. Sono progettate per l'uso in studio, comprese le funzioni mixer e la navigazione [[3. Resources/General Knowledge/Digital Audio Workstation\|DAW]].
 
 Le superfici di controllo sono script appositamente scritti che consentono il controllo tattile di Live attraverso parametri predefiniti.
 
@@ -41,7 +41,6 @@ Superficie di controllo supportate: [Integrated hardware | Ableton](https://www.
 
 - [[3. Resources/Music Production/Ableton/Come Creare e Modificare una Superficie di Controllo su Ableton\|Come Creare e Modificare una Superficie di Controllo su Ableton]]
 - [[3. Resources/Music Production/Ableton/Ableton - Configurazione MIDI\|Ableton - Configurazione MIDI]]
-
 
 ## 📚 References
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/darsi-degli-obiettivi-di-mixing/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Mixing & Mastering/Principi di Mixing\|Principi di Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Mixing & Mastering/Principi di Mixing\|Principi di Mixing]]
 
 ---
 

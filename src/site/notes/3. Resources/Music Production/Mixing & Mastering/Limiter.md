@@ -19,7 +19,7 @@ Un limiter audio è un dispositivo o un software che viene utilizzato per contro
 
 ## Parametri 
 
-![Schema Compressore e Limiter.png](/img/user/3.%20Resources/Images/Schema%20Compressore%20e%20Limiter.png)
+![Schema Compressore e Limiter.png](/img/user/3.%20Resources/Attachments/Schema%20Compressore%20e%20Limiter.png)
 1. **Input Gain** - Questo parametro regola il volume di ingresso del segnale prima che questo venga limitato.
 2. **Threshold** (soglia) - il livello massimo di input a cui il limiter inizia ad agire.
 3. **Attack** (attacco) - il tempo che il limiter impiega per entrare in funzione, ovvero per ridurre il volume del segnale.

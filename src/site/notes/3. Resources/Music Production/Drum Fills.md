@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/drum-fills/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/drum-fills/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Drums\|Drums]], [[3. Resources/Music Production/Creazione Elementi Percussivi (Drums)\|Creazione Elementi Percussivi (Drums)]]

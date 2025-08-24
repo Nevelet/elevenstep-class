@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/filtri/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/filtri/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Audio/Equalizzatore\|Equalizzatore]], [[3. Resources/Music Production/Processori di Frequenze\|Processori di Frequenze]], [[3. Resources/Music Production/Frequenze\|Frequenze]]
@@ -15,7 +15,7 @@ I componenti principali di un equalizzatore sono i filtri. I filtri sono la base
 
 ### Low Pass & High Pass
 
-![Filtri LP & HP.jpg](/img/user/3.%20Resources/Images/Filtri%20LP%20&%20HP.jpg)
+![Filtri LP & HP.jpg](/img/user/3.%20Resources/Attachments/Filtri%20LP%20&%20HP.jpg)
 
 Altri nomi: High Cut & Low Cut 
 In italiano: Passa Basso e Passa Alto
@@ -24,7 +24,7 @@ Sigle utilizzate: LPF & HPF
 
 ### Bell
 
-![Filter Bell.jpg](/img/user/3.%20Resources/Images/Filter%20Bell.jpg)
+![Filter Bell.jpg](/img/user/3.%20Resources/Attachments/Filter%20Bell.jpg)
 
 Altri nomi: Peaking
 In italiano: Campana
@@ -32,7 +32,7 @@ In italiano: Campana
 
 ### Band Pass
 
-![Filter Band Pass.jpg](/img/user/3.%20Resources/Images/Filter%20Band%20Pass.jpg)
+![Filter Band Pass.jpg](/img/user/3.%20Resources/Attachments/Filter%20Band%20Pass.jpg)
 
 In italiano: Passa Banda
 
@@ -42,11 +42,11 @@ In italiano: Passa Banda
 
 viene usato per agire sugli estremi dello spettro delle frequenze udibili.
 
-![Filter Shelving.jpg](/img/user/3.%20Resources/Images/Filter%20Shelving.jpg)
+![Filter Shelving.jpg](/img/user/3.%20Resources/Attachments/Filter%20Shelving.jpg)
 
 ### Notch
 
-![Filter Notch.jpg](/img/user/3.%20Resources/Images/Filter%20Notch.jpg)
+![Filter Notch.jpg](/img/user/3.%20Resources/Attachments/Filter%20Notch.jpg)
 
 Altri nomi: Band Stop, Band Reject, 
 In italiano: Filtro a Reiezione di Banda, Filtro elimina banda

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/layering/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/layering/","tags":["note"]}
 ---
 
-Links:: [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]], [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Music Production\|Music Production]]
+Links:: [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ---
 È la capacità di **sovrapporre più suoni** attraverso l'ausilio di più strumenti e tecniche.

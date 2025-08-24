@@ -7,7 +7,7 @@ Links:: [[3. Resources/Music Production/Audio/Livelli audio\|Livelli audio]]
 ---
 **L'headroom è lo spazio tra il picco e il limite massimo del sistema audio utilizzato.**  
 
-Immagina il [[3. Resources/Music Production/Volume\|volume]] del tuo segnale audio come l'altezza di una persona. L'headroom è la distanza tra la testa della persona (il picco massimo del tuo segnale) e il soffitto (il massimo volume gestibile dal sistema).
+Immagina il [[3. Resources/Music Production/Volume\|Volume]] del tuo segnale audio come l'altezza di una persona. L'headroom è la distanza tra la testa della persona (il picco massimo del tuo segnale) e il soffitto (il massimo volume gestibile dal sistema).
 
 Nel mondo del missaggio, l’headroom è la differenza tra il livello medio del segnale e il valore di picco massimo. 
 

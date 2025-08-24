@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/lufs/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/lufs/","tags":["topic"]}
 ---
 
 Links:: [[Loudness\|Loudness]], [[3. Resources/Music Production/Unità di misura\|Unità di misura]]

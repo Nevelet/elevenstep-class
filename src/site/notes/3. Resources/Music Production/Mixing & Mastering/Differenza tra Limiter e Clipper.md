@@ -12,10 +12,10 @@ Un limiter e un clipper sono due dispositivi audio utilizzati per gestire il liv
 In sintesi, il limiter evita la distorsione del suono mentre il clipper taglia deliberatamente la forma d'onda. A seconda dell'applicazione, entrambi possono essere utilizzati per ottenere effetti sonori specifici o per garantire che il segnale audio rimanga all'interno dei limiti desiderati.
 
 
-![image_1630099910183_0.png](/img/user/3.%20Resources/Images/image_1630099910183_0.png)
+![image_1630099910183_0.png](/img/user/3.%20Resources/Attachments/image_1630099910183_0.png)
 
 
-![limter_vs_clipper.jpg](/img/user/3.%20Resources/Images/limter_vs_clipper.jpg)
+![limter_vs_clipper.jpg](/img/user/3.%20Resources/Attachments/limter_vs_clipper.jpg)
 
 ## Quando e perché usare uno rispetto all'altro?
 

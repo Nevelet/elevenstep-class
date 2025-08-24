@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/riverbero-a-convoluzione/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/riverbero-a-convoluzione/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Audio/Reverb\|Reverb]]

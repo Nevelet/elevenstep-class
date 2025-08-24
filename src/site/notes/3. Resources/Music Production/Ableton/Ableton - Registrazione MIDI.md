@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-registrazione-midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-registrazione-midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Registrazione\|Registrazione]]
@@ -66,7 +66,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 
 # Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Routing e Registrazione MIDI su Ableton (External)\|Routing e Registrazione MIDI su Ableton (External)]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Routing e Registrazione MIDI su Ableton (External)\|Routing e Registrazione MIDI su Ableton (External)]]
 - [[3. Resources/Music Production/Ableton/Ableton - Routing e Registrazione MIDI\|Ableton - Routing e Registrazione MIDI]]
 - [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Ableton - Routing MIDI Tracce (Input & Output)]]
 - [[3. Resources/Music Production/Ableton/Ableton - Layering MIDI\|Ableton - Layering MIDI]]

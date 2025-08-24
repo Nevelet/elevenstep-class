@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/dubstep/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/dubstep/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Generi Musicali\|Generi Musicali]]

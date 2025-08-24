@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/larghezza-di-banda-rettangolare-equivalente/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/larghezza-di-banda-rettangolare-equivalente/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Filtri\|Filtri]], [[3. Resources/Music Production/Audio/Equalizzatore\|Equalizzatore]]

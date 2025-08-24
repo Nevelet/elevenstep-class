@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/mono-compatibilita/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]], [[3. Resources/Music Production/Mono\|Mono]], [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]], [[3. Resources/Music Production/Mono\|Mono]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
-In musica, la **monocompatibilità** si riferisce alla capacità di un mix audio di mantenere una buona qualità sonora anche quando viene riprodotto su sistemi audio [[3. Resources/Music Production/Mono\|mono]], come casse mono, smartphone o cuffie con un solo altoparlante.
+In musica, la **monocompatibilità** si riferisce alla capacità di un mix audio di mantenere una buona qualità sonora anche quando viene riprodotto su sistemi audio [[3. Resources/Music Production/Mono\|Mono]], come casse mono, smartphone o cuffie con un solo altoparlante.
 
 ## Perché è importante?
 

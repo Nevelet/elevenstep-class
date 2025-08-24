@@ -17,7 +17,7 @@ Sul midi invece, il volume iniziale va gestito dalle note (velocity) e dal primo
 
 Abbiamo visto il volume iniziale, ma anche il volume di tutti gli altri plug-in che utilizziamo è importante, perché posso partire da un volume basso, ma poi posso alzarlo strada facendo.
 
-![image_1630353729170_0.png](/img/user/3.%20Resources/Images/image_1630353729170_0.png)
+![image_1630353729170_0.png](/img/user/3.%20Resources/Attachments/image_1630353729170_0.png)
 Nota: nessun [[3. Resources/Music Production/Clipping\|Clipping]] può intercorrere fra i dispositivi perché l'[[3. Resources/Music Production/Headroom\|Headroom]] è praticamente illimitato. Il clipping può verificarsi quando un segnale eccessivo viene trasmesso a una uscita fisica o quando viene "scritto" in un file di campioni.
 
 

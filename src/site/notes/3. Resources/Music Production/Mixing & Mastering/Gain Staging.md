@@ -22,7 +22,7 @@ il Gain staging è fondamentale sia in fase di registrazione e sia in fase di mi
 
 ## Resources
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Gain staging semplice per tutti\|Gain staging semplice per tutti]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Gain staging semplice per tutti\|Gain staging semplice per tutti]]
 - [Gain Staging - Documenti Google](https://docs.google.com/document/d/1KxZmUYyix4wHWrKrTtxuDIPfoxA4ipaWcDA82OAkwVU/edit?usp=share_link)
 
 

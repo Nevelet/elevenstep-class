@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-layering-midi/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-layering-midi/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
@@ -14,7 +14,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Layering\|Layering]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Layering MIDI su Ableton\|Layering MIDI su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Layering MIDI su Ableton\|Layering MIDI su Ableton]]
 
 
 ## Resources

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-areas/es-clients/mirko-masi/moduli-mixing-and-mastering-mirko-masi/"}
 ---
 
-Links:: [[2. Areas/ES - Clients/Mirko Masi\|Mirko Masi]]
+Links:: [[2. Areas/ES - Clients/Mirko Masi/Mirko Masi\|Mirko Masi]]
 
 ---
 
@@ -173,7 +173,7 @@ Links:: [[2. Areas/ES - Clients/Mirko Masi\|Mirko Masi]]
 > 
 
 > [!NOTE]- ## ✅ Il Compressore
-> - [x] [[3. Resources/Music Production/Gamma Dinamica\|Gamma dinamica]]
+> - [x] [[3. Resources/Music Production/Gamma Dinamica\|Gamma Dinamica]]
 > 	- [x] Cos'è la Gamma dinamica
 > - [x] [[3. Resources/Music Production/Audio/Compressore\|Compressore]]
 > 	- [x] Cos'è il Compressore

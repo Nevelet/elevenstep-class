@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/diritti-d-autore/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/diritti-d-autore/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/es-training/moduli-ableton-da-zero-callouts/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/2-areas/es-training/moduli-ableton-da-zero-callouts/","tags":["personal-note"]}
 ---
 
 

@@ -9,7 +9,7 @@ Links: [[3. Resources/Music Production/Teoria del Suono\|Teoria del Suono]], [[3
 
 L'oversampling audio **è una tecnica utilizzata nella registrazione e riproduzione audio digitale per migliorare la qualità del suono.** Consiste nel campionare il segnale audio a una frequenza più elevata rispetto alla [[3. Resources/Music Production/Audio/Frequenza di Campionamento\|Frequenza di Campionamento]] originale, solitamente almeno il doppio della frequenza originale. Questo processo permette di ridurre l'effetto dell'[[3. Resources/Music Production/Aliasing\|Aliasing]], ovvero la distorsione causata dalla presenza di [[3. Resources/Music Production/Frequenze\|Frequenze]] superiori alla metà della frequenza di campionamento. Inoltre, l'oversampling può ridurre il rumore e migliorare la risposta in frequenza del sistema audio digitale.
 
-![Oversampling.png](/img/user/3.%20Resources/Images/Oversampling.png)
+![Oversampling.png](/img/user/3.%20Resources/Attachments/Oversampling.png)
 _source: [How Does Oversampling Sound? - The Science of Sound](https://science-of-sound.net/2016/07/how-does-oversampling-sound/)_
 
 Una tecnica nota con il nome di sovracampionamento (oversampling) viene solitamente usata nelle conversioni audio, specialmente nell'output. L'idea consiste nell'usare una frequenza di campionamento superiore, in modo che un filtro digitale quasi-ideale possa abbassare l'alias fino alla frequenza di Nyquist, mentre un filtro analogico più semplice può bloccare le frequenze superiori ad una nuova più alta frequenza di Nyquist. — [Wikipedia](https://it.wikipedia.org/wiki/Filtro_anti-alias)

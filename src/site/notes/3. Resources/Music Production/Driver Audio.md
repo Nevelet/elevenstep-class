@@ -37,4 +37,4 @@ In alcuni casi, soprattutto su computer un po' datati, il driver nativo del sist
 ## 🔗 Related Notes
 
 - [[3. Resources/Music Production/Ableton/Ableton - Configurazione Audio\|Ableton - Configurazione Audio]]
-- [[0. Inbox/ASIO\|ASIO]]
+- [[3. Resources/Music Production/Audio/ASIO\|ASIO]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/differenza-tra-one-shot-e-loop/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/differenza-tra-one-shot-e-loop/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Sample Audio\|Sample Audio]]

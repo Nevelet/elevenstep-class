@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/mseg/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/mseg/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Synth\|Synth]]

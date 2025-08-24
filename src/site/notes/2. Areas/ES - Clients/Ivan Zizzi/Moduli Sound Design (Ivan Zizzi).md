@@ -35,7 +35,7 @@ Links:: [[2. Areas/ES - Clients/Ivan Zizzi/@Ivan Zizzi\|@Ivan Zizzi]]
 > 		- [ ] Narrazione sonora  
 > 		- [ ] Design emotivo  
 > 		- [ ] Estetica sonora  
-> - [ ] [[0. Inbox/Storia del sound design\|Storia del sound design]]
+> - [ ] [[3. Resources/Music Production/Sound Design/Storia del sound design\|Storia del sound design]]
 > 	- [ ] Le radici del sound design  
 > 		- [ ] possono essere fatte risalire a tempi molto antichi, quando le persone utilizzavano suoni e musica per rituali, cerimonie e intrattenimento.  
 > 		- [ ] come disciplina definita, il sound design è emerso con l'avvento del cinema e della registrazione sonora all'inizio del XX secolo  
@@ -61,7 +61,7 @@ Links:: [[2. Areas/ES - Clients/Ivan Zizzi/@Ivan Zizzi\|@Ivan Zizzi]]
 > 		- [ ] Pierre Schaeffer  
 > 		- [ ] John Cage  
 > 		- [ ] Walter Murch  
-> - [ ] [[0. Inbox/Tipologie di Sound design\|Tipologie di Sound design]]
+> - [ ] [[3. Resources/Music Production/Tipologie di Sound design\|Tipologie di Sound design]]
 > 	- [ ] 1\. Sound design per il cinema e la televisione  
 > 	- [ ] 2\. Sound design per i videogiochi  
 > 	- [ ] 3\. Sound design per la radio  
@@ -69,7 +69,7 @@ Links:: [[2. Areas/ES - Clients/Ivan Zizzi/@Ivan Zizzi\|@Ivan Zizzi]]
 > 	- [ ] 5\. Sound design per l'esperienza utente (UX)  
 > 	- [ ] 6\. Sound design per l'installazione sonora e l'arte  
 > 	- [ ] 7\. Sound design per la musica  
-> - [ ] [[0. Inbox/Processi del Sound design\|Processi del Sound design]]
+> - [ ] [[3. Resources/Music Production/Processi del Sound design\|Processi del Sound design]]
 > 	- [ ] 1\. Concettualizzazione  
 > 		- [ ] Comprendere il progetto  
 > 		- [ ] Ricerca e ispirazione  
@@ -100,7 +100,7 @@ Links:: [[2. Areas/ES - Clients/Ivan Zizzi/@Ivan Zizzi\|@Ivan Zizzi]]
 > 		- [ ] **Creatività:** I sound designer devono essere creativi e in grado di ideare suoni unici e interessanti.  
 > 		- [ ] **Abilità di problem solving:** I sound designer devono essere in grado di risolvere problemi e trovare soluzioni creative alle sfide sonore.  
 > 		- [ ] Comunicazione efficace: I sound designer devono essere in grado di comunicare efficacemente le loro idee agli altri.  
-> - [ ] [[0. Inbox/Strumenti e software per il sound design\|Strumenti e software per il sound design]]
+> - [ ] [[3. Resources/Music Production/Sound Design/Strumenti e software per il sound design\|Strumenti e software per il sound design]]
 > 	- [ ] Software DAW (Digital Audio Workstation)  
 > 		- [ ] **Ableton Live:** Ideale per la creazione di musica elettronica e l'improvvisazione.  
 > 		- [ ] **Avid Pro Tools:** Uno standard del settore nell'industria audio professionale.  
@@ -816,7 +816,7 @@ Links:: [[2. Areas/ES - Clients/Ivan Zizzi/@Ivan Zizzi\|@Ivan Zizzi]]
 > - [ ] Creazione di suoni complessi attraverso l'editing e il [[3. Resources/Music Production/Resampling Audio\|Resampling Audio]]  
 > - [ ] Creare [[3. Resources/Music Production/Sound Design/Chains Effects (Sound Design)\|Chains Effects]] 
 > - [ ] Creare movimento con le [[3. Resources/Music Production/Automazioni (Mixing)\|Automazioni]] 
-> - [ ] [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]] e [[0. Inbox/Dispostivi M4L\|Dispostivi M4L]] consigliati
+> - [ ] [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]] e [[3. Resources/Music Production/Ableton/Dispostivi M4L\|Dispostivi M4L]] consigliati
 
 
 

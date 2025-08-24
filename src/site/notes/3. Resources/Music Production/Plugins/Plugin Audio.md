@@ -5,7 +5,7 @@
 Links:: [[3. Resources/Music Production/Plugins/Plugin\|Plugin]], [[3. Resources/General Knowledge/Audio\|Audio]]
 
 ---
-I [[3. Resources/Music Production/Plugins/Plugin\|Plugin]] [[3. Resources/General Knowledge/Audio\|audio]] **sono piccoli programmi o estensioni software che vengono aggiunti a un software audio o DAW** (Digital Audio Workstation) **per aggiungere funzionalità o effetti extra al processo di produzione musicale**. Possono includere strumenti virtuali, effetti sonori, processori di suono e molto altro. I plugin audio consentono di manipolare o creare suoni in modo più avanzato e personalizzato all'interno di un ambiente digitale. Sono fondamentali per la produzione musicale moderna.
+I [[3. Resources/Music Production/Plugins/Plugin\|Plugin]] [[3. Resources/General Knowledge/Audio\|Audio]] **sono piccoli programmi o estensioni software che vengono aggiunti a un software audio o DAW** (Digital Audio Workstation) **per aggiungere funzionalità o effetti extra al processo di produzione musicale**. Possono includere strumenti virtuali, effetti sonori, processori di suono e molto altro. I plugin audio consentono di manipolare o creare suoni in modo più avanzato e personalizzato all'interno di un ambiente digitale. Sono fondamentali per la produzione musicale moderna.
 
 --- 
 
@@ -97,6 +97,6 @@ chflags nohidden ~/Library
 - [[3. Resources/Music Production/Plugins/Plugin Audio da Provare\|Plugin Audio da Provare]]
 - [[3. Resources/Music Production/Plugins/Plugin Audio gratis del 2023\|Plugin Audio gratis del 2023]]
 - [[3. Resources/Music Production/Ableton/Ableton - Configurazione Plugins\|Ableton - Configurazione Plugins]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come installare correttamente i plugin/Come installare correttamente i plugin\|Come installare correttamente i plugin]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come installare correttamente i plugin su Ableton/✍ Come installare correttamente i plugin su Ableton\|✍ Come installare correttamente i plugin su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come installare correttamente i plugin/Come installare correttamente i plugin\|Come installare correttamente i plugin]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come installare correttamente i plugin su Ableton/✍ Come installare correttamente i plugin su Ableton\|✍ Come installare correttamente i plugin su Ableton]]
 - [[3. Resources/Music Production/Plugins/Disinstallare i Plugins\|Disinstallare i Plugins]]

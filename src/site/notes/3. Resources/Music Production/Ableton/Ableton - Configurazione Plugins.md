@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-configurazione-plugins/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-configurazione-plugins/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
@@ -25,6 +25,6 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resourc
 
 ## Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come organizzare i plugin su Ableton\|Come organizzare i plugin su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come organizzare i plugin su Ableton\|Come organizzare i plugin su Ableton]]
 - [[3. Resources/Music Production/Plugins/Plugin Audio\|Plugin Audio]]
 

@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/processori-di-dinamica/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing\|Mixing]]
+Links:: [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 ---
 I processori di dinamica sono dispositivi elettronici utilizzati per controllare la dinamica del suono di un segnale audio. In genere, questi dispositivi vengono utilizzati per controllare il volume o la compressione del segnale audio in modo da mantenere una certa uniformità nell'output sonoro. Ci sono diversi tipi di processori di dinamica, tra cui i compressori, i [[3. Resources/Music Production/Mixing & Mastering/Limiter\|Limiter]], gli [[3. Resources/Music Production/Expander\|Expander]] e i [[3. Resources/Music Production/Gate\|Gate]]. 
-Questi dispositivi possono essere utilizzati in una vasta gamma di applicazioni audio, come la registrazione musicale, la post-produzione audio, il [[3. Resources/Music Production/Mixing\|Mixing]], il [[3. Resources/Music Production/Mastering\|Mastering]], il broadcasting e il sonoro dal vivo.
+Questi dispositivi possono essere utilizzati in una vasta gamma di applicazioni audio, come la registrazione musicale, la post-produzione audio, il [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], il [[3. Resources/Music Production/Mastering\|Mastering]], il broadcasting e il sonoro dal vivo.
 
 **Ecco alcuni processori di dinamica**
 

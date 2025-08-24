@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-modulazioni/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-modulazioni/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
@@ -54,7 +54,7 @@ Esistono diverse tipologie di modulazioni in Ableton, ognuna con le sue caratter
 - Usa le modulazioni con moderazione per evitare che il suono diventi troppo complesso o caotico.
 - Invia le modulazioni da tracce MIDI per modulare i parametri di altri strumenti in modo creativo.
 
-Le modulazioni sono una parte fondamentale della [[3. Resources/Music Production/Sound Design/Sintesi Sonora\|sintesi sonora]] e del [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]] in Ableton. Esplorando le diverse tecniche e sperimentando con diversi modulatori e parametri, puoi aggiungere profondità, movimento e interesse alle tue produzioni musicali.
+Le modulazioni sono una parte fondamentale della [[3. Resources/Music Production/Sound Design/Sintesi Sonora\|Sintesi Sonora]] e del [[3. Resources/Music Production/Sound Design/Sound Design\|Sound Design]] in Ableton. Esplorando le diverse tecniche e sperimentando con diversi modulatori e parametri, puoi aggiungere profondità, movimento e interesse alle tue produzioni musicali.
 
 
 

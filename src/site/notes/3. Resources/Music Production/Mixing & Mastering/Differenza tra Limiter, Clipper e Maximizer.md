@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/mixing-and-mastering/differenza-tra-limiter-clipper-e-maximizer/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/mixing-and-mastering/differenza-tra-limiter-clipper-e-maximizer/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Maximizer\|Maximizer]], [[3. Resources/Music Production/Mixing & Mastering/Limiter\|Limiter]], [[Differenze\|Differenze]], [[3. Resources/Music Production/Mixing & Mastering/Clipper\|Clipper]]

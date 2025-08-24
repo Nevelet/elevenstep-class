@@ -106,7 +106,7 @@
 > 	- Mixer delle tracce  
 > - [[3. Resources/Music Production/Routing MIDI\|Routing MIDI]]
 > 	- Cos’è il [[3. Resources/Music Production/Routing\|Routing]]  
-> 	- Da [[3. Resources/Music Production/MIDI\|MIDI]] a [[3. Resources/General Knowledge/Audio\|AUDIO]]  
+> 	- Da [[3. Resources/Music Production/MIDI\|MIDI]] a [[3. Resources/General Knowledge/Audio\|Audio]]  
 > 	- Routing nella vista dettaglio delle tracce  
 > 	- [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Routing Tracce]]
 > 		- Input Tracce  
@@ -123,7 +123,7 @@
 > 		- Canale di uscita  
 > - Creare Tracce MIDI Instruments
 > 	- Aggiungere [[3. Resources/Music Production/Plugins/Plugin Audio Instrument\|Plugin Audio Instrument]]
-> 	- External Instrument per dispositivi hardware esterni ([[3. Resources/Music Production/Synth\|synth]], [[3. Resources/Music Production/Campionatore\|Campionatori]], [[3. Resources/Music Production/Drum Machine\|drum machine]] ecc.)
+> 	- External Instrument per dispositivi hardware esterni ([[3. Resources/Music Production/Synth\|Synth]], [[3. Resources/Music Production/Campionatore\|Campionatori]], [[3. Resources/Music Production/Drum Machine\|Drum Machine]] ecc.)
 > 	- Usare gli strumenti virtuali di Ableton ([[3. Resources/Music Production/Ableton/Ableton - Drum Rack\|Drum Rack]], [[3. Resources/Music Production/Ableton/Ableton - Simpler\|Simpler]], [[3. Resources/Music Production/Ableton/Ableton - Operator\|Operator]], etc.).
 > - Creare Tracce Audio External
 > 	- MIC

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/music-production/mono/"}
 ---
 
-Links:: [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]], [[3. Resources/Music Production/Mixing\|Mixing]], [[3. Resources/Music Production/Psicoacustica\|Psicoacustica]]
+Links:: [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]], [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]], [[3. Resources/Music Production/Psicoacustica\|Psicoacustica]]
 
 ---
 **Il mono non è Left e non è Right, ma è l'insieme dei due**

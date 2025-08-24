@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/mastering/","tags":["type/dashboard/MOC"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/mastering/","tags":["topic"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
@@ -107,7 +107,7 @@ Il mastering audio **è l'ultima fase di produzione audio**, durante la quale un
 
 - [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione Mid-Side\|Equalizzazione Mid-Side]]
 - Imager - [[3. Resources/Music Production/Stereo Widening\|Stereo Widening]]
-- [[Mono compatibilità \|Mono compatibilità ]]
+- [[3. Resources/Music Production/Mono Compatibilità\|Mono Compatibilità]]
 - Automazioni mid/side prima del drop
 
 ## Lavorare sulla Dinamica
@@ -163,12 +163,12 @@ Il mastering audio **è l'ultima fase di produzione audio**, durante la quale un
 
 - Tecniche di Mastering ([[3. Resources/Music Production/Mixing & Mastering/EQ Matching\|EQ Matching]])
 - [[3. Resources/Music Production/Mastering per lo Streaming\|Mastering per lo Streaming]]
-- Mastering online ([[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Comparazione Mastering Online\|Comparazione Mastering Online]])
+- Mastering online ([[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Comparazione Mastering Online\|Comparazione Mastering Online]])
 
 ---
 ## Related Notes
 
-- [[3. Resources/Music Production/Mixing\|Mixing]]
+- [[3. Resources/Music Production/Mixing\|3. Resources/Music Production/Mixing]]
 
 
 ## Notes

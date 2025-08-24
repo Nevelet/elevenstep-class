@@ -13,5 +13,5 @@ Links:: [[3. Resources/Music Production/Synth\|Sintetizzatore]]
 
 ## Resources
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/IMPARA le basi di un SINTETIZZATORE in modo SEMPLICE e DIVERTENTE\|IMPARA le basi di un SINTETIZZATORE in modo SEMPLICE e DIVERTENTE]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/IMPARA le basi di un SINTETIZZATORE in modo SEMPLICE e DIVERTENTE\|IMPARA le basi di un SINTETIZZATORE in modo SEMPLICE e DIVERTENTE]]
 	- [Learning Synths](https://learningsynths.ableton.com/it)

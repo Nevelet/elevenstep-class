@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/melodia-vs-armonia/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/melodia-vs-armonia/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Melodia\|Melodia]], [[3. Resources/Music Production/Armonia\|Armonia]]

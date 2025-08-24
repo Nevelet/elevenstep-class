@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/patterns-bass/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/patterns-bass/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Bass\|Bass]], [[3. Resources/Music Production/Synth Bass (Scrittura)\|Synth Bass (Scrittura)]]

@@ -21,7 +21,7 @@
 	- Produzione di alta qualità  
 	- Contesto e timing  
 	- Promozione efficace  
-- [[3. Resources/Music Production/Le Fasi della Produzione Musicale\|Le fasi della Produzione Musicale]]
+- [[3. Resources/Music Production/Le Fasi della Produzione Musicale\|Le Fasi della Produzione Musicale]]
 	- 1\. Pre-Produzione  
 	- 2\. Produzione  
 	- 3\. Post-produzione  
@@ -155,7 +155,7 @@
 	- PAD e Note  
 	- Simpler  
 	- Routing  
-- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei suoni e degli strumenti]]
+- [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]]
 	- Librerie consigliate   
 	- Sample Pack consigliati  
 - Trovare o creare il suono giusto  
@@ -268,7 +268,7 @@
 
 ## [[3. Resources/Music Production/Creazione Elementi Melodici\|Creazione Elementi Melodici]]
 
-- Cos’è la [[3. Resources/Music Production/Melodia\|melodia]]  
+- Cos’è la [[3. Resources/Music Production/Melodia\|Melodia]]  
 - Caratteristiche della melodia  
 	- Altezza delle note  
 	- Durata delle note  
@@ -392,7 +392,7 @@
 - [[3. Resources/Music Production/Bilanciamento dei livelli\|Bilanciamento dei livelli]]
 	- Gain Staging  
 	- Leveling  
-- [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]] ([[3. Resources/Music Production/Frequenze\|frequenze]])  
+- [[3. Resources/Music Production/Mixing & Mastering/Equalizzazione\|Equalizzazione]] ([[3. Resources/Music Production/Frequenze\|Frequenze]])  
 - [[3. Resources/Music Production/Mixing & Mastering/Compressione\|Compressione]] ([[3. Resources/Music Production/Gamma Dinamica\|dinamica]])  
 - [[3. Resources/Music Production/Effetti Audio\|Effetti Audio]]
 - [[3. Resources/Music Production/Mixing & Mastering/Immagine Stereo\|Immagine Stereo]]

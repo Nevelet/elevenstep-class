@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-le-tracce/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-le-tracce/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[Le Sezioni di Ableton (Modulo)\|Le Sezioni di Ableton (Modulo)]]
@@ -62,9 +62,9 @@ Le Tracce ospitano le clip e inoltre controllano il flusso dei segnali. Ogni tra
 - [[3. Resources/Music Production/Ableton/Ableton - La Vista dettaglio delle tracce\|Ableton - La Vista dettaglio delle tracce]]
 - [[3. Resources/Music Production/Ableton/Ableton - Routing Audio Tracce\|Ableton - Routing Audio Tracce]]
 - [[3. Resources/Music Production/Ableton/Ableton - Routing MIDI Tracce (Input & Output)\|Ableton - Routing MIDI Tracce (Input & Output)]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Armare più tracce contemporaneamente in Ableton/Armare più tracce contemporaneamente in Ableton\|Armare più tracce contemporaneamente in Ableton]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Come Importare Tracce e Dispositivi da altri Progetti/Come Importare Tracce ed Effetti da altri Progetti in Ableton\|Come Importare Tracce ed Effetti da altri Progetti in Ableton]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Mettere in Solo Senza Includere le Tracce di Ritorno su Ableton\|Mettere in Solo Senza Includere le Tracce di Ritorno su Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Armare più tracce contemporaneamente in Ableton/Armare più tracce contemporaneamente in Ableton\|Armare più tracce contemporaneamente in Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Come Importare Tracce e Dispositivi da altri Progetti/Come Importare Tracce ed Effetti da altri Progetti in Ableton\|Come Importare Tracce ed Effetti da altri Progetti in Ableton]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Mettere in Solo Senza Includere le Tracce di Ritorno su Ableton\|Mettere in Solo Senza Includere le Tracce di Ritorno su Ableton]]
 
 
 

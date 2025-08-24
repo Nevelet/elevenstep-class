@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-routing-audio-tracce/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-routing-audio-tracce/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton - Routing\|Ableton - Routing]], [[3. Resources/Music Production/Audio/Routing Audio\|Routing Audio]]

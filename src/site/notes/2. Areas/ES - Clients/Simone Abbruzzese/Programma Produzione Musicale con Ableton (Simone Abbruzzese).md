@@ -20,7 +20,7 @@
 - [x] [[3. Resources/Music Production/Tutti i suoni della batteria\|Tutti i suoni della batteria]] e [[3. Resources/Music Production/Strumenti Principali Drums EDM\|Strumenti Principali Drums EDM]]
 - [x] [[3. Resources/Music Production/Tipi di Suoni della Drums per generi\|Tipi di Suoni della Drums per generi]]
 - [x] Cos'è l'[[3. Resources/General Knowledge/Audio\|Audio]] e il [[3. Resources/Music Production/MIDI\|MIDI]]
-- [x] [[3. Resources/Music Production/Batteria in Audio VS MIDI\|Batteria in audio VS MIDI]]
+- [x] [[3. Resources/Music Production/Batteria in Audio VS MIDI\|Batteria in Audio VS MIDI]]
 - [x] [[3. Resources/Music Production/Campionatore\|Campionatori]] e [[3. Resources/Music Production/Ableton/Ableton - Drum Rack\|Ableton - Drum Rack]]
 - [x] [[3. Resources/Music Production/Scelta dei Suoni e degli Strumenti\|Scelta dei Suoni e degli Strumenti]] o creare il suono giusto
 	- [x] Creare/scegliere il Kick → [[3. Resources/Music Production/Sound Design/Kick (Sound Design)\|Kick (Sound Design)]]

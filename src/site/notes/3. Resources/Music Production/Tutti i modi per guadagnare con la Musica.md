@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/tutti-i-modi-per-guadagnare-con-la-musica/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/tutti-i-modi-per-guadagnare-con-la-musica/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Music\|Music]], [[Business\|Business]]
@@ -136,6 +136,6 @@ Guadagnare con la musica richiede creatività non solo nella produzione musicale
 
 ## Related Notes
 
-- [[0. Inbox/Quanto si può guadagna con la musica\|Quanto si può guadagna con la musica]]
-- [[0. Inbox/Come Vivere di Musica\|Come Vivere di Musica]]
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Quanto e Come si guadagna con la Musica\|Quanto e Come si guadagna con la Musica]]
+- [[3. Resources/Music Production/Quanto si può guadagnare con la musica\|Quanto si può guadagnare con la musica]]
+- [[3. Resources/General Knowledge/Come Vivere di Musica\|Come Vivere di Musica]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Quanto e Come si guadagna con la Musica\|Quanto e Come si guadagna con la Musica]]

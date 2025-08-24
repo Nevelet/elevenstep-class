@@ -21,7 +21,7 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
 ## Learn
 
 - [[3. Resources/Music Production/Ableton/Learning Music (Ableton)\|Learning Music (Ableton)]]
-- [[3. Resources/Tech/App e Siti Utili Tech\|App e Siti Utili Tech]]
+- [[3. Resources/General Knowledge/App e Siti Utili Tech\|App e Siti Utili Tech]]
 - [[3. Resources/Music Production/Web Production\|Web Production]]
 
 ## Video
@@ -45,4 +45,4 @@ Links:: [[3. Resources/Music Production/Music Production\|Music Production]]
 
 ## Altro
 
-- [[3. Resources/Content Creation/Web Work\|Web Work]]
+- [[3. Resources/General Knowledge/Web Work\|Web Work]]

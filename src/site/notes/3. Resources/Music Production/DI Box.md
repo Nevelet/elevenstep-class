@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/di-box/","tags":["action/write"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/di-box/"}
 ---
 
 

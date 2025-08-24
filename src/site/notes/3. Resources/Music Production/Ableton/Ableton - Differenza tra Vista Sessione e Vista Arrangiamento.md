@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-differenza-tra-vista-sessione-e-vista-arrangiamento/","tags":["type/note"]}
+{"dg-publish":true,"permalink":"/3-resources/music-production/ableton/ableton-differenza-tra-vista-sessione-e-vista-arrangiamento/","tags":["note"]}
 ---
 
 Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]], [[3. Resources/Music Production/Ableton/Ableton - Vista Arrangiamento\|Ableton - Vista Arrangiamento]], [[3. Resources/Music Production/Ableton/Ableton - Vista Sessione\|Ableton - Vista Sessione]]
@@ -16,7 +16,7 @@ In Ableton Live, la Vista Sessione e la Vista Arrangiamento sono due modi di vis
 
 ## Vista Arrangiamento
 
-- Mostra una timeline lineare del tuo progetto, dove le tracce [[3. Resources/General Knowledge/Audio\|audio]] e [[3. Resources/Music Production/MIDI\|MIDI]] si estendono lungo l'intera lunghezza della canzone.
+- Mostra una timeline lineare del tuo progetto, dove le tracce [[3. Resources/General Knowledge/Audio\|Audio]] e [[3. Resources/Music Production/MIDI\|MIDI]] si estendono lungo l'intera lunghezza della canzone.
 - Pensata per la composizione, l'editing e la strutturazione di brani musicali completi.
 - Puoi aggiungere e registrare tracce audio e MIDI, automatizzare parametri, applicare effetti e creare un arrangiamento finale della tua musica.
 - La Vista Arrangiamento offre una visione più tradizionale e lineare della tua musica.

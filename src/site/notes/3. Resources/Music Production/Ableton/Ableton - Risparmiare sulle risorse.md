@@ -20,7 +20,7 @@ Links:: [[3. Resources/Music Production/Ableton/Ableton\|Ableton]]
 
 ## 🔗 Related Notes
 
-- [[4. Archived/1. Projects/Completed/ES - Content Creation (Elevenstep)/Ottimizzare e risparmiare risorse su Ableton per PC datati e non\|Ottimizzare e risparmiare risorse su Ableton per PC datati e non]]
+- [[4. Archived/Projects Completed/ES - Content Creation (Elevenstep)/Ottimizzare e risparmiare risorse su Ableton per PC datati e non\|Ottimizzare e risparmiare risorse su Ableton per PC datati e non]]
 
 ## References
 
