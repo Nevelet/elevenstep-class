@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-areas/es-website/home-page/","contentClasses":"center","tags":["gardenEntry"]}
 ---
 
-
+![Photo 1 BN (Medie).jpg|500](/img/user/3.%20Resources/Attachments/Photo%201%20BN%20(Medie).jpg)
 ## Salve a tutti e benvenuti su Elevenstep Class!
 
 ![Photo 1 BN (Medie).jpg|500](/img/user/3.%20Resources/Attachments/Photo%201%20BN%20(Medie).jpg)
